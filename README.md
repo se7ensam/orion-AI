@@ -74,7 +74,8 @@ See [schema/neo4j_schema.md](schema/neo4j_schema.md) for detailed schema documen
 
 ### Prerequisites
 
-- Python 3.9+
+- **Conda** (Miniconda or Anaconda) - [Download here](https://docs.conda.io/en/latest/miniconda.html)
+  - Or Python 3.9+ with pip/venv
 - Neo4j Aura Free account (or local Neo4j instance)
 - Oracle AI Vector DB account
 - Ollama or LM Studio installed locally
@@ -87,24 +88,31 @@ See [schema/neo4j_schema.md](schema/neo4j_schema.md) for detailed schema documen
    cd orion
    ```
 
-2. **Create virtual environment**
+2. **Create conda environment** (Recommended)
    ```bash
+   # Option A: Using conda (Recommended)
+   conda env create -f environment.yml
+   conda activate orion
+   
+   # Or use the setup script
+   ./setup_conda.sh
+   ```
+   
+   **Alternative: Using pip/venv**
+   ```bash
+   # Option B: Using pip/venv
    python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**
-   ```bash
    pip install -r requirements.txt
    ```
 
-4. **Configure environment variables**
+3. **Configure environment variables**
    ```bash
    cp .env.example .env
    # Edit .env with your credentials
    ```
 
-5. **Set up Neo4j**
+4. **Set up Neo4j**
    - **Option A: Neo4j Aura Free**
      - Sign up at https://neo4j.com/cloud/aura-free/
      - Create a new database instance
@@ -114,14 +122,14 @@ See [schema/neo4j_schema.md](schema/neo4j_schema.md) for detailed schema documen
      - Download Neo4j Desktop or use Docker
      - Start Neo4j and update `.env` with local connection details
 
-6. **Set up Ollama (or LM Studio)**
+5. **Set up Ollama (or LM Studio)**
    - **Ollama**: Install from https://ollama.ai/
      - Run: `ollama pull llama2` (or your preferred model)
    
    - **LM Studio**: Install from https://lmstudio.ai/
      - Start the local server and update `LM_STUDIO_BASE_URL` in `.env`
 
-7. **Initialize Neo4j schema**
+6. **Initialize Neo4j schema**
    ```bash
    python src/database/neo4j_connection.py
    ```
@@ -148,6 +156,11 @@ orion/
 │   │   ├── __init__.py
 │   │   ├── neo4j_connection.py      # Neo4j connection and schema setup
 │   │   └── oracle_connection.py     # Oracle AI Vector DB connection (TODO)
+│   ├── ingestion/                   # SEC EDGAR filing ingestion
+│   │   ├── __init__.py
+│   │   ├── sec_companies.py         # Company index parser
+│   │   ├── filing_downloader.py     # Filing downloader
+│   │   └── main.py                  # Ingestion entry point
 │   ├── models/
 │   │   └── graph_models.py          # Graph node and relationship models (TODO)
 │   ├── services/
@@ -160,7 +173,10 @@ orion/
 ├── tests/                           # Test files (TODO)
 ├── .env.example                     # Environment variables template
 ├── .gitignore
-├── requirements.txt                 # Python dependencies
+├── environment.yml                  # Conda environment file
+├── requirements.txt                 # Python dependencies (pip)
+├── setup.py                        # Setup script
+├── setup_conda.sh                  # Conda setup script
 └── README.md                        # This file
 ```
 
