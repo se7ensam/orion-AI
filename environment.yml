@@ -6,29 +6,29 @@ dependencies:
   - python>=3.9
   - pip
   - pip:
-    # Core Dependencies
-    - python-dotenv>=1.0.0
-    
-    # Neo4j Driver
-    - neo4j>=5.15.0
-    
-    # LangChain and Related
-    - langchain>=0.1.0
-    - langchain-community>=0.0.20
-    - langchain-core>=0.1.0
-    - langchain-neo4j>=0.0.1
-    
-    # Oracle AI Vector DB
-    - oracledb>=2.0.0
-    
-    # LLM Integration (Ollama support)
-    - langchain-ollama>=0.0.1
-    
-    # Utilities
-    - pyyaml>=6.0.1
-    
-    # SEC EDGAR Ingestion
-    - requests>=2.31.0
-    - beautifulsoup4>=4.12.0
-    - tqdm>=4.66.0
+      # Core Dependencies
+      - python-dotenv>=1.0.0
+      
+      # Neo4j Driver
+      - neo4j>=5.15.0
+      
+      # LangChain and Related
+      - langchain>=0.1.0
+      - langchain-community>=0.0.20
+      - langchain-core>=0.1.0
+      - langchain-neo4j>=0.0.1
+      
+      # Oracle AI Vector DB
+      - oracledb>=2.0.0
+      
+      # LLM Integration (Ollama support)
+      - langchain-ollama>=0.0.1
+      
+      # Utilities
+      - pyyaml>=6.0.1
+      
+      # SEC EDGAR Ingestion
+      - requests>=2.31.0
+      - beautifulsoup4>=4.12.0
+      - tqdm>=4.66.0
 
