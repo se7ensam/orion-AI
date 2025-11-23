@@ -1,0 +1,17 @@
+services:
+  # SEC EDGAR Download Service
+  download:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: orion:latest
+    container_name: orion-download
+    volumes:
+      - ./data:/app/data
+      - ./.env:/app/.env:ro
+    environment:
+      - PYTHONPATH=/app
+      - ORION_DATA_DIR=/app/data
+    # No network needed for download (external API calls)
+    command: ["python", "-m", "src.cli", "download", "--start-year", "2009", "--end-year", "2010"]
+    restart: "no"
