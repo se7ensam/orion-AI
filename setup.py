@@ -1,15 +1,21 @@
 """
 Setup script for Orion project initialization.
 This script helps set up the development environment.
-
-NOTE: This project uses Conda exclusively. Use setup_conda.sh instead.
-
-For CLI commands, use:
-    python -m src.cli <command>
 """
 
 import os
 import sys
+import subprocess
+
+
+def check_python_version():
+    """Check if Python version is 3.9 or higher."""
+    version = sys.version_info
+    if version.major < 3 or (version.major == 3 and version.minor < 9):
+        print("✗ Python 3.9+ is required. Current version:", sys.version)
+        return False
+    print(f"✓ Python {version.major}.{version.minor}.{version.micro} detected")
+    return True
 
 
 def create_env_file():
@@ -56,38 +62,41 @@ LOG_LEVEL=INFO
         return False
 
 
+def install_dependencies():
+    """Install Python dependencies from requirements.txt."""
+    print("\nInstalling Python dependencies...")
+    try:
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
+        print("✓ Dependencies installed successfully")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"✗ Failed to install dependencies: {e}")
+        return False
+
+
 def main():
     """Main setup function."""
     print("=" * 60)
     print("Orion Project Setup")
     print("=" * 60)
-    print()
-    print("⚠️  NOTE: This project uses Conda exclusively.")
-    print("   Please use ./setup_conda.sh instead for full setup.")
-    print()
-    print("=" * 60)
+    
+    if not check_python_version():
+        sys.exit(1)
     
     create_env_file()
     
     print("\n" + "=" * 60)
     print("Next Steps:")
     print("=" * 60)
-    print("1. Run conda setup:")
-    print("   ./setup_conda.sh")
-    print("   conda activate orion")
-    print()
-    print("2. Update .env file with your database credentials")
-    print()
-    print("3. Set up Neo4j:")
+    print("1. Update .env file with your database credentials")
+    print("2. Set up Neo4j:")
     print("   - Option A: Sign up for Neo4j Aura Free at https://neo4j.com/cloud/aura-free/")
     print("   - Option B: Install Neo4j Desktop or use Docker")
-    print()
-    print("4. Set up Ollama or LM Studio:")
+    print("3. Set up Ollama or LM Studio:")
     print("   - Ollama: https://ollama.ai/")
     print("   - LM Studio: https://lmstudio.ai/")
-    print()
-    print("5. Initialize Neo4j schema:")
-    print("   python -m src.cli setup-db")
+    print("4. Initialize Neo4j schema:")
+    print("   python src/database/neo4j_connection.py")
     print("=" * 60)
 
 

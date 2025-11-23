@@ -68,39 +68,14 @@ Orion is an intelligent document management system that leverages Large Language
 (Employee) -[:MEMBER_OF {role}]-> (Department)
 ```
 
-See [docs/neo4j_schema.md](docs/neo4j_schema.md) for detailed schema documentation.
+See [schema/neo4j_schema.md](schema/neo4j_schema.md) for detailed schema documentation.
 
 ## 🚀 Quick Start
 
-### Option 1: Docker (SEC EDGAR Download)
+### Prerequisites
 
-**Prerequisites:**
-- Docker and Docker Compose installed
-- See [Docker Guide](docs/DOCKER.md) for details
-
-**Note:** Docker orchestration currently supports SEC EDGAR downloads only. Other processes will be added later.
-
-**Quick Start:**
-```bash
-# Build Docker image
-./docker-orchestrator.sh build
-
-# Download filings (default: 2009-2010, 5 workers)
-./docker-orchestrator.sh download
-
-# Custom download
-./docker-orchestrator.sh download 2020 2021 10
-
-# Or use Make
-make build
-make download
-```
-
-### Option 2: Local Conda Setup
-
-**Prerequisites:**
 - **Conda** (Miniconda or Anaconda) - [Download here](https://docs.conda.io/en/latest/miniconda.html)
-  - **Note:** This project uses Conda exclusively. All Python packages are managed through conda environments.
+  - Or Python 3.9+ with pip/venv
 - Neo4j Aura Free account (or local Neo4j instance)
 - Oracle AI Vector DB account
 - Ollama or LM Studio installed locally
@@ -113,26 +88,31 @@ make download
    cd orion
    ```
 
-3. **Create conda environment**
+2. **Create conda environment** (Recommended)
    ```bash
-   # Option 1: Using the setup script (Recommended)
-   ./setup_conda.sh
-   conda activate orion
-   
-   # Option 2: Manual setup
+   # Option A: Using conda (Recommended)
    conda env create -f environment.yml
    conda activate orion
+   
+   # Or use the setup script
+   ./setup_conda.sh
    ```
    
-   **Note:** This project uses Conda exclusively. All Python packages are managed through the conda environment defined in `environment.yml`.
+   **Alternative: Using pip/venv**
+   ```bash
+   # Option B: Using pip/venv
+   python3 -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
 
-4. **Configure environment variables**
+3. **Configure environment variables**
    ```bash
    cp .env.example .env
    # Edit .env with your credentials
    ```
 
-5. **Set up Neo4j**
+4. **Set up Neo4j**
    - **Option A: Neo4j Aura Free**
      - Sign up at https://neo4j.com/cloud/aura-free/
      - Create a new database instance
@@ -142,94 +122,28 @@ make download
      - Download Neo4j Desktop or use Docker
      - Start Neo4j and update `.env` with local connection details
 
-6. **Set up Ollama (or LM Studio)**
+5. **Set up Ollama (or LM Studio)**
    - **Ollama**: Install from https://ollama.ai/
      - Run: `ollama pull llama2` (or your preferred model)
    
    - **LM Studio**: Install from https://lmstudio.ai/
      - Start the local server and update `LM_STUDIO_BASE_URL` in `.env`
 
-7. **Initialize Neo4j schema**
+6. **Initialize Neo4j schema**
    ```bash
-   python -m src.cli setup-db
+   python src/database/neo4j_connection.py
    ```
 
 ### Verify Installation
 
 ```bash
-# Test database connections
-python -m src.cli test-db --neo4j
+# Test Neo4j connection
+python src/database/neo4j_connection.py
 
 # You should see:
 # ✓ Successfully connected to Neo4j at <your-uri>
 # ✓ Database connection test successful
 # ✓ Schema setup completed successfully
-```
-
-## 📖 Documentation
-
-All documentation is available in the [`docs/`](docs/) directory:
-
-- **[Installation Guide](docs/INSTALLATION.md)** - Complete setup instructions
-- **[CLI Usage](docs/CLI_USAGE.md)** - Command-line interface reference
-- **[Download Guide](docs/DOWNLOAD_GUIDE.md)** - SEC EDGAR download instructions
-- **[Conda Setup](docs/CONDA_SETUP.md)** - Conda environment configuration
-- **[Python Setup](docs/PYTHON_SETUP.md)** - Python installation check
-- **[Neo4j Schema](docs/neo4j_schema.md)** - Database schema documentation
-
-## 🚀 CLI Usage
-
-Orion provides a unified CLI interface for all operations:
-
-```bash
-# Main CLI entry point
-python -m src.cli <command> [options]
-
-# Or use the convenience script
-./orion <command> [options]
-```
-
-### Available Commands
-
-#### Download SEC EDGAR Filings
-```bash
-# Download 6-K filings for a date range
-python -m src.cli download --start-year 2009 --end-year 2010
-
-# Download to custom directory
-python -m src.cli download --start-year 2020 --end-year 2021 --download-dir ./my_filings
-
-# Re-download existing filings
-python -m src.cli download --start-year 2009 --end-year 2010 --no-skip-existing
-```
-
-#### Database Setup
-```bash
-# Initialize Neo4j database schema
-python -m src.cli setup-db
-```
-
-#### Test Connections
-```bash
-# Test Neo4j connection
-python -m src.cli test-db --neo4j
-
-# Test Oracle AI Vector DB connection
-python -m src.cli test-db --oracle
-
-# Test both
-python -m src.cli test-db
-```
-
-#### Run Tests
-```bash
-# Test SEC EDGAR downloader
-python -m src.cli test --download
-```
-
-For detailed help on any command:
-```bash
-python -m src.cli <command> --help
 ```
 
 ## 📁 Project Structure
@@ -254,24 +168,15 @@ orion/
 │   │   └── llm_service.py           # LLM integration service (TODO)
 │   └── utils/
 │       └── __init__.py
-├── docs/                            # Documentation
-│   ├── CLI_USAGE.md                 # CLI usage guide
-│   ├── CONDA_SETUP.md               # Conda setup guide
-│   ├── DOWNLOAD_GUIDE.md            # SEC EDGAR download guide
-│   ├── INSTALLATION.md              # Installation guide
-│   ├── PYTHON_SETUP.md              # Python setup guide
+├── schema/
 │   └── neo4j_schema.md              # Graph schema documentation
 ├── tests/                           # Test files (TODO)
 ├── .env.example                     # Environment variables template
 ├── .gitignore
-├── Dockerfile                       # Docker image definition
-├── docker-compose.yml              # Docker orchestration
-├── docker-orchestrator.sh          # Docker orchestration script
-├── Makefile                        # Make commands for Docker
-├── environment.yml                  # Conda environment file (primary)
-├── requirements.txt                 # Python dependencies (reference only)
-├── setup.py                        # Legacy setup script (use setup_conda.sh)
-├── setup_conda.sh                  # Conda setup script (use this)
+├── environment.yml                  # Conda environment file
+├── requirements.txt                 # Python dependencies (pip)
+├── setup.py                        # Setup script
+├── setup_conda.sh                  # Conda setup script
 └── README.md                        # This file
 ```
 
