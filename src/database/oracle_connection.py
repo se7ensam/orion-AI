@@ -35,8 +35,7 @@ class OracleConnection:
             print(f"✓ Successfully connected to Oracle AI Vector DB")
             return True
         except ImportError:
-            print("✗ oracledb package not installed.")
-            print("  Install with: conda activate orion && conda env update -f environment.yml")
+            print("✗ oracledb package not installed. Install with: pip install oracledb")
             return False
         except Exception as e:
             print(f"✗ Failed to connect to Oracle AI Vector DB: {e}")
