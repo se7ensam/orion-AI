@@ -14,6 +14,36 @@ HEADERS = {"User-Agent": "sambitsrcm@gmail.com"}
 SEC_FTP_BASE = "https://www.sec.gov/Archives/edgar/full-index/{year}/QTR{qtr}/company.idx"
 
 
+def get_data_dir() -> str:
+    """
+    Get the data directory from environment variable or use default.
+    
+    Returns:
+        Path to data directory (default: ./data)
+    """
+    return os.getenv("ORION_DATA_DIR", "./data")
+
+
+def get_metadata_dir() -> str:
+    """
+    Get the metadata directory for SEC company index files.
+    
+    Returns:
+        Path to metadata directory
+    """
+    return os.path.join(get_data_dir(), "metadata")
+
+
+def get_fpi_list_path() -> str:
+    """
+    Get the path to fpi_list.csv file.
+    
+    Returns:
+        Path to fpi_list.csv
+    """
+    return os.path.join(get_data_dir(), "fpi_list.csv")
+
+
 def download_company_idx(year: int, qtr: int) -> str:
     """
     Download SEC company index file for a specific year and quarter.
@@ -31,10 +61,11 @@ def download_company_idx(year: int, qtr: int) -> str:
         response.raise_for_status()
         
         # Create metadata folder if it doesn't exist
-        os.makedirs("metadata", exist_ok=True)
+        metadata_dir = get_metadata_dir()
+        os.makedirs(metadata_dir, exist_ok=True)
         
         # Save file locally
-        file_path = os.path.join("metadata", f"{year}_Q{qtr}_company.idx")
+        file_path = os.path.join(metadata_dir, f"{year}_Q{qtr}_company.idx")
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(response.text)
         
@@ -107,13 +138,18 @@ def get_fpi_list(start_year: int = 2009, end_year: int = 2010) -> List[Dict[str,
     years = list(range(start_year, end_year + 1))
     fpi_companies = collect_fpis(years)
     
+    # Ensure data directory exists
+    data_dir = get_data_dir()
+    os.makedirs(data_dir, exist_ok=True)
+    
     # Save to CSV
-    with open("fpi_list.csv", mode="w", newline='', encoding="utf-8") as f:
+    fpi_list_path = get_fpi_list_path()
+    with open(fpi_list_path, mode="w", newline='', encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["company_name", "cik"])
         writer.writeheader()
         writer.writerows(fpi_companies)
     
-    print(f"✅ Saved {len(fpi_companies)} FPIs to fpi_list.csv")
+    print(f"✅ Saved {len(fpi_companies)} FPIs to {fpi_list_path}")
     return fpi_companies
 
 

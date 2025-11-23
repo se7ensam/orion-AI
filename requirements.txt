@@ -1,3 +1,16 @@
+# Requirements.txt - Reference Only
+# 
+# NOTE: This project uses Conda exclusively. All dependencies are managed
+# through environment.yml. This file is kept for reference only.
+#
+# To install dependencies, use:
+#   conda env create -f environment.yml
+#   OR
+#   ./setup_conda.sh
+#
+# Do NOT use: pip install -r requirements.txt
+# All packages should be installed through the conda environment.
+
 # Core Dependencies
 python-dotenv>=1.0.0
 
@@ -23,4 +36,3 @@ pyyaml>=6.0.1
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 tqdm>=4.66.0
-
