@@ -1,0 +1,569 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ S3bnTewcHCA5bQXqYXKBrmkoK4VC7KTIr4Gnb8EJEsQmOjzWAZq0xU2iyGH5Yjda
+ mJ2GmXL30yFlOKQQsRcQ4g==
+
+<SEC-DOCUMENT>0001104659-10-046138.txt : 20100827
+<SEC-HEADER>0001104659-10-046138.hdr.sgml : 20100827
+<ACCEPTANCE-DATETIME>20100827060336
+ACCESSION NUMBER:		0001104659-10-046138
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100827
+FILED AS OF DATE:		20100827
+DATE AS OF CHANGE:		20100827
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABB LTD
+		CENTRAL INDEX KEY:			0001091587
+		STANDARD INDUSTRIAL CLASSIFICATION:	SWITCHGEAR & SWITCHBOARD APPARATUS [3613]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16429
+		FILM NUMBER:		101041882
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 8131
+		STREET 2:		CH 8050
+		CITY:			ZURICH SWITZERLAND
+		STATE:			V8
+		ZIP:			999999999
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-16507_16k.htm
+<DESCRIPTION>8-K
+<TEXT>
+
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED
+STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Form&nbsp;6-K</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">REPORT
+OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16<br>
+UNDER THE SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the month of August 2010</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Commission File Number 001-16429</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">ABB
+Ltd</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Translation of registrant&#146;s
+name into English)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">P.O.&nbsp;Box 1831, Affolternstrasse 44, CH-8050, Zurich, Switzerland</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive office)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form&nbsp;20-F or Form&nbsp;40-F.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form&nbsp;20-F </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form&nbsp;40-F </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(1): </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Note:</font></b><font size="2" style="font-size:10.0pt;"> Regulation S-T Rule&nbsp;101(b)(1)
+only permits the submission in paper of a Form&nbsp;6-K if submitted solely to
+provide an attached annual report to security holders.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indication by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(7): </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Note:</font></b><font size="2" style="font-size:10.0pt;"> Regulation S-T Rule&nbsp;101(b)(7)&nbsp;only
+permits the submission in paper of a Form&nbsp;6-K if submitted to furnish a report
+or other document that the registrant foreign private issuer must furnish and
+make public under the laws of the jurisdiction in which the registrant is
+incorporated, domiciled or legally organized (the registrant&#146;s &#147;home country&#148;),
+or under the rules&nbsp;of the home country exchange on which the registrant&#146;s
+securities are traded, as long as the </font><font size="2" style="font-size:10.0pt;">report </font><font size="2" style="font-size:10.0pt;">or other
+document is not a press release, is not required to be and has not been
+distributed to the registrant&#146;s security holders, and, if discussing a material
+event, has already been the subject of a Form&nbsp;6-K submission or other
+Commission filing on EDGAR.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant by furnishing the information contained in
+this Form&nbsp;is also thereby furnishing the information to the Commission
+pursuant to Rule&nbsp;12g3-2(b)&nbsp;under the Securities Exchange Act of 1934.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Yes </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If
+&#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in
+connection with Rule&nbsp;12g3-2(b): 82-</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\105727\10-16507-1\task4255338\16507-1-ba-01.htm',USER='105727',CD='Aug 27 10:38 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This
+Form&nbsp;6-K consists of the following:</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="background:white;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Press release
+issued by ABB Ltd dated August 27, 2010.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_091408_5335"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\105727\10-16507-1\task4255338\16507-1-ba-01.htm',USER='105727',CD='Aug 27 10:38 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="74%" valign="bottom" style="padding:0in 0in 0in 0in;width:74.5%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Press Release</font></b></p>
+  </td>
+  <td width="25%" valign="top" style="padding:0in 0in 0in 0in;width:25.5%;">
+  <p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman"><img width="100" height="43" src="g165071ba03i001.jpg"></font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="3" face="Times New Roman" style="font-size:12.0pt;">Tarak Mehta to join Executive Committee as head of
+ABB&#146;s Low Voltage Products</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Mehta to replace Tom Sj&#246;kvist, who
+retires in September&nbsp;after 38 years with the company</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Zurich,
+Switzerland, Aug.&nbsp;27, 2010 &#151; Tarak Mehta, the global head of ABB&#146;s
+Transformers business, has been appointed to ABB&#146;s Executive Committee as head
+of the Low Voltage Products division as of Oct.&nbsp;1, 2010. He replaces Tom
+Sj&#246;kvist, who is retiring at the end of September.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mehta,
+a US citizen, has been responsible for ABB&#146;s Transformers unit since 2007. It
+is the world&#146;s largest transformer business, with 16,500 employees.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;Tarak
+has driven growth in the Transformers business organically and through the
+integration of several niche acquisitions, developing a very competitive
+business with an innovative, market-focused portfolio and a robust service
+offering,&#148; said Joe Hogan, ABB&#146;s chief executive officer.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Mehta
+joined ABB in 1998 and has held various management positions in the Power
+Products division in the US, Sweden and Switzerland. Before joining ABB, he
+worked for 8 years at Cooper Power Systems in the US. Mehta has Bachelor&#146;s
+degree in Mechanical Engineering from Purdue University and an MBA in Finance
+and Marketing from the University of Chicago.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tom
+Sj&#246;kvist is retiring from ABB after 38 years with the company. He began as a
+trainee at ASEA in Sweden in 1972, and has since held a wide variety of roles
+in Sweden, the US, Germany and Switzerland. He joined the ABB Executive
+Committee in 2006 as head of the Automation Products division.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;Under
+Tom&#146;s leadership, the business developed a rich portfolio of innovative
+technologies. In 2010, Tom became head of the Low Voltage Products division,
+which has proven an equally successful business with double-digit growth in its
+first half year,&#148; Hogan said.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ABB
+(www.abb.com) is a leader in power and automation technologies that enable
+utility and industry customers to improve performance while lowering
+environmental impact. The ABB Group of companies operates in around 100 countries
+and employs about 117,000 people.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For more information please contact:</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABB Group Media Relations:</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Investor Relations</font></b><font size="2" style="font-size:10.0pt;">:</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Thomas Schmidt, Wolfram Eberhardt</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Switzerland: Tel. +41 43 317 7111</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zurich, Switzerland)</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Sweden: Tel. +46 21 325 000</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tel: +41 43 317 6568</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">USA: Tel. +1 203 750 7743</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">media.relations@ch.abb.com</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">investor.relations@ch.abb.com</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_105132_5335"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\saaron\10-16507-1\task4255532\16507-1-ba-03.htm',USER='105192',CD='Aug 27 13:43 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="360" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABB LTD</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: August&nbsp;27,&nbsp;2010</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Michel Gerber</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Michel Gerber</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Group Senior Vice
+  President and Head<br>
+  of Investor Relations</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Richard A. Brown</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Richard A. Brown</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Group Senior Vice
+  President and<br>
+  Chief Counsel Corporate&nbsp;&amp; Finance</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_152556_5796"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\105727\10-16507-1\task4255338\16507-1-ba-05.htm',USER='105727',CD='Aug 27 10:52 2010' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g165071ba03i001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g165071ba03i001.jpg
+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
+<^2(+*TBL+*&T@&(H4"+GT%%3T5U'SK;D[L__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

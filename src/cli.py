@@ -42,7 +42,7 @@ def download_command(args):
     
     # Get path to TypeScript downloader service
     # Try multiple possible locations (local dev vs Docker)
-    project_root = Path(__file__).parent.parent.parent
+    project_root = Path(__file__).parent.parent  # src/cli.py -> src -> orion/
     possible_paths = [
         # Local development path
         project_root / "services" / "downloader" / "dist" / "index.js",
@@ -79,6 +79,12 @@ def download_command(args):
     
     if args.max_workers:
         cmd.extend(["--max-workers", str(args.max_workers)])
+    
+    if args.use_multi_ip:
+        cmd.append("--use-multi-ip")
+    
+    if args.max_filings:
+        cmd.extend(["--max-filings", str(args.max_filings)])
     
     # Set environment variable for data directory
     import os
@@ -201,6 +207,70 @@ def test_command(args):
         print("No tests specified. Use --download to test the downloader.")
 
 
+def load_graph_command(args):
+    """Handle load-graph command."""
+    from src.database.neo4j_connection import Neo4jConnection
+    from src.graph_builder import GraphBuilder
+    
+    print("=" * 60)
+    print("Loading EDGAR Filings into Neo4j Graph")
+    print("=" * 60)
+    print()
+    
+    # Connect to Neo4j
+    conn = Neo4jConnection()
+    
+    if not conn.connect():
+        print("\n❌ Failed to connect to Neo4j.")
+        print("Please check your .env file and ensure Neo4j is running.")
+        print("For local Neo4j, run: cd neo4j && docker-compose up -d")
+        sys.exit(1)
+    
+    try:
+        # Setup schema if needed
+        if not args.skip_schema:
+            print("Setting up Neo4j schema...")
+            conn.setup_schema()
+            print()
+        
+        # Create graph builder
+        builder = GraphBuilder(conn)
+        
+        # Process filings
+        year_str = f" for year {args.year}" if args.year else ""
+        limit_str = f" (limited to {args.limit} filings)" if args.limit else ""
+        print(f"Processing filings{year_str}{limit_str}...")
+        print()
+        
+        stats = builder.process_filings(year=args.year, limit=args.limit)
+        
+        # Print results
+        print()
+        print("=" * 60)
+        print("Graph Loading Complete")
+        print("=" * 60)
+        print(f"✅ Companies created: {stats['companies']}")
+        print(f"✅ People created: {stats['people']}")
+        print(f"✅ Events created: {stats['events']}")
+        print(f"✅ Relationships created: {stats['relationships']}")
+        print(f"✅ Filings processed: {stats['filings_processed']}")
+        print()
+        print("Graph is ready for querying!")
+        print()
+        print("Example queries:")
+        print("  MATCH (c:Company) RETURN c.name LIMIT 10")
+        print("  MATCH (p:Person)-[:WORKS_AT]->(c:Company) RETURN p.name, c.name LIMIT 10")
+        print("  MATCH (c:Company)-[:HAS_EVENT]->(e:Event) RETURN c.name, e.title LIMIT 10")
+        
+    except Exception as e:
+        print(f"\n❌ Error loading graph: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
+    finally:
+        conn.close()
+
+
 def main():
     """Main CLI entry point."""
     parser = argparse.ArgumentParser(
@@ -211,8 +281,12 @@ Examples:
   # Download SEC EDGAR filings
   python -m src.cli download --start-year 2009 --end-year 2010
   
-  # Setup Neo4j database
+  # Setup Neo4j database schema
   python -m src.cli setup-db
+  
+  # Load filings into Neo4j graph
+  python -m src.cli load-graph --year 2009 --limit 10
+  python -m src.cli load-graph --year 2009
   
   # Test database connections
   python -m src.cli test-db --neo4j
@@ -258,8 +332,19 @@ Examples:
     download_parser.add_argument(
         "--max-workers",
         type=int,
-        default=200,
-        help="Number of parallel workers for downloads (default: 200, recommended: 200-500 for max speed)"
+        default=100,
+        help="Number of parallel workers for downloads (default: 100, rate limiter ensures SEC compliance)"
+    )
+    download_parser.add_argument(
+        "--use-multi-ip",
+        action="store_true",
+        help="Enable multi-IP parallel processing for faster downloads (requires IP_PROXIES environment variable)"
+    )
+    download_parser.add_argument(
+        "--max-filings",
+        type=int,
+        default=None,
+        help="Maximum number of filings to download (useful for testing, e.g., --max-filings 1000)"
     )
     download_parser.set_defaults(func=download_command)
     
@@ -301,6 +386,31 @@ Examples:
         help="Test SEC EDGAR downloader"
     )
     test_parser.set_defaults(func=test_command)
+    
+    # Load Graph command
+    load_graph_parser = subparsers.add_parser(
+        "load-graph",
+        help="Load EDGAR filings into Neo4j graph database",
+        description="Process EDGAR filings and build graph with entities and relationships"
+    )
+    load_graph_parser.add_argument(
+        "--year",
+        type=int,
+        default=None,
+        help="Process filings for specific year (e.g., 2009). If not specified, processes all years."
+    )
+    load_graph_parser.add_argument(
+        "--limit",
+        type=int,
+        default=None,
+        help="Limit number of filings to process (useful for testing, e.g., --limit 10)"
+    )
+    load_graph_parser.add_argument(
+        "--skip-schema",
+        action="store_true",
+        help="Skip schema setup (use if schema already exists)"
+    )
+    load_graph_parser.set_defaults(func=load_graph_command)
     
     args = parser.parse_args()
     

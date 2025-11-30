@@ -1,0 +1,521 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BYUuPppYwZUDGWG7D630RKpYJ3Y+GDdceyy9iNwjAtYgcd+qndpmtXVZSgdoIQk8
+ XgF5KdtGOEYbOrpLPEHwEA==
+
+<SEC-DOCUMENT>0000950123-09-071507.txt : 20091217
+<SEC-HEADER>0000950123-09-071507.hdr.sgml : 20091217
+<ACCEPTANCE-DATETIME>20091217133314
+ACCESSION NUMBER:		0000950123-09-071507
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20091217
+FILED AS OF DATE:		20091217
+DATE AS OF CHANGE:		20091217
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		091246775
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o58403e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 15pt"><B>Form&nbsp;6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>Report of Foreign Issuer<BR>
+Pursuant to Rule&nbsp;13a-16 or 15d-16 of<BR>
+the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="48%"></TD>
+    <TD width="3%"></TD>
+    <TD width="48%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">For the month of:&nbsp;&nbsp;December, 2009
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Commission File Number:&nbsp;&nbsp;001-14460</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Name of registrant)</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">
+<B>13131 Lake Fraser Drive S.E.<BR>
+
+Calgary, Alberta,<BR>
+
+Canada T2J 7E8</B><BR>
+
+(Address of Principal Executive Offices)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or Form 40-F:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the SEC pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT face="Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">If &#147;Yes&#148; is marked, indicate the file number assigned to the registrant in connection with Rule
+12g3-2(b):&nbsp;&nbsp;N/A</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 4pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><BR>AGRIUM INC.<BR><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date:  December 17, 2009&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left"><I>/s/ GARY J. DANIEL</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary &#038;<BR>
+Senior Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="90%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="11%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="80%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">Description of Exhibit</TD>
+</TR>
+<TR style="font-size: 2px">
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="center" valign="top">1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">News Release dated December&nbsp;17, 2009</DIV></TD>
+</TR>
+<TR style="font-size: 3px">
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+<DIV align="center">
+<TABLE style="font-size: 24pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="50%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="40%">&nbsp;</TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG src="o58403o5840300.gif" alt="(AGRIUM LOGO)"></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><FONT face="Helvetica,Arial,sans-serif"><B>NEWS RELEASE</B><BR>
+<FONT style="font-size:16pt"><B><I>FOR IMMEDIATE RELEASE</I></B></FONT></FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; font-size: 1px">&nbsp;</DIV>
+</DIV>
+
+
+<DIV align="left" style="font-size: 14pt; margin-top: 18pt"><FONT face="Helvetica,Arial,sans-serif"><B>Agrium advances Vanscoy potash expansion</B></FONT>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt"><B>December&nbsp;17, 2009 &#151; ALL AMOUNTS ARE STATED IN U.S.$</B></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt">CALGARY, Alberta &#151; Agrium Inc. (TSX and NYSE: AGU) announced today it has made significant
+progress with its planned brownfield expansion at its Vanscoy, Saskatchewan potash mine. The
+expansion is expected to add 750,000 tonnes of annual potash capacity to the mine, contingent upon
+final project approval which is expected to occur in late 2010. An Engineering, Procurement, and
+Construction (EPC)&nbsp;contract was recently executed by Agrium with a Joint Venture comprised of SNC
+Lavalin Inc. and PCL Industrial Management Inc. to further develop the engineering and ultimately
+complete the expansion.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Most of the construction work on the capacity addition is expected to be completed in 2013 and
+2014. Some incremental capacity and related additional production is expected in late 2013. The
+majority of the capacity expansion is expected to be available in 2014, with full rates expected to
+be achieved in late 2014. The full 2.8&nbsp;million tonnes of annual production capacity is expected to
+be achieved in 2015.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&#147;The brownfield expansion is an important part of our strategy to continue to grow all three of our
+strategic business units. The EPC contract with two leading engineering and construction firms is
+an important step in this process. We believe that global potash demand will start to rebound in
+2010 and that brownfield expansions make economic sense given the world ultimately will need this
+additional production. As I have stated previously, Agrium is committed to growing across all
+three business units through a variety of value added opportunities. The announcement today in no
+way diminishes our resolve to proceed with our proposed acquisition of CF Industries Holdings,
+Inc.&#148; said Mike Wilson, Agrium President and CEO.</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 15pt">About Agrium
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 1pt">Agrium Inc. is a major retail supplier of agricultural products and services in both North and
+South America and a leading global producer and marketer of agricultural nutrients and industrial
+products. Agrium produces and markets three primary groups of nutrients: nitrogen, phosphate and
+potash as well as controlled release fertilizers and micronutrients. Agrium&#146;s strategy is to grow
+through incremental expansion of its existing operations and acquisitions as well as the
+development, commercialization and marketing of new products and international opportunities.
+Contact us at www.agrium.com.</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 15pt"><B>Important Information</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 1pt">This press release does not constitute an offer to exchange, or a solicitation of an offer to
+exchange, common stock of CF, nor is it a substitute for the Tender Offer Statement on Schedule
+TO or the Prospectus/Offer to Exchange included in the Registration Statement on Form F-4
+(including the Letter of Transmittal and related documents) (collectively, as amended from time to
+time, the &#147;Exchange Offer Documents&#148;) filed by Agrium Inc. (&#147;Agrium&#148;) with the U.S. Securities and
+Exchange Commission (the &#147;SEC&#148;) on March&nbsp;16, 2009. The Registration Statement on Form F-4 has not
+yet become effective. The offer to exchange is made only through the Exchange Offer Documents.
+<B>INVESTORS AND SECURITY HOLDERS OF AGRIUM AND CF ARE URGED TO READ THE EXCHANGE OFFER DOCUMENTS AND
+OTHER RELEVANT MATERIALS FILED WITH THE SEC CAREFULLY IN THEIR ENTIRETY AS THEY BECOME AVAILABLE
+BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE OFFER TO EXCHANGE. </B>Such documents are
+available free of charge through the web site maintained by the SEC at www.sec.gov, by calling the
+SEC at telephone number 800-SEC-0330 or by directing a request to the Agrium Investor
+Relations/Media Department, Agrium Inc, 13131 Lake Fraser Drive S.E., Calgary, Alberta, Canada T2J
+7E8.</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Agrium, North Acquisition Co., a wholly-owned subsidiary of Agrium, their respective directors and
+executive officers and certain other persons are deemed to be participants in any solicitation of
+proxies from CF&#146;s stockholders in respect of the proposed transaction with CF. Information
+regarding Agrium&#146;s directors and executive officers is available in its management proxy circular
+dated March&nbsp;23, 2009 relating to the annual general meeting of its shareholders held on May&nbsp;13,
+2009. Other information regarding potential participants in such proxy solicitation and a
+description of their direct and indirect interests, by security holdings or otherwise, will be
+contained in any proxy statement filed in connection with the proposed transaction.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">All information in this press release concerning CF, including its business, operations and
+financial results, was obtained from public sources. While Agrium has no knowledge that any such
+information is inaccurate or incomplete, Agrium has not had the opportunity to verify any of that
+information.</DIV>
+
+<DIV align="left" style="font-size: 8pt; margin-top: 12pt"><I>Forward-Looking Statements</I></DIV>
+
+<DIV align="left" style="font-size: 8pt; margin-top: 1pt"><I>Certain statements in this press release constitute forward-looking statements. Such
+forward-looking statements involve known and unknown risks and uncertainties as well as various
+assumptions and business sensitivities, including those referred to in the MD&#038;A section of the
+Corporation&#146;s most recent Annual Report to Shareholders as well as those risk factors described in
+the Corporation&#146;s most recent Annual Information Form, which may cause the actual results,
+performance or achievements of the Corporation to be materially different from any future results,
+performance or achievements expressed or implied by such forward-looking statements. Factors that
+could cause actual results to differ materially from those in the forward-looking statements
+include, but are not limited to, potential ability to obtain all necessary approvals and consents
+required to complete the project as planned, changes in development plans, capital construction
+costs, construction progress, and potential delays in building, timing of commencement of
+commercial production and completion of related infrastructure, availability of equipment and
+labor, performance of other parties, political risks, including civil unrest, actions by armed
+groups or conflict, general economic, market and business conditions, weather conditions, crop
+prices, the supply and demand and price levels for our major products, governmental and regulatory
+requirements and actions by governmental authorities, including
+changes in government policy, changes in environmental, tax and other laws or regulations and the
+interpretation thereof. Agrium disclaims any intention or obligation to update or revise any
+forward-looking information as a result of new information or future events, except as may be
+required under applicable securities laws.</I></DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt"><B>FOR FURTHER INFORMATION:</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Investor/Media Relations:</B><BR>
+Richard Downey, Senior Director, Investor Relations<BR>
+(403)&nbsp;225-7357
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Todd Coakwell, Manager, Investor Relations<BR>
+(403)&nbsp;225-7437
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Contact us at: www.agrium.com
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>o58403o5840300.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 o58403o5840300.gif
+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
+5).,S3,<(#*H1)D:1CO_>R(4@```[
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

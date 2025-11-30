@@ -1,0 +1,801 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JBmo7a95Es5l6Rs5h1HxnyX4kP4qsqaO75sAp05mmRjG7KH402T0h3U/eLM1qsGF
+ ivo4mgk23o1Ottpo/IEohA==
+
+<SEC-DOCUMENT>0000950127-10-000086.txt : 20100413
+<SEC-HEADER>0000950127-10-000086.hdr.sgml : 20100413
+<ACCEPTANCE-DATETIME>20100413132725
+ACCESSION NUMBER:		0000950127-10-000086
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100409
+FILED AS OF DATE:		20100413
+DATE AS OF CHANGE:		20100413
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACERGY S.A.
+		CENTRAL INDEX KEY:			0000898685
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21742
+		FILM NUMBER:		10746751
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+		BUSINESS PHONE:		44 20 8210 5500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT OFFSHORE S A
+		DATE OF NAME CHANGE:	20000510
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT COMEX SEAWAY S A
+		DATE OF NAME CHANGE:	19930315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-31_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+<head>
+    <title>a10-31_6k.htm</title>
+<!-- Licensed to: whitecase-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C.&#160;&#160;20549</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">______________________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">REPORT&#160;OF FOREIGN PRIVATE ISSUER</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of the</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of April, 2010</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission File Number: 000-21742</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Acergy S.A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant&#8217;s name into English)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">200 Hammersmith Road</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hammersmith</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">London, W6 7DL</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">England</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="73%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="58%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" valign="top" width="16%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 20-F&#160;&#160;<font style="DISPLAY: inline">&#160; <font style="TEXT-DECORATION: underline">X</font></font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+<td align="left" valign="top" width="26%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 40-F&#160;&#160;&#160;__</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="65%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="73%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes&#160;&#160;&#160;__</font></div>
+</td>
+<td align="left" valign="top" width="16%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">No&#160;&#160;&#160;<font style="DISPLAY: inline">X</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&#160;&#160;82-________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attached herewith as Exhibits 99.1 is a press release, dated April 9, 2010, whereby Acergy S.A. (the &#8220;Company&#8221;) announced, in accordance with Oslo Stock Exchange rules, the details of awards under its 2009 Long-Term Incentive Plan (&#8220;The Plan&#8221;) approved by the Board on April 8, 2010.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company has made awards over 970,000 performance shares, subject to the Plans&#8217; performance conditions, in conjunction with which 583,000 will be transferred to an Employee Benefit Trust at the closing share price on the Oslo Stock Exchange today April 9, 2010 from Treasury shares held indirectly by Acergy Investing Ltd.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following primary insiders were awarded performance shares under the Plan and subsequently hold the following shares and options over shares:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="96%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="25%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="26%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="13%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Performance Shares</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline"><font style="TEXT-DECORATION: underline">&#160; &#160;&#160;&#160;&#160;&#160; &#160; Awarded&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160; </font></font></font></div>
+</td>
+<td valign="top" width="3%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="11%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Total Performance</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Shares&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160; </font></font></div>
+</td>
+<td valign="top" width="3%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="8%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Total Owned</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">&#160;&#160; &#160;&#160; Shares*&#160;&#160;&#160; </font></font></div>
+</td>
+<td valign="top" width="3%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Total Options</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="25%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jean Cahuzac</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</td>
+<td align="left" valign="top" width="26%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Executive Officer</font></div>
+</td>
+<td align="right" valign="top" width="13%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">70,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">70,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">62,061</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">100,000</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="25%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Bruno Chabas</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</td>
+<td align="left" valign="top" width="26%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Operating Officer</font></div>
+</td>
+<td align="right" valign="top" width="13%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">19,398</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">195,833</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="25%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Simon Crowe</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</td>
+<td align="left" valign="top" width="26%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Financial Officer</font></div>
+</td>
+<td align="right" valign="top" width="13%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">44,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">44,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">14,250</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="25%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Johan Rasmussen</font></div>
+</td>
+<td align="left" valign="top" width="26%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">SVP and General Counsel</font></div>
+</td>
+<td align="right" valign="top" width="13%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">15,174</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">105,800</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">* Includes shares purchased under the Performance Related Share Plan, the maximum number of free shares that may be awarded under the Performance Related Share Plans, as well as shares awarded under the Restricted Shares Plan.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This message is submitted on behalf of the Company and Acergy Investing Ltd. as well as the named primary insiders.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The information set forth above and the attached press releases shall be deemed to be incorporated by reference into the prospectuses forming a part of our Registration Statements on Form S-8 (No. 033-85168, No. 333-09292, No. 333-74321, No. 333-124983 and No. 333-124997) and the Company&#8217;s Registration Statements on Form F-3 and Form F-3/A (No. 333-86288) and to be a part of such prospectuses from the date of the filing thereof.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain statements set forth above and contained in the press release furnished pursuant to this Form 6-K may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions. These statements include, but are not limited to, statements as to the expected size of equity compensation awards to be awarded and the timing thereof. The forward-looking statements reflect our current views and assumptions and are subject to 
+risks and uncertainties. The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal and administrative proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of our ship conversion program; the impact of laws and regulations; and operating hazards, including spills and environmental damage. Many of these factors are beyond our ability to control or predict. Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><br>
+&#160;</div>
+
+<div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="54%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ACERGY S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="46%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date: April&#160;13, 2010</font></div>
+</td>
+<td align="left" valign="top" width="2%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:</font></div>
+</td>
+<td align="left" valign="top" width="52%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">/s/ Simon Crowe</font></font></td>
+</tr><tr>
+<td valign="top" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="52%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Name:&#160;&#160;&#160;&#160;Simon Crowe</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Title:&#160;&#160;&#160;&#160;&#160;&#160;Chief Financial Officer</font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+</div>
+
+<br>
+<br>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a10-31_ex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>a10-31_ex991.htm</title>
+<!-- Licensed to: whitecase-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: right"><img src="a10-31_ex9911.jpg" alt=""><br>
+&#160;<br>
+</div>
+
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: left">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Acergy S.A. announces details of incentive schemes and share related awards</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">London, England &#8211; April 9, 2010 </font>&#8211; Acergy S.A. (NASDAQ-GS: ACGY; Oslo Stock Exchange: ACY) (the &#8220;Company&#8221;) in accordance with Oslo Stock Exchange rules, today announces the details of awards under its 2009 Long-Term Incentive Plan (&#8220;The Plan&#8221;) approved by the Board on April 8, 2010.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Company has made awards over 970,000 performance shares, subject to the Plans&#8217; performance conditions, in conjunction with which 583,000 will be transferred to an Employee Benefit Trust at the closing share price on the Oslo Stock Exchange today April 9, 2010 from Treasury shares held indirectly by Acergy Investing Ltd.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The following primary insiders were awarded performance shares under the Plan and subsequently hold the following shares and options over shares:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: right" align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="22%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="31%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="11%" style="TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Performance Shares</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">&#160;&#160;&#160;&#160;&#160; &#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline"><font style="TEXT-DECORATION: underline">&#160;&#160;&#160;</font><font style="TEXT-DECORATION: underline">A</font><font style="TEXT-DECORATION: underline">warded&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;</font></font></font></div>
+</td>
+<td valign="top" width="3%" style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="10%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Total Performance</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline"><font style="TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Shares&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160; </font></font></font></div>
+</td>
+<td valign="top" width="3%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="8%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Total Owned</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">&#160;&#160;&#160;&#160;&#160; Shares*&#160;&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font></font></div>
+</td>
+<td valign="top" width="3%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="8%" style="PADDING-BOTTOM: 2px">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">Total Options</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="22%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jean Cahuzac</font></div>
+</td>
+<td align="left" valign="top" width="31%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Executive Officer</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">70,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">70,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">62,061</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">100,000</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="22%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Bruno Chabas</font></div>
+</td>
+<td align="left" valign="top" width="31%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Operating Officer</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">19,398</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">195,833</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="22%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Simon Crowe</font></div>
+</td>
+<td align="left" valign="top" width="31%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Financial Officer</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">44,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">44,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">14,250</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">-</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="22%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Johan Rasmussen</font></div>
+</td>
+<td align="left" valign="top" width="31%">
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">SVP and General Counsel</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 4.2pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25,000</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">15,174</font></div>
+</td>
+<td align="right" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="right" valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">105,800</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">* Includes shares purchased under the Performance Related Share Plan, the maximum number of free shares that may be awarded under the Performance Related Share Plans, as well as shares awarded under the Restricted Shares Plan.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This message is submitted on behalf of the Company and Acergy Investing Ltd. as well as the named primary insiders.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">***************************************************************************************</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A. is a seabed-to-surface engineering and construction contractor to the offshore oil and gas industry worldwide. We provide integrated services, and we plan, design and deliver complex projects in harsh and challenging environments.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">***************************************************************************************</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contacts:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Karen Menzel</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">+44 (0)20 8210 5568</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline"><font style="DISPLAY: inline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">www.acergy-group.com</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If you no longer wish to receive our press releases please contact: karen.menzel@acergy-group.com</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.1pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Forward-Looking Statements: </font>Certain statements made in this announcement may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act and Section 21E of the US Securities Exchange Act of 1934.&#160;&#160;These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;forecast&#8221;, &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are d
+iscussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programmes; the impact of laws and regulations; and operating hazards, including spills and environmental damage.&#160;&#160;Many of these factors are beyond our ability to control or predict.&#160;&#160;Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+&#160;</div>
+
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: right"><br>
+</div>
+
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: left">&#160;</div>
+
+<div style="MARGIN-LEFT: 9pt; TEXT-INDENT: -9pt; TEXT-ALIGN: right"><br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>a10-31_ex9911.jpg
+<TEXT>
+begin 644 a10-31_ex9911.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

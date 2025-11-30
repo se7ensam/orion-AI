@@ -1,0 +1,1402 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MX8eKLgFC5y8zwS27RJKF8VVO+uohWj20NMprxIkYSmUEROHjssv/xaz1XYpF3Le
+ cUxdfAKxlQR9NJCKAecjcw==
+
+<SEC-DOCUMENT>0000903423-10-000320.txt : 20100517
+<SEC-HEADER>0000903423-10-000320.hdr.sgml : 20100517
+<ACCEPTANCE-DATETIME>20100517123039
+ACCESSION NUMBER:		0000903423-10-000320
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20100517
+FILED AS OF DATE:		20100517
+DATE AS OF CHANGE:		20100517
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Santander UK plc
+		CENTRAL INDEX KEY:			0001087711
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14928
+		FILM NUMBER:		10836866
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+		BUSINESS PHONE:		011 44 870 607 6000
+
+	MAIL ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABBEY NATIONAL PLC
+		DATE OF NAME CHANGE:	19990601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>santander-6k_0517.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb-->
+    <!--Document Created using EDGARizer2020 5.1.6.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report of Foreign Issuer</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of May 2010</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SANTANDER UK PLC</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant's name into English)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2 Triton Square, Regent&#8217;s</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Place, London NW1 3AN, England</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form 20-F . . . .X. . . . Form 40-F . . . . . . . .</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes . . . . . . . No . . .X. . . .</font><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">ANNUAL INFORMATION UPDATE (AIU)</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">SANTANDER UK PLC</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">17 May 2010</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">INTRODUCTION</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Santander UK plc published its Annual Report for the year-ended 31<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">st</font> December 2009 on the 27 April 2010 and is therefore providing its AIU for the 12 months up to and including 17 May 2010.&#160;&#160;In accordance with the requirements of the Prospectus Rule 5.2, this update refers to all information that has been published over the 12 months ended on 17 May 2010, information is referred to rather than included in full.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The information in this up date was up to date at the time the information was published but some information may now be out of date.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We are publishing the AIU via an RIS today.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ALL RNS ANNOUNCEMENTS (INCLUDING 6K'S ETC)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">All of the announcements listed below were announced either by RNS or Business Wire.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Time/Date&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Headline</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div align="left">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="19%" style="BORDER-TOP: #3f8fdf 0.75pt solid; BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:57 13-May-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid; BORDER-TOP: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Santander UK PLC</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:18 11-May-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Santander UK PLC</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:19 29-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11:32 29-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Publication of a Supplementary Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">08:45 29-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Admission to listing</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 29-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Santander UK Quarter 1 profits up 15%</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">12:29 28-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Preference Scheme becoming effective</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:01 27-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:00 27-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Annual Financial Report - Part 2 of 2</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:00 27-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Annual Financial Report - Part 1 of 2</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:11 22-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:32 20-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:03 16-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:49 15-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:01 06-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:47 01-Apr-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:00 31-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:59 30-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">09:49 26-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">10:08 24-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:50 23-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">12:39 17-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:56 15-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Redemption</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 15-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Posting of scheme document and prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:50 10-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Notice of General Meeting and Result</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13:18 10-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Notice of redemption of notes</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:56 09-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13:23 09-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:14 05-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">18:11 03-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Supplementary Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:45 03-Mar-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:56 26-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 26-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Alliance &amp; Leicester plc and Santander UK plc</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: #3f8fdf 0.75pt solid; BORDER-BOTTOM: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">18:08 18-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: #3f8fdf 0.75pt solid; BORDER-BOTTOM: #3f8fdf 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div align="left">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="19%" style="BORDER-TOP: steelblue 0.75pt solid; BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:03 04-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid; BORDER-TOP: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 04-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Full Year Trading Statement</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:58 01-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:14 12-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Supplementary Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:37 10-Feb-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:52 21-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:00 19-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">FRN Variable Rate Fix</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:29 13-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">09:53 11-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Change of Name</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:56 07-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:21 06-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:11 04-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:11 04-Jan-2010</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:22 22-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:50 18-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11:36 18-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Adoption of New Articles of Association</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:51 17-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:49 09-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">FRN Variable Rate Fix</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:17 04-Dec-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:13 27-Nov-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:06 25-Nov-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:55 02-Nov-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Replacement - Supplementary Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:56 28-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Supplementary Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 28-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Q3 2009 Trading Statement</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:54 27-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:57 22-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:50 19-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">FRN Variable Rate Fix</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:07 07-Oct-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:03 29-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:56 25-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:47 17-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13:16 10-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Supplemental Prospectus</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:51 07-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:47 07-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:18 02-Sep-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:30 28-Aug-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:00 28-Aug-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Half Yearly Report</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:13 25-Aug-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:21 20-Aug-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:41 06-Aug-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:32 31-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Directorate Change</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 29-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">2009 Half Year Trading Statement</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:59 27-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:35 22-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11:25 20-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:56 17-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">FRN Variable Rate Fix</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:53 15-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:06 10-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:56 08-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:37 06-Jul-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:14 25-Jun-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:10 24-Jun-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:57 19-Jun-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11:13 08-Jun-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Doc re. Notice of AGM</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11:30 01-Jun-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Directorate Change</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:47 15-May-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:11 13-May-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid; BORDER-BOTTOM: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:15 11-May-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid; BORDER-BOTTOM: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="19%" style="BORDER-TOP: steelblue 0.75pt solid; BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15:39 07-May-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid; BORDER-TOP: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Partial Early Repurchase</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">07:30 29-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Trading Statement</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:00 28-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:24 27-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14:41 23-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Early Repurchase(s)</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">17:17 17-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">FRN Variable Rate Fix</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16:00 17-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Directorate Change</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="19%" style="BORDER-LEFT: steelblue 0.75pt solid; BORDER-BOTTOM: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">09:27 01-Apr-2009</font></div>
+</td>
+<td align="left" valign="top" width="81%" style="BORDER-RIGHT: steelblue 0.75pt solid; BORDER-BOTTOM: steelblue 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Annual Information Update</font></font></div>
+</td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Copies of the above announcements can be downloaded from the London Stock Exchange website (<font style="DISPLAY: inline; TEXT-DECORATION: underline">www.londonstockexchange.co.uk</font>).</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ALL COMPANIES HOUSE FILINGS</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">All of the documents listed below were filed with Companies House England &amp; Wales and were received on the dates indicated.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Filing Dates&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Description</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">04/05/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;AR01 Annual Return and Statement of Capital</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">17/03/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Alteration to Memorandum and Articles</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">16/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Articles of Association</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">14/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Statement of Company&#8217;s objects</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">14/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Alteration to Memorandum and Articles</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">11/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Company name changed</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">09/12/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;AD01 Registered Office Change</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">20/11/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Director&#8217;s change of particulars</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">23/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Director appointed</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">16/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Directors change of particulars</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">30/06/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Group of Companies&#8217; Accounts made up to 31/12/2008</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">09/06/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Director appointed</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">12/05/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Appointment terminated</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">07/05/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Return made up to 31/03/2009</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">09/04/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Director&#8217;s change of particulars</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">04/04/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Particulars of a mortgage or charge</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Copies of documents filed at Companies House are available from Companies House or through Companies House Direct at www.direct.companieshouse.gov.uk</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ANY PROSPECTUS' PRODUCED</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">All of the documents listed below were filed with the UKLA Document Viewing Facility and were filed on the dates indicated.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Filing Dates&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Description</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">10/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">28/10/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">02/11/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">12/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">03/03/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">15/03/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Publication of Prospectus</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">DOCUMENTS LODED WITH THE SECURITES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The following filings have been made to the US Securities and Exchange Commission (&#8220;SEC&#8221;):</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">14/05/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16]</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000300&#160;(34 Act)&#160; Size: 18 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000257&#160;(34 Act)&#160; Size: 23 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000256&#160;(34 Act)&#160; Size: 217 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16]</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000255&#160;(34 Act)&#160; Size: 21 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">28/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16]</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000248&#160;(34 Act)&#160; Size: 22 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">27/04/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;20-F Annual and transition report of foreign private issuers [Sections 13 or 15(d)] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000950123-10-038614&#160;(34 Act)&#160; Size: 4 MB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">15/03/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000167&#160;(34 Act)&#160; Size: 28 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">10/03/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000157&#160;(34 Act)&#160; Size: 817 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">26/02/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000098&#160;(34 Act)&#160; Size: 32 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">25/02/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000094&#160;(34 Act)&#160; Size: 19 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">24/02/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000043&#160;(34 Act)&#160; Size: 155 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">11/01/2010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-10-000015&#160;(34 Act)&#160; Size: 20 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">18/12/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000934&#160;(34 Act)&#160; Size: 12 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">28/10/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000875&#160;(34 Act)&#160; Size: 222 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">22/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000798&#160;(34 Act)&#160; Size: 2 MB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">08/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Prospectuses and communications, business combinations </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000950103-09-002214&#160;(34 Act)&#160; Size: 9 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">08/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000777&#160;(34 Act)&#160; Size: 13 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">02/09/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000768&#160;(34 Act)&#160; Size: 2 MB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">28/08/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000756&#160;(34 Act)&#160; Size: 2 MB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">25/08/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Prospectuses and communications, business combinations </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000950103-09-002097&#160;(34 Act)&#160; Size: 56 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">31/07/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000680&#160;(34 Act)&#160; Size: 13 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/07/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000674&#160;(34 Act)&#160; Size: 103 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">08/07/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000950123-09-020827&#160;(34 Act)&#160; Size: 112 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">08/07/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000950123-09-020819&#160;(34 Act)&#160; Size: 1 MB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">02/06/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000527&#160;(34 Act)&#160; Size: 12 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">29/04/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000391&#160;(34 Act)&#160; Size: 100 KB</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">17/04/2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6K Report of foreign issuer [Rules 13a-16 and 15d-16] </font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Acc-no: 0000903423-09-000359&#160;(34 Act)&#160; Size: 12 KB</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Copies of documents filed with the SEC are available at http://www.sec.gov/edgar/searchedgar/companysearch.html</font><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further Information</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further information regarding the Company and its activities can be found on the Santander website http://www.aboutsantander.co.uk</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Contacts:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Shaun Coles, Deputy Company Secretary</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Santander UK plc, 2 Triton Square</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Regent&#8217;s Place, London, NW1 3AN</font></div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="44%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">SANTANDER UK PLC</font></font></td>
+</tr><tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="44%">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div>
+
+<div>&#160;</div>
+</td>
+</tr><tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Dated: 17 May 2010</font></font></td>
+<td width="44%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">By / s / Jessica Petrie<br>
+(Authorised Signatory)</font></font></td>
+</tr></table>
+
+<br>
+<br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<hr style="COLOR: black" noshade size="2">
+ &#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

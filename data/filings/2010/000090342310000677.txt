@@ -1,0 +1,407 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DWLLRa10m+gviA9xtL0aIVDXvBrhD3ZItU7mJUVNNi+PQ7ehhmN+xpQ4g/NTRjBm
+ RmJWfB3CzvDV0uOUU7o2rA==
+
+<SEC-DOCUMENT>0000903423-10-000677.txt : 20101130
+<SEC-HEADER>0000903423-10-000677.hdr.sgml : 20101130
+<ACCEPTANCE-DATETIME>20101130123136
+ACCESSION NUMBER:		0000903423-10-000677
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20101130
+FILED AS OF DATE:		20101130
+DATE AS OF CHANGE:		20101130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Santander UK plc
+		CENTRAL INDEX KEY:			0001087711
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14928
+		FILM NUMBER:		101221177
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+		BUSINESS PHONE:		011 44 870 607 6000
+
+	MAIL ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABBEY NATIONAL PLC
+		DATE OF NAME CHANGE:	19990601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>santander-6k_1130.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb-->
+    <!--Document Created using EDGARizer 2020 5.2.3.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">FORM 6-K</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">SECURITIES AND EXCHANGE COMMISSION</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Washington, D.C. 20549</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Report of Foreign Issuer</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Pursuant to Rule 13a-16 or 15d-16 of</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Securities Exchange Act of 1934</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">For the month of November 2010</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">SANTANDER UK PLC</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Translation of registrant's name into English)</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2 Triton Square, Regent&#8217;s</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Place, London NW1 3AN, England</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address of principal executive offices)</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="FONT-SIZE: 10pt; MARGIN-LEFT: 36pt; FONT-FAMILY: Times New Roman"></font><font style="FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 20-F . . . .X. . . . Form 40-F . . . . . . . .</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="FONT-SIZE: 10pt; MARGIN-LEFT: 36pt; FONT-FAMILY: Times New Roman"></font><font style="FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes . . . . . . . No . . .X. . . .</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">30 November 2010</font></div>
+
+<div>&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Management Changes at Santander UK plc</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further to the announcement made on 3 November 2010, Santander UK plc (&#8220;the Company&#8221;) announces that the appointment of Ana Bot&#237;n as Chief Executive has been formally approved by the FSA.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">As a result, Ana Bot&#237;n will assume the role of Chief Executive with effect from 1 December 2010.&#160;&#160;Ant&#243;nio Horta-Os&#243;rio has formally resigned as Chief Executive and Executive Director with effect from 1 December 2010 and will leave the Company on 16 January 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The Board of Directors of the Company have resolved to appoint, subject to FSA approval, Jose Mar&#237;a Nus as Chief Risk Officer and Executive Director.&#160;&#160;Until now, Jose Mari&#225; Nus was Chief Risk Officer at Banesto.&#160;&#160;Juan Colomb&#225;s has resigned as Chief Risk Officer and Executive Director with effect from 1 December 2010 and will leave the Company on 16 January 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The duties of the Chief Finance Officer will be divided as follows, subject to FSA approval:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="LINE-HEIGHT: 1.5">
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="LINE-HEIGHT: 1.5; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.5;">
+<td style="WIDTH: 18pt; LINE-HEIGHT: 1.5; TEXT-ALIGN: left">
+<div style="LINE-HEIGHT: 1.5; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td style="LINE-HEIGHT: 1.5">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Justo G&#243;mez, until now Deputy Chief Finance Officer of Banesto, will join the Company&#8217;s Executive Committee as Finance Director, responsible for Asset &amp; Liability Management, Economics and Investor Relations;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 1.5">
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="LINE-HEIGHT: 1.5; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.5;">
+<td style="WIDTH: 18pt; LINE-HEIGHT: 1.5; TEXT-ALIGN: left">
+<div style="LINE-HEIGHT: 1.5; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td style="LINE-HEIGHT: 1.5">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">M&#243;nica Cueva, until now Financial Controller for Banco Santander, S.A., will join the Company&#8217;s Executive Committee as Financial Controller, responsible for Financial Reporting, Tax and Cost Management &amp; Control;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 1.5">
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="LINE-HEIGHT: 1.5; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.5;">
+<td style="WIDTH: 18pt; LINE-HEIGHT: 1.5; TEXT-ALIGN: left">
+<div style="LINE-HEIGHT: 1.5; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td style="LINE-HEIGHT: 1.5">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Alison Brittain, Executive Director, Retail Distribution and member of the Company&#8217;s Executive Committee, will assume responsibility for Intermediaries in addition to her existing responsibilities; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="LINE-HEIGHT: 1.5">
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="LINE-HEIGHT: 1.5; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.5;">
+<td style="WIDTH: 18pt; LINE-HEIGHT: 1.5; TEXT-ALIGN: left">
+<div style="LINE-HEIGHT: 1.5; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td style="LINE-HEIGHT: 1.5">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Miguel-&#193;ngel Rodr&#237;guez-Sola, a member of the Company&#8217;s Executive Committee, will assume responsibility for Wealth Management and Private Banking in addition to his existing responsibilities.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The above appointments follow the resignation of Antonio Lorenzo as Executive Director with effect from 1 December 2010 and as Chief Finance Officer from 31 December 2010.&#160;&#160;Antonio Lorenzo will leave the Company on 16 January 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The Board of Directors of the Company have resolved to appoint, subject to FSA approval, Alfredo S&#225;enz Abad, Second Vice Chairman and Chief Executive Officer of Banco Santander, S.A., as a Non Executive Director.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">A further confirmatory announcement confirming the effective date of the appointment of Jose Mar&#237;a Nus as Chief Risk Officer and Executive Director and Alfredo S&#225;enz Abad as Non Executive Director will be made in due course.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.5"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="71%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">- Ends -</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For further details, please contact:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="24%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Anthony Frost</font></div>
+</td>
+<td valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">(Head of UK Corporate Communications)</font></div>
+</td>
+<td valign="top" width="32%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">020 7756 5536</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="24%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Israel Santos</font></div>
+</td>
+<td valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">(Head of Investor Relations)</font></div>
+</td>
+<td valign="top" width="32%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">020 7756 4275</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="24%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Peter Greiff</font></div>
+</td>
+<td valign="top" width="44%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">(Head of Group International Media Relations)</font></div>
+</td>
+<td valign="top" width="32%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">00 34 91 289 5207</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">00 34 615 909 582</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div><br>
+&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div><br>
+&#160;</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="FONT-SIZE: 10pt; MARGIN-LEFT: 36pt; FONT-FAMILY: Times New Roman"></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="46%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="49%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">SANTANDER UK PLC</font></font></font></div>
+</td>
+</tr><tr>
+<td width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="46%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="49%">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+</td>
+</tr><tr>
+<td width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="46%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Dated: 30 November 2010&#160;</font></font></td>
+<td width="49%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">By / s / Scott Linsley</font></font></td>
+</tr><tr>
+<td width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="46%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="49%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">(Authorised Signatory)</font></font></font></td>
+</tr></table>
+</div>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

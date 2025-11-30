@@ -1,0 +1,1853 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NihZtVvc7CbSpBGlKN28+t7n29M9lg7NUNvGL5VXQ9Oc3l9jwDu7IpO1J2bwojaY
+ rG3Zs01u2mg1d7Duii9v7g==
+
+<SEC-DOCUMENT>0001309014-09-000157.txt : 20090304
+<SEC-HEADER>0001309014-09-000157.hdr.sgml : 20090304
+<ACCEPTANCE-DATETIME>20090304162623
+ACCESSION NUMBER:		0001309014-09-000157
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090304
+FILED AS OF DATE:		20090304
+DATE AS OF CHANGE:		20090304
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		09655822
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_3753.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>Form 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+March 4, 2009
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: March 4, 2009
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Glenn Kumoi<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Glenn Kumoi
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       VP Human Resources & Chief Legal Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard Reports 2008 Financial Results</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 10pt">Ballard Power Systems
+</FONT>
+
+<P align="left" style="font-size: 10pt">News Release
+
+
+<P align="left" style="font-size: 10pt"><B>Ballard Reports 2008 Financial Results</B>
+
+
+<P align="left" style="font-size: 10pt"><B>For Immediate Release &#150; March&nbsp;3, 2009</B>
+
+
+<P align="left" style="font-size: 10pt">VANCOUVER, CANADA &#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) announced its financial results
+for the fourth quarter and full-year ended December&nbsp;31, 2008 today. All amounts are in U.S.
+dollars, unless otherwise stated.
+
+
+<P align="left" style="font-size: 10pt">&#147;Ballard had a strong fourth quarter and solid financial results for the full year,&#148; said John
+Sheridan, President and CEO. &#147;We grew revenues 17% on a pro forma basis, reduced operating cash
+consumption by 23% and ended the year with $85.4&nbsp;million in cash reserves. As a result, we believe
+we are well positioned to execute our growth plan, although the challenges are heightened by the
+macro-economic conditions.&#148;
+
+
+<P align="left" style="font-size: 10pt"><U><B>FOURTH QUARTER 2008 HIGHLIGHTS</B></U>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Shipments </I>were 802 fuel cell products, representing growth of 140% from the same quarter
+in 2007.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Revenue </I>was $18.9&nbsp;million, a decrease of 6% from the prior year&#146;s quarter. On a pro
+forma basis adjusting for automotive engineering development, revenue increased 61%.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Operating cash consumption</I><sup><I>1</I></sup> was $8.5&nbsp;million, a 31% decline from Q4 2007.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>A high volume supply agreement with ACME </I>was announced on October&nbsp;21, 2008, with units
+to be deployed primarily for telecom backup power applications in India, subject to product
+acceptance in Q4.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>The Notice to Proceed </I>was received for delivery of 20 fuel cell buses for B.C. Transit&#146;s
+2010 Olympic fuel cell bus fleet.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>A non-dilutive financing transaction </I>with Superior Plus Income Fund closed on December
+31, 2008 with net proceeds of $34&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><U><B>FULL YEAR 2008 HIGHLIGHTS</B></U>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Shipments </I>were 1,855 fuel cell products, exceeding guidance.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Revenue </I>met revised guidance at $59.6&nbsp;million, a decrease of 9% from 2007. On a pro
+forma basis, revenue grew 17% over the prior year.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Operating cash consumption</I><sup><I>1</I></sup> met guidance at $29.3&nbsp;million, down 23% from
+2007.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Operating expenses</I>, excluding depreciation and amortization, declined $29.3&nbsp;million, to
+$57.2&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Net income </I>was $34.1&nbsp;million, or $0.40 per share.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Normalized net loss</I><sup><I>1</I></sup> was $60.0&nbsp;million or ($0.71) per share, representing a
+$7.7&nbsp;million increase from 2007 driven by decreases in foreign exchange gains and
+investment income, totaling $18.6&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Cash reserves </I>of $85.4&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+<DIV align="center">
+<TABLE style="font-size: 8pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Three months ended Dec. 31,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Full year ended Dec. 31,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2007</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2007</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total Product
+Shipments</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>802</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>334</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>140</B></TD>
+    <TD nowrap><B>%</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,855</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,035</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>79</B></TD>
+    <TD nowrap><B>%</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B><I>Key Markets:</I></B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Material Handling</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">254</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">81</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">214</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">508</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">204</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">149</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Backup Power</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">357</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">101</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">252</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">720</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">200</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">260</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Res. Cogeneration</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">96</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">111</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-14</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">403</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">445</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-9</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8pt"><FONT style="font-size: 10pt"><U><B>FULL YEAR 2008 FINANCIAL RESULTS</B></U>
+</FONT>
+
+<P align="left" style="font-size: 10pt">In 2008, revenues were $59.6&nbsp;million, representing a 9% decline from $65.5&nbsp;million in 2007 and
+meeting the revised guidance range of $58 to $64&nbsp;million. However, adjusting for light-duty
+automotive engineering development revenue of $1.6&nbsp;million in 2008 and $15.8&nbsp;million in 2007, which
+relates to the business sold to AFCC, pro forma revenues increased $8.2&nbsp;million, or 17%, compared
+to 2007.
+
+
+<P align="left" style="font-size: 10pt">Product and service revenues totaled $52.7&nbsp;million, an increase of $9.4&nbsp;million, or 22% compared
+with 2007. An $8.8&nbsp;million increase in product revenues to $38.2&nbsp;million was driven by higher
+shipments of bus, material handling, light-duty automotive and backup power fuel cell products,
+partially offset by lower shipments of residential cogeneration and material products. The decline
+in residential cogeneration product sales was expected due to the introduction in 2008 of a new
+lower cost product combined with the delivery of fuel cell membrane electrode assemblies instead of
+fuel cell stacks, as the fuel cell stacks are now assembled in Japan by Ballard&#146;s joint venture,
+EBARA BALLARD. The decline in carbon fiber products was due to the effects of a labor strike that
+affected a key customer in the first half of 2008 and the unprecedented weakness in the U.S.
+automotive industry. Service revenues increased $0.5&nbsp;million due to new testing and engineering
+services provided to AFCC, partially offset by a decline in field service for fuel cell buses.
+Engineering development revenue totaled $6.9&nbsp;million, a decline of $15.3&nbsp;million from 2007
+primarily due to the elimination of automotive fuel cell program work subsequent to the closing of
+the automotive transaction on January&nbsp;31, 2008.
+
+
+<P align="left" style="font-size: 10pt">Lower gross margins were driven by larger reductions in warranty provisions for 2007 compared to
+2008, more aggressive product pricing and enhanced warranty coverage on material handling products
+in order to encourage market adoption, declines in field service revenues for fuel cell buses,
+declines in service revenue and higher program expenditures on Power Generation non-recurring
+engineering government contracts, and lower volumes of carbon fiber products due to the effects of
+a labor strike affecting a key customer and the slow down in the U.S. automotive industry. These
+declines were only partially offset by increased margins as a result of new testing and engineering
+services provided to AFCC and the commencement of shipments of fuel cell bus modules related to the
+B.C. Transit 2010 Olympic fuel cell bus project.
+
+
+<P align="left" style="font-size: 10pt">Operating expenses declined $29.3&nbsp;million, primarily due to lower research and development expenses
+on automotive fuel cell programs as a result of the automotive transaction.
+<BR>
+Net income increased to $34.1&nbsp;million, or $0.40 per share, compared to a net loss of $57.3&nbsp;million,
+or ($0.50) per share, in 2007. Net income for 2008 included a gain on sale of assets of $96.8
+million resulting from the automotive transaction, partially offset by the write-down of a non-core
+investment of $3.0&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">Normalized net loss<sup>1</sup> increased to $60.0&nbsp;million, or ($0.71) per share, representing a
+$7.7&nbsp;million increase compared with $52.2&nbsp;million or ($0.46) per share in 2007. This increase in
+normalized net loss is primarily a result of non-operating items, including decreases in foreign
+exchange gains of $12.4&nbsp;million and decreases in investment income of $6.2&nbsp;million. Decreases in
+product and service gross margins and engineering development revenues were more than offset by
+decreases in operating expenses and depreciation and amortization.
+
+
+<P align="left" style="font-size: 10pt">Operating cash consumption<sup>1</sup> for 2008 decreased 23% to $29.3&nbsp;million, compared to $38.2
+million for 2007, meeting our guidance range of $20&nbsp;million to $30&nbsp;million. This $8.9&nbsp;million
+improvement was driven primarily by lower working capital requirements, lower operating expenses
+and lower capital expenditures partially offset by lower foreign exchange gains of $12.4&nbsp;million, a
+decline in investment income of $6.2&nbsp;million and lower product and service gross margins and
+engineering development revenues.
+
+
+<P align="left" style="font-size: 10pt">For a more detailed discussion of Ballard Power Systems&#146; fourth quarter and full-year 2008 results,
+please see the company&#146;s financial statements and management&#146;s discussion &#038; analysis, which are
+available at www.ballard.com, www.sedar.com and www.sec.gov/edgar.shtml.
+
+
+<P align="left" style="font-size: 10pt"><B>Selected Consolidated Financial Information: Fourth Quarter &#038; Full Year 2008</B>
+</FONT><BR>
+<FONT style="font-size: 8pt"><I>Unaudited (Expressed in thousands of U.S. dollars, except for per share amount and number of
+shares)</I>
+</FONT>
+<DIV align="center">
+<TABLE style="font-size: 8pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="50%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><B>Three months ended</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid #000000"><B>December 31,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7" style="border-bottom: 1px solid #000000"><B>Year ended December 31,</B></TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">2007</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3">2007</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Revenues:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Product and service revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>18,605</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">10,591</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>52,726</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">43,352</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Engineering development revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>296</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,474</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>6,854</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">22,180</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>18,901</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,065</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>59,580</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">65,532</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Cost of revenues and expenses:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cost of product and service revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>16,887</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,430</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>47,401</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">25,052</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Research and product development</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>7,957</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,467</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>37,172</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">58,478</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">General and administrative</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>2,506</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,379</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>12,615</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">19,068</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Marketing and business development</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,877</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,588</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>7,461</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,981</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Depreciation and amortization</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>1,556</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,595</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>6,034</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,732</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total cost of revenues and expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>30,783</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">37,459</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>110,683</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">127,311</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Loss before undernoted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(11,882</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(17,394</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(51,103</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(61,779</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Investment and other income (loss)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(2,410</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,628</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>186</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">16,933</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Loss on disposal &#038; write-down of long-lived assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(2,794</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(2,812</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(4,583</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Gain on sales of assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>&#151;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>96,845</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Equity in loss of associated companies</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(942</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,125</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(8,649</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(7,433</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income (loss)&nbsp;from continuing operations before
+income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(18,028</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(15,891</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>34,095</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(56,862</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income taxes</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>&#151;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>16</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(53</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income (loss)&nbsp;from continuing operations for period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(18,028</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(15,891</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>34,079</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(56,809</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Loss from discontinued operations for period</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>&#151;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&#151;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>&#151;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(493</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Net income (loss)&nbsp;for period</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(18,028</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(15,891</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>34,079</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(57,302</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Basic earnings (loss)&nbsp;per share</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(0.22</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.14</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>0.40</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.50</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Diluted earnings (loss)&nbsp;per share</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(0.22</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.14</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>0.40</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(0.50</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Weighted average number of common shares outstanding-basic</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>82,116,349</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">114,742,491</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>84,922,364</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">114,575,473</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cash used by operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(7,536</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(9,795</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(26,209</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(31,850</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Capital expenditures</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(994</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(2,583</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(3,085</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(6,379</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Operating cash consumption<sup> </sup>(End note 1)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(8,530</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(12,378</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right"><B>$</B></TD>
+    <TD align="right"><B>(29,294</B></TD>
+    <TD nowrap><B>)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">$</TD>
+    <TD align="right">(38,229</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">&nbsp;&nbsp;&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>&nbsp;&nbsp;&nbsp;&nbsp;</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>December 31, 2008</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="left">December 31, 2007</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total cash, cash equivalents and short term investments</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">85,399</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">145,574</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>Conference Call</B>
+<BR>
+Ballard will hold a conference call to discuss its 2008 financial results on Wednesday, March&nbsp;4,
+2009 at 8:00 a.m. PST (11:00&nbsp;a.m. EST). The live call can be accessed by calling &#043;1-604-638-5340.
+The live audio webcast can be accessed through a link on Ballard&#146;s homepage (www.ballard.com).
+Following the call, an audio recording will be available for approximately 24 hours and can be
+accessed at &#043;1-604-638-9010 using confirmation number 6325#. The audio webcast with slides will
+also be archived in the Investor Events &#038; Conference Calls section of Ballard&#146;s website for
+approximately 90&nbsp;days.
+</FONT>
+
+<P align="left" style="font-size: 10pt"><B>About Ballard Power Systems</B>
+<BR>
+Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) is recognized as a world leader in the design,
+development, manufacture and sale of clean energy fuel cell products. Ballard&#146;s mission is to
+accelerate fuel cell product adoption. To learn more about what Ballard is doing with Power to
+Change the World</FONT><FONT style="font-size: 6.5pt">&#174;</FONT><FONT style="font-size: 10pt">, visit www.ballard.com.
+</FONT>
+
+<P align="left" style="font-size: 10pt">This&nbsp;release contains forward-looking statements, including estimated&nbsp;future revenue and operating
+cash consumption contained in our outlook, which are provided to enable external stakeholders to
+understand&nbsp;our expectations&nbsp;as at the date of this&nbsp;release and may not be appropriate for other
+purposes. These forward-looking statements are based on the beliefs and assumptions of Ballard&#146;s
+management and reflect Ballard&#146;s current expectations as contemplated under section 27A of the
+Securities Act of 1933, as amended, and Section&nbsp;21E of the Securities Exchange Act of 1934, as
+amended. Such assumptions relate to Ballard&#146;s financial forecasts and expectations regarding its
+product development efforts, manufacturing capacity, and market demand, and include matters such as
+generating new sales, producing,&nbsp;delivering&nbsp;and selling the expected number of units, and
+controlling its costs.
+
+&nbsp;
+
+<P align="left" style="font-size: 10pt">These statements involve risks and uncertainties that may cause Ballard&#146;s actual results to be
+materially different, including, without limitation, the rate of mass adoption of its products,
+product development delays, changing environmental regulations, its ability to attract and retain
+business partners and customers, its access to funding, increased competition, its ability to
+protect its intellectual property, changes in its customers&#146; requirements, foreign exchange impacts
+on its net monetary assets and its ability to provide the capital required for product development,
+operations and marketing. For a detailed discussion of these risk factors and other risk factors
+that could affect Ballard&#146;s future performance, please refer to Ballard&#146;s most recent Annual
+Information Form.
+
+&nbsp;
+
+<P align="left" style="font-size: 10pt">Readers should not place undue reliance on Ballard&#146;s forward-looking statements and Ballard assumes
+no obligation to update or release any revisions to these forward looking statements, other than as
+required under applicable legislation.
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 7.5pt"><U><B>Endnote:</B></U>
+<BR>
+<sup>1</sup> Operating cash consumption and normalized net loss are non-GAAP measures used to
+assist in assessing Ballard&#146;s financial performance. Non-GAAP measures do not have any
+standardized meaning prescribed by GAAP and are therefore unlikely to be comparable to similar
+measures presented by other companies. Operating cash consumption measures the amount of cash
+required to fund the operating activities of Ballard&#146;s business and excludes financing and
+investing activities except for net additions to property, plant and equipment. Normalized net loss
+measures our net loss after excluding items that are unusual in nature or do not reflect the normal
+continued operating activity of the business. Gains on sale of assets held for sale, losses from
+discontinued operations and write-downs of long-lived assets are not considered part of our core
+activities, and are expected to occur infrequently. Therefore we have removed these in our
+calculation of normalized net loss.
+</FONT>
+
+<P align="left" style="font-size: 7.5pt"><FONT style="font-size: 10pt">Ballard, the Ballard logo and Power to Change the World are registered trademarks of Ballard
+Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 10pt">For further information, or to arrange an interview with a Ballard spokesperson, please contact Amy
+Harada Bradley at telephone number 604-412-7913 or on e-mail amy.harada@ballard.com.
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+<!-- v.060107 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

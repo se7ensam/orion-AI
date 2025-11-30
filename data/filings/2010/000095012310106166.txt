@@ -1,0 +1,619 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Ltc0Xd1e0RqBsHuYb9YrjdB6D5YBTtXAjNIoXAVzAbOFuJim6rEatVd67fy0Jw3r
+ zkZrmDw0rh6kUWYk13K8fw==
+
+<SEC-DOCUMENT>0000950123-10-106166.txt : 20101116
+<SEC-HEADER>0000950123-10-106166.hdr.sgml : 20101116
+<ACCEPTANCE-DATETIME>20101116142329
+ACCESSION NUMBER:		0000950123-10-106166
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20101116
+FILED AS OF DATE:		20101116
+DATE AS OF CHANGE:		20101116
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		101196122
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o66636e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>Form&nbsp;6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>Report of Foreign Issuer<BR>
+Pursuant to Rule&nbsp;13a-16 or 15d-16 of<BR>
+the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">For the month of: November, 2010
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Commission File Number: 001-14460</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Name of registrant)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<B>13131 Lake Fraser Drive S.E.<BR>
+
+Calgary, Alberta,<BR>
+
+Canada T2J 7E8</B><BR>
+
+(Address of Principal Executive Offices)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or Form 40-F:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="50%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the SEC pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="50%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="47%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="center" valign="top">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="center" valign="top">No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">If &#147;Yes&#148; is marked, indicate the file number assigned to the registrant in connection with Rule
+12g3-2(b): N/A</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+<!-- link1 " SIGNATURES" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">AGRIUM INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date:  November 16, 2010&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left"><I>/S/ GARY J. DANIEL</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary &#038;
+Senior Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<!-- link1 " EXHIBIT INDEX" -->
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="84%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">News Release dated November&nbsp;15, 2010</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>o66636exv1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit&nbsp;1</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 14pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="49%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="49%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="49%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG src="o66636o6663600.gif" alt="(AGRIUM LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>NEWS RELEASE</B> <BR>
+<FONT style="font-size:12pt"><B><I>FOR IMMEDIATE RELEASE</I></B></FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 3pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV>
+</DIV>
+<DIV align="left" style="font-size: 12pt; margin-top: 15pt"><B>AWB shareholders support Agrium&#146;s offer</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>November&nbsp;15, 2010 &#151; ALL AMOUNTS ARE STATED IN U.S.$</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Calgary, Alberta &#151; Agrium Inc. (TSX and NYSE: AGU) and AWB Limited (&#147;AWB&#148;) announced today
+that AWB shareholders have endorsed the Scheme of Arrangement in relation to the proposed
+acquisition by Agrium of AWB, pursuant to the implementation agreement announced on August&nbsp;19,
+2010.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">AWB shareholders voted in favour of Agrium&#146;s acquisition of all issued and outstanding shares in
+AWB, with 97.8&nbsp;percent of shares and 80&nbsp;percent in number of shareholders supporting the
+transaction. The threshold requirements were 75&nbsp;percent of shares and 50&nbsp;percent shareholders
+voting and represented at the meeting.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">AWB shareholders also met today to vote on the constitutional amendment to remove the 10&nbsp;percent
+limit on the amount of issued share capital in AWB that can be owned by any one shareholder.
+Shareholders supported the amendment resolution with 97.7&nbsp;percent approval. At least 75&nbsp;percent of
+the total number of votes cast was required to pass the resolution.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&#147;We are very pleased that AWB shareholders have supported the acquisition and we now look forward
+to working with AWB employees to build on the excellent relationship that they have developed with
+customers. Agrium&#146;s focus will be to work with our AWB colleagues to enhance efficiencies across
+the agricultural value chain, including offering new products and services for the benefit of
+Australian and New Zealand growers once the transaction is
+finalized,&#148; said Mike Wilson, Agrium&#146;s President and CEO. &#147;We believe AWB employees and customers will benefit from
+being part of a larger, financially stronger organization with greater access to working capital
+and potential for future investment in Australia. Furthermore, we believe AWB provides an
+excellent base for Agrium&#146;s future growth in the Oceania and South East Asian region,&#147; continued
+Mr.&nbsp;Wilson.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Agrium intends to primarily use cash on hand to fund the acquisition.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Application will be made to the Court to approve the Scheme of Arrangement on November&nbsp;17, 2010.
+If approved, we anticipate the transaction would be completed on December&nbsp;3, 2010 after which the
+integration process can begin.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">About Agrium
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Agrium Inc. is a major retail supplier of agricultural products and services in both North and
+South America and a leading global producer and marketer of agricultural nutrients and industrial
+products. Agrium produces and markets three primary groups of nutrients: nitrogen, phosphate and
+potash as well as controlled release fertilizers and micronutrients. Agrium&#146;s strategy is to grow
+through
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">incremental expansion of its existing operations and acquisitions as well as the development,
+commercialization and marketing of new products and international opportunities.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">About AWB
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">AWB was formed in 1939 as the Australian Wheat Board and was Australia&#146;s statutory grain marketing
+authority for over 60&nbsp;years. Operations are conducted through two main divisions: Landmark and
+Commodity Management. Landmark Rural Services is Australia&#146;s largest distributor of merchandise and
+fertilizer, with over 400 locations across Australia and New Zealand providing a diverse range of
+rural services including rural merchandise, crop chemicals, fertilizer, livestock, wool marketing,
+agronomy services and real estate agency services. The division includes 50&nbsp;percent ownership
+interests in Hi-Fert, a wholesale fertilizer distribution company currently held for sale,
+Australian Wool Handlers and RD1, a New Zealand farm supply company. Following the sale of Landmark
+Financial Services&#146; loan and deposit books announced in December&nbsp;2009, Landmark Rural Services also
+includes the remainder of the finance businesses (including insurance, wealth management, and
+equipment finance).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">AWB&#146;s Commodity Management business activities include grain merchandising, pool management
+services, storage and handling, and trade finance. Grain marketing, pool management and logistics
+in Australia fall under Australian Commodity Management, while activities conducted internationally
+through AWB Geneva and AWB India fall under International Commodity Management.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><I>Forward-Looking Statements</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><I>Certain statements and other information included in this press release constitute &#147;forward
+looking information&#148; within the meaning of applicable Canadian securities legislation or
+constitute &#147;forward-looking statements&#148; within the meaning of applicable U.S. securities
+legislation (collectively, the &#147;forward-looking statements&#148;). All statements in this press
+release, other than those relating to historical information or current condition, are
+forward-looking statements, including, but not limited to, statements as to management&#146;s
+expectations with respect to, business and financial prospects, plans, strategies, objectives
+and expectations, including with respect to future operations following the proposed acquisition
+of AWB. These forward-looking statements are subject to a number of risks and uncertainties,
+many of which are beyond our control, which could cause actual results to differ materially from
+such forward-looking statements.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><I>Events or circumstances that could cause actual results to differ materially from those in the
+forward-looking statements, include, but are not limited to, a possible delay in the completion
+of the steps required to be taken for the eventual combination of the two companies, including
+the possibility that the businesses of Agrium and AWB, or any other recent business
+acquisitions, may not be integrated successfully or such integration may be more difficult,
+time-consuming or costly than expected, disruption from the proposed transaction making it more
+difficult to maintain relationships with customers, employees and suppliers, general business
+and economic conditions, and other risk factors detailed from time to time in Agrium reports
+filed with the SEC.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><I>Agrium disclaims any intention or obligation to update or revise any forward-looking statements
+in this press release as a result of new information or future events, except as may be required
+under applicable U.S. federal securities laws or applicable Canadian securities legislation.</I>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>FOR FURTHER INFORMATION:<BR>
+Investor/Media Relations:</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Richard Downey, Senior Director, Investor Relations<BR>
+(403)&nbsp;225-7357
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Todd Coakwell, Manager, Investor Relations<BR>
+(403)&nbsp;225-7437
+
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Media enquiries &#151; Australia:</B>
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Peter McBride, General Manager, Corporate Affairs AWB<BR>
+(61)&nbsp;03 9209 2174
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Contact us at: www.agrium.com
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>o66636o6663600.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 o66636o6663600.gif
+M1TE&.#EAHP`Z`/<```````0&!`D?"A,Y%1UC'S5P-DAW2E5V5V%Z8FZ";GN/
+M?(J<BI:FEJ6RIJZXKKO"N\G-R=+5TM_BW^CJZ/'S\?;X]O___Q+A;)?NR!+9
+M=!+98```&````!+9.```0````````!+9=!+98````````<X`X!H`1"!V<"4>
+MG!+;_&@GP`)P```#_``#^````````#X`/!+9<,X```$``SH`0U<`7$X`24\`
+M1%,`5W,`7',`>64`=#,`;5P`,G,`36T`:68`=&0`+FP`;```````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````````!+;0```#9-P&AA<X!RRN!A7H!A42```#1A3
+MX````!+;#````!+<+)#I(!+;>!+;>!A7H)-T9&@GP````!4``````````#T`
+M$``"/```$0```1A<X````!A3X!+</)$`70`!-0```&@GP`!YF1+;@)#I(!+<
+M#)#I()$MF/___Y$MD)%B'@```2@*FI%AY@```````&@GP!8`/)?NR```````
+M``@``)?LP)?NR!+A;!+A;"@*FA+<`!+A9F@GP``````!-1+<-)#V7)#V80`!
+M-0```&@GP!+<$)%?R!+<>)#I(``!-0``?A+<1("3GA+A+!+A,````!+<>)#V
+M7)#V80```!+A,!+A+!+<5&@GP!+@_)#I(```````?A+<B("3G@``?A+A,!+A
+M#(#FXH#F.P!`!5Z"2````"'Y!```````+`````"C`#H`AP````0&!`D?"A,Y
+M%1UC'S5P-DAW2E5V5V%Z8FZ";GN/?(J<BI:FEJ6RIJZXKKO"N\G-R=+5TM_B
+MW^CJZ/'S\?;X]O___Q+A;)?NR!+9=!+98```&````!+9.```0````````!+9
+M=!+98````````<X`X!H`1"!V<"4>G!+;_&@GP`)P```#_``#^````````#X`
+M/!+9<,X```$``SH`0U<`7$X`24\`1%,`5W,`7',`>64`=#,`;5P`,G,`36T`
+M:68`=&0`+FP`;```````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M`````````````````````````````````````````````````````!+;0```
+M#9-P&AA<X!RRN!A7H!A42```#1A3X````!+;#````!+<+)#I(!+;>!+;>!A7
+MH)-T9&@GP````!4``````````#T`$``"/```$0```1A<X````!A3X!+</)$`
+M70`!-0```&@GP`!YF1+;@)#I(!+<#)#I()$MF/___Y$MD)%B'@```2@*FI%A
+MY@```````&@GP!8`/)?NR`````````@``)?LP)?NR!+A;!+A;"@*FA+<`!+A
+M9F@GP``````!-1+<-)#V7)#V80`!-0```&@GP!+<$)%?R!+<>)#I(``!-0``
+M?A+<1("3GA+A+!+A,````!+<>)#V7)#V80```!+A,!+A+!+<5&@GP!+@_)#I
+M(```````?A+<B("3G@``?A+A,!+A#(#FXH#F.P!`!5Z"2`````C^`"T('$BP
+MH,&#"!,J7,BPH<.'$"-*G$BQHL6+&#-JW,BQH\>/($.*'$FRI,F3*%.J7,FR
+MI<N7*"4`&`"SILV&"```:'"SIT^!%`3HI/FS*$P%.G4^,,J4Y8"D``XTG7JR
+M`52=$:AJ%?GT*H*I#Y9N]?C@:E()1B5T%9!U[,8#9G4J,)HSJ52W&<O.A`M5
+M``6'#]J6Y#L4;\:Z#?1"G:MP0H,#@DM:3?K5L$69,P5ZNDKT8(0%I!A44,G`
+MDR?&EBO693P9*L^"#PZ0,B`VM>6@`/P.[)K4TT#'!DB%'FT[-5(`E04>AQIV
+M0?#9D8L;%@H`[4#<.@5X>BY<M'3;DY/^#T0Z@+MP`]$13GB`H'V#]`D?*+!N
+M0;X"^!'NA\PO6$(#]Q-XMH![]&G457H,"*=@=\0I%%M<`B`0UH1A!6A!!`A0
+MM\"%O`%0&WO45<:>:9MA-1![!YC&VX8%Y=?57`]Z]9=`#'2H$P(S8N2`3G<-
+M%(%L"\XF0($'44#8`0PL4&)<2CE@8P,+F.7;`M11)E!=5PD695PL"O2`C0L0
+M9M8`%$1@(U0]7L17;18D&"0I):*&T)+B+1?7`PY4>6-<4FT)E7@_0A7=!`SH
+MV65]>B8EP`$(>))HB0.TMV12KUFD5V<5@/8F;[HAM%RG`XGI27OM915!HE%E
+MF%U;9OY9T([^2<%GYZ$63``F01-,FIL#!*F%)D9\O5:!`F^*J1.M!%69ID"M
+M1760G\<*)(%I!6)V(VR"'L0`5,C"JE.EU^G)IK1]7829`..]R8`%-G;6HJL%
+M60N`;P8IEME"\)Z8;;W<&A0!<P=A"0!\8EI(T6H":;K@:\U^>Y"]RPH$%;W8
+M)B4G0OEZN6_%T;Z;U+@T;DR0G?`Y9.U?;B[(YJ,'R4LQ0;_R2RE#&=<GLKX?
+M^PNPS"8:!&W).%W[P)OCVJG401T2:2^X./>L4,WVPF<OR/_FS//`ST*58T38
+M13"!>:0P;0%V=AW4[+)8ODQ0U#1;N?;-&EM-4-5'7PT?M!4=UV?^D!</)+!.
+M1%[YIX6M#1!XW$XG!#7<-LOMX\X<8^TS5!1-0)T#$01I@,'QFB7>R%<Y:A?G
+MD0,]T.*Q/@SYXXXW+7E!>$^$)07$+JR0L=49Y*MV$R-@>N.)8^RVZR`#[Z'.
+MK2/^.D&Q1T3W`!7PO="V7L6KX41LXSN\\NM>3?7JKM]-.=>\257[;*1?[?B2
+M!QS^P.'*_VY!S70[:Y"WRPM4?_'9PZXU1!28%%LJ`"4&I,\@?UO50%#%I)D@
+M@$C0XI5"*%"S"<CH-PK04WKLU3W_)<\")'M(H<P2(0=L#2$Q@M!\+("[!B:E
+M2T9"TP''`Y4!D,Y8VC%-7$:5HAF)*6+E+*S9V#J$+)_IBDD#`**2&!B7)+;0
+MA0!P@`-$-R9/=+`^5`Q=CT[%I`@9+3L-R**B/+&4*:)*.UE9XI@.,$,+)+"!
+MZ$(@%*54'TZ1B%$'L-&HH)@F:,5E;>U:0(#\-*H&H,6/5]G0&W/VQ."]Y$MR
+M.>%`)$"8..YG0IR33_&^`Y'C"&"3X2H,)RVS'%`2I$1`'.54+)B=AG1-E7AI
+MEOSXTC=83H5ZV0%E!$KT.5M210*)BE1B)J2`$@F@B+Z\Y1SM(K]D%@62<(2,
+>,XN#H121"`$*,.4TM\G-;GKSF^`,ISC'V9.````[
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

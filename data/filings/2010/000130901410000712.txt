@@ -1,0 +1,3819 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BWjUOEuwdih+v2Hpc4BG3osmKSTvkheP8n6TReEQ78F56pxgJDsF3lEQRcapEwNH
+ l+VMWis8H9I9pjNdQ1CZZg==
+
+<SEC-DOCUMENT>0001309014-10-000712.txt : 20101109
+<SEC-HEADER>0001309014-10-000712.hdr.sgml : 20101109
+<ACCEPTANCE-DATETIME>20101109165641
+ACCESSION NUMBER:		0001309014-10-000712
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101109
+FILED AS OF DATE:		20101109
+DATE AS OF CHANGE:		20101109
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			51JOB, INC.
+		CENTRAL INDEX KEY:			0001295484
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EMPLOYMENT AGENCIES [7361]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50841
+		FILM NUMBER:		101176962
+
+	BUSINESS ADDRESS:	
+		STREET 1:		BUILDING 3
+		STREET 2:		NO. 1387 ZHANG DONG ROAD
+		CITY:			SHANGHAI
+		STATE:			F4
+		ZIP:			201203
+		BUSINESS PHONE:		8621-6160-1888
+
+	MAIL ADDRESS:	
+		STREET 1:		BUILDING 3
+		STREET 2:		NO. 1387 ZHANG DONG ROAD
+		CITY:			SHANGHAI
+		STATE:			F4
+		ZIP:			201203
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	51job, Inc.
+		DATE OF NAME CHANGE:	20040625
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_5407.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+51job, Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>FORM 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+For the month of November, 2010
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-50841
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>51job, Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Cayman Islands</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">Building 3<br>No. 1387, Zhang Dong Road<br>Shanghai 201203<br>People's Republic of China </FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+51job, Inc. is furnishing under the cover of Form 6-K:
+
+99.1	Press release regarding third quarter 2010 unaudited financial results
+dated November 9, 2010
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       51job, Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: November 9, 2010
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       /s/ Rick Yan<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+        Rick Yan
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       President and Chief Executive Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Press release regarding third quarter 2010 unaudited financial results dated November 9, 2010</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="right" style="font-size: 10pt"><FONT style="font-size: 11pt">Exhibit&nbsp;99.1</FONT>
+
+
+
+<P align="left" style="font-size: 11pt"><B>FOR IMMEDIATE RELEASE</B>
+
+
+<P align="left" style="font-size: 11pt"><B>Contact:</B>
+
+
+<P align="left" style="font-size: 11pt"><FONT style="font-size: 10pt">Linda Chien
+<BR>
+Investor Relations
+<BR>
+51job, Inc.
+<BR>
+&#043;(86-21) 6879-6250
+<BR>
+investor.relations@51job.com
+</FONT>
+
+<P align="center" style="font-size: 10pt"><FONT style="font-size: 11pt"><B>51job, Inc. Reports Third Quarter 2010 Financial Results</B></FONT>
+
+
+
+<P align="left" style="font-size: 11pt"><B>SHANGHAI, China, November&nbsp;9, 2010 </B>&#150; <B>51job, Inc. (Nasdaq: JOBS)</B>, a leading provider of integrated
+human resource services in China, announced today unaudited financial results for the third quarter
+of 2010 ended September&nbsp;30, 2010.
+
+
+<P align="left" style="font-size: 11pt"><B>Third Quarter 2010 Financial Highlights:</B>
+<BR>
+&#150; Total revenues increased 23.7% over Q3 2009 to RMB271.6&nbsp;million (US$40.6&nbsp;million), exceeding the
+Company&#146;s guidance range of RMB255&nbsp;million to RMB265&nbsp;million
+<BR>
+&#150; Online recruitment services revenues increased 58.4% over Q3 2009 to RMB142.7&nbsp;million (US$21.3
+million)
+<BR>
+&#150; Gross margin expanded to 68.4% compared with 62.4% in Q3 2009
+<BR>
+&#150; Operating income increased 72.0% to RMB68.9&nbsp;million (US$10.3&nbsp;million) compared with RMB40.1
+million in Q3 2009
+<BR>
+&#150; Fully diluted earnings per common share were RMB1.10 (US$0.33 per ADS)
+<BR>
+&#150; Excluding share-based compensation expense and foreign currency translation loss as well as
+their related tax impact, non-GAAP adjusted fully diluted earnings per common share were RMB1.26
+(US$0.38 per ADS), exceeding the Company&#146;s guidance range of RMB0.95 to RMB1.05
+<BR>
+&#150; Cash and short-term investments increased to RMB1,512.6&nbsp;million (US$226.1&nbsp;million) as of
+September&nbsp;30, 2010
+
+
+<P align="left" style="font-size: 11pt">Commenting on the results, Rick Yan, President and Chief Executive Officer of 51job, Inc., said,
+&#147;Through the successful execution of our growth initiatives, we achieved record revenues and
+profits in the third quarter. In our online business, we continued to aggressively acquire new
+corporate customers, expand our geographic sales coverage and introduce product innovations. We
+also saw solid progress in the development of our other HR services area led by increasing customer
+adoption of our outsourcing services. With this robust business momentum on our side, we remain
+focused on taking actions to extend our market leadership position, investing for our long-term
+growth and creating value for our shareholders.&#148;
+
+
+<P align="left" style="font-size: 11pt"><B>Third Quarter 2010 Unaudited Financial Results</B>
+
+
+<P align="left" style="font-size: 11pt">Total revenues for the third quarter ended September&nbsp;30, 2010 were RMB271.6&nbsp;million (US$40.6
+million), an increase of 23.7% from RMB219.6&nbsp;million for the same quarter in 2009.
+
+
+<P align="left" style="font-size: 11pt">Print advertising revenues for the third quarter of 2010 decreased 19.6% to RMB62.0&nbsp;million (US$9.3
+million) compared with RMB77.1&nbsp;million for the same quarter in 2009. The decline was primarily due
+to a reduction in the number of cities where <I>51job Weekly </I>is published, from 22 cities as of
+September&nbsp;30, 2009 to 16 cities as of September&nbsp;30, 2010, which resulted in a 33.3% decrease in the
+estimated number of print advertising pages generated in the third quarter of 2010 to 2,143
+compared with 3,213 pages in the same quarter in 2009. However, although print advertising prices
+in each city were largely unchanged, overall average revenue per page in the third quarter of 2010
+increased 20.5% as compared to the same quarter of the prior year due to an increase in page volume
+contribution from higher priced cities.
+
+
+<P align="left" style="font-size: 11pt">Online recruitment services revenues for the third quarter of 2010 were RMB142.7&nbsp;million (US$21.3
+million), representing a 58.4% increase from RMB90.1&nbsp;million for the same quarter of the prior
+year. The increase primarily resulted from a greater number of unique employers using the
+Company&#146;s online recruitment services. Driven by greater customer usage of online recruitment
+services and sales expansion into new geographies, unique employers increased 55.9% to 142,098 in
+the third quarter of 2010 compared with 91,167 in the same quarter of the prior year.
+
+
+<P align="left" style="font-size: 11pt">Other human resource related revenues for the third quarter of 2010 increased 27.8% to RMB66.9
+million (US$10.0&nbsp;million) from RMB52.4&nbsp;million in the same quarter of 2009 primarily due to greater
+market demand for our business process outsourcing, training and executive search services.
+
+
+<P align="left" style="font-size: 11pt">Gross profit for the third quarter of 2010 increased 35.8% to RMB176.1&nbsp;million (US$26.3&nbsp;million)
+from RMB129.7&nbsp;million for the same quarter of the prior year. Gross margin, which is gross profit
+as a percentage of net revenues, expanded to 68.4% in the third quarter of 2010 compared with 62.4%
+in the same quarter in 2009 primarily due to greater economies of scale, improved efficiency and a
+decrease in printing-related expenses.
+
+
+<P align="left" style="font-size: 11pt">Operating expenses for the third quarter of 2010 were RMB107.2&nbsp;million (US$16.0&nbsp;million) compared
+with RMB89.6&nbsp;million for the same quarter of 2009. Sales and marketing expenses for the third
+quarter of 2010 increased 28.8% to RMB68.5&nbsp;million (US$10.2&nbsp;million) from RMB53.2&nbsp;million for the
+same quarter of the prior year primarily due to an increase in salaries and commissions resulting
+from higher sales and headcount additions as well as greater advertising expenses. General and
+administrative expenses for the third quarter of 2010 increased 6.1% to RMB38.7&nbsp;million (US$5.8
+million) compared with RMB36.5&nbsp;million in the third quarter of 2009 as a result of higher employee
+compensation expenses.
+
+
+<P align="left" style="font-size: 11pt">Income from operations for the third quarter of 2010 increased 72.0% to RMB68.9&nbsp;million (US$10.3
+million) from RMB40.1&nbsp;million for the same quarter of the prior year. Operating margin, which is
+income from operations as a percentage of net revenues, increased to 26.8% in the third quarter of
+2010 compared with 19.3% in the same quarter of 2009. The reduction in the effective tax rate to
+16.1% in the third quarter of 2010 from 30.1% in the third quarter of 2009 was primarily due to the
+qualification of an operating entity as a High and New Technology Enterprise in December&nbsp;2009,
+which became subject to a preferential tax rate of 15%.
+
+
+<P align="left" style="font-size: 11pt">Net income for the third quarter of 2010 increased 75.3% to RMB62.9&nbsp;million (US$9.4&nbsp;million) from
+RMB35.9&nbsp;million for the same quarter in 2009. Fully diluted earnings per common share for the
+third quarter of 2010 were RMB1.10 (US$0.16) compared with RMB0.65 for the same quarter in 2009.
+Fully diluted earnings per ADS for the third quarter of 2010 were RMB2.20 (US$0.33) compared with
+RMB1.29 in the third quarter of 2009.
+
+
+<P align="left" style="font-size: 11pt">In the third quarter of 2010, the Company recognized total share-based compensation expense of
+RMB6.4&nbsp;million (US$1.0&nbsp;million) compared with RMB6.5&nbsp;million in the third quarter of 2009. The
+Company also recognized a foreign currency translation loss of RMB2.7&nbsp;million (US$0.4&nbsp;million) in
+the third quarter of 2010 compared with RMB86,000 in the third quarter of 2009 due to an
+appreciation of the Renminbi against the U.S. dollar.
+
+
+<P align="left" style="font-size: 11pt">Excluding share-based compensation expense and foreign currency translation loss as well as their
+related tax impact, non-GAAP adjusted net income for the third quarter of 2010 increased to RMB72.0
+million (US$10.8&nbsp;million) compared with RMB42.5&nbsp;million for the third quarter of 2009. Non-GAAP
+adjusted fully diluted earnings per common share were RMB1.26 (US$0.19) in the third quarter of
+2010 compared with RMB0.77 in the third quarter of 2009. Non-GAAP adjusted fully diluted earnings
+per ADS in the third quarter of 2010 were RMB2.52 (US$0.38) compared with RMB1.53 in the third
+quarter of 2009.
+
+
+<P align="left" style="font-size: 11pt"><B>Nine Months 2010 Unaudited Financial Results</B>
+
+
+<P align="left" style="font-size: 11pt">Total revenues for the nine months ended September&nbsp;30, 2010 were RMB788.3&nbsp;million (US$117.8
+million), an increase of 33.3% from RMB591.2&nbsp;million in the comparable period in 2009. Income from
+operations for the nine months ended September&nbsp;30, 2010 increased to RMB194.4&nbsp;million (US$29.1
+million) from RMB78.6&nbsp;million for the same period last year.
+
+
+<P align="left" style="font-size: 11pt">Net income for the nine months of 2010 increased to RMB167.7&nbsp;million (US$25.1&nbsp;million) from RMB66.1
+million for the same period in 2009. Fully diluted earnings per common share for the nine months
+of 2010 increased to RMB2.99 (US$0.45) from RMB1.18 in the comparable period in 2009. Fully
+diluted earnings per ADS for the nine months of 2010 were RMB5.97 (US$0.89) compared with RMB2.37
+in the same period in 2009.
+
+
+<P align="left" style="font-size: 11pt">Excluding share-based compensation and foreign currency translation loss as well as their related
+tax impact, non-GAAP adjusted net income for the nine months ended September&nbsp;30, 2010 increased to
+RMB190.8&nbsp;million (US$28.5&nbsp;million) from RMB87.1&nbsp;million for the nine months ended September&nbsp;30,
+2009. Non-GAAP adjusted fully diluted earnings per common share were RMB3.40 (US$0.51) in the nine
+months of 2010 compared with RMB1.56 in the same period in 2009. Non-GAAP adjusted fully diluted
+earnings per ADS in the nine months of 2010 were RMB6.79 (US$1.01) compared with RMB3.12 in the
+same period in 2009.
+
+
+<P align="left" style="font-size: 11pt">As of September&nbsp;30, 2010, the Company had cash and short-term investments totaling RMB1,512.6
+million (US$226.1&nbsp;million) compared with RMB1,214.7&nbsp;million at December&nbsp;31, 2009. Short-term
+investments consist of certificates of deposit with original maturities from three months to one
+year.
+
+
+<P align="left" style="font-size: 11pt"><B>Business Outlook</B>
+
+
+<P align="left" style="font-size: 11pt">For the fourth quarter of 2010, based on current market and operating conditions, the Company&#146;s
+revenue target is in the estimated range of RMB275&nbsp;million to RMB285&nbsp;million (US$41.1&nbsp;million to
+US$42.6&nbsp;million). Excluding share-based compensation expense and any foreign currency translation
+loss or gain as well as their related tax impact, the Company&#146;s non-GAAP fully diluted earnings
+target for the fourth quarter of 2010 is in the estimated range of RMB1.00 to RMB1.10 per common
+share (US$0.30 to US$0.33 per ADS). The Company expects aggregate share-based compensation expense
+in the fourth quarter of 2010 to be in the estimated range of RMB6&nbsp;million to RMB7&nbsp;million (US$0.9
+million to US$1.0&nbsp;million).
+
+
+<P align="left" style="font-size: 11pt"><B>Other Company News</B>
+
+
+<P align="left" style="font-size: 11pt">Under a share repurchase program approved in September&nbsp;2008, the Company repurchased 5,730 ADSs,
+representing 11,460 common shares, in the third quarter of 2010 for an aggregate consideration of
+US$0.1&nbsp;million, including transaction fees. Since the inception of this share repurchase program,
+the Company has repurchased a total of 1,013,329 ADSs, representing 2,026,658 common shares, for an
+aggregate consideration of US$10.9&nbsp;million.
+
+
+<P align="left" style="font-size: 11pt">In September&nbsp;2010, the Company discontinued print advertising services in Jinan but continues to
+maintain a sales office in the city. The Company currently operates 16 local editions of <I>51job
+Weekly</I>.
+
+
+<P align="left" style="font-size: 11pt"><B>Currency Convenience Translation</B>
+
+
+<P align="left" style="font-size: 11pt">For the convenience of readers, certain Renminbi amounts have been translated into U.S. dollars at
+the rate of RMB6.6905 to US$1.00, the noon buying rate on September&nbsp;30, 2010 in New York for cable
+transfers of Renminbi per U.S. dollar as set forth in the H.10&nbsp;weekly statistical release of the
+Federal Reserve Board.
+
+
+<P align="left" style="font-size: 11pt"><B>Conference Call Information</B>
+
+
+<P align="left" style="font-size: 11pt">Management will hold a conference call at 8:00 p.m. Eastern Time on November&nbsp;9, 2010 (9:00 a.m.
+Shanghai / Hong Kong time zone on November&nbsp;10, 2010) to discuss its third quarter 2010 results,
+operating performance and business outlook.
+
+
+<P align="left" style="font-size: 11pt">To dial in to the call, please use conference ID 4380851 and the following telephone numbers:
+
+
+<P align="left" style="font-size: 11pt; text-indent: 5%">US: &#043;1-877-941-2930
+
+
+<P align="left" style="font-size: 11pt; text-indent: 5%">Hong Kong: &#043;852-3009-5027
+
+
+<P align="left" style="font-size: 11pt; text-indent: 5%">International: &#043;1-480-629-9726
+
+
+<P align="left" style="font-size: 11pt">The call will also be available live and on replay through 51job&#146;s investor relations website,
+<I>ir.51job.com</I>. Please go to the website at least fifteen minutes early to register or install any
+necessary audio software.
+
+
+<P align="left" style="font-size: 11pt"><B>Use of Non-GAAP Financial Measures</B>
+
+
+<P align="left" style="font-size: 11pt">To supplement the consolidated financial statements presented in accordance with United States
+Generally Accepted Accounting Principles (GAAP), 51job uses non-GAAP measures of income before
+income tax expense, income tax expense, adjusted net income, adjusted earnings per common share and
+adjusted earnings per ADS, which are adjusted from results based on GAAP to exclude share-based
+compensation expense and foreign currency translation gain or loss as well as their related tax
+impact. The Company believes excluding share-based compensation expense and its related tax impact
+from its non-GAAP financial measures is useful for its management and investors to assess and
+analyze the Company&#146;s core operating results as such expense is not directly attributable to the
+underlying performance of the Company&#146;s business operations and do not impact its cash earnings.
+The Company believes excluding foreign currency translation gain or loss and its related tax impact
+from its non-GAAP financial measures is useful for its management and investors as such translation
+gain or loss is not indicative of the Company&#146;s core business operations and will not result in
+cash settlement nor impact the Company&#146;s cash earnings. 51job also believes these non-GAAP
+measures excluding share-based compensation expense and foreign currency translation gain or loss
+and their related tax impact are important in helping investors to understand the Company&#146;s current
+financial performance and future prospects and to compare business trends among different reporting
+periods on a consistent basis. The presentation of these additional measures should not be
+considered a substitute for or superior to GAAP results or as being comparable to results reported
+or forecasted by other companies. The non-GAAP measures have been reconciled to GAAP measures in
+the attached financial statements.
+
+
+<P align="left" style="font-size: 11pt"><B>About 51job</B>
+
+
+<P align="left" style="font-size: 11pt">51job, Inc. (Nasdaq: JOBS) is a leading provider of integrated human resource services in China
+with a strong focus on recruitment related services. Through print advertisements in <I>51job Weekly</I>
+and online recruitment services at <I>www.51job.com</I>, 51job enables enterprises to attract, identify
+and recruit employees and connects millions of job seekers with employment opportunities. 51job
+also provides a number of other value-added human resource services, including business process
+outsourcing, training, executive search and compensation and benefits analysis. 51job has a call
+center in Wuhan and a nationwide sales office network spanning 25 cities across China.
+
+
+<P align="left" style="font-size: 11pt"><B>Safe Harbor Statement</B>
+
+
+<P align="left" style="font-size: 11pt">Statements in this release regarding targets for the fourth quarter of 2010, future business and
+operating results constitute &#147;forward-looking&#148; statements within the meaning of Section&nbsp;21E of the
+Securities Exchange Act of 1934, as amended, and as defined in the Private Securities Litigation
+Reform Act of 1995. These statements are based upon management&#146;s current expectations, and actual
+results could differ materially. Among the factors that could cause actual results to differ are
+the number of recruitment advertisements placed, sales orders received and customer contracts
+executed during the remaining weeks of the fourth quarter of 2010; any accounting adjustments that
+may occur during the quarterly close; fluctuations in the value of the Renminbi against the U.S.
+dollar and other currencies; behavioral and operational changes of customers in meeting their human
+resource needs as they respond to evolving social, economic and political changes in China as well
+as stock market volatilities; introduction by its competitors of new or enhanced products or
+services; price competition in the market for the various human resource services that the Company
+provides in China; acceptance of new products and services developed or introduced by the Company
+outside of the human resources industry and fluctuations in general economic conditions. For
+additional information on these and other factors that may affect the Company&#146;s financial results,
+please refer to the Company&#146;s filings with the Securities and Exchange Commission. 51job
+undertakes no obligation to update these targets prior to announcing final results for the fourth
+quarter of 2010 or as a result of new information, future events or otherwise.
+
+
+<P align="center" style="font-size: 11pt"><B>- Financial tables follow -</B></FONT><BR>
+<FONT style="font-size: 10pt"><B>51job, Inc.<BR>
+Consolidated Statements of Operations</B></FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 8.5pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="61%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>For the Three Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>(In thousands, except number of shares and per share data)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>USD (Note 1)</B></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Revenues:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Print advertising</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">77,140</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">62,017</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,269</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Online recruitment services</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">90,102</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">142,732</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,334</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Other human resource related revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">52,355</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">66,896</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,999</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">219,597</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">271,645</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,602</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Less: Business and related tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(11,586</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(14,148</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(2,115</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">208,011</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">257,497</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">38,487</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cost of services (Note 2)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(78,309</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(81,383</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(12,164</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Gross profit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">129,702</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">176,114</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">26,323</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Operating expenses:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:40px; text-indent:-10px">Sales and marketing (Note 3)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(53,168</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(68,505</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(10,239</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">General and administrative (Note 4)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(36,469</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(38,705</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(5,785</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total operating expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(89,637</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(107,210</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(16,024</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income from operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">40,065</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">68,904</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,299</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Loss from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(86</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(2,723</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(407</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Interest and investment income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,974</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,925</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">736</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,436</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,941</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">589</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income before income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">51,389</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">75,047</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,217</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(15,475</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(12,103</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,809</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">35,914</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">62,944</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,408</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Earnings per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.65</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.17</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.65</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.10</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.16</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Earnings per ADS (Note 5):</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.30</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.27</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.34</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.29</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.20</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.33</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average number of common shares outstanding:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,262,260</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,531,881</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,531,881</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,482,240</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,120,928</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,120,928</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8.5pt"><FONT style="font-size: 8pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Notes:</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The conversion of RMB amounts into USD amounts is based on the noon buying rate of
+USD1.00=RMB6.6905 on September&nbsp;30, 2010 in New York for cable transfers of RMB as set forth
+in the H.10&nbsp;weekly statistical release of the Federal Reserve Board.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB1,036 and RMB1,019 (US$152) for the three
+months ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB891 and RMB876 (US$131) for the three months
+ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB4,542 and RMB4,466 (US$668) for the three
+months ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Each ADS represents two common shares.</TD>
+</TR>
+
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt; display: none">1
+<!-- PAGEBREAK -->
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 8pt">
+
+
+
+</TABLE>
+
+
+<P align="center" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>51job, Inc.<BR>
+Consolidated Statements of Operations</B></FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 8.5pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="61%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>For the Nine Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>(In thousands, except number of shares and per share data)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>USD (Note 1)</B></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Revenues:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Print advertising</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">214,873</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">226,126</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">33,798</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Online recruitment services</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">235,735</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">387,075</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,855</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Other human resource related revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">140,556</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">175,091</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">26,170</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">591,164</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">788,292</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">117,823</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Less: Business and related tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(31,154</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(41,684</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(6,230</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net revenues</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">560,010</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">746,608</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">111,593</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Cost of services (Note 2)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(226,045</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(246,924</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(36,907</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Gross profit</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">333,965</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">499,684</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">74,686</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Operating expenses:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:40px; text-indent:-10px">Sales and marketing (Note 3)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(151,297</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(193,159</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(28,871</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">General and administrative (Note 4)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(104,098</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(112,088</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(16,753</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total operating expenses</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(255,395</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(305,247</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(45,624</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income from operations</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">78,570</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">194,437</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">29,062</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Loss from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(197</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(3,836</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(573</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Interest and investment income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,188</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">13,675</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,044</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">8,309</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,637</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">992</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income before provision for income tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">97,870</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">210,913</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">31,525</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(31,739</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(43,199</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(6,457</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">66,131</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">167,714</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">25,068</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Earnings per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.19</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3.04</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.45</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.18</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.99</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.45</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Earnings per ADS (Note 5):</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.37</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6.07</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.91</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.37</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5.97</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.89</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average number of common shares outstanding:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,729,039</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,235,509</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,235,509</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,847,597</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,165,307</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,165,307</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8.5pt"><FONT style="font-size: 8pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Notes:</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The conversion of RMB amounts into USD amounts is based on the noon buying rate of
+USD1.00=RMB6.6905 on September&nbsp;30, 2010 in New York for cable transfers of RMB as set forth
+in the H.10&nbsp;weekly statistical release of the Federal Reserve Board.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB3,333 and RMB3,083 (US$461) for the nine
+months ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB2,866 and RMB2,650 (US$396) for the nine
+months ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Includes share-based compensation expense of RMB14,607 and RMB13,508 (US$2,019) for the nine
+months ended September&nbsp;30, 2009 and 2010, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">5.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Each ADS represents two common shares.</TD>
+</TR>
+
+
+
+</TABLE>
+
+<P align="center" style="font-size: 10pt; display: none">2
+<!-- PAGEBREAK -->
+
+
+<P><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 8pt">
+
+
+
+</TABLE>
+
+
+<P align="center" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>51job, Inc.<BR>
+Reconciliation of GAAP and Non-GAAP Results</B></FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 8.5pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="61%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>For the Three Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>(In thousands, except number of shares and per share data)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>USD (Note 1)</B></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">GAAP income before income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">51,389</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">75,047</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">11,217</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Add back: Share-based compensation expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,469</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,361</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">951</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Add back: Loss from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">86</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,723</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">407</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP income before income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,944</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">84,131</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,575</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">GAAP income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(15,475</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(12,103</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,809</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Tax impact of share-based compensation expense and loss
+from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(4</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(15,473</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(12,107</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1,810</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">42,471</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">72,024</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">10,765</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted earnings per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.77</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.30</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.19</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.77</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.26</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.19</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted earnings per ADS (Note 2):</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.54</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.59</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.39</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.53</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.52</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.38</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average number of common shares outstanding:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,262,260</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,531,881</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,531,881</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,482,240</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,120,928</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57,120,928</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 8.5pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="61%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>For the Nine Months Ended</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>(In thousands, except number of shares and per share data)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>USD (Note 1)</B></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">GAAP income before provision for income tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">97,870</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">210,913</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">31,525</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Add back: Share-based compensation expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">20,806</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">19,240</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,876</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Add back: Loss from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">197</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,836</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">573</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP income before provision for income tax</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">118,873</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">233,989</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">34,974</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">GAAP income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(31,739</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(43,199</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(6,457</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Tax impact of share-based compensation expense and loss
+from foreign currency translation</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(7</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(1</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP income tax expense</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(31,740</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(43,206</TD>
+    <TD nowrap>)</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(6,458</TD>
+    <TD nowrap>)</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted net income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">87,133</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">190,783</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">28,516</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted earnings per share:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.56</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3.45</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.52</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.56</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3.40</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.51</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Non-GAAP adjusted earnings per ADS (Note 2):</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3.13</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6.91</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.03</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3.12</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6.79</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1.01</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Weighted average number of common shares outstanding:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Basic</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,729,039</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,235,509</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,235,509</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Diluted</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">55,847,597</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,165,307</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">56,165,307</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8.5pt"><FONT style="font-size: 8pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT>
+
+<P align="left" style="font-size: 8pt">Notes:
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The conversion of RMB amounts into USD amounts is based on the noon buying rate of
+USD1.00=RMB6.6905 on September&nbsp;30, 2010 in New York for cable transfers of RMB as set forth
+in the H.10&nbsp;weekly statistical release of the Federal Reserve Board.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Each ADS represents two common shares.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="center" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>51job, Inc.<BR>
+Consolidated Balance Sheets</B></FONT>
+
+
+<DIV align="center">
+<TABLE style="font-size: 8.5pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="63%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>As of</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>December 31,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>September 30,</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+</TR>
+<TR style="font-size: 8.5pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>(In thousands, except number of shares and per share data)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(audited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>(unaudited)</B></TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>RMB</B></TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="3" align="center"><B>USD (Note 1)</B></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">ASSETS</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Current assets:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Cash</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">957,407</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,180,393</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">176,428</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Short-term investments</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">257,310</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">332,221</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">49,656</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Accounts receivable (net of allowance of RMB2,620 and
+RMB1,737 as of December&nbsp;31, 2009 and September&nbsp;30, 2010,
+respectively)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">17,946</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">21,589</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">3,227</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:30px; text-indent:-10px">Prepayments and other current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">39,899</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">83,140</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,426</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Deferred tax assets, current</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,982</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,420</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">810</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,277,544</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,622,763</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">242,547</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Long-term investments</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,912</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,616</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2,334</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Property and equipment, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">181,943</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">201,577</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">30,129</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Intangible assets, net</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,301</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,126</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">766</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Other long-term assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">31,531</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">6,561</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">981</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Deferred tax assets, non-current</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">285</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">359</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">54</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total non-current assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">234,972</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">229,239</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">34,264</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total assets</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,512,516</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,852,002</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">276,811</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">LIABILITIES</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Current liabilities:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Accounts payable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">9,896</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12,889</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,926</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:40px; text-indent:-10px">Salary and employee related accrual</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">28,095</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">33,496</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,007</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Taxes payable</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,696</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">30,222</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4,517</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Advance from customers</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">118,277</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">174,541</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">26,088</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Other payables and accruals</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">15,402</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">39,722</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">5,937</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total current liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">187,366</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">290,870</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">43,475</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Deferred tax liabilities, non-current</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,011</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,486</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">222</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total liabilities</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">188,377</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">292,356</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">43,697</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Shareholders&#146; equity:</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Common shares (US$0.0001 par value; 500,000,000 shares
+authorized, 55,126,859 and 56,047,557 shares issued and
+outstanding as of December&nbsp;31, 2009 and September&nbsp;30,
+2010, respectively)</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">46</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">46</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Additional paid-in capital</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">902,124</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">969,776</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">144,948</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Statutory reserves</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,368</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7,368</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,101</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Other comprehensive income</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,067</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,208</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">181</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:50px; text-indent:-10px">Retained earnings</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">413,534</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">581,248</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">86,877</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total shareholders&#146; equity</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,324,139</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,559,646</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">233,114</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8.5pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Total liabilities and shareholders&#146; equity</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,512,516</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">1,852,002</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">276,811</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8.5pt"><FONT style="font-size: 8pt"><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT>
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 8pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="right">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Note 1: The conversion of RMB amounts into USD amounts is based on the noon buying rate of
+USD1.00=RMB6.6905 on September&nbsp;30, 2010 in New York for cable transfers of RMB as set forth
+in the H.10&nbsp;weekly statistical release of the Federal Reserve Board.</TD>
+</TR>
+
+</TABLE>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">3
+
+
+
+
+<!-- v.121908 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,644 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OQF6goByMJ0JRXhIFrX8OlD5bV06EEqLuljl21UwoCmboYykpaIUB8xwvRz6my18
+ tmDIbXpJLda1634mtWNQqw==
+
+<SEC-DOCUMENT>0000950103-09-002666.txt : 20091015
+<SEC-HEADER>0000950103-09-002666.hdr.sgml : 20091015
+<ACCEPTANCE-DATETIME>20091015084458
+ACCESSION NUMBER:		0000950103-09-002666
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20091015
+FILED AS OF DATE:		20091015
+DATE AS OF CHANGE:		20091015
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABN AMRO HOLDING N V
+		CENTRAL INDEX KEY:			0001038727
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14624
+		FILM NUMBER:		091120434
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GUSTAV MAHLERLAAN 10
+		CITY:			AMSTERDAM
+		STATE:			P7
+		ZIP:			1082 PP
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 283
+		CITY:			AMSTERDAM
+		STATE:			P8
+		ZIP:			1000 EA
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>dp15206_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+  <head>
+    <title> </title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+    <div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+        <div>
+          <hr style="COLOR: black" align="center" noshade size="1" width="10%">
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16 of</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the
+Securities Exchange Act of 1934</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+October 15, 2009</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission
+File Number: 001-14624</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ABN
+AMRO HOLDING N.V.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Gustav
+Mahlerlaan 10</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1082 PP
+Amsterdam</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Netherlands</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+        <div>
+          <hr style="COLOR: black" align="center" noshade size="1" width="40%">
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+of principal executive offices)</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form
+20-F&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;
+X
+&#160;&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;Form
+40-F _____</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(1): <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(7): <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant by furnishing the information contained in
+this Form is also thereby furnishing the information to the Commission pursuant
+to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes&#160;&#160;_____&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No
+<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;
+X&#160;&#160;&#160;&#160;&#160;</font></font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221;
+is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b): 82- _____</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left">
+          </div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          </div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right">
+          </div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">TABLE
+OF CONTENTS</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div>
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Item</font></div>
+                </div>
+              </td>
+              <td valign="bottom" width="2%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="90%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="8%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1</font></div>
+              </td>
+              <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td align="left" valign="bottom" width="90%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Press
+      release, dated 12 October 2009</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left">
+          </div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          </div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right">
+          </div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Item
+1</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><img src="abn_header.jpg" alt=""></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold">12 October 2009</font></font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #006666; FONT-FAMILY: Arial"><font style="DISPLAY: inline; COLOR: #006666">Statement ABN AMRO regarding emergency
+ruling DSB</font></font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Today the Dutch
+Central Bank has decided to apply an emergency ruling on DSB. ABN&#160;AMRO
+will, in cooperation with the Dutch Central Bank and other Dutch banks,
+appropriately support the necessary actions arising from this emergency ruling
+on DSB. ABN AMRO will also support, where possible and necessary, clients of DSB
+to enable them to perform payments and other banking transactions. This includes
+offering clients that wish to do so, the facility to easily and quickly open a
+bank account with ABN AMRO. Also it will be possible to make withdrawals with
+DSB-payment cards from ABN&#160;AMRO ATM's until Wednesday 12.00 P.M., according
+to regular visitor usage. This means that DSB-clients can make three withdrawals
+of 250 euro.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For clients of DSB
+the Dutch Deposit Guarantee Scheme will be applicable. Savings deposits up to
+EUR 100,000 are guaranteed through this scheme. We refer to the press releases
+issued by the Dutch Central Bank, the Ministry of Finance and the Dutch Banker's
+Association (NVB) today for further information.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ABN AMRO's current
+assessment of the range of possibilities of its share in the losses under the
+Dutch Guarantee Scheme, is that although these may be significant, they are
+expected to be well within the range of scenarios applied by the Group for
+stress testing of its capital and liquidity adequacy. The potential impact of
+this support is not expected to be material on the Group's solvency and
+liquidity. The Group expects to continue to exceed the regulatory solvency and
+liquidity requirements. ABN&#160;AMRO Group does not expect to incur any
+material losses from the credit and other banking relationships it has with DSB
+Bank and related companies in the course of normal business.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ABN&#160;AMRO Group
+capital ratios have continued to exceed the minimum tier 1 and total capital
+ratios of 9% and 12.5% respectively (as set by the Dutch Central Bank during the
+separation period of ABN&#160;AMRO Group) and are adequate to cover for stress
+scenarios. ABN AMRO Group has continued to comfortably exceed the regulatory
+liquidity requirements. Furthermore, ABN&#160;AMRO Group and its shareholders
+will ensure that at legal separation each future stand alone bank is adequately
+capitalized and has a sound liquidity position.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-STYLE: italic">Certain statements in this press
+release are statements of future expectations and other forward-looking
+statements. Such statements are based on current expectations, and by their
+nature are subject to a number of risks and uncertainties that could cause
+actual results and performance to differ materially from any expected future
+results or performance, expressed or implied, by these statements. Factors that
+could cause actual results to differ materially from those estimated by the
+forward looking statements contained in this document include, but are not
+limited to i) the extent and nature of future developments and continued
+volatility in the credit markets and their impact on the financial industry in
+general and ABN&#160;AMRO in particular, ii) the effect on ABN AMRO's capital of
+write downs in respect of credit exposures, iii) risks related to
+ABN&#160;AMRO's transition and separation process following its acquisition by
+the consortium consisting of The Royal Bank of Scotland Group plc ('RBS'), the
+State of the Netherlands ('Dutch State') and Banco Santander S.A. ('Santander'),
+iv) general economic conditions in the Netherlands and in other countries in
+which ABN&#160;AMRO has significant business activities or investments, e.g. the
+United Kingdom and the United States, including the impact of recessionary
+economic conditions on ABN&#160;AMRO's revenues, liquidity and balance sheet, v)
+the actions taken by governments and their agencies to support individual banks
+and the banking system, vi) the monetary and interest rate policies of the
+European Central Bank, the Board of Governors of the Federal Reserve System and
+other G-7 central banks, vii) inflation or deflation, viii) unanticipated
+turbulence in interest rates, foreign currency exchange rates, capital markets,
+commodity prices and equity prices, ix) changes in Dutch and foreign laws,
+regulations and taxes, x) changes in competition and pricing environments, xi)
+natural and other disasters, xii) the inability to hedge certain risks
+economically, xiii) the adequacy of loss reserves, xiv) technological changes,
+xv) changes in consumer spending and saving habits and xvi) the success of ABN
+AMRO in managing the risks relating to the foregoing. The forward-looking
+statements made in this press release speak only as at the date of publication
+of this press release. ABN AMRO does not intend to publicly update or revise
+these forward-looking statements to reflect events or circumstances after the
+date of this report, nor does ABN AMRO assume any responsibility to do
+so.</font></font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+          <div id="FTR">
+            <div id="GLFTR" style="WIDTH: 100%" align="left">
+            </div>
+          </div>
+          <div id="PN" style="PAGE-BREAK-AFTER: always">
+            <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            </div>
+            <div style="WIDTH: 100%; TEXT-ALIGN: center">
+              <hr style="COLOR: black" noshade size="2">
+            </div>
+          </div>
+          <div id="HDR">
+            <div id="GLHDR" style="WIDTH: 100%" align="right">
+            </div>
+          </div>
+        </div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further information
+on ABN AMRO Group is available on</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; COLOR: #006666; TEXT-DECORATION: underline">www.ABNAMRO.com</font></font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For further
+information, please contact</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ABN AMRO Group
+Press Office</font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; COLOR: #006666; TEXT-DECORATION: underline">pressrel</font><font style="DISPLAY: inline; COLOR: #006666; TEXT-DECORATION: underline">ations@nl.abnamro.com</font></font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">+31 20
+6288900</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      </div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left">
+          </div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          </div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right">
+          </div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Signatures</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" colspan="3" valign="top" width="40%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ABN
+      AMRO HOLDING N.V.</font></div>
+              </td>
+              <td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="left" colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="left" colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="left" colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              <td align="left" valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" nowrap valign="top" width="4%" style="PADDING-BOTTOM: 2px">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0.55pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160;&#160;
+      </font></div>
+              </td>
+              <td align="left" valign="top" width="36%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -5.2pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">15
+      October 2009</font></div>
+              </td>
+              <td valign="top" width="10%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" nowrap valign="top" width="2%" style="PADDING-BOTTOM: 2px">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:&#160;&#160;
+      </font></div>
+              </td>
+              <td colspan="2" valign="top" width="38%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/ Petri Hofst<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#233;</font></font></font></td>
+              <td valign="top" width="10%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="36%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" nowrap valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160;&#160;&#160;&#160;
+      </font></div>
+              </td>
+              <td valign="top" width="34%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial"><font size="2"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Petri
+      Hofst<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#233;</font></font></font>&#160;
+      </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="36%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0.3pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:</font></div>
+              </td>
+              <td valign="top" width="34%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Deputy CFO - Head of
+      Group Finance</font>&#160; </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div>
+        <table cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="50%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" nowrap valign="top" width="2%" style="PADDING-BOTTOM: 2px">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:&#160;&#160;
+      </font></div>
+              </td>
+              <td colspan="2" valign="top" width="38%" style="BORDER-BOTTOM: dimgray 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/ <font size="2" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Mark
+      Boyle</font></font></font></td>
+              <td valign="top" width="10%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" nowrap valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160;&#160;&#160;
+      </font></div>
+              </td>
+              <td valign="top" width="34%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Mark
+      Boyle</font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td align="left" valign="top" width="4%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0.3pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:</font></div>
+              </td>
+              <td valign="top" width="34%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Head
+      of Group Finance Reporting &amp; Policies</font></td>
+              <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+        <div>
+          <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+        </div><br></div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>abn_header.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 abn_header.jpg
+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
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@
+M`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MBBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`**
+M**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHH
+MH`****`"BBB@`HK)O;'49KMY(+O9&<87S&&./05!_9FK?\_W_D5_\*\FIF%>
+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
+4*`"BBB@`HHHH`****`"BBB@#_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

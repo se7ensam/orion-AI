@@ -1,0 +1,440 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F9ec4qvImjLiiHHX4NoVSh9pLUKwzFuZOssnw4P2187QCrCrBQgz9DCrVEq3E9PI
+ ilTm9ITF2EIYUDDZgaLQoA==
+
+<SEC-DOCUMENT>0000950123-10-113210.txt : 20101214
+<SEC-HEADER>0000950123-10-113210.hdr.sgml : 20101214
+<ACCEPTANCE-DATETIME>20101213173204
+ACCESSION NUMBER:		0000950123-10-113210
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20101213
+FILED AS OF DATE:		20101214
+DATE AS OF CHANGE:		20101213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		101248848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o67253e6vk.htm
+<DESCRIPTION>6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>Form&nbsp;6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>Report of Foreign Issuer<BR>
+Pursuant to Rule&nbsp;13a-16 or 15d-16 of<BR>
+the Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="47%"></TD>
+    <TD width="5%"></TD>
+    <TD width="47%"></TD>
+</TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="left" valign="top">For the month of: December, 2010
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" valign="top">Commission File Number: 001-14460</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">(Name of registrant)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>13131 Lake Fraser Drive S.E.<BR>
+Calgary, Alberta,<BR>
+Canada T2J 7E8</B><BR>
+(Address of Principal Executive Offices)
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 18pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or Form 40-F:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the SEC pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934:</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">If &#147;Yes&#148; is marked, indicate the file number assigned to the registrant in connection with Rule
+12g3-2(b): N/A</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><BR>AGRIUM INC.<BR><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date:&nbsp;  December 13, 2010&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left"><I>/S/&nbsp; GARY J. DANIEL</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary &#038;<BR>
+Senior Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="85%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="70%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 2pt">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">Amended News Release dated December&nbsp;13, 2010</DIV></TD>
+</TR>
+<TR valign="bottom" style="padding-top: 2pt; line-height: 1pt"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>o67253exv1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: Helvetica,Arial,sans-serif">
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit 1</B>
+</DIV>
+
+<DIV align="center" style="margin-top: 12pt">
+<TABLE style="font-size: 21pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="50%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><IMG src="o67253o6725300.gif" alt="(AGRIUM LOGO)">
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>AMENDED<BR>
+NEWS RELEASE<BR></B>
+<B><I><FONT style="font-size:14pt">FOR IMMEDIATE RELEASE</FONT></I></B></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 14pt; margin-top: 10pt"><DIV style="width: 100%; border-bottom: 1px solid #000000; FONT-size: 1px">&nbsp;</DIV>
+</DIV>
+
+
+<DIV align="left" style="font-size: 14pt; margin-top: 18pt"><B>Agrium declares dividend</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>December&nbsp;13, 2010 &#150; ALL AMOUNTS ARE STATED IN U.S.$</B></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Calgary, Alberta &#151; The Board of Directors of Agrium Inc. (TSX and NYSE: AGU) has declared a
+dividend of five and one half cents U.S. per common share to be paid on January&nbsp;13, 2011 to
+shareholders of record on December&nbsp;30, 2010.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">All dividends paid by Agrium Inc. are, pursuant to subsection 89(14) of the Income Tax Act,
+designated as eligible dividends. An eligible dividend paid to a Canadian resident is entitled to
+the enhanced dividend tax credit.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">About Agrium<BR>
+Agrium Inc. is a major retail supplier of agricultural products and services in both North and
+South America and a leading global producer and marketer of agricultural nutrients and industrial
+products. Agrium produces and markets three primary groups of nutrients: nitrogen, phosphate and
+potash as well as controlled release fertilizers and micronutrients. Agrium&#146;s strategy is to grow
+through incremental expansion of its existing operations and acquisitions as well as the
+development, commercialization and marketing of new products and international opportunities.</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 32pt"><B>FOR FURTHER INFORMATION:<BR>
+Investor/Media Relations:</B><BR>
+Richard Downey, Senior Director, Investor Relations<BR>
+(403)&nbsp;225-7357
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Todd Coakwell, Manager, Investor Relations<BR>
+(403)&nbsp;225-7437
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>o67253o6725300.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 o67253o6725300.gif
+M1TE&.#EAB@`L`-4J`,#`P#F=/T!`0*"@H!`0$/#P\&!@8-#0T"`@(.#@X#`P
+M,+"PL'!P<%!04)"0D$6C2_/Y]-OMW.?SZ&NV;\+AQ)S.GUZO8W>\>U*I5[7:
+MMR!8(ZG4J\[GT(3"ARIU+S63.P,)`Q4Z%RY_,Y#(DU5Z5P<3!QA$&PH="X"`
+M@````/___P``````````````````````````````````````````````````
+M`````````````````````````````````"'Y!`$``"H`+`````"*`"P```;_
+M0)5P2"P:C\BD<LEL.I_0J'1*K5JOT8*@@>UZO^#B()4:A,_H-!-!5JC?</2"
+M3`;$[_BJ@)[BYO^`2@!\9`F!AX@J!H0I!HE'``T&=H]>"8PI!`650X-TE)Q6
+M#)@I*$T0%1)OBW2FH54%!&0.A`A+$AT6$7"CK:]5*&2.LGQF1Q03`1<0<04*
+M;9N_4VPIAL%\MD49&`$/&7\`H-)18RD"0@6,E*@/`0$3JN/R1\\IH*QT`A0=
+M[MT;\P"+>'(SY!*9$AH^]'L7+Z##/66*"`CA8:&_)0D&H!`@@(&#`TP6&#"6
+M8..D(@<<&#`D,!R2`N'$$1%IK,``!@)&1AMR`$4#_P$H%D`QF&T(!VX6X2E)
+M`)$1`A10H]H12>S<-3J&#C"@9D_%@:9T>`H@QJ<(53(""N"C0\`8`*YT$(!L
+MPLJ5"@@7++HS8??(`&)M`?0B!9503D:%"=GYRD@L)B)7R2`@RT@EJ10(=B9)
+MERE:!*0+19S(E.0`G[DJ/&%"`8`R*0",^8AK4!8EV:*I79N#RD`W`090P:9P
+MP.2:(Q41VEG4`(*.,2.TR?@9LM9!S*RN40RHQV#(X*Z=:A>);LXV6Z$%*2O0
+M7`XM$V*&DEM\0*(6$CY]5<QQ;@2L7>M%R$:$:BD<<=4YX^5C1'O@$5$/9DN4
+MPX5\"ST0`6=\H#<@?@)Q*/\1'YH9(6!X81EQH(D*%F%0'2B6F`0U`$!@@446
+M,*.(84:81D=W&_+WH7M*C"@$@0:F")F11`@YQ'YD*+&?&WDM5&-!C*`VQ&UF
+M\<$2$4TAF(221+987A$GBOB)$6$B`=$`%,S7D!#"'7<D'<111\=T7")Y!)CB
+MS3FFGUXF>6:'+J))!@$0*-</!882LN40#PXG!"W0'-'E$GP6.D29@.XY:(]-
+MJDD&`Q58=`$2D99BA!:7-1#B$)<&^6EJ?6ZJIPJ<"LHBH:$:P20`BG9CXX*$
+M:"*&9%PIP("5_=T:X*QI=DJFLTH.62LZ7$5@$:,O,<*C$+]&$>N7T)XF9J!"
+M#(;_KA#5TJJI$.2E4$`R[HR@!(9"<O545/RB\%&S0)*[J[5W%L%JP+!2.RNX
+MM180;PH*')!!!1S<NQ9;=<)UF60:JO`@04BL*.D0^)JS```+](;-`2X)\;$1
+M(C_G'8A"H'`Q-@:@P&QJ/NF&#4X;8[)`1@\KH)V5`*``UV\#L'0S-I@,,,##
+M(QF2]-(,"%5`RH9]%+0O/WY-Q@*I;DQ`9(P$NK$KSF"R$E@$`/4T&:9L["XF
+M0/6K-U0RJ:#1WH`SA=8`UZ4V`%@.``Z5S(JS1L34'.D$IP(CH98TX'8TKD))
+M@,NL1GN>A[VS0^.`OL0U!)!..EE,L/*MZO(0./J2E<(^*8^.AP[P:@*L$#"[
+@[:%H;`YP/CV8%O`!'>!S+:$C/XY:/A-@0,?.3Q$$`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

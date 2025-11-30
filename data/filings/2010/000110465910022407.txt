@@ -1,0 +1,1745 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ J801TUc9mGJz8F685lS76Hi6Xmoc0wav4kbYIZa53XYf3jzCl9cBcEpzRqPw+/56
+ gFLOjqkAhaqf5au/JzbR9A==
+
+<SEC-DOCUMENT>0001104659-10-022407.txt : 20100428
+<SEC-HEADER>0001104659-10-022407.hdr.sgml : 20100428
+<ACCEPTANCE-DATETIME>20100428102115
+ACCESSION NUMBER:		0001104659-10-022407
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100430
+FILED AS OF DATE:		20100428
+DATE AS OF CHANGE:		20100428
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ABB LTD
+		CENTRAL INDEX KEY:			0001091587
+		STANDARD INDUSTRIAL CLASSIFICATION:	SWITCHGEAR & SWITCHBOARD APPARATUS [3613]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16429
+		FILM NUMBER:		10775546
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 8131
+		STREET 2:		CH 8050
+		CITY:			ZURICH SWITZERLAND
+		STATE:			V8
+		ZIP:			999999999
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-8840_16k.htm
+<DESCRIPTION>6-K
+<TEXT>
+
+<html>
+
+<head>
+
+
+
+
+
+</head>
+
+<body lang="EN-US">
+
+<div style="font-family:Times New Roman;">
+
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED
+STATES<br>
+SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">Form&nbsp;6-K</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="3" face="Times New Roman" style="font-size:12.0pt;font-weight:bold;">REPORT
+OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16<br>
+UNDER THE SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the month of April 2010</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Commission File Number 001-16429</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">ABB
+Ltd</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Translation of registrant&#146;s
+name into English)</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">P.O.&nbsp;Box 1831, Affolternstrasse 44, CH-8050, Zurich, Switzerland</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address of principal executive office)</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form&nbsp;20-F or Form&nbsp;40-F.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form&nbsp;20-F </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Form&nbsp;40-F </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(1): </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Note:</font></b><font size="2" style="font-size:10.0pt;"> Regulation S-T Rule&nbsp;101(b)(1)
+only permits the submission in paper of a Form&nbsp;6-K if submitted solely to
+provide an attached annual report to security holders.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indication by check mark if the registrant is submitting the Form&nbsp;6-K
+in paper as permitted by Regulation S-T Rule&nbsp;101(b)(7): </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Note:</font></b><font size="2" style="font-size:10.0pt;"> Regulation S-T Rule&nbsp;101(b)(7)&nbsp;only
+permits the submission in paper of a Form&nbsp;6-K if submitted to furnish a report
+or other document that the registrant foreign private issuer must furnish and
+make public under the laws of the jurisdiction in which the registrant is
+incorporated, domiciled or legally organized (the registrant&#146;s &#147;home country&#148;),
+or under the rules&nbsp;of the home country exchange on which the registrant&#146;s
+securities are traded, as long as the </font><font size="2" style="font-size:10.0pt;">report </font><font size="2" style="font-size:10.0pt;">or other
+document is not a press release, is not required to be and has not been
+distributed to the registrant&#146;s security holders, and, if discussing a material
+event, has already been the subject of a Form&nbsp;6-K submission or other
+Commission filing on EDGAR.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate
+by check mark whether the registrant by furnishing the information contained in
+this Form&nbsp;is also thereby furnishing the information to the Commission
+pursuant to Rule&nbsp;12g3-2(b)&nbsp;under the Securities Exchange Act of 1934.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Yes </font><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">No </font><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If
+&#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in
+connection with Rule&nbsp;12g3-2(b): 82-</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+
+</div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\msounda\10-8840-1\task4075256\8840-1-ba-01.htm',USER='105074',CD='Apr 27 21:50 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">This
+Form&nbsp;6-K consists of the following:</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="background:white;margin:0in 0in .0001pt .5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Agenda and Resolutions from the ABB Ltd
+General Meeting of Shareholders held on </font><font size="2" style="font-size:10.0pt;">April 26, 2010 and</font></p>
+
+<p style="background:white;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="background:white;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Press release
+issued by ABB Ltd dated April 26, 2010.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2<a name="PB_2_091408_5335"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\msounda\10-8840-1\task4075256\8840-1-ba-01.htm',USER='105074',CD='Apr 27 21:50 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABB Ltd</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">TRAKTANDEN UND BESCHL&#220;SSE</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">AGENDA AND RESOLUTIONS</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">der ordentlichen
+Generalversammlung der Aktion&#228;rinnen und Aktion&#228;re</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">from the
+Annual General Meeting of Shareholders</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">vom 26. April&nbsp;2010, 10.00 Uhr</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">held on April&nbsp;26,
+2010, 10&nbsp;a.m.</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">in der &#147;Messe Z&#252;rich-Halle&#148;,
+Z&#252;rich-Oerlikon / CH</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">in the &#147;Messe Z&#252;rich hall&#148;, Z&#252;rich-Oerlikon / CH</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">1.&#160;&#160;&#160;&#160;&#160; Berichterstattung
+&#252;ber das Gesch&#228;ftsjahr 2009</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">1.&#160;&#160;&#160;&#160;&#160; Reporting for fiscal 2009</font></i></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Nur Berichterstattung)</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">(Reporting
+only)</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2.1&#160;&#160;&#160; Genehmigung
+des Jahresberichts, der Konzernrechnung und der Jahresrechnung 2009</font></b></p>
+
+<p style="margin:0in 0in .0001pt 21.25pt;text-indent:-21.25pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt 21.25pt;text-indent:-21.25pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">2.1</font></i><i><font size="1" style="font-size:3.0pt;font-style:italic;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Approval
+of the annual report, the consolidated financial statements, and the annual
+financial statements for 2009</font></i></p>
+
+<p style="margin:0in 0in .0001pt 17.85pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 17.85pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung genehmigt den Jahresbericht, die Konzernrechnung
+und die Jahresrechnung 2009.</font></p>
+
+<p style="margin:0in 0in .0001pt 17.85pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .25in;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The
+Annual General Meeting approves the annual report, the consolidated financial
+statements, and the annual financial statements for 2009.</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3<a name="PB_3_205954_5796"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2.2&#160;&#160;&#160; Konsultativabstimmung
+&#252;ber den Verg&#252;tungsbericht 2009</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">2.2&#160;&#160;&#160; Consultative vote on the 2009 remuneration
+report</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung stimmt dem Verg&#252;tungsbericht gem&#228;ss Seiten 50-57
+des Gesch&#228;ftsberichts zu (unverbindliche Konsultativabstimmung).</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The
+Annual General Meeting accepts the remuneration report as per pages&nbsp;48-55
+of the annual report (non-binding consultative vote).</font></i></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">3.&#160;&#160;&#160;&#160;&#160; Entlastung
+des Verwaltungsrats und der mit der Gesch&#228;ftsf&#252;hrung betrauten Personen</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">3.&#160;&#160;&#160;&#160;&#160; Discharge of the Board of Directors and
+the persons entrusted with management</font></i></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung erteilt den Mitgliedern des Verwaltungsrates und
+den mit der Gesch&#228;ftsf&#252;hrung betrauten Personen Entlastung f&#252;r das Gesch&#228;ftsjahr
+2009.</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The
+Annual General Meeting discharges the members of the Board of Directors and the
+persons entrusted with management for fiscal 2009.</font></i></p>
+
+<p style="margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">4.&#160;&#160;&#160;&#160;&#160; Verwendung
+des Bilanzgewinns und Aufl&#246;sung gesetzlicher Reserven</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">4.&#160;&#160;&#160;&#160;&#160; Appropriation of available earnings and
+release of legal reserves</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung stimmt dem Antrag
+des Verwaltungsrates zu,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual General Meeting approves the proposal of the
+Board of Directors,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">den Betrag von CHF 340&#146;000&#146;000 der
+gesetzlichen Reserve zu entnehmen,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to release CHF 340,000,000 of the legal reserves,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">diesen Betrag der freien Reserve zuzuweisen
+und</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to allocate those released reserves to other reserves, and</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">den zur Verf&#252;gung stehenden Bilanzgewinn
+von CHF 3&#146;893&#146;861&#146;784 auf neue Rechnung vorzutragen.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to carry forward the available earnings in the amount of CHF
+3,893,861,784.</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">5.&#160;&#160;&#160;&#160;&#160; Kapitalherabsetzung
+durch Vernichtung von Aktien</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">5.&#160;&#160;&#160;&#160;&#160; Capital
+reduction through cancellation of shares</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung genehmigt gem&#228;ss dem Antrag des
+Verwaltungsrates,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting approves the proposal of the Board of Directors,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">die Herabsetzung des Aktienkapitals von CHF
+3&#146;587&#146;160&#146;187.38 um CHF 34&#146;919&#146;500.00 auf CHF 3&#146;552&#146;240&#146;687.38 durch
+Vernichtung von 22&#146;675&#146;000 Namenaktien im Nennwert von je CHF 1.54, welche im
+Rahmen des im Februar 2008 angek&#252;ndigten Aktienr&#252;ckkaufprogramms zur&#252;ckgekauft
+wurden,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to reduce the share capital of CHF 3,587,160,187.38 by CHF
+34,919,500.00 to CHF&nbsp;3,552,240,687.38 by way of cancellation of the
+22,675,000 shares with a nominal value of CHF 1.54 each which were bought back
+by the Company under the share buyback program announced in February&nbsp;2008;</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4<a name="PB_4_210519_2897"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">als Ergebnis des Pr&#252;fungsberichts die
+Feststellung, dass die Forderungen der Gl&#228;ubiger trotz Herabsetzung des
+Aktienkapitals voll gedeckt sind,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to confirm as a result of the report of the auditors, that the
+claims of the creditors are fully covered notwithstanding the capital
+reduction,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">die &#196;nderung von Artikel 4 Abs. 1 der
+Statuten auf den Zeitpunkt des Eintrags der Kapitalherabsetzung in das
+Handelsregister auf folgenden Wortlaut:</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to amend article 4 para.1 of the Articles of Incorporation
+according to the following wording&#160; as
+per the date of the entry of the capital reduction in the commercial register:</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Artikel 4</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aktienkapital</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1</font></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Das Aktienkapital der Gesellschaft betr&#228;gt
+  CHF 3&#146;552&#146;240&#146;687.38, eingeteilt in 2&#146;306&#146;649&#146;797 voll liberierte
+  Namenaktien. Jede Aktie hat einen Nennwert von CHF 1.54.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Article&nbsp;4</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Share Capital</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">1</font></i></p>
+  </td>
+  <td width="80%" valign="bottom" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The share capital of the Company is CHF 3,552,240,687.38
+  and is divided into 2,306,649,797 fully paid registered shares. Each share
+  has a par value of CHF 1.54.</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">6.&#160;&#160;&#160;&#160;&#160; Kapitalherabsetzung
+durch Nennwertr&#252;ckzahlung</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">6.&#160;&#160;&#160;&#160;&#160; Capital
+reduction through nominal value repayment</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung genehmigt gem&#228;ss dem Antrag des
+Verwaltungsrates</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The Annual General Meeting approves the
+proposal of the Board of Directors,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">die Herabsetzung des Aktienkapitals von CHF
+3&#146;552&#146;240&#146;687.38 um CHF&nbsp;1&#146;176&#146;391&#146;396.47 auf CHF 2&#146;375&#146;849&#146;290.91 durch
+Reduktion des Nennwerts der Namenaktien von CHF 1.54 um CHF 0.51 auf CHF 1.03
+und die Verwendung des Herabsetzungsbetrages zur Auszahlung an die Aktion&#228;re,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to reduce the share capital of CHF 3,552,240,687.38 by CHF
+1,176,391,396.47 to CHF&nbsp;2,375,849,290.91 by way of reducing the nominal
+value of the registered shares from CHF 1.54 by CHF 0.51 to CHF 1.03 and to use
+the nominal value reduction amount for repayment to the shareholders,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">als Ergebnis des Pr&#252;fungsberichts die
+Feststellung, dass die Forderungen der Gl&#228;ubiger trotz Herabsetzung des
+Aktienkapitals voll gedeckt sind,</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to confirm as a result of the report of the auditors, that
+the claims of the creditors are fully covered notwithstanding the capital
+reduction,</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">die &#196;nderung von Artikel 4 Abs. 1 der
+Statuten auf den Zeitpunkt des Eintrags der Kapitalherabsetzung in das
+Handelsregister auf folgenden Wortlaut:</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to amend article 4 para.1 of the Articles of Incorporation
+according to the following wording&#160; as
+per the date of the entry of the capital reduction in the commercial register:</font></i></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5<a name="PB_5_210814_3020"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Artikel 4</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aktienkapital</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Das Aktienkapital der
+  Gesellschaft betr&#228;gt CHF 2&#146;375&#146;849</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">290.91, eingeteilt in 2&#146;306&#146;649</font><font size="2" style="font-size:10.0pt;">&#146;</font><font size="2" style="font-size:10.0pt;">797 voll liberierte Namenaktien. Jede Aktie hat
+  einen Nennwert von CHF 1.03.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Article&nbsp;4</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Share
+  Capital</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">1</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The share capital of the Company is CHF
+  2,375,849,290.91 and is divided into 2,306,649,797 fully paid registered shares.
+  Each share has a par value of CHF 1.03.</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt .75in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">die &#196;nderung von Artikel 4bis Abs. 1 und 4 sowie
+Artikel 4ter Abs. 1 der Statuten auf den Zeitpunkt des Eintrags der
+Kapitalherabsetzung in das Handelsregister, um die Reduktion des Nennwerts der
+Namenaktien von CHF 1.54 um CHF 0.51 auf CHF 1.03 entsprechend wiederzugeben.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">to amend article 4bis paras. 1 and 4, and article 4ter para.
+1 of the Articles of Incorporation, correspondingly reflecting the reduced
+nominal value of the registered shares from CHF&nbsp;1.54 by CHF 0.51 to CHF
+1.03, as per the date of the entry of the capital reduction in the commercial
+register.</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 56.7pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">7.&#160;&#160;&#160;&#160;&#160; &#196;nderung
+der Statuten im Zusammenhang mit der Kapitalherabsetzung</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">7.&#160;&#160;&#160;&#160;&#160; </font></i><i><font size="2" style="font-size:10.0pt;font-style:italic;">Amendment to the Articles of Incorporation related to
+the capital reduction</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung stimmt dem Antrag des
+Verwaltungsrates zu, Artikel 13 Abs. 1 der Statuten in folgenden Wortlaut
+abzu&#228;ndern:</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting approves the proposal of the Board of Directors to amend
+article 13 para.1 of the Articles of Incorporation as follows:</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Artikel 13</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Traktandierung</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt 3.55pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aktion&#228;re, die Aktien im
+  Nennwert von CHF 412&#146;000 oder mehr vertreten, k&#246;nnen die Traktandierung eines
+  Verhandlungsgegenstandes verlangen. Die Traktandierung muss mindestens
+  vierzig Tage vor der Versammlung schriftlich unter Angabe des
+  Verhandlungsgegenstandes und der Antr&#228;ge des Aktion&#228;rs oder der Aktion&#228;re
+  anbegehrt werden.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt 3.55pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt 3.55pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Article&nbsp;13</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt 3.55pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Agenda</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">1</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt 3.55pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">One or more shareholders whose combined
+  shareholdings represent an aggregate par value of at least CHF 412,000 may
+  demand that an item be included on the agenda of a General Meeting of
+  Shareholders. Such inclusion must be requested in writing at least forty days
+  prior to the meeting and shall specify the agenda items and proposals of such
+  shareholder(s).</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">6<a name="PB_6_210905_7748"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='6',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">8.&#160;&#160;&#160;&#160;&#160; Allgemeine
+&#196;nderung der Statuten</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">8.&#160;&#160;&#160;&#160;&#160; General
+amendments to the Articles of Incorporation</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.3pt;text-autospace:none;text-indent:-21.3pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;letter-spacing:0pt;">8.1</font></b><b><font size="1" color="black" face="Times New Roman" style="color:windowtext;font-size:3.0pt;font-weight:bold;letter-spacing:0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;letter-spacing:0pt;">&#196;nderung des Artikels 6</font></b></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.3pt;text-autospace:none;text-indent:-21.3pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;letter-spacing:0pt;">&nbsp;</font></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.25pt;text-autospace:none;text-indent:-21.25pt;"><i><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-style:italic;letter-spacing:0pt;">8.1</font></i><i><font size="1" color="black" face="Times New Roman" style="color:windowtext;font-size:3.0pt;font-style:italic;letter-spacing:0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></i><i><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-style:italic;letter-spacing:0pt;">Amendment to Article&nbsp;6</font></i></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.25pt;text-autospace:none;text-indent:-21.25pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;letter-spacing:0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung stimmt dem Antrag des
+Verwaltungsrates zu, Artikel 6 der Statuten in folgenden Wortlaut abzu&#228;ndern:</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting &#160;approves the proposal of
+the Board of Directors to amend article 6 of the Articles of Incorporation as
+follows:</font></i></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Article&nbsp;6</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Aktienzertifikate
+  und Bucheffekten</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">1</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Gesellschaft gibt ihre
+  Namenaktien in Form&nbsp;von Einzelurkunden, Globalurkunden oder Wertrechten
+  aus. Der Gesellschaft steht es im Rahmen der gesetzlichen Vorgaben frei, ihre
+  in einer dieser Formen ausgegebenen Namenaktien jederzeit und ohne Zustimmung
+  der Aktion&#228;re in eine andere Form&nbsp;umzuwandeln. Die Gesellschaft tr&#228;gt
+  daf&#252;r die Kosten.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Werden Namenaktien in der Form&nbsp;von
+  Einzelurkunden oder Globalurkunden ausgegeben, tragen sie die Unterschrift
+  von zwei Mitgliedern des Verwaltungsrates. </font><font size="2" style="font-size:10.0pt;">Diese Unterschriften
+  k&#246;nnen Faksimile-Unterschriften sein.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Der Aktion&#228;r hat keinen
+  Anspruch auf Umwandlung von in bestimmter Form&nbsp;ausgegebenen Namenaktien
+  in eine andere Form. Jeder Aktion&#228;r kann jedoch von der Gesellschaft
+  jederzeit die Ausstellung einer Bescheinigung &#252;ber die von ihm gem&#228;ss
+  Aktienbuch gehaltenen Namenaktien verlangen.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Bucheffekten, denen
+  Namenaktien der Gesellschaft zugrunde liegen, k&#246;nnen nicht durch Zession
+  &#252;bertragen werden. An diesen Bucheffekten k&#246;nnen auch keine Sicherheiten
+  durch Zession bestellt werden.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">5</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Nicht verurkundete
+  Namenaktien, die bei Euroclear Sweden AB buchm&#228;ssig gef&#252;hrt werden, k&#246;nnen
+  gem&#228;ss schwedischem Recht verpf&#228;ndet werden.</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Article&nbsp;6</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Share Certificates and Intermediated
+  Securities</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">1</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Company may issue its
+  registered shares in the form of single certificates, global certificates and
+  uncertificated securities. Under the conditions set forth by statutory law,
+  the Company may convert its registered shares from one form into another form
+  at any time and without the approval of the shareholders. The Company shall
+  bear the cost of any such conversion.</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">2</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">If registered shares are
+  issued in the form of single certificates or global certificates, they shall
+  bear the signatures of two members of the Board of Directors. These
+  signatures may be facsimile signatures.</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">3</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The shareholder has no right
+  to demand a conversion of the form of the registered shares. Each shareholder
+  may, however, at any time request a written confirmation from the Company of
+  the registered shares held by such shareholder, as reflected in the share
+  register.</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">7<a name="PB_7_211044_141"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='7',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div style="font-family:Times New Roman;">
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">4</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Intermediated securities based
+  on registered shares of the Company cannot be transferred by way of
+  assignment. A security interest in any such intermediated securities also
+  cannot be granted by way of assignment.</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="15%" valign="top" style="padding:0in 0in 0in 0in;width:15.0%;">
+  <p style="margin:0in 0in .0001pt;text-align:justify;"><i><font size="2" face="Times New Roman" style="font-size:1.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+  <td width="5%" valign="top" style="padding:0in 0in 0in 0in;width:5.0%;">
+  <p align="center" style="margin:0in 0in .0001pt;text-align:center;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">5</font></i></p>
+  </td>
+  <td width="80%" valign="top" style="padding:0in 0in 0in 0in;width:80.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">Uncertificated registered
+  shares registered with Euroclear Sweden AB may be pledged in accordance with
+  Swedish law.</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p style="line-height:normal;margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.3pt;text-autospace:none;text-indent:-21.3pt;"><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;letter-spacing:0pt;">8.2</font></b><b><font size="1" color="black" face="Times New Roman" style="color:windowtext;font-size:3.0pt;font-weight:bold;letter-spacing:0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></b><b><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-weight:bold;letter-spacing:0pt;">Annullierung der Artikel 32 und 33</font></b></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.3pt;text-autospace:none;text-indent:-21.3pt;"><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;letter-spacing:0pt;">&nbsp;</font></p>
+
+<p style="color:#BF8C00;letter-spacing:.25pt;line-height:normal;margin:0in 0in .0001pt 21.25pt;text-autospace:none;text-indent:-21.25pt;"><i><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-style:italic;letter-spacing:0pt;">8.2</font></i><i><font size="1" color="black" face="Times New Roman" style="color:windowtext;font-size:3.0pt;font-style:italic;letter-spacing:0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></i><i><font size="2" color="black" face="Times New Roman" style="color:windowtext;font-size:10.0pt;font-style:italic;letter-spacing:0pt;">Deletion of Articles 32 and 33</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung stimmt dem Antrag des
+Verwaltungsrates zu, die Artikel 32 &#171;Sacheinlagen&#187; und Artikel 33
+&#171;Sach&#252;bernahmen&#187; in den Statuten zu annullieren.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting approves the proposal of the Board of Directors to delete Article&nbsp;32
+&#147;In-Kind Contributions&#148; and Article&nbsp;33 &#147;Acquisitions of Property&#148; in the
+Articles of Incorporation.</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">9.&#160;&#160;&#160;&#160;&#160; Wahlen in den Verwaltungsrat</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">9.&#160;&#160;&#160;&#160;&#160; Elections to
+the Board of Directors</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung w&#228;hlt gem&#228;ss Antrag des
+Verwaltungsrates folgende Mitglieder des Verwaltungsrates f&#252;r eine weitere
+Amtsdauer von einem Jahr, d.h. bis zur ordentlichen Generalversammlung 2011, wieder:</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting re-elects, as proposed by the Board of Directors, the following
+persons as members of the Board of Directors for a further period of one year,
+i.e. until the Annual General Meeting 2011:</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Roger
+Agnelli</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Louis
+R. Hughes</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Hans
+Ulrich M&#228;rki</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Michel
+de Rosen</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Michael
+Treschow</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Bernd
+W. Voss</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Jacob Wallenberg</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><font size="2" face="Symbol" style="font-size:10.0pt;">&#183;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><font size="2" style="font-size:10.0pt;">Hubertus
+von Gr&#252;nberg</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">8<a name="PB_8_211122_7608"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='8',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+<br clear="all" style="page-break-before:always;">
+
+
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">10.&#160;&#160;&#160; Wahl
+der Revisionsstelle</font></b></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">10.&#160;&#160;&#160; Election of the auditors</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Die Generalversammlung w&#228;hlt gem&#228;ss Antrag des
+Verwaltungsrates die Ernst&nbsp;&amp; Young AG als Revisionsstelle f&#252;r das
+Gesch&#228;ftsjahr 2010.</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">The Annual
+General Meeting elects, as proposed by the Board of Directors, Ernst&nbsp;&amp;
+Young AG as the auditors for fiscal 2010.</font></i></p>
+
+<p style="line-height:normal;margin:0in 0in .0001pt 21.3pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">F&#252;r das Protokoll:</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">For
+  the minutes:</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">&nbsp;</font></i></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Z&#252;rich, 26. April&nbsp;2010</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Diane de Saint Victor</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Leiterin Konzern-Rechtsabteilung und Sekret&#228;rin des Verwaltungsrates</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="4%" valign="bottom" style="padding:0in 0in 0in 0in;width:4.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="48%" valign="top" style="padding:0in 0in 0in 0in;width:48.0%;">
+  <p style="margin:0in 0in .0001pt;"><i><font size="2" face="Times New Roman" style="font-size:10.0pt;font-style:italic;">General Counsel and Secretary to the Board of
+  Directors</font></i></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">9<a name="PB_9_211211_8146"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='9',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-03.htm',USER='105074',CD='Apr 27 21:45 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div style="font-family:Times New Roman;">
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="67%" valign="top" style="padding:0in 0in 0in 0in;width:67.02%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Press
+  Release</font></b></p>
+  </td>
+  <td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.96%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="29%" valign="top" style="padding:0in 0in 0in 0in;width:29.02%;">
+  <p align="right" style="margin:0in 0in .0001pt;text-align:right;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><img width="96" height="36" src="g88401ba05i001.gif">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="67%" valign="top" style="padding:0in 0in 0in 0in;width:67.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.96%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="29%" valign="top" style="padding:0in 0in 0in 0in;width:29.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="67%" valign="top" style="padding:0in 0in 0in 0in;width:67.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ABB shareholders approve
+  all board proposals</font></p>
+  </td>
+  <td width="3%" valign="bottom" style="padding:0in 0in 0in 0in;width:3.96%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="29%" valign="top" style="padding:0in 0in 0in 0in;width:29.02%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Zurich, Switzerland, April&nbsp;26, 2010 &#151;
+Shareholders of ABB, the leading power and automation technology group, have
+approved all proposals submitted by the Board of Directors to the company&#146;s
+annual general meeting in Zurich today.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">All eight members of the Board were re-elected
+for another annual term. The Board of Directors re-elected Hubertus von
+Gr&#252;nberg to the position of Chairman of the Board.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Shareholders voted for a payout of 0.51 Swiss
+francs per share for 2009, an increase of 6 percent compared to the prior year,
+to be paid in the form of a reduction in the nominal value of the shares. The
+Swiss-franc share buyback program announced in 2008 has ended. The shareholders
+agreed to a proposal to cancel the 22.675 million shares that were purchased
+under the program.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#147;ABB is stronger today than it was a year ago,
+despite the worst recession in many decades,&#148; said Chairman von Gr&#252;nberg. &#147;Quick
+and decisive action on costs and aggressive pursuit of opportunities globally
+have positioned the company for growth as the world economy recovers.&#148;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">About 1,300 shareholders attended the annual
+general meeting and 53 percent of the total share capital was represented. They
+approved the annual report, the consolidated financial statements and the
+annual financial statements for 2009.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">ABB (www.abb.com) is a leader in power and
+automation technologies that enable utility and industry customers to improve
+performance while lowering environmental impact. The ABB Group of companies
+operates in around 100 countries and employs about 117,000 people.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For more information please contact:</font></b></p>
+
+<p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Media Relations:</font></b></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Investor Relations</font></b><font size="2" style="font-size:10.0pt;">:</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Wolfram Eberhardt, Thomas Schmidt</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Switzerland: Tel. +41 43 317 7111</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Zurich, Switzerland)</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Sweden: Tel. +46 21 329 108</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Tel: +41 43 317 6568</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">USA: Tel. +1 203 750 7743</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">media.relations@ch.abb.com</font></p>
+  </td>
+  <td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.0%;">
+  <p style="margin:0in 0in .0001pt;text-autospace:none;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">investor.relations@ch.abb.com</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10<a name="PB_10_212015_7091"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='10',FILE='C:\JMS\msounda\10-8840-1\task4075240\8840-1-ba-05.htm',USER='105074',CD='Apr 27 21:46 2010' -->
+
+
+
+<br clear="all" style="page-break-before:always;">
+<div>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;width:100.0%;">
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="360" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">ABB LTD</font></b></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">&nbsp;</font></b></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date: April 28, 2010</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Michel Gerber</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Michel Gerber</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Group Senior Vice
+  President and Head<br>
+  of Investor Relations</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Richard A. Brown</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Name:</font></p>
+  </td>
+  <td width="315" valign="top" style="border:none;padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Richard A. Brown</font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width="360" valign="top" style="padding:0in 0in 0in 0in;width:3.75in;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+  </td>
+  <td width="45" valign="top" style="padding:0in 0in 0in 0in;width:33.75pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Title:</font></p>
+  </td>
+  <td width="315" valign="top" style="padding:0in 0in 0in 0in;width:236.25pt;">
+  <p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Group Senior Vice
+  President and<br>
+  Chief Counsel Corporate&nbsp;&amp; Finance</font></p>
+  </td>
+ </tr>
+</table>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">11<a name="PB_11_212121_455"></a></font></p>
+
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade color="#010101" align="left"></div>
+
+</div>
+<!-- SEQ.=1,FOLIO='11',FILE='C:\JMS\105949\10-8840-1\task4077897\8840-1-ba-07.htm',USER='105949',CD='Apr 28 13:18 2010' -->
+
+
+</body>
+
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g88401ba05i001.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g88401ba05i001.gif
+M1TE&.#EA8``D`'<`,2'^&E-O9G1W87)E.B!-:6-R;W-O9G0@3V9F:6-E`"'Y
+M!`$`````+````0!@`",`@````/\```+>A(\7R[T)D9LT2HJ?W3<'GGC>)F:@
+M56IGBJ'L=$)L#+QM:,-T/:^Y(_L!8S:BL($[JD!%G_+34=)R3FGT:&QRGDO>
+M,ZMU?:_":CC"A2JXYG/2NAYOL21YG#['H^%D*M/^YA=4!D:X9QCH=@AXAVC`
+MEL?X"-GHV&<Y"9BFEJAW*>@EN<FP*#<ZN%D*=]K)5VDURAE+VDH8^^D:"GG[
+M2MEKRZK+^_N3F4:LR<H[JV-LFNK<7&>"_%+=(XQ4.!2-")VMW<9]C(L-WO5W
+7<V[>?3:R\[Y>HNI.O;/>GB)6G%```#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

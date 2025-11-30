@@ -1,0 +1,690 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JuonUaiWFMzG+ESPOLWn03fUBTkxsEjssXhvgJ6YTjAxB1N85MrMWoe4v4epqLd+
+ ZuF/E3vui1Y5m7qiU+LmFA==
+
+<SEC-DOCUMENT>0000950123-10-116404.txt : 20101227
+<SEC-HEADER>0000950123-10-116404.hdr.sgml : 20101224
+<ACCEPTANCE-DATETIME>20101227062304
+ACCESSION NUMBER:		0000950123-10-116404
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20101201
+FILED AS OF DATE:		20101227
+DATE AS OF CHANGE:		20101227
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIA CORP
+		CENTRAL INDEX KEY:			0001413257
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - CROPS [0100]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33766
+		FILM NUMBER:		101273444
+
+	BUSINESS ADDRESS:	
+		STREET 1:		21/F TOWER B,PINGAN INT'L FINANCE CENTER
+		STREET 2:		1-3 XINYUAN SOUTH RD,CHAOYANG DISTRICT
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+		BUSINESS PHONE:		86 (10) 8438 1060
+
+	MAIL ADDRESS:	
+		STREET 1:		21/F TOWER B,PINGAN INT'L FINANCE CENTER
+		STREET 2:		1-3 XINYUAN SOUTH RD,CHAOYANG DISTRICT
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>c10261e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 6-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of Contents</A></H5><P>
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 10pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 10pt"><B>FORM 6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 10pt"><B>REPORT OF FOREIGN PRIVATE ISSUER<BR>
+PURSUANT TO RULE 13a-16 OR 15d-16 UNDER<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>For the month of December&nbsp;2010</B>
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 20pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>Commission File Number: 001-33766</B>
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 20pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 10pt"><B>AGRIA CORPORATION</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">21/F Tower B, PingAn International Finance Center,<BR>
+1-3 Xinyuan South Road, Chaoyang District<BR>
+Beijing 100027<BR>
+People&#146;s Republic of China<BR>
+(Address of principal executive offices)
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or Form 40-F.
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Form&nbsp;20-F <FONT face="Wingdings">&#254;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form&nbsp;40-F <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1): <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7): <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+<DIV align="left">
+<!-- TOC -->
+</DIV>
+<DIV align="left">
+<A name="tocpage"></A>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">AGRIA CORPORATION<BR>
+FORM 6-K<BR>
+TABLE OF CONTENTS
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="86%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="11%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><A href="#101">SIGNATURE
+</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><A href="#102">Exhibit&nbsp;Index</A></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR><TD colspan="9"><FONT size="2">&nbsp;<A HREF="c10261exv99w1.htm">Exhibit 99.1 - Press Release</A></FONT></TD></TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+<DIV align="left">
+<!-- /TOC -->
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+<DIV align="left">
+<A name="101"></A>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">SIGNATURE
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Agria Corporation<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Christopher Boddington
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Christopher Boddington&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Date: December&nbsp;27, 2010
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always"><A HREF="#tocpage">Table of Contents</A></H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+<DIV align="left">
+<A name="102"></A>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Exhibit No.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Description</B></TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">99.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Press release</DIV></TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>c10261exv99w1.htm
+<DESCRIPTION>EXHIBIT 99.1 - PRESS RELEASE
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Exhibit 99.1 - Press Release</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.50in">
+
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 10pt"><B>Exhibit&nbsp;99.1</B>
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 10pt"><IMG src="c10261p1026101.jpg" alt="(LOGO)">
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Clarification by Agria Regarding its Intentions in Relation to the Partial Takeover Offer for PGG
+Wrightson Limited</B>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Beijing, China &#151; December&nbsp;24, 2010 &#151; </B>Yesterday, Agria Corporation (NYSE: GRO) (<B>Agria</B>) together
+with China-based New Hope Group (<B>New Hope</B>) announced a partial takeover offer for PGG Wrightson
+Limited (<B>PGW</B>).
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">In its announcement yesterday, Agria&#146;s CEO said, &#147;Agria has no intention to increase its
+shareholding above 50.01% if the offer is successful, and has committed not to make a further offer
+at a higher price for a period of 12&nbsp;months.&#148;
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Agria wishes to clarify that its present intention is not to acquire more than 50.01% of PGW
+through this takeover offer.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Further, Agria has committed itself in the draft takeover offer document not to make a further
+takeover offer at a higher price for a period of 12&nbsp;months.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>About Agria Corporation</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Agria Corporation (NYSE: GRO) is a China-based company with investments in the agricultural sector.
+For more information about Agria Corporation, please visit www.agriacorp.com.
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="50%">&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Contacts:</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>In China:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>In the U.S.:</B></TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">John Layburn
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">David Pasquale</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Chief Strategy and Compliance Officer
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Vice President</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">China Tel: 86-10-8438 1031
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">U.S. Tel: &#043;914-337-1117</TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">john.layburn@agriacorp.com
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">david.pasquale@agriacorp.com</TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Safe Harbor Statement:</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">This announcement contains forward-looking statements. These statements are made under the &#147;safe
+harbor&#148; provisions of the U.S. Private Securities Litigation Reform Act of 1995. These
+forward-looking statements can be identified by terminology such as &#147;will,&#148; &#147;expects,&#148;
+&#147;anticipates,&#148; &#147;future,&#148; &#147;intends,&#148; &#147;plans,&#148; &#147;believes,&#148; &#147;estimates,&#148; &#147;confident&#148; and similar
+statements. Agria may also make written or oral forward-looking statements in its periodic reports
+to the U.S. Securities and Exchange Commission on Forms 20-F and 6-K, etc., in its annual report to
+shareholders, in press releases and other written materials and in oral statements made by its
+officers, directors or employees to third parties. Statements that are not historical facts,
+including statements about Agria&#146;s beliefs and expectations, are forward-looking statements.
+Forward-looking statements involve inherent risks and uncertainties. A number of important factors
+could cause actual results to differ materially from those contained in any forward-looking
+statement. Potential risks and uncertainties include, but are not limited to, those risks outlined
+in Agria&#146;s filings with the U.S. Securities and Exchange Commission. All information provided in
+this press release is as of the date of this announcement unless otherwise stated, and Agria does
+not undertake any obligation to update any forward-looking statement, except as required under
+applicable law.
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>c10261p1026101.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 c10261p1026101.jpg
+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
+*`*`"@`H`*`/_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

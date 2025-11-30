@@ -1,0 +1,479 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vx06iDek3syJSynRXaDxxrVjnJV2cf78oCHeEZoUyaKYhEu6B2djiJ5lp14f9hjs
+ MVCYJq1JH5TJ4X4I4jSSgA==
+
+<SEC-DOCUMENT>0001309014-09-000813.txt : 20091008
+<SEC-HEADER>0001309014-09-000813.hdr.sgml : 20091008
+<ACCEPTANCE-DATETIME>20091007180219
+ACCESSION NUMBER:		0001309014-09-000813
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20091007
+FILED AS OF DATE:		20091008
+DATE AS OF CHANGE:		20091007
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		091110817
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_4380.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>Form 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+October 7, 2009
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: October 7, 2009
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Chief Financial Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard&#8217;s Fuel Cell Module Powers The First BC Transit Zero-Emission Fuel Cell Bus</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 10pt">Ballard Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 10pt">News Release
+
+
+<P align="left" style="font-size: 10pt"><B>Ballard&#146;s Fuel Cell Module Powers The First BC Transit Zero-Emission Fuel Cell Bus</B>
+
+
+<P align="left" style="font-size: 10pt"><B>For Immediate Release &#150; October&nbsp;5, 2009</B>
+
+
+<P align="left" style="font-size: 10pt">VANCOUVER, CANADA&#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) congratulates BC Transit, the
+Province of British Columbia, the Government of Canada, and its consortium partners on the
+introduction of the first bus in BC Transit&#146;s fleet of 20 hydrogen fuel cell buses. Representatives
+from Ballard were on site as Premier Gordon Campbell unveiled &#147;Bus 1&#148; on Friday, October&nbsp;3, 2009 in
+Vancouver. BC Transit&#146;s fleet will become the largest single deployment of zero-emission fuel cell
+buses worldwide and it is powered by Ballard&#146;s heavy-duty fuel cell module, the
+FC<I>velocity</I><sup>TM</sup>-HD6.
+
+
+<P align="left" style="font-size: 10pt">&#147;All of us at Ballard are proud of to be partners in helping BC lead the way in adopting new
+technologies that support sustainable practices and reduce greenhouse gas emissions,&#148; said John
+Sheridan, Ballard&#146;s President and Chief Executive Officer. &#147;The BC Transit fuel cell bus fleet is
+an important proof point for the level of robustness and durability offered by Ballard clean energy
+products &#150; not only in buses but also in material handling and stationary power.&#148;
+
+
+<P align="left" style="font-size: 10pt">Fuel cell buses are zero-emission vehicles, with no greenhouse gases, particulates, or harmful
+emissions released during operation. Water is the only byproduct. BC Transit&#146;s fleet of fuel cell
+buses is expected to reduce greenhouse gas emissions by around 1,800 tonnes per year in British
+Columbia.
+
+
+<P align="left" style="font-size: 10pt">Ballard&#146;s FC<I>velocity</I><sup>TM</sup>-HD6 is ideal for integration into bus applications. It is
+designed to be a plug-and-play solution for any fuel cell or hybrid fuel cell bus platform and to
+be robust and durable in harsh motive conditions. The BC Transit fleet is the first that
+incorporates Ballard&#146;s heavy-duty fuel cell module into a hybrid fuel cell / battery architecture
+with an electric drive, which enables higher vehicle efficiency and improved fuel cell durability.
+
+
+<P align="left" style="font-size: 10pt">BC Transit&#146;s fleet of fuel cell buses will operate in revenue service in the Resort Municipality of
+Whistler, British Columbia during the 2010 Olympic and Paralympic Winter Games and beyond.
+
+
+<P align="left" style="font-size: 10pt"><B>About Ballard Power Systems</B>
+
+
+<P align="left" style="font-size: 10pt">Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) is recognized as a world leader in the design,
+development, manufacture and sale of clean energy fuel cell products. Ballard&#146;s mission is to
+accelerate fuel cell product adoption. To learn more about what Ballard is doing with Power to
+Change the World&#174;, visit www.ballard.com.
+
+
+<P align="left" style="font-size: 10pt">For further information, or to arrange an interview with a Ballard spokesperson, please contact
+Media Relations at telephone number 604-453-3804 or on e-mail media@ballard.com.
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+
+
+<!-- v.121908 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

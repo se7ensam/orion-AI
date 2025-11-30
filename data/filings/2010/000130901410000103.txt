@@ -1,0 +1,509 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KtKP4uhpqI9H+8BpiFLhxtjhoPvvtvpICaRbClpA78BIZdZz9BZ3Nz/ZKKDAPXmw
+ 3lZouMlXoMWYb6si5viw/A==
+
+<SEC-DOCUMENT>0001309014-10-000103.txt : 20100209
+<SEC-HEADER>0001309014-10-000103.hdr.sgml : 20100209
+<ACCEPTANCE-DATETIME>20100209111800
+ACCESSION NUMBER:		0001309014-10-000103
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100209
+FILED AS OF DATE:		20100209
+DATE AS OF CHANGE:		20100209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		10582872
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_4765.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>FORM 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+February 9, 2010
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: February 9, 2010
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Chief Financial Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard Announces Sale-Leaseback for Cash Proceeds of C$20.8 Million</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 12pt">Ballard Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 12pt">News Release
+
+
+<P align="left" style="font-size: 12pt"><B>Ballard Announces Sale-Leaseback for Cash Proceeds of C$20.8 Million</B>
+
+
+<P align="left" style="font-size: 12pt"><B>For Immediate Release &#150; February&nbsp;8, 2010</B>
+
+
+<P align="left" style="font-size: 12pt">VANCOUVER, CANADA&#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) announced that it has entered
+into a sale-and-leaseback agreement with Madison Pacific Properties Inc. (TSX: MPC)
+(www.madisonpacific.ca). Ballard will sell its head office building site in Burnaby, British
+Columbia in return for gross cash proceeds of approximately C$20.8&nbsp;million (US$19.5&nbsp;million). The
+company will also enter into an initial fifteen-year lease agreement for the same property. The
+transaction is expected to close on March&nbsp;9, 2010.
+
+
+<P align="left" style="font-size: 12pt">Bruce Cousins, Ballard&#146;s Chief Financial Officer said, &#147;This transaction presented an opportunity
+to extract cash from a non-core asset and further fortify our strong balance sheet, augmenting the
+company&#146;s cash reserves to approximately $100&nbsp;million. At the same time, Ballard&#146;s continued use of
+the site is secured through a long-term lease arrangement.&#148;
+
+
+<P align="left" style="font-size: 12pt">John Sheridan, Ballard&#146;s President & CEO added, &#147;This transaction, along with the monetization of
+our Share Purchase Agreement and our progress in market development in 2009, has positioned Ballard
+for strong performance in 2010. We continue to expect revenue growth in excess of 35% and improved
+cash flow from operations by 30% in 2010, and positive EBITDA performance during 2011.&#148;
+
+
+<P align="left" style="font-size: 12pt"><B>About Ballard Power Systems</B>
+<BR>
+Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) provides clean energy fuel cell products enabling
+optimized power systems for a range of applications. To learn more about Ballard, please visit
+www.ballard.com.
+
+
+<P align="left" style="font-size: 12pt">This release contains forward-looking statements, including estimated revenue and cash flow from
+operations for 2010, which are provided to enable external stakeholders to understand Ballard&#146;s
+expectations&nbsp;as at the date of this release and may not be appropriate for other purposes. These
+forward-looking statements are based on the beliefs and assumptions of Ballard&#146;s management and
+reflect Ballard&#146;s current expectations as contemplated under section 27A of the Securities Act of
+1933, as amended, and Section&nbsp;21E of the Securities Exchange Act of 1934, as amended. Such
+assumptions relate to Ballard&#146;s financial forecasts and expectations regarding its product
+development efforts, manufacturing capacity, and market demand, and include matters such as
+generating new sales, producing, delivering and selling the expected number of units, and
+controlling its costs.
+
+
+<P align="left" style="font-size: 12pt">These statements involve risks and uncertainties that may cause Ballard&#146;s actual results to be
+materially different, including, without limitation, the condition of the global economy, the rate
+of mass adoption of its products, product development delays, changing environmental regulations,
+its ability to attract and retain business partners and customers, its access to funding,
+increased competition, its ability to protect its intellectual property, changes in its customers&#146;
+requirements, foreign exchange impacts on its net monetary assets and its ability to provide the
+capital required for product development, operations and marketing. For a detailed discussion of
+these risk factors and other risk factors that could affect Ballard&#146;s future performance, please
+refer to Ballard&#146;s most recent Annual Information Form.
+
+&nbsp;
+
+<P align="left" style="font-size: 12pt">Readers should not place undue reliance on Ballard&#146;s forward-looking statements and Ballard
+assumes no obligation to update or release any revisions to these forward looking statements,
+other than as required under applicable legislation.
+
+
+<P align="left" style="font-size: 12pt"><B>Further Information</B>
+<BR>
+Investor Relations:
+<BR>
+Lori Rozali
+<BR>
+&#043;1.604.412.3195
+<BR>
+investors@ballard.com
+
+
+<P align="left" style="font-size: 12pt">Public Relations:
+<BR>
+Guy McAree
+<BR>
+&#043;1.604. 412.7919
+<BR>
+media@ballard.com
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+
+
+<!-- v.121908 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

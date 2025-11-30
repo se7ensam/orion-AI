@@ -1,0 +1,1500 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KqFtD2FwHeH3jhz7r1jWzjuJuzwGAVsAjkKGABIzD97DKXVJKEJ58I7u7nCKEPl+
+ FtCy4DsefuzMgjFaxNJWDw==
+
+<SEC-DOCUMENT>0001167379-10-000177.txt : 20101025
+<SEC-HEADER>0001167379-10-000177.hdr.sgml : 20101025
+<ACCEPTANCE-DATETIME>20101025143514
+ACCESSION NUMBER:		0001167379-10-000177
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20101025
+FILED AS OF DATE:		20101025
+DATE AS OF CHANGE:		20101025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALCON INC
+		CENTRAL INDEX KEY:			0001167379
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPHTHALMIC GOODS [3851]
+		IRS NUMBER:				980205094
+		STATE OF INCORPORATION:			V8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-31269
+		FILM NUMBER:		101139658
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6201 SOUTH FREEWAY
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76134
+		BUSINESS PHONE:		8175686248
+
+	MAIL ADDRESS:	
+		STREET 1:		BOSCH 69 6331 HUNENBERG
+		CITY:			SWITZERLAND
+		STATE:			V8
+		ZIP:			0000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>acl6k1024idcbodpr.htm
+<TEXT>
+<html>
+<head>
+    <title>acl6k1024idcbodpr.htm</title>
+    <!-- Licensed to: Alcon -->
+    <!-- Document Created using EDGARizer 5.2.3.0 -->
+    <!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+
+
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">UNITED STATES</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form 6-K</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of <font style="DISPLAY: inline; FONT-WEIGHT: bold">October 2010</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission File Number 001-31269</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ALCON, INC.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant's name into English)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">B&#246;sch 69</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">P.O. Box 62</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6331 H&#252;nenberg, Switzerland</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;41-41-785-8888</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form 20-F</font></div>
+</td>
+<td valign="top" width="2%" style="BORDER-TOP: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">x</font></div>
+</td>
+<td align="left" valign="top" width="9%" style="BORDER-LEFT: black 0.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form 40-F</font></div>
+</td>
+<td valign="top" width="2%" style="BORDER-RIGHT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b) (1): ____</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b) (7): ____</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes</font></div>
+</td>
+<td valign="top" width="2%" style="BORDER-TOP: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="right" valign="top" width="9%" style="BORDER-LEFT: black 0.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No</font></div>
+</td>
+<td valign="top" width="2%" style="BORDER-RIGHT: black 0.5pt solid; BORDER-TOP: black 0.5pt solid; BORDER-LEFT: black 0.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">x</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): 82- ______</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attached as Exhibit 99.1 is the Press Release issued on October 24, 2010 by the Independent Directors Committee of the Board of Directors of Alcon, Inc. that has been studying/evaluating the Novartis proposal to acquire the publicly-traded shares of Alcon.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Alcon, Inc.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" valign="top" width="15%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Registrant)</font></div>
+</td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td align="right" valign="top" width="12%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:&#160; </font></div>
+</td>
+<td align="left" valign="top" width="16%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">October 25, 2010</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By:&#160; </font></div>
+</td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/ Joanne Beck</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Name:&#160;&#160;Joanne Beck</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title: General Manager</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr><tr>
+<td align="right" valign="top" width="12%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:&#160; </font></div>
+</td>
+<td align="left" valign="top" width="16%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">October 25, 2010</font></div>
+</td>
+<td align="right" valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By:&#160; </font></div>
+</td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/ Stefan Basler</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Name:&#160;&#160;Stefan Basler</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td align="left" colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title: Attorney-in-fact</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+<td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>acl6k1024idcbodex991.htm
+<TEXT>
+<html>
+<head>
+    <title>acl6k1024idcbodex991.htm</title>
+    <!-- Licensed to: Alcon -->
+    <!-- Document Created using EDGARizer 5.2.3.0 -->
+    <!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+
+
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exhibit 99.1</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="acl6k1024idcbodex9910.jpg" alt=""></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Alcon Independent Director Committee Notes Change in Alcon Chairmanship</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">No Change in Composition or Mandate of the IDC</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">Novartis&#8217; Merger Proposal Cannot Be Approved by the Alcon Board Without Prior Recommendation by the IDC</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">H</font><font style="DISPLAY: inline; FONT-WEIGHT: bold">U</font><font style="DISPLAY: inline; FONT-WEIGHT: bold">ENENBERG, Switzerland &#8211; October 24, 2010 &#8211; </font>The Alcon Independent Director Committee (the &#8220;IDC&#8221;) notes that Dr. Daniel Vasella, Chairman of Novartis AG (&#8220;Novartis&#8221;), replaced Mr. Cary Rayment as Chairman of the Alcon Board of Directors at a telephonic meeting of the Alcon Board of Directors held earlier today.&#160;&#160;Mr. Rayment was appointed as Vice Chairman at the same meeting.&#160;&#160;The IDC notes that the composition and mandate of the IDC remain unchanged.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Thomas G. Plaskett, Chairman of the IDC, said, &#8220;Although Alcon has a new Chairman, nothing has changed with respect to the IDC.&#160;&#160;Alcon&#8217;s Organizational Regulations clearly require the IDC&#8217;s prior recommendation before the Alcon Board of Directors can decide on any transaction between Alcon and Novartis.&#160;&#160;The IDC will continue to take all available and appropriate actions to ensure that this process is upheld and that the rights of Alcon&#8217;s minority shareholders are protected.&#8221;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Greenhill &amp; Co., Sullivan &amp; Cromwell LLP and Pestalozzi, Zurich, are continuing to act as advisors to the IDC.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Important information regarding the proposal will continue to be posted on the Committee&#8217;s website: <font style="DISPLAY: inline">www.transactioninfo.com/alcon</font>.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Media Inquiries:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Steve Lipin/Stan Neve</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Brunswick Group (212) 333-3810</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Rolf Schl&#228;pfer/Andreas Thommen</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hirzel. Neef. Schmid. Konsulenten +41 (0)43 344 42 42</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Investor Inquiries:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Bob Marese/Larry Dennedy</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mackenzie Partners 800-322-2885</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">About Alcon</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Alcon, Inc. is the world&#8217;s leading eye care company, with sales of approximately $6.5 billion in 2009. Alcon, which has been dedicated to the ophthalmic industry for 65 years, researches, develops, manufactures and markets pharmaceuticals, surgical equipment and devices, contacts lens solutions and other vision care products that treat diseases, disorders and other conditions of the eye. Alcon operates in 75 countries and sells products in 180 markets. For more information on Alcon, Inc., visit Alcon&#8217;s website at <font style="DISPLAY: inline">www.alcon.com</font>.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"># # #</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Caution Concerning Forward-Looking Statements. </font>This press release may contain forward-looking statements within the meaning of the United States Private Securities Litigation Reform Act of 1995. Any forward-looking statements reflect the views of the Committee as of the date of this press release with respect to future events and are based on assumptions and subject to risks and uncertainties. Given these uncertainties, you should not place undue reliance on these forward-looking statements. There can be no guarantee that Novartis or Alcon will achieve any particular future financial results or future growth rates or that Novartis or Alcon will be able to realize any potential synergies, strategic benefits or opportunities as a result of the con
+summation of the Novartis purchase or the proposed merger. Also, there can be no guarantee that the Committee will obtain any particular result. Except to the extent required under the federal securities laws and the rules and regulations promulgated by the Securities and Exchange Commission, we undertake no obligation to publicly update or revise any of these forward-looking statements, whether to reflect new information or future events or circumstances or otherwise.</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>3
+<FILENAME>acl6k1024idcbodpr.pdf
+<DESCRIPTION>6-K PDF
+<TEXT>
+<PDF>
+begin 644 acl6k1024idcbodpr.pdf
+M)5!$1BTQ+C0-)>+CS],-"CD@,"!O8FH@/#PO3&EN96%R:7IE9"`Q+TP@,30R
+M-38O3R`Q,2]%(#@S.#@O3B`R+U0@,30P,S`O2"!;(#4Y-B`Q.3!=/CX-96YD
+M;V)J#2`@("`@("`@("`@("`@("`@("`@#0IX<F5F#0HY(#$U#0HP,#`P,#`P
+M,#$V(#`P,#`P(&X-"C`P,#`P,#`W.#8@,#`P,#`@;@T*,#`P,#`P,#@V,R`P
+M,#`P,"!N#0HP,#`P,#`P.3DQ(#`P,#`P(&X-"C`P,#`P,#$Q,C,@,#`P,#`@
+M;@T*,#`P,#`P,34U,"`P,#`P,"!N#0HP,#`P,#`R,C@Q(#`P,#`P(&X-"C`P
+M,#`P,#(S,34@,#`P,#`@;@T*,#`P,#`P,C4V,R`P,#`P,"!N#0HP,#`P,#`R
+M.#`U(#`P,#`P(&X-"C`P,#`P,#(X.#$@,#`P,#`@;@T*,#`P,#`P-3,U,"`P
+M,#`P,"!N#0HP,#`P,#`U-#DX(#`P,#`P(&X-"C`P,#`P,#@Q-C<@,#`P,#`@
+M;@T*,#`P,#`P,#4Y-B`P,#`P,"!N#0IT<F%I;&5R#0H\/"]3:7IE(#(T+U!R
+M978@,30P,C`O4F]O="`Q,"`P(%(O26YF;R`X(#`@4B])1%L\-S1",3<Q-$-!
+M0C8Y-D4W-3-%.#(U-38X,T4T-3E&,#@^/#1"1D)",S<T,30U-4)!-#1!.3@Q
+M0C4T-C@T,#<U1CA#/ET^/@T*<W1A<G1X<F5F#0HP#0HE)45/1@T*("`@("`@
+M("`@("`@("`@#0HR,R`P(&]B:CP\+TQE;F=T:"`Q,#0O1FEL=&5R+T9L871E
+M1&5C;V1E+TD@,3(R+TP@,3`V+U,@-C(^/G-T<F5A;0T*>-IB8&!@9F!@6LC`
+MPL#`UL;`RX``O$`Q$.28L.T'`T,[2,C-/&@!D+)@8%!J``DB`1XH!DHQ\+`^
+M2)*8M).!X1HO@]8,@Z(E&W:#98!VJ/4`:2:(&0P<#`RF2D":$8B?``08`&::
+M$9L-"F5N9'-T<F5A;0UE;F1O8FH-,3`@,"!O8FH\/"]-971A9&%T82`W(#`@
+M4B]086=E<R`V(#`@4B]4>7!E+T-A=&%L;V<O4&%G94QA8F5L<R`T(#`@4CX^
+M#65N9&]B:@TQ,2`P(&]B:CP\+T-R;W!";WA;,"`P(#8Q,B`W.3)=+U!A<F5N
+M="`V(#`@4B]#;VYT96YT<R`Q.2`P(%(O4F]T871E(#`O365D:6%";WA;,"`P
+M(#8Q,B`W.3)=+U)E<V]U<F-E<R`Q,B`P(%(O5'EP92]086=E/CX-96YD;V)J
+M#3$R(#`@;V)J/#PO0V]L;W)3<&%C93P\+T-S-B`Q-2`P(%(^/B]&;VYT/#PO
+M5%0R(#$S(#`@4B]45#0@,30@,"!2+U14-B`R,"`P(%(^/B]0<F]C4V5T6R]0
+M1$8O5&5X=%TO17AT1U-T871E/#PO1U,Q(#$X(#`@4CX^/CX-96YD;V)J#3$S
+M(#`@;V)J/#PO4W5B='EP92]4<G5E5'EP92]&;VYT1&5S8W)I<'1O<B`Q-B`P
+M(%(O3&%S=$-H87(@,3$V+U=I9'1H<ULR-3`@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#(U,"`S,S,@,C4P(#`@-3`P(#4P,"`U,#`@-3`P(#4P,"`U,#`@-3`P
+M(#`@,"`U,#`@,"`P(#`@,"`P(#`@,"`W,C(@,"`W,C(@-S(R(#8V-R`V,3$@
+M-S<X(#<W."`S.#D@,"`W-S@@-C8W(#DT-"`W,C(@-S<X(#8Q,2`P(#<R,B`U
+M-38@-C8W(#<R,B`W,C(@,3`P,"`W,C(@,"`P(#`@,"`P(#`@,"`P(#4P,"`U
+M-38@-#0T(#4U-B`T-#0@,"`U,#`@-34V(#(W."`P(#`@,C<X(#@S,R`U-38@
+M-3`P(#`@,"`T-#0@,S@Y(#,S,UTO0F%S949O;G0O5&EM97-.97=2;VUA;E!3
+M+4)O;&1-5"]&:7)S=$-H87(@,S(O16YC;V1I;F<O5VEN06YS:45N8V]D:6YG
+M+U1Y<&4O1F]N=#X^#65N9&]B:@TQ-"`P(&]B:CP\+U-U8G1Y<&4O5')U951Y
+M<&4O1F]N=$1E<V-R:7!T;W(@,3<@,"!2+TQA<W1#:&%R(#(U,B]7:61T:'-;
+M,C4P(#`@-#`X(#`@,"`P(#`@,3@P(#,S,R`S,S,@,"`P(#(U,"`S,S,@,C4P
+M(#(W."`U,#`@-3`P(#4P,"`U,#`@-3`P(#4P,"`U,#`@-3`P(#4P,"`U,#`@
+M,C<X(#`@,"`P(#`@,"`P(#<R,B`V-C<@-C8W(#<R,B`V,3$@-34V(#<R,B`W
+M,C(@,S,S(#,X.2`W,C(@,"`X.#D@-S(R(#<R,B`U-38@,"`V-C<@-34V(#8Q
+M,2`P(#`@,"`P(#<R,B`P(#`@,"`P(#`@-3`P(#`@-#0T(#4P,"`T-#0@-3`P
+M(#0T-"`S,S,@-3`P(#4P,"`R-S@@,"`U,#`@,C<X(#<W."`U,#`@-3`P(#4P
+M,"`U,#`@,S,S(#,X.2`R-S@@-3`P(#4P,"`W,C(@-3`P(#4P,"`T-#0@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@-3`P(#`@,"`P(#`@,"`U,#!=+T)A<V5&;VYT
+M+U1I;65S3F5W4F]M86Y04TU4+T9I<G-T0VAA<B`S,B]%;F-O9&EN9R]7:6Y!
+M;G-I16YC;V1I;F<O5'EP92]&;VYT/CX-96YD;V)J#3$U(#`@;V)J6R])0T-"
+M87-E9"`R,2`P(%)=#65N9&]B:@TQ-B`P(&]B:CP\+U-T96U6(#$S-B]&;VYT
+M3F%M92]4:6UE<TYE=U)O;6%N4%,M0F]L9$U4+T9O;G13=')E=&-H+TYO<FUA
+M;"]&;VYT5V5I9VAT(#<P,"]&;&%G<R`S-"]$97-C96YT("TR,38O1F]N=$)"
+M;WA;+34U."`M,S`W(#(P,#`@,3`R-ETO07-C96YT(#@Y,2]&;VYT1F%M:6QY
+M*%1I;65S($YE=R!2;VUA;BDO0V%P2&5I9VAT(#8U-B]82&5I9VAT("TU-#8O
+M5'EP92]&;VYT1&5S8W)I<'1O<B])=&%L:6-!;F=L92`P/CX-96YD;V)J#3$W
+M(#`@;V)J/#PO4W1E;58@.#(O1F]N=$YA;64O5&EM97-.97=2;VUA;E!3350O
+M1F]N=%-T<F5T8V@O3F]R;6%L+T9O;G1796EG:'0@-#`P+T9L86=S(#,T+T1E
+M<V-E;G0@+3(Q-B]&;VYT0D)O>%LM-38X("TS,#<@,C`P,"`Q,#`W72]!<V-E
+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
+M,#`\+WAA<#I-;V1I9GE$871E/@H@("`@("`@("`\>&%P.D-R96%T941A=&4^
+M,C`Q,"TQ,"TR-50Q,#HR-CHS-BTP-3HP,#PO>&%P.D-R96%T941A=&4^"B`@
+M("`@(#PO<F1F.D1E<V-R:7!T:6]N/@H@("`@("`\<F1F.D1E<V-R:7!T:6]N
+M(')D9CIA8F]U=#TB(@H@("`@("`@("`@("!X;6QN<SID8STB:'1T<#HO+W!U
+M<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B/@H@("`@("`@("`\9&,Z9F]R;6%T
+M/F%P<&QI8V%T:6]N+W!D9CPO9&,Z9F]R;6%T/@H@("`@("`@("`\9&,Z=&ET
+M;&4^"B`@("`@("`@("`@(#QR9&8Z06QT/@H@("`@("`@("`@("`@("`\<F1F
+M.FQI('AM;#IL86YG/2)X+61E9F%U;'0B/DUI8W)O<V]F="!7;W)D("T@86-L
+M-FM)1$,Q,#(T+F1O8SPO<F1F.FQI/@H@("`@("`@("`@("`\+W)D9CI!;'0^
+M"B`@("`@("`@(#PO9&,Z=&ET;&4^"B`@("`@("`@(#QD8SIC<F5A=&]R/@H@
+M("`@("`@("`@("`\<F1F.E-E<3X*("`@("`@("`@("`@("`@/')D9CIL:3YU
+M<S`S.3@Q,#PO<F1F.FQI/@H@("`@("`@("`@("`\+W)D9CI397$^"B`@("`@
+M("`@(#PO9&,Z8W)E871O<CX*("`@("`@/"]R9&8Z1&5S8W)I<'1I;VX^"B`@
+M("`@(#QR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2(B"B`@("`@("`@("`@
+M('AM;&YS.GAA<$U-/2)H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q+C`O;6TO
+M(CX*("`@("`@("`@/'AA<$U-.D1O8W5M96YT240^=75I9#IA-S4R-C<S8RTT
+M-#)F+30U,F0M8F)A8RTQ.6-A9F5F,V,X,#4\+WAA<$U-.D1O8W5M96YT240^
+M"B`@("`@("`@(#QX87!-33I);G-T86YC94E$/G5U:60Z8C0X-68U-3@M.#,W
+M,"TT.#8P+3AF.3`M838Y-#=C-64R,C-C/"]X87!-33I);G-T86YC94E$/@H@
+M("`@("`\+W)D9CI$97-C<FEP=&EO;CX*("`@/"]R9&8Z4D1&/@H\+W@Z>&UP
+M;65T83X*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M"B`@("`@("`@("`@("`@("`@("`@("`@("`@(`H\/WAP86-K970@96YD/2)W
+M(C\^#0IE;F1S=')E86T-96YD;V)J#3@@,"!O8FH\/"]#<F5A=&EO;D1A=&4H
+M1#HR,#$P,3`R-3$P,C8S-BTP-2<P,"<I+T%U=&AO<BAU<S`S.3@Q,"DO0W)E
+M871O<BA04V-R:7!T-2YD;&P@5F5R<VEO;B`U+C(N,BDO4')O9'5C97(H06-R
+M;V)A="!$:7-T:6QL97(@-RXP(%PH5VEN9&]W<UPI*2]-;V1$871E*$0Z,C`Q
+M,#$P,C4Q,#(V,S8M,#4G,#`G*2]4:71L92A-:6-R;W-O9G0@5V]R9"`M(&%C
+M;#9K241#,3`R-"YD;V,I/CX-96YD;V)J#7AR968-"C`@.0T*,#`P,#`P,#`P
+M,"`V-34S-2!F#0HP,#`P,#`X,S@X(#`P,#`P(&X-"C`P,#`P,#@U,3,@,#`P
+M,#`@;@T*,#`P,#`P.#8S,R`P,#`P,"!N#0HP,#`P,#$P,#4X(#`P,#`P(&X-
+M"C`P,#`P,3`P.3$@,#`P,#`@;@T*,#`P,#`Q,#$Q-"`P,#`P,"!N#0HP,#`P
+M,#$P,3<Q(#`P,#`P(&X-"C`P,#`P,3,W.3(@,#`P,#`@;@T*=')A:6QE<@T*
+D/#PO4VEZ92`Y/CX-"G-T87)T>')E9@T*,3$V#0HE)45/1@T*
+`
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>4
+<FILENAME>acl6k1024idcbodex991.pdf
+<DESCRIPTION>EXHIBIT 99.1 PDF
+<TEXT>
+<PDF>
+begin 644 acl6k1024idcbodex991.pdf
+M)5!$1BTQ+C0-)>+CS],-"CD@,"!O8FH@/#PO3&EN96%R:7IE9"`Q+TP@,C$Y
+M-3$O3R`Q,2]%(#$U-C0W+TX@,B]4(#(Q-S(U+T@@6R`W,S8@,C$P73X^#65N
+M9&]B:@T@("`@("`@("`@("`@("`@("`@#0IX<F5F#0HY(#(R#0HP,#`P,#`P
+M,#$V(#`P,#`P(&X-"C`P,#`P,#`Y-#8@,#`P,#`@;@T*,#`P,#`P,3`R,R`P
+M,#`P,"!N#0HP,#`P,#`Q,34Q(#`P,#`P(&X-"C`P,#`P,#$S-#@@,#`P,#`@
+M;@T*,#`P,#`P,C`R-R`P,#`P,"!N#0HP,#`P,#`R,S(S(#`P,#`P(&X-"C`P
+M,#`P,#(X,#,@,#`P,#`@;@T*,#`P,#`P,S(R-2`P,#`P,"!N#0HP,#`P,#`S
+M-C@Y(#`P,#`P(&X-"C`P,#`P,#,X-#8@,#`P,#`@;@T*,#`P,#`P,S@X,"`P
+M,#`P,"!N#0HP,#`P,#`T,3`Q(#`P,#`P(&X-"C`P,#`P,#0S-#,@,#`P,#`@
+M;@T*,#`P,#`P-#4W,"`P,#`P,"!N#0HP,#`P,#`T.#`S(#`P,#`P(&X-"C`P
+M,#`P,#4P-#$@,#`P,#`@;@T*,#`P,#`P-3$Q-R`P,#`P,"!N#0HP,#`P,#`W
+M,#0Y(#`P,#`P(&X-"C`P,#`P,#DW,3@@,#`P,#`@;@T*,#`P,#`Q-30Q-"`P
+M,#`P,"!N#0HP,#`P,#`P-S,V(#`P,#`P(&X-"G1R86EL97(-"CP\+U-I>F4@
+M,S$O4')E=B`R,3<Q-2]2;V]T(#$P(#`@4B]);F9O(#@@,"!2+TE$6SPS03,U
+M.3@R04(S1#%#,39$.4%!-#(Q1CDP130P.3)#0SX\-35%,#A%.$0W131%.30T
+M-SA%1$(R0C@W1D5#13!&1D0^73X^#0IS=&%R='AR968-"C`-"B4E14]&#0H@
+M("`@("`@("`@("`@("`-"C,P(#`@;V)J/#PO3&5N9W1H(#$R-"]&:6QT97(O
+M1FQA=&5$96-O9&4O22`Q-3(O3"`Q,S8O4R`W.#X^<W1R96%M#0IXVF)@8&`&
+M(ET&5@8&#@,&/@8$X&-@`8JR,'`T,!P^P,#P%B;.R"G4MLFR-7,!A,L!(I24
+M&D!JD(`P%`/E&'B9/F@<Y1)(N,\F8'J@FH%![^`"'H'D9@-6]ZR@V/;&/H@.
+M%@8&EUH@S03$%A"#@R5`]@'Q2X```P!7J!8G#0IE;F1S=')E86T-96YD;V)J
+M#3$P(#`@;V)J/#PO365T861A=&$@-R`P(%(O4&%G97,@-B`P(%(O5'EP92]#
+M871A;&]G+U!A9V5,86)E;',@-"`P(%(^/@UE;F1O8FH-,3$@,"!O8FH\/"]#
+M<F]P0F]X6S`@,"`V,3(@-SDR72]087)E;G0@-B`P(%(O0V]N=&5N=',@,C8@
+M,"!2+U)O=&%T92`P+TUE9&EA0F]X6S`@,"`V,3(@-SDR72]297-O=7)C97,@
+M,3(@,"!2+U1Y<&4O4&%G93X^#65N9&]B:@TQ,B`P(&]B:CP\+UA/8FIE8W0\
+M/"]);3$@,C@@,"!2/CXO0V]L;W)3<&%C93P\+T-S-B`Q.2`P(%(^/B]&;VYT
+M/#PO5%0R(#$S(#`@4B]45#0@,30@,"!2+U14-B`Q-2`P(%(O5%0X(#$V(#`@
+M4B]45#$P(#$W(#`@4B]45#$R(#$X(#`@4CX^+U!R;V-3971;+U!$1B]497AT
+M+TEM86=E0UTO17AT1U-T871E/#PO1U,Q(#(U(#`@4CX^/CX-96YD;V)J#3$S
+M(#`@;V)J/#PO4W5B='EP92]4<G5E5'EP92]&;VYT1&5S8W)I<'1O<B`R,"`P
+M(%(O3&%S=$-H87(@,C(X+U=I9'1H<ULR-S@@,"`P(#4U-B`U-38@,"`V-C<@
+M,"`S,S,@,S,S(#`@-3@T(#(W."`S,S,@,C<X(#(W."`U-38@-34V(#4U-B`U
+M-38@-34V(#4U-B`U-38@-34V(#4U-B`U-38@,C<X(#`@,"`P(#`@,"`P(#8V
+M-R`V-C<@-S(R(#<R,B`P(#8Q,2`W-S@@-S(R(#(W."`P(#8V-R`U-38@.#,S
+M(#<R,B`W-S@@-C8W(#`@-S(R(#8V-R`V,3$@,"`V-C<@,"`P(#`@-C$Q(#`@
+M,"`P(#`@,"`P(#4U-B`U-38@-3`P(#4U-B`U-38@,C<X(#4U-B`U-38@,C(R
+M(#`@-3`P(#(R,B`X,S,@-34V(#4U-B`U-38@-34V(#,S,R`U,#`@,C<X(#4U
+M-B`U,#`@-S(R(#4P,"`U,#`@-3`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`R,C(@,S,S(#,S,R`P(#`@,"`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#4U-ETO0F%S949O;G0O07)I86Q-5"]&:7)S=$-H87(@
+M,S(O16YC;V1I;F<O5VEN06YS:45N8V]D:6YG+U1Y<&4O1F]N=#X^#65N9&]B
+M:@TQ-"`P(&]B:CP\+U-U8G1Y<&4O5')U951Y<&4O1F]N=$1E<V-R:7!T;W(@
+M,C$@,"!2+TQA<W1#:&%R(#@Y+U=I9'1H<ULR-3`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`R-3`@,"`U,#`@-3`P(#4P,"`U,#`@,"`U,#`@-3`P(#`@
+M-3`P(#4P,"`R-S@@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`W,C(@,"`P(#`@,"`P(#`@,"`P(#`@,"`W,C)=+T)A<V5&;VYT+U1I
+M;65S3F5W4F]M86Y04TU4+T9I<G-T0VAA<B`S,B]%;F-O9&EN9R]7:6Y!;G-I
+M16YC;V1I;F<O5'EP92]&;VYT/CX-96YD;V)J#3$U(#`@;V)J/#PO4W5B='EP
+M92]4<G5E5'EP92]&;VYT1&5S8W)I<'1O<B`R,B`P(%(O3&%S=$-H87(@,34P
+M+U=I9'1H<ULR-S@@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#(W."`P(#(W."`P
+M(#4U-B`U-38@-34V(#`@-34V(#`@,"`P(#`@-34V(#,S,R`P(#`@,"`P(#`@
+M,"`W,C(@-S(R(#<R,B`W,C(@-C8W(#`@-S<X(#<R,B`R-S@@,"`P(#`@.#,S
+M(#<R,B`W-S@@,"`P(#<R,B`V-C<@,"`W,C(@,"`P(#`@,"`P(#`@,"`P(#`@
+M,"`P(#4U-B`V,3$@-34V(#8Q,2`U-38@,"`V,3$@-C$Q(#(W."`P(#`@,C<X
+M(#@X.2`V,3$@-C$Q(#8Q,2`V,3$@,S@Y(#4U-B`S,S,@-C$Q(#4U-B`W-S@@
+M-34V(#`@-3`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#4U-ETO0F%S949O;G0O07)I86PM0F]L9$U4
+M+T9I<G-T0VAA<B`S,B]%;F-O9&EN9R]7:6Y!;G-I16YC;V1I;F<O5'EP92]&
+M;VYT/CX-96YD;V)J#3$V(#`@;V)J/#PO4W5B='EP92]4<G5E5'EP92]&;VYT
+M1&5S8W)I<'1O<B`R,R`P(%(O3&%S=$-H87(@,3(R+U=I9'1H<ULR-S@@,"`P
+M(#`@,"`P(#`@,"`P(#`@,"`P(#(W."`S,S,@,C<X(#`@,"`U-38@,"`P(#`@
+M-34V(#`@,"`P(#4U-B`P(#`@,"`P(#`@,"`P(#8V-R`P(#<R,B`P(#8V-R`P
+M(#<W."`P(#`@,"`P(#4U-B`P(#<R,B`P(#8V-R`P(#<R,B`V-C<@-C$Q(#<R
+M,B`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@-34V(#4U-B`U,#`@-34V(#4U-B`R
+M-S@@-34V(#4U-B`R,C(@,C(R(#4P,"`R,C(@.#,S(#4U-B`U-38@-34V(#4U
+M-B`S,S,@-3`P(#(W."`U-38@-3`P(#<R,B`U,#`@-3`P(#4P,%TO0F%S949O
+M;G0O07)I86PM271A;&EC350O1FER<W1#:&%R(#,R+T5N8V]D:6YG+U=I;D%N
+M<VE%;F-O9&EN9R]4>7!E+T9O;G0^/@UE;F1O8FH-,3<@,"!O8FH\/"]3=6)T
+M>7!E+U1R=654>7!E+T9O;G1$97-C<FEP=&]R(#(T(#`@4B],87-T0VAA<B`Q
+M-#8O5VED=&AS6S(W."`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`S,S,@,C<X
+M(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#<R,B`W,C(@
+M-S(R(#<R,B`P(#8Q,2`P(#`@,C<X(#`@,"`V,3$@.#,S(#<R,B`P(#8V-R`P
+M(#<R,B`V-C<@,"`P(#`@.30T(#`@,"`P(#`@,"`P(#`@,"`P(#4U-B`V,3$@
+M-34V(#8Q,2`U-38@,S,S(#8Q,2`V,3$@,C<X(#`@-34V(#(W."`X.#D@-C$Q
+M(#8Q,2`V,3$@,"`S.#D@-34V(#,S,R`V,3$@-34V(#<W."`P(#4U-B`P(#`@
+M,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`P(#`@,"`R
+M-SA=+T)A<V5&;VYT+T%R:6%L+4)O;&1)=&%L:6--5"]&:7)S=$-H87(@,S(O
+M16YC;V1I;F<O5VEN06YS:45N8V]D:6YG+U1Y<&4O1F]N=#X^#65N9&]B:@TQ
+M."`P(&]B:CP\+U-U8G1Y<&4O5')U951Y<&4O1F]N=$1E<V-R:7!T;W(@,CD@
+M,"!2+TQA<W1#:&%R(#$Q,2]7:61T:'-;-C`P72]"87-E1F]N="]#;W5R:65R
+M3F5W4%--5"]&:7)S=$-H87(@,3$Q+T5N8V]D:6YG+U=I;D%N<VE%;F-O9&EN
+M9R]4>7!E+T9O;G0^/@UE;F1O8FH-,3D@,"!O8FI;+TE#0T)A<V5D(#(W(#`@
+M4ET-96YD;V)J#3(P(#`@;V)J/#PO4W1E;58@.#@O1F]N=$YA;64O07)I86Q-
+M5"]&;VYT4W1R971C:"].;W)M86PO1F]N=%=E:6=H="`T,#`O1FQA9W,@,S(O
+M1&5S8V5N="`M,C$Q+T9O;G1"0F]X6RTV-C4@+3,R-2`R,#`P(#$P,#9=+T%S
+M8V5N="`Y,#4O1F]N=$9A;6EL>2A!<FEA;"DO0V%P2&5I9VAT(#<Q."]82&5I
+M9VAT(#4Q-2]4>7!E+T9O;G1$97-C<FEP=&]R+TET86QI8T%N9VQE(#`^/@UE
+M;F1O8FH-,C$@,"!O8FH\/"]3=&5M5B`X,B]&;VYT3F%M92]4:6UE<TYE=U)O
+M;6%N4%--5"]&;VYT4W1R971C:"].;W)M86PO1F]N=%=E:6=H="`T,#`O1FQA
+M9W,@,S0O1&5S8V5N="`M,C$V+T9O;G1"0F]X6RTU-C@@+3,P-R`R,#`P(#$P
+M,#==+T%S8V5N="`X.3$O1F]N=$9A;6EL>2A4:6UE<R!.97<@4F]M86XI+T-A
+M<$AE:6=H="`V-38O6$AE:6=H="`M-30V+U1Y<&4O1F]N=$1E<V-R:7!T;W(O
+M271A;&EC06YG;&4@,#X^#65N9&]B:@TR,B`P(&]B:CP\+U-T96U6(#$S."]&
+M;VYT3F%M92]!<FEA;"U";VQD350O1F]N=%-T<F5T8V@O3F]R;6%L+T9O;G17
+M96EG:'0@-S`P+T9L86=S(#,R+T1E<V-E;G0@+3(Q,2]&;VYT0D)O>%LM-C(X
+M("TS-S8@,C`P,"`Q,#$P72]!<V-E;G0@.3`U+T9O;G1&86UI;'DH07)I86PI
+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
+M+R(@>#IX;7!T:STB,RXQ+3<P,2(^"B`@(#QR9&8Z4D1&('AM;&YS.G)D9CTB
+M:'1T<#HO+W=W=RYW,RYO<F<O,3DY.2\P,B\R,BUR9&8M<WEN=&%X+6YS(R(^
+M"B`@("`@(#QR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T/2(B"B`@("`@("`@
+M("`@('AM;&YS.G!D9CTB:'1T<#HO+VYS+F%D;V)E+F-O;2]P9&8O,2XS+R(^
+M"B`@("`@("`@(#QP9&8Z4')O9'5C97(^06-R;V)A="!$:7-T:6QL97(@-RXP
+M("A7:6YD;W=S*3PO<&1F.E!R;V1U8V5R/@H@("`@("`\+W)D9CI$97-C<FEP
+M=&EO;CX*("`@("`@/')D9CI$97-C<FEP=&EO;B!R9&8Z86)O=70](B(*("`@
+M("`@("`@("`@>&UL;G,Z>&%P/2)H='1P.B\O;G,N861O8F4N8V]M+WAA<"\Q
+M+C`O(CX*("`@("`@("`@/'AA<#I#<F5A=&]R5&]O;#Y04V-R:7!T-2YD;&P@
+M5F5R<VEO;B`U+C(N,CPO>&%P.D-R96%T;W)4;V]L/@H@("`@("`@("`\>&%P
+M.DUO9&EF>41A=&4^,C`Q,"TQ,"TR-50Q,#HS,3HQ,"TP-3HP,#PO>&%P.DUO
+M9&EF>41A=&4^"B`@("`@("`@(#QX87`Z0W)E871E1&%T93XR,#$P+3$P+3(U
+M5#$P.C,Q.C$P+3`U.C`P/"]X87`Z0W)E871E1&%T93X*("`@("`@/"]R9&8Z
+M1&5S8W)I<'1I;VX^"B`@("`@(#QR9&8Z1&5S8W)I<'1I;VX@<F1F.F%B;W5T
+M/2(B"B`@("`@("`@("`@('AM;&YS.F1C/2)H='1P.B\O<'5R;"YO<F<O9&,O
+M96QE;65N=',O,2XQ+R(^"B`@("`@("`@(#QD8SIF;W)M870^87!P;&EC871I
+M;VXO<&1F/"]D8SIF;W)M870^"B`@("`@("`@(#QD8SIT:71L93X*("`@("`@
+M("`@("`@/')D9CI!;'0^"B`@("`@("`@("`@("`@(#QR9&8Z;&D@>&UL.FQA
+M;F<](G@M9&5F875L="(^36EC<F]S;V9T(%=O<F0@+2!A8VPV:TE$0S$P,C1E
+M>#DY,2YD;V,\+W)D9CIL:3X*("`@("`@("`@("`@/"]R9&8Z06QT/@H@("`@
+M("`@("`\+V1C.G1I=&QE/@H@("`@("`@("`\9&,Z8W)E871O<CX*("`@("`@
+M("`@("`@/')D9CI397$^"B`@("`@("`@("`@("`@(#QR9&8Z;&D^=7,P,SDX
+M,3`\+W)D9CIL:3X*("`@("`@("`@("`@/"]R9&8Z4V5Q/@H@("`@("`@("`\
+M+V1C.F-R96%T;W(^"B`@("`@(#PO<F1F.D1E<V-R:7!T:6]N/@H@("`@("`\
+M<F1F.D1E<V-R:7!T:6]N(')D9CIA8F]U=#TB(@H@("`@("`@("`@("!X;6QN
+M<SIX87!-33TB:'1T<#HO+VYS+F%D;V)E+F-O;2]X87`O,2XP+VUM+R(^"B`@
+M("`@("`@(#QX87!-33I$;V-U;65N=$E$/G5U:60Z9&4Q,V(Y-S`M,F4Y82TT
+M8V,Y+3DS9C0M8S0U8V$S,69F-#0P/"]X87!-33I$;V-U;65N=$E$/@H@("`@
+M("`@("`\>&%P34TZ26YS=&%N8V5)1#YU=6ED.CDV-SAC93)A+30T938M-&9E
+M,BUB,F8V+3-E,V)A,V0X9&0T.#PO>&%P34TZ26YS=&%N8V5)1#X*("`@("`@
+M/"]R9&8Z1&5S8W)I<'1I;VX^"B`@(#PO<F1F.E)$1CX*/"]X.GAM<&UE=&$^
+M"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`*/#]X<&%C:V5T(&5N9#TB=R(_/@T*
+M96YD<W1R96%M#65N9&]B:@TX(#`@;V)J/#PO0W)E871I;VY$871E*$0Z,C`Q
+M,#$P,C4Q,#,Q,3`M,#4G,#`G*2]!=71H;W(H=7,P,SDX,3`I+T-R96%T;W(H
+M4%-C<FEP=#4N9&QL(%9E<G-I;VX@-2XR+C(I+U!R;V1U8V5R*$%C<F]B870@
+M1&ES=&EL;&5R(#<N,"!<*%=I;F1O=W-<*2DO36]D1&%T92A$.C(P,3`Q,#(U
+M,3`S,3$P+3`U)S`P)RDO5&ET;&4H36EC<F]S;V9T(%=O<F0@+2!A8VPV:TE$
+M0S$P,C1E>#DY,2YD;V,I/CX-96YD;V)J#7AR968-"C`@.0T*,#`P,#`P,#`P
+M,"`V-34S-2!F#0HP,#`P,#$U-C0W(#`P,#`P(&X-"C`P,#`P,34W-S(@,#`P
+M,#`@;@T*,#`P,#`Q-3DR-B`P,#`P,"!N#0HP,#`P,#$W-S0S(#`P,#`P(&X-
+M"C`P,#`P,3<W-S8@,#`P,#`@;@T*,#`P,#`Q-S<Y.2`P,#`P,"!N#0HP,#`P
+M,#$W.#4V(#`P,#`P(&X-"C`P,#`P,C$T.#(@,#`P,#`@;@T*=')A:6QE<@T*
+D/#PO4VEZ92`Y/CX-"G-T87)T>')E9@T*,3$V#0HE)45/1@T*
+`
+end
+</PDF>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>acl6k1024idcbodex9910.jpg
+<TEXT>
+begin 644 acl6k1024idcbodex9910.jpg
+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
+;O.)UJBJ.:J63CRW33M\-[:=PHHHKX`_2S__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

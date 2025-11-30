@@ -1,0 +1,436 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NTUV7BdsGP6JpsPi/MRoshdZa1tgHudx+yebFBVs3MzkFWaQJAwzB4gG3AtEnWuI
+ R8m0YoaxwDVqwmzLq7um2w==
+
+<SEC-DOCUMENT>0001178913-09-000080.txt : 20090112
+<SEC-HEADER>0001178913-09-000080.hdr.sgml : 20090112
+<ACCEPTANCE-DATETIME>20090112074606
+ACCESSION NUMBER:		0001178913-09-000080
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090112
+FILED AS OF DATE:		20090112
+DATE AS OF CHANGE:		20090112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALADDIN KNOWLEDGE SYSTEMS LTD
+		CENTRAL INDEX KEY:			0000911364
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22456
+		FILM NUMBER:		09520254
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 BEIT IVED ST
+		CITY:			TEL AVIV ISRAEL
+		STATE:			L5
+		ZIP:			61110
+		BUSINESS PHONE:		9725375795
+
+	MAIL ADDRESS:	
+		STREET 1:		15 BOT OVED ST
+		CITY:			TEL AVIV
+		STATE:			L3
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>zk96255.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        F:\EDGAR Filing\Aladdin Knowledge Systems Ltd\96255\a96255.eep   -->
+     <!-- Control Number: 96255                                                            -->
+     <!-- Rev Number:     1                                                                -->
+     <!-- Client Name:    Aladdin Knowledge Systems Ltd                                    -->
+     <!-- Project Name:   6-K                                                              -->
+     <!-- Firm Name:      Zadok-Keinan Ltd                                                 -->
+     <TITLE>6-K</TITLE>
+</HEAD>
+<BODY>
+
+<!-- MARKER FORMAT-SHEET="Top Scotch Rule Top-TNR" FSL="Workstation" -->
+<HR ALIGN=LEFT WIDTH=100% SIZE=4 NOSHADE STYLE="margin-top: -5px">
+<HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE STYLE="margin-top: -10px">
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4>FORM 6-K </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=4>SECURITIES AND
+EXCHANGE COMMISSION </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Washington, D.C. 20549 </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold 1-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Report of Foreign
+Private Issuer </FONT></H1>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Pursuant to rule 13a
+&#150; 16 or 15d &#150; 16 <BR>of the Securities
+Exchange Act of 1934 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>For the month of
+January 2009 </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="5"><U><B>ALADDIN KNOWLEDGE
+SYSTEMS LTD.</B></U> </FONT>
+<BR><FONT FACE="Times New Roman, Times, Serif" SIZE="2">(Translation of
+registrant&#146;s name in English) </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Center Underline-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2><U>35 Efal Street,
+Petach Tikva, Israel  </U></FONT>
+<BR><FONT FACE="Times New Roman, Times, Serif" SIZE=2>(Address of principal
+executive offices) </FONT></P>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Indicate by check mark whether the registrant files or will file annual reports
+<BR> under cover Form 20-F or Form 40-F.
+</FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Minor Center-TNR" FSL="Workstation" -->
+<P ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Form 20-F <FONT size="3" face="Wingdings">x
+</font> Form 40-F <FONT size="3" face="Wingdings">o
+</font> </FONT></P>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Indicate by check mark if the registrant is submitting the Form 6-K in paper
+<BR> as permitted by Regulation S-T Rule 101(b)(1):________
+</FONT></P>
+
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Indicate by check mark if the registrant is submitting the Form 6-K in paper
+<BR> as permitted by Regulation S-T Rule 101(b)(7):________
+</FONT></P>
+
+
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Indicate by check mark whether by furnishing the information contained in this
+<BR> Form, the registrant is also thereby furnishing the information to the <BR>
+Commission pursuant to Rule 12g3 &#150; 2(b) under the Securities Exchange Act of 1934.</FONT></P>
+
+
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Yes <FONT size="3" face="Wingdings">o
+</font> No <FONT size="3" face="Wingdings">x
+</font> </FONT></P>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE=2>If &#147;Yes&#148; is marked, indicate below the file number assigned to the registrant
+<BR> in connection with Rule 12g(3)-2(b): 82-___________
+</FONT></P>
+
+
+<p align=center>
+<font size=2></font></p>
+<HR SIZE="1" NOSHADE  STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE  STYLE="margin-top: -10px">
+<PAGE>
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On
+January 12, 2009, Aladdin Knowledge Systems Ltd. (the &#147;<B>Registrant</B>&#148;)
+issued a press release announcing a merger agreement between the Registrant and an
+affiliate of Vector Capital. A copy of the press release is attached hereto as
+<B><U>Exhibit A</U></B><U></U>. </FONT> </P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This
+Form 6-K is being incorporated by reference in all effective registration statements
+filed by the Registrant under the Securities Act of 1933.  </FONT></P>
+
+<p align=center>
+<font size=2></font></p>
+<HR SIZE="1" NOSHADE  STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE  STYLE="margin-top: -10px">
+<PAGE>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Major Center Bold-TNR" FSL="Workstation" -->
+<H1 ALIGN=CENTER><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U>SIGNATURES</U> </FONT> </H1>
+
+<!-- MARKER FORMAT-SHEET="Para Indent Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused
+this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P>
+
+
+<!-- MARKER FORMAT-SHEET="Signature (Single)" FSL="Workstation" -->
+<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR VALIGN=TOP>
+<TD WIDTH=40%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=10%><FONT FACE="Times New Roman, Times, Serif" SIZE=2></FONT></TD>
+<TD WIDTH=50%><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>Aladdin Knowledge Systems Ltd.</B><BR>(Registrant)<BR>
+<BR>By: /s/ Aviram Shemer<BR>&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;<BR>
+Aviram Shemer<BR>Chief Financial Officer </FONT></TD>
+</TR>
+</TABLE>
+<BR>
+
+
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Default" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Date: January 12, 2009 </FONT></P>
+
+
+<p align=center>
+<font size=2></font></p>
+<HR SIZE="1" NOSHADE  STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE  STYLE="margin-top: -10px">
+
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit_a.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <!-- Created by EDGAR Ease Plus (EDGAR Ease+) -->
+     <!-- Project:        F:\EDGAR Filing\Aladdin Knowledge Systems Ltd\96255\a96255.eep   -->
+     <!-- Control Number: 96255                                                            -->
+     <!-- Rev Number:     1                                                                -->
+     <!-- Client Name:    Aladdin Knowledge Systems Ltd                                    -->
+     <!-- Project Name:   6-K                                                              -->
+     <!-- Firm Name:      Zadok-Keinan Ltd                                                 -->
+     <TITLE>6-K</TITLE>
+</HEAD>
+<BODY>
+
+
+<!-- MARKER FORMAT-SHEET="Top Scotch Rule Top-TNR" FSL="Workstation" -->
+<HR ALIGN=LEFT WIDTH=100% SIZE=4 NOSHADE STYLE="margin-top: -5px">
+<HR ALIGN=LEFT WIDTH=100% SIZE=1 NOSHADE STYLE="margin-top: -10px">
+
+
+
+<P ALIGN="Right"><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><U><B>Exhibit A</B></U> </FONT> </P>
+
+
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="4"><B>PRESS RELEASE</B> </FONT> </p>
+
+
+
+
+<TABLE CELLPADDING=0 CELLSPACING=0 BORDER=0 WIDTH=100%>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH>
+     <TH><FONT FACE="Times New Roman" SIZE=1></FONT></TH></TR>
+<TR VALIGN=Bottom>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><B>Vector Capital Press Contact:</B> </FONT></TD>
+     <TD WIDTH=50% ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><B>Aladdin Company Contact:</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>Erin Becker</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>Debbie Kaye</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><U>ebecker@BrunswickGroup.com</U> </FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2">Corporate Communications Manager </FONT> </TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>415-293-8461</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><U>debbie.kaye@aladdin.com</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>646.468.0481</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>&nbsp;</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><B>Aladdin Press Contact:</B> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>Matthew Zintel</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>Zintel Public Relations</FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE="2"><U>Matthew.zintel@zintelpr.com</U> </FONT></TD></TR>
+<TR VALIGN=Bottom>
+     <TD ALIGN=LEFT><FONT FACE="Times New Roman" SIZE=2>310.574.8888</FONT></TD></TR>
+</TABLE>
+<BR>
+
+<!-- MARKER FORMAT-SHEET="Head Right-TNR" FSL="Workstation" -->
+<P ALIGN=RIGHT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B><U>FOR IMMEDIATE RELEASE</U></B> </FONT> </P>
+
+<!-- MARKER FORMAT-SHEET="Head Sub 1 Left-TNR" FSL="Default" -->
+<P ALIGN=center><FONT FACE="Times New Roman, Times, Serif" SIZE="3"><B>Aladdin
+Knowledge Systems Enters Into Merger Agreement with <BR>Vector Capital Affiliate</B> </FONT> </P>
+
+
+<P align=center><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><I> Aladdin Shareholders to Receive $11.50 per Share in Cash<BR>
+Transaction Valued at $160 Million</I> </FONT>
+</P>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><B>TEL AVIV, ISRAEL AND SAN
+FRANSCISO, CA &#150; January 12, 2009</B> &#150; Aladdin Knowledge Systems Ltd. (NASDAQ:
+ALDN) today announced that it has entered into a definitive merger agreement to be
+acquired by an investor group lead by Vector Capital, a leading private equity firm
+specializing in the technology industry, in a transaction valued at approximately $160
+million. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Under the terms of the agreement,
+Aladdin shareholders will receive $11.50 per share in cash for each share of common stock
+they hold. This represents a premium of approximately 20% over Aladdin&#146;s closing
+share price on January 9, 2009, the last trading day prior to today&#146;s announcement,
+and a premium of approximately 64% over Aladdin&#146;s closing share price on January 5,
+2009, the last trading day prior to Aladdin&#146;s announcement that it was in continuing
+discussions with Vector Capital regarding a possible strategic transaction. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>&#147;After extensive negotiations
+and careful and thorough analysis, conducted with our independent advisors, the Board has
+unanimously endorsed this transaction as in the best interests of the Company and our
+shareholders,&#148; said Yanki Margalit, Chairman and CEO of Aladdin Knowledge Systems. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>Commenting on the announcement, David
+Fishman, Partner, Vector Capital, said, &#147;We are very excited about adding Aladdin to
+our portfolio of outstanding technology companies and believe that placing Aladdin&#146;s
+DRM and Authentication assets under common management with those of our portfolio company,
+SafeNet Inc., a global leader in information security, makes considerable strategic sense
+and will greatly benefit all stakeholders. Aladdin is an exceptional company, with
+significant potential and a strong commitment to its employees, partners and customers
+worldwide. We understand Aladdin&#146;s industry and business well, and look forward to
+working collaboratively to ensure a smooth and expeditious transition.&#148; </FONT></P>
+
+<p align=center>
+<font size=2></font></p>
+<HR SIZE="1" NOSHADE  STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE  STYLE="margin-top: -10px">
+<PAGE>
+
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The transaction is subject to certain
+closing conditions, including the approval of Aladdin&#146;s shareholders, antitrust
+regulatory approvals, and the satisfaction of other customary closing conditions.
+Approximately 14% of Aladdin&#146;s outstanding shares in the aggregate are held by an
+affiliate of Vector Capital, and Directors of Aladdin, including Mr. Margalit, have
+entered into a voting agreement&nbsp;for 19% of the outstanding shares pursuant to which
+they have&nbsp;agreed to vote all of&nbsp;their shares in favor of the transaction. There
+is no financing condition to consummate the transaction. The transaction is expected to
+close following the satisfaction of all closing conditions, which is anticipated to occur
+in the next two to three months. Wells Fargo Foothill, part of Wells Fargo &amp; Company
+(NYSE:WFC), has committed to provide debt financing in support of the acquisition. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Workstation" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2>The transaction will be presented to
+Aladdin shareholders for approval at Aladdin&#146;s Extraordinary General Meeting, which
+will be scheduled as soon as practicable. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<p ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>About Aladdin</B> <BR>Aladdin Knowledge Systems (NASDAQ:
+ALDN) is an information security leader with offices in 15 countries, a worldwide network
+of channel partners, and numerous awards for innovation. Aladdin eToken is the
+world&#146;s #1 USB-based authentication solution, offering identity and access management
+tools that protect sensitive data. Aladdin SafeWord two-factor authentication technology
+protects companies&#146; important information assets and applications. Aladdin HASP SRM
+boosts growth for software developers and publishers through strong anti-piracy
+protection, IP protection, and secure licensing and product activation. Aladdin eSafe
+delivers real-time intelligent Web gateway security that helps protect data and networks,
+improves productivity, and enables compliance. Visit <U>www.Aladdin.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Major Left Bold-TNR" FSL="Workstation" -->
+<p ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B>About Vector Capital</B> <BR>Vector Capital is a leading private
+equity firm specializing in spinouts, buyouts and recapitalizations of established
+technology businesses. Vector identifies and pursues these complex investments in both the
+private and public markets. Vector actively partners with management teams to devise and
+execute new financial and business strategies that materially improve the competitive
+standing of these businesses and enhance their value for employees, customers and
+shareholders. Among Vector&#146;s notable investments are LANDesk Software, Savi
+Technology, SafeNet, Corel Corporation (Nasdaq: CREL), Precise Software Solutions,
+Printronix, Register.com, Tripos, WinZip and Watchguard Technologies. For more
+information, visit <U>www.vectorcapital.com</U>. </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Head Left-TNR" FSL="Workstation" -->
+<P ALIGN=LEFT><FONT FACE="Times New Roman, Times, Serif" SIZE="2"><B><I>Safe Harbor Statement</I></B> <BR><I>Certain information presented
+herein constitutes forward-looking statements within the meaning of the Private Securities
+Litigation Reform Act of 1995. Such forward-looking statements are subject to known and
+unknown risks, uncertainties and other factors which may cause the actual results,
+performance or achievements of the Company to be materially different from any future
+results, performance or achievements expressed or implied by such forward-looking
+statements. Such factors include general economic and business conditions, risks relating
+to the Company&#146;s recent acquisitions of Athena Smartcards, SafeWord and EutronSec,
+including the failure to realize expected synergies, failure to effectively integrate
+these businesses into its business and increasing unexpected liabilities, the loss of
+market share, changes in the level of business or anticipated business from a large
+customer or customers, failure to achieve anticipated customer orders, changes in the
+competitive landscape and other factors over which the company has little or no control.
+The completion of the Company&#146;s announced merger with an affiliate of Vector Capital
+is subject to certain closing conditions, and the Company cannot be certain that these
+conditions will be satisfied or waived. For more information, please refer to the
+Company&#146;s filings with the Securities and Exchange Commission, which are available on
+the Commission&#146;s website at <U>www.sec.gov</U>.</I> </FONT></P>
+
+<!-- MARKER FORMAT-SHEET="Para Flush Lv 0-TNR" FSL="Default" -->
+<P><FONT FACE="Times New Roman, Times, Serif" SIZE=2><I>&copy;2009 Aladdin Knowledge
+Systems, Ltd. All rights reserved. HASP, eToken, eSafe, Aladdin Knowledge Systems and the
+Aladdin logos are trademarks or registered trademarks of Aladdin Knowledge Systems, Ltd.
+All other product and brand names mentioned in this document are trademarks or registered
+trademarks of their respective owners.</I> </FONT></P>
+
+
+
+
+
+
+<p align=center>
+<font size=2></font></p>
+<HR SIZE="1" NOSHADE  STYLE="margin-top: -2px">
+<HR SIZE="4" NOSHADE  STYLE="margin-top: -10px">
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

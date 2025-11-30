@@ -1,0 +1,2835 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AWgyqnggKT7EVp6lG2diaikGNkpEGRxURQHisYRKb7Zh2J7tD6MxOqjmqT25JVCI
+ h8Cb+SWnPeNn80DxCI/2qw==
+
+<SEC-DOCUMENT>0001193125-09-120047.txt : 20090528
+<SEC-HEADER>0001193125-09-120047.hdr.sgml : 20090528
+<ACCEPTANCE-DATETIME>20090528112944
+ACCESSION NUMBER:		0001193125-09-120047
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090528
+FILED AS OF DATE:		20090528
+DATE AS OF CHANGE:		20090528
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3SBio Inc.
+		CENTRAL INDEX KEY:			0001383790
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33295
+		FILM NUMBER:		09856437
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NO.3 A1, ROAD 10 SHENYANG
+		STREET 2:		ECONOMY & TECHNOLOGY DEVELOPMENT ZONE
+		CITY:			SHENYANG
+		STATE:			F4
+		ZIP:			110027
+		BUSINESS PHONE:		86-24-2581-1820
+
+	MAIL ADDRESS:	
+		STREET 1:		NO.3 A1, ROAD 10 SHENYANG
+		STREET 2:		ECONOMY & TECHNOLOGY DEVELOPMENT ZONE
+		CITY:			SHENYANG
+		STATE:			F4
+		ZIP:			110027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>FORM 6-K </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington D.C. 20549 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>REPORT OF FOREIGN ISSUER </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>PURSUANT TO RULE 13a-16 OR 15d-16 OF THE
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>SECURITIES EXCHANGE ACT OF 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>For the month of May 2009 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Commission File Number: 000-33295 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>3SBIO INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Translation of registrant&#146;s name into English)
+</B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>No.&nbsp;3 A1, Road 10 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Shenyang
+Economy&nbsp;&amp; Technology Development Zone </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Shenyang 110027 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>People&#146;s Republic of China </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices) </B>
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Form 20-F&nbsp;&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Form
+40-F&nbsp;&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark if the registrant is submitting the
+Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information to the Commission pursuant
+to Rule 12g3-2(b) under the Securities Exchange Act of 1934. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="2">Yes&nbsp;&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No&nbsp;&nbsp;<U>&nbsp;&nbsp;&nbsp;&nbsp;X&nbsp;&nbsp;&nbsp;&nbsp;</U>
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">If &#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): 82- <U>N/A</U> </FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3SBIO INC. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">FORM 6-K </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3SBio Inc. is furnishing under the cover of Form 6-K: </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="89%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Exhibit&nbsp;99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><U>Press release, dated May&nbsp;20, 2009, regarding 3SBio Inc. announcing unaudited first quarter 2009 results.</U></FONT></TD></TR>
+</TABLE> <P STYLE="font-size:24px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">SIGNATURE </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Dr. Jing Lou</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Dr. Jing Lou</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Chief Executive Officer</FONT></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Date: May&nbsp;28, 2009 </FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">EXHIBIT INDEX </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="89%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="1"><B>Description</B></FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">Exhibit&nbsp;99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><U>Press release, dated May 20, 2009, regarding 3SBio Inc. announcing unaudited first quarter 2009 results.</U></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>3SBIO INC. ANNOUNCES UNAUDITED FIRST QUARTER 2009 RESULTS </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>First Quarter Revenue Grows 23.7%
+Year-over-year to RMB68.6 Million (US$10.0 Million); Operating Income Grows 41.7% Year-over-year to RMB20.1 million (US$2.9 million); Company Reiterates FY2009 Revenue Guidance </I></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>SHENYANG, CHINA</B> &#151; May&nbsp;20, 2009 &#151; 3SBio Inc. (NASDAQ: SSRX) (&#147;3SBio&#148; or &#147;the Company&#148;), a leading China-based biotechnology company focused on researching, developing,
+manufacturing and marketing biopharmaceutical products, today announced its unaudited financial results for the first quarter ended March&nbsp;31, 2009. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>First Quarter 2009 Financial Highlights: </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Total net revenues increased 23.7% over the first quarter of 2008 to RMB68.6 million (US$10.0 million). </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Operating income (non-GAAP) for the first quarter of 2009 was RMB20.6 million (US$3.0 million), an increase from RMB14.6 million (US$2.1 million) for the first
+quarter of 2008. GAAP operating income was RMB20.1 million (US$2.9 million) for the first quarter of 2009, an increase from RMB14.2 million (US$2.0 million) for the first quarter of 2008. </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Net income (non-GAAP) for the first quarter of 2009 was RMB21.0 million (US$3.1 million), compared to RMB20.2 million (US$2.9 million) for the first quarter of
+2008. GAAP net income for the quarter was RMB15.9 million (US$2.3 million) for the first quarter of 2009, compared to GAAP net income of RMB19.8 million (US$2.8 million) for the first quarter of 2008. </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Earnings per share (non-GAAP) for the first quarter of 2009 were RMB0.14 (US$0.02), compared to RMB0.13 (US$0.02) for the first quarter of 2008. GAAP earnings per
+share were RMB0.11 (US$0.02) for the first quarter of 2009, compared to GAAP earnings per share of RMB0.13 (US$0.02) for the first quarter of 2008. </FONT></P></TD></TR></TABLE> <P
+STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">*</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Please refer to &#147;Non-GAAP Financial Measures: Reconciliation of GAAP to non-GAAP&#148; section below for the definition and rationale of all of the non-GAAP measures. Non-GAAP
+items for the three-month period ended March&nbsp;31, 2008 have been included as comparatives to conform to the current year&#146;s presentation basis. </FONT></TD></TR></TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>First Quarter 2009 Business Highlights: </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">EPIAO, the Company&#146;s flagship injectable recombinant human erythropoietin (&#147;EPO&#148;) products, demonstrated resilient growth despite a challenging
+environment, with net revenue from EPIAO rising 21.0% over the first quarter of 2008 to RMB42.9 million (US$6.3 million) in the first quarter of 2009. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">TPIAO net revenue increased 21.3% to RMB18.7 million (US$2.7 million) in the first quarter of 2009. TPIAO, the Company&#146;s protein-based therapeutic recombinant
+human thrombopoietin (&#147;TPO&#148;) products, demonstrated its continued success in a slowing economy. </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">3SBio continued to work closely with the SFDA to advance the regulatory approval of the three new product programs submitted in 2008: 36,000 IU dosage formulation
+of EPIAO, NuLeusin, and TPIAO label extension for the treatment of ITP. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Construction continued on schedule on the Company&#146;s new EPIAO plant, which will support the future growth of EPIAO and serve as the first step towards
+exploring global biosimilar opportunities. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;3SBio had a strong start to 2009, delivering revenue growth and demonstrating the
+continued acceptance of our keystone EPIAO and TPIAO products in domestic and international markets,&#148; commented Dr.&nbsp;Jing Lou, Chief Executive Officer of 3SBio. &#147;Our operating margin was solid and we continued to generate positive cash
+flow, strengthening our bottom line performance while ensuring 3SBio is in a financial position to pursue synergistic business development opportunities that will positively benefit our company. 3SBio has worked diligently to develop a portfolio of
+current and future pharmaceutical products, and we remain on track to achieve our 2009 financial and operational objectives.&#148; </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>First Quarter 2009
+Unaudited Financial Results </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Net revenues.</I></B>&nbsp;Net revenues increased by 23.7% to RMB68.6 million (US$10.0 million) for the first quarter
+of 2009 from RMB55.5 million (US$7.9 million) for the same period of 2008. This increase was largely due to continued strength from TPIAO and EPIAO products which increased by 21.3% and 21.0%, respectively, over the same period of 2008<I>, </I>and
+to a lesser degree by impressive growth from export sales which grew 75.6% and our iron product sales which grew 47.5% over the same period of last year. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">The growth in sales from EPIAO was driven in part by an expanded oncology sales force, which continued to perform well<I>. </I>TPIAO remained 3SBio&#146;s second largest revenue contributor in the quarter, accounting for 27.3% of total net
+revenues. Export sales exceeded RMB3.3 million (US$0.5 million), and sales of 3SBio&#146;s IV Iron Sucrose rose to RMB2.0 million (US$0.3 million) for the first quarter of 2009. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B><I>Gross profit. </I></B>As a result of continued sales growth from key products despite the economic situation, gross profit increased by 23.8% to RMB62.6 million (US$9.2 million) for the first quarter of 2009
+from RMB50.6 million (US$7.2 million) for the same period of 2008. Gross margin increased slightly to 91.3% for the first quarter of 2009 from 91.1% for the first quarter of 2008 and 90.6% for the fourth quarter of 2008. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Operating income. </I></B>Non-GAAP operating income for the first quarter of 2009 grew 40.7% year-over-year to RMB20.6 million (US$3.0 million). GAAP operating
+income was RMB20.1 million (US$2.9 million) for the first quarter 2009, an increase of 41.7% from operating income of RMB14.2 million (US$2.0 million) for the same period of 2008. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B><I>Operating expenses</I></B><I>.</I>&nbsp;Non-GAAP operating expenses were RMB42.1 million (US$6.2 million) for the first quarter of 2009. GAAP operating expenses were RMB42.5 million (US$6.2 million) for the
+first quarter of 2009, an increase of 16.8% from GAAP operating expenses of RMB36.4 million (US$5.2 million) for the same period of last year. Increase in operating expenses was largely driven by the increased sales&nbsp;&amp; marketing expenses as
+3SBio continued necessary marketing efforts. </FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><I>Research and development (&#147;R&amp;D&#148;) cost.</I>&nbsp;GAAP R&amp;D cost for the first quarter of 2009 was RMB2.5 million (US$0.4 million), or 3.6% of net
+revenue, compared to RMB2.8 million (US$0.4 million), or 5.0% of net revenue for the same period of last year. The decline in R&amp;D cost for the first quarter of 2009 was due to the conclusion of several major trials in the last quarter of 2008.
+</FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><I>Sales, marketing and distribution expenses.</I> GAAP sales, marketing and distribution expenses for the first quarter of 2009 were RMB32.9 million (US$4.8
+million), compared to RMB25.6 million (US$3.7 million) for the same period of last year. This represented a slight increase to 48.0% of net revenue for the first quarter of 2009, compared to 46.2% of net revenue for the same period of last year. The
+increase was primarily attributable to higher sales activities in general, continued investment in building the TPIAO brand and EPIAO penetration of the Oncology market. </FONT></P></TD></TR></TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2"><I>General and administrative expenses.</I>&nbsp;GAAP general and administrative expenses for the first quarter of 2009 were RMB7.1 million (US$1.0 million),
+representing a decrease of 11.3% from general and administrative expenses of RMB8.0 million (US$1.1 million) for the same period of 2008. This marked a decline to 10.3% of net revenue for the first quarter of 2009, compared to 14.4% of net revenue
+for the first quarter of 2008. </FONT></P></TD></TR></TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">*</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Please refer to &#147;Non-GAAP Financial Measures: Reconciliation of GAAP to Non-GAAP&#148; section below for specific non-GAAP operating expenses measures.
+</FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Interest income.</I></B><B>&nbsp;</B>The Company recorded net interest income of RMB4.1 million (US$0.6 million) for the first quarter
+of 2009, as compared RMB7.4 million (US$1.1 million) for the same period in 2008. As experienced last quarter, the decrease in interest income was partially due to the decrease in the prevailing market interest rates in the first quarter of 2009
+compared to the same period of last year. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Net income.</I></B> Non-GAAP net income for the first quarter of 2009 was RMB21.0 million (US$3.1
+million), excluding share-based compensation and recognition of an impairment loss of RMB4.6 million (US$0.7 million) on available-for-sale securities. This was comparable to non-GAAP net income of RMB20.2 million (US$2.9 million) for the first
+quarter of 2008. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">GAAP net income was RMB15.9 million (US$2.3 million) for the first quarter 2009, compared to net income of RMB19.8 million (US$2.8
+million) for the same period of 2008. GAAP net income was largely impacted by the recognition of an impairment loss on available-for-sale securities. Based on the current market condition and the performance of the available-for-sale securities held
+by the Company, the Company expects no further impairment losses from the financial instruments currently being held. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B><I>Cash and cash equivalents/Time
+deposits.</I></B> 3SBio had positive operating cash flows for the first quarter of 2009, and as of March&nbsp;31, 2009 retained a strong balance sheet with cash, cash equivalents and time deposits of RMB752.3 million (US$110.1 million), an increase
+from RMB733.0 million (US$107.4 million) as of December&nbsp;31, 2008 and a slight decline from RMB790.4 million (US$ 112.7 million) as of March&nbsp;31, 2008. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Full Year 2009 Guidance </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Based on current market conditions and visibility provided during the first quarter, the Company maintains its
+total net revenue target for the full year 2009 of between US$43 million to US$45 million, resulting in a year-over-year increase of approximately 21% to 26%. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Conference Call </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3SBio&#146;s senior management will host a conference call at 5:00 am (Pacific) / 8:00 am (Eastern) / 8:00 pm (Beijing/Hong
+Kong) on Wednesday, May&nbsp;20, 2009. The conference call may be accessed using the dial-in numbers below: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="14%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="82%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3" NOWRAP><FONT FACE="Times New Roman" SIZE="2">International&nbsp;Toll&nbsp;Dial-In&nbsp;Number:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">+&nbsp;6567357955</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">China (Landline)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">8008190121</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">(Mobile)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">4006208038</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">U.K.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">08082346646</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">U.S.</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">18665194004</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Hong Kong</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">800933053</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">Conference ID:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">97106460</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">A telephone replay will be available shortly after the call until May&nbsp;27, 2009, at: </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="22%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="76%"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">International&nbsp;Dial-In&nbsp;Number:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">+ 61 2 8235 5000</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">U.S Dial-in Number:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">+ 18662145335</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Conference ID:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">97106460</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">A live webcast of the conference call and the replay will be available on the investor relations page of
+3SBio&#146;s website at <U>http://bbs.3sbio.com/en/News/xinvestors.aspx</U>. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Filing of 20F </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3SBio filed its Annual Report on Form 20-F for the year ended December&nbsp;31, 2008 with the SEC on April&nbsp;21, 2009. The Company&#146;s Form 20-F and complete
+audited financial statements can be found at <U>www.3sbio.com</U>. Hard copy versions of the complete audited financial statements are available free of charge upon request from 3SBio&#146;s Investor Relations. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Non-GAAP Financial Measures: Reconciliation of GAAP to non-GAAP </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">To
+supplement the Company&#146;s financial statements presented in accordance with general accepted accounting principles (&#147;GAAP&#148;), the Company has utilized some non-GAAP financial measures to provide investors and management with
+supplemental measures that facilitate comparisons of operating performance and trends with prior and future operating performance, and that may not otherwise be apparent on a GAAP basis. These non-GAAP financial measures include operating income and
+operating expenses before stock based compensation expense, and net income, and earnings per share before stock based compensation expense and recognition of an impairment loss on available-for-sale securities. These measures may be different from
+non-GAAP financial measures used by other companies. The presentation of this financial information, which is not prepared under any comprehensive set of accounting rules or principals, is not intended to be considered in isolation or as a
+substitute for the financial information prepared and presented in accordance with GAAP. Non-GAAP measures have limitations in that they do not reflect all of the amounts associated with the Company&#146;s results of operations as determined in
+accordance with GAAP. These measures should only be used to evaluate the Company&#146;s results of operations in conjunction with the corresponding GAAP measures. Please see the attached reconciliation of GAAP to non-GAAP for an explanation of the
+amounts excluded to arrive at non-GAAP financial measures for the three-month periods ended March&nbsp;31, 2008 and March&nbsp;31, 2009. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Statement
+Regarding Unaudited Financial Information </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The unaudited financial information set forth above is preliminary and subject to adjustments and
+modifications. The audited financial statements and related notes are to be included in our annual report on Form 20-F for the year ending December&nbsp;31, 2009. Adjustments and modifications to the financial statements may be identified during the
+course of this audit work, which could result in significant differences from this preliminary unaudited financial information. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Currency Convenience
+Translation </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">For the convenience of readers, certain RMB amounts have been translated into US dollars at the rate of RMB6.8329 to US$1.00, the noon
+buying rate for US dollars in effect on March&nbsp;31, 2009 for cable transfers of RMB per US dollar as certified for customs purposes by the Federal Reserve Bank of New York. 2008 RMB figures were translated into US dollars at the rate of RMB7.0120
+to US$1.00, the noon buying rate for US dollars in effect on March&nbsp;31, 2008. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About 3SBio Inc. </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">3SBio Inc. is a leading, fully integrated biotechnology company focused on researching, developing, manufacturing and marketing biopharmaceutical products, primarily in China. For more information, please visit 3SBio on the web at
+<U>www.3sbio.com</U> </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Safe Harbor Statement </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Certain
+statements in this release that are not purely historical in nature, including the 2009 full year guidance information, statements contained in &#147;2009 Full Year Guidance&#148; section, management comments and the statements of Dr.&nbsp;Jing Lou,
+Chief Executive Officer of 3SBio, constitute &#147;forward-looking statements&#148; within the meaning of Section&nbsp;27A of the Securities Act of 1933, as amended, and Section&nbsp;21E of the Securities Exchange Act of 1934, as amended, and as
+defined in the Private Securities Litigation Reform Act of 1995. These statements are based upon 3SBio management&#146;s current expectations, and actual results could differ materially. Among the factors that could cause 3SBio&#146;s actual results
+to differ from what the company currently anticipates may include: competition from other domestic and foreign pharmaceutical companies; the market conditions or pharmaceutical products in China; market acceptance of 3SBio products; hospital or
+patient demand for our products; 3SBio&#146;s ability to expand its production, sales and distribution network and other aspects of its operations; its ability to develop and commercialize additional products or additional indications for existing
+products; its ability to analyze additional in-licensing opportunities; its ability to effectively protect its intellectual property; changes in the healthcare industry in China, including changes in the healthcare policies and regulations of the
+PRC government and changes in the healthcare insurance sector in the PRC; and fluctuations in general economic and business conditions in China. As a result, actual results may differ materially from the forward-looking statements contained herein.
+For additional information on risk factors identified herein and other risk factors, uncertainties and assumptions that may adversely and materially affect 3SBio&#146;s business, financial conditions and results of operations, please refer to the
+company&#146;s filings with the Securities and Exchange Commission at www.sec.gov, including information detailed in Item&nbsp;3.D &#147;Risk Factors&#148; in 3SBio&#146;s annual report on Form 20-F for the year ended December&nbsp;31, 2008, as
+continually amended and updated. 3SBio undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, after the date of this press release, except as required by law.
+</FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Contact: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Investor Contact: </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Bo Tan, CFO </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">3SBio Inc. </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">+ 86 24 2581 1820 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Tanbo@3sbio.com </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Investor Relations (China): </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Peter Schmidt </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">FD Beijing </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">+86 10 8591 1953 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Peter.schmidt@fd.com </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Investor Relations (US): </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Evan Smith </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">John Capodanno </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">FD US </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">+1 212 850 5600 </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>3SBio Inc. and subsidiaries </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><U>Unaudited consolidated balance sheet </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>(expressed in thousands) </I></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="79%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>December&nbsp;31</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>2008</I></B></FONT><br><FONT FACE="Times New Roman"
+SIZE="1"><B><I>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>March&nbsp;31</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>2009<BR>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>March&nbsp;31</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>2009</I></B></FONT><br><FONT FACE="Times New Roman"
+SIZE="1"><B><I>US$</I></B></FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Assets</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><I>Current assets</I></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Cash and cash equivalents</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">439,237</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">302,164</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">44,222</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Time deposits with financial institutions</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">293,809</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">450,098</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">65,872</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Accounts receivable, less allowance for doubtful accounts:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">December&nbsp;31, 2008 &#150; RMB4,503;March 31, 2009 &#150; RMB4,565 (US$668)</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">73,767</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">80,891</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">11,838</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Inventories</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">7,748</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,984</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,315</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Prepaid expenses and other receivables</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,249</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">7,767</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,137</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Deferred tax assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,802</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,600</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">234</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total current assets</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">824,612</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">851,504</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">124,618</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Available-for-sale securities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">26,700</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">19,758</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">2,892</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Property, plant and equipment, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">78,185</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">88,208</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">12,909</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Lease prepayments</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,894</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,806</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,289</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Non-current deposits</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">8,521</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">6,723</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">984</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Intangible assets, net</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,225</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,950</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">724</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Deferred tax assets</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">781</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">251</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">37</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total assets</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">952,918</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">980,200</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">143,453</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Liabilities</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><I>Current liabilities</I></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Accounts payable</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,939</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,102</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">454</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Deferred grant income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">374</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">374</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">55</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Accrued expenses and other payables</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">25,273</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">31,958</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,677</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income tax payable</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,256</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,470</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">654</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Other current liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">57</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total current liabilities</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">28,899</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">39,904</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,840</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Deferred grant income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,152</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">3,058</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">448</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Other liabilities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">472</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total liabilities</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">32,523</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">42,962</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">6,288</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="80%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Commitments and contingencies</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Shareholders&#146; equity</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Share capital -ordinary shares US$0.0001 par value, 500,000,000 shares authorized, 150,586,455 issued and outstanding as of March&nbsp;31,
+2009 and 152,099,155 issued and outstanding as of December&nbsp;31, 2008.</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">121</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">121</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">18</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Additional paid-in capital</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">908,377</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">908,873</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">133,014</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Accumulated other comprehensive loss</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(102,126</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(101,665</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(14,879</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Retained earnings</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">114,023</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">129,909</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">19,012</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:3.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total shareholders&#146; equity</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">920,395</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">937,238</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">137,165</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total liabilities and shareholders&#146; equity</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">952,918</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">980,200</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">143,453</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>3SBio Inc. and subsidiaries </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><U>Unaudited quarterly consolidated statements of income </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>(expressed in thousands, except per share , per ADS and other share and ADS data)
+</I></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B><I>Three Months Ended March&nbsp;31,2009</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>GAAP</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>GAAP</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>US$</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Adjustment<BR>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Non-GAAP<BR>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Non-GAAP<BR>US$</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net Revenues</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">EPIAO</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">42,910</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">6,280</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">42,910</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">6,280</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">TPIAO</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">18,710</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,738</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">18,710</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,738</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Intefen</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,266</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">185</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,266</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">185</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Inleusin</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">268</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">39</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">268</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">39</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Iron</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,046</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">299</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,046</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">299</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Export</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,331</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">487</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,331</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">487</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Others</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">67</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">10</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">67</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">10</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total net revenues</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">68,598</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">10,038</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">68,598</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">10,038</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Cost of revenues</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(5,999</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(878</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">51&nbsp;</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(5,948</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(870</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Gross profit</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">62,599</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">9,160</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">62,650</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">9,168</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Operating expenses</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Research and development costs</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(2,457</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(360</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">70&nbsp;</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(2,387</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(349</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Sales, marketing and distribution expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(32,949</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(4,822</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">134&nbsp;</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(32,815</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(4,802</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">General and administrative expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(7,089</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(1,037</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">193&nbsp;</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(6,896</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(1,009</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total operating expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(42,495</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(6,219</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(42,098</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(6,160</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Operating income</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,104</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,941</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,552</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,008</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Other income / (expenses), net</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Interest income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">4,072</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">596</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">4,072</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">596</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Grant income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">94</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">14</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">94</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">14</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Impairment loss on available-for-sale Securities</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(4,624</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(677</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">4,624</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>&nbsp;(2)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Others</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(342</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(50</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(342</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(50</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total other income / (expenses), net</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(800</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(117</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,824</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">560</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income before income tax expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">19,304</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,824</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">24,376</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,568</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income tax expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,418</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(500</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,418</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(500</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net income</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">15,886</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,324</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,958</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,068</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net income per share</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic and diluted </FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(3)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.11</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.02</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.14</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.02</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic weighted average number of shares Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Diluted weighted average number of shares Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">150,586,455</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="57%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net income per ADS</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic and diluted </FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(3)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.74</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.11</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.97</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.14</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic weighted average number of ADSs Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Diluted weighted average number of ADSs Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,512,351</FONT></TD></TR>
+</TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><I>Notes to reconciliation of our GAAP statements of income to our non-GAAP statements of income: </I></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:8px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"><I></I></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1).</SUP></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"><I>To exclude share-based compensation expense from its non-GAAP
+measures primarily because they are non-cash expenses that the Company does not believe are reflective of ongoing operating results. </I></FONT></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:8px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"><I></I></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(2).</SUP></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"><I>To exclude impairment loss on available-for-sale securities
+from its non-GAAP measures primarily because they are non-cash expenses that the Company does not believe are reflective of ongoing operating results. </I></FONT></P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:8px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"><I></I></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(3).</SUP></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"><I>The options that the Company had granted had no impact on
+diluted EPS for the quarter ended March&nbsp;31, 2009, because the average market price of the Company&#146;s common stock during the period was less than the price at which the options would have been convertible into the Company&#146;s common
+stock. The weighted average exercise price of the outstanding options as of March&nbsp;31, 2009 was $1.10 per share. </I></FONT></P></TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><U>3SBio Inc. and subsidiaries </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><U>Unaudited quarterly consolidated statements of income </U></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>(expressed in thousands, except per share, per ADS and other share and ADS data)
+</I></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="53%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="1"><B><I>Three Months Ended March&nbsp;31,2008</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>GAAP</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>GAAP</I></B></FONT><br><FONT FACE="Times New Roman" SIZE="1"><B><I>US$</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Adjustment<BR>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Non-GAAP<BR>RMB</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B><I>Non-GAAP<BR>US$</I></B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net Revenues</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">EPIAO</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">35,469</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">5,058</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">35,469</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">5,058</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">TPIAO</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">15,420</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,199</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">15,420</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,199</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Intefen</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,084</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,084</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Inleusin</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">177</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">25</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">177</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">25</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Iron</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,387</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">198</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,387</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">198</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Export</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,897</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">270</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,897</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">270</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Others</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">33</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">5</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">33</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">5</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total net revenues</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">55,467</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,910</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&#151;&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">55,467</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,910</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Cost of revenues</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(4,911</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(700</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">34</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>&nbsp;(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(4,877</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(696</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Gross profit</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">50,556</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,210</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">50,590</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,214</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Operating expenses</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Research and development costs</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(2,756</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(393</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">51</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>&nbsp;(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(2,705</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(386</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Sales, marketing and distribution expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(25,623</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,654</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">93</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>&nbsp;(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(25,530</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,641</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">General and administrative expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(7,994</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(1,140</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">245</FONT><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>&nbsp;(1)</SUP></FONT><FONT FACE="Times New Roman" SIZE="2"></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(7,749</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(1,105</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Total operating expenses</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(36,373</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(5,187</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(35,984</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(5,132</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Operating income</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">14,183</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,023</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">14,606</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,082</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Other income / (expenses), net</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Interest income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,386</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,053</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">7,386</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,053</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Grant income</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">93</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">93</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">13</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Others</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,355</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">194</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,355</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">194</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Total other income / (expenses), net</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">8,834</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,260</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">8,834</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">1,260</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income before income tax expense and minority interests</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">23,017</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,283</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">23,440</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">3,343</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income tax expense</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,344</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(477</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(3,344</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(477</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">)</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Income before minority interests</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">19,673</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,806</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,096</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,866</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Minority interests, net of tax</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">77</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">11</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">77</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">11</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net income</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">19,750</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,817</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">20,173</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">2,877</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Net income per share</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Basic and diluted</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.13</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.02</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.13</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">0.02</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD>&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic weighted average number of shares Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">152,099,155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">152,099,155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">152,099,155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">152,099,155</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="53%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Effect of dilutive potential shares</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,634</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,634</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,634</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">1,634</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Diluted weighted average number of shares Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">152,100,789</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">152,100,789</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">152,100,789</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">152,100,789</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Net income per ADS:</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><B>Basic and diluted</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.91</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.13</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.93</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">0.13</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Basic weighted average number of ADSs Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,451</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,451</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,451</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,451</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Effect of dilutive potential ADSs</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">233</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">233</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">233</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">233</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:1px solid #000000">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Diluted weighted average number of ADSs Outstanding</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,684</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,684</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,684</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">21,728,684</FONT></TD></TR>
+<TR STYLE="font-size:1px">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="border-top:3px double #000000">&nbsp;</TD></TR>
+</TABLE> <P STYLE="line-height:8px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000;width:10%">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><I>Notes to reconciliation of our GAAP statements of income to our non-GAAP statements of income: </I></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; padding-bottom:8px; margin-top:-2px" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"> <P STYLE="line-height:95%; vertical-align:top"><FONT FACE="Times New Roman" SIZE="2"><I></I></FONT><FONT FACE="Times New Roman" SIZE="1"><SUP>(1).</SUP></FONT></P></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE="line-height:95%; vertical-align:top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="1"><SUP></SUP></FONT><FONT FACE="Times New Roman" SIZE="2"><I>To exclude share-based compensation expenses from its
+non-GAAP measures primarily because they are non-cash expenses that the Company does not believe are reflective of ongoing operating results. </I></FONT></P></TD></TR></TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

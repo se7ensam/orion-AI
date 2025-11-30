@@ -1,0 +1,538 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OirkenZT05SBNXNcUV2onarjjqdLvU7JppIag7orDunN75go0bjDks2Q0oAwaEyG
+ H/ioePa35D2lUK81LmZ+DQ==
+
+<SEC-DOCUMENT>0001309014-10-000168.txt : 20100308
+<SEC-HEADER>0001309014-10-000168.hdr.sgml : 20100308
+<ACCEPTANCE-DATETIME>20100308161325
+ACCESSION NUMBER:		0001309014-10-000168
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100308
+FILED AS OF DATE:		20100308
+DATE AS OF CHANGE:		20100308
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		10663921
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_4833.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>FORM 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+March 8, 2010
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: March 8, 2010
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Bruce Cousins
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Chief Financial Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard to Receive DOE Funding to Advance Non-Automotive Fuel Cell Commercialization</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 10pt">Ballard Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 10pt">News Release
+
+
+<P align="left" style="font-size: 10pt"><B>Ballard to Receive DOE Funding to Advance Non-Automotive Fuel Cell Commercialization</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>$6.2&nbsp;million in funding to Ballard for fuel cell research and development projects</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Ballard will collaborate with leading U.S. technology partners</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Projects will focus on fuel cell durability and cost to enable widespread
+commercialization of fuel cells for diverse applications</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>For Immediate Release &#150; March&nbsp;8, 2010</B>
+
+
+<P align="left" style="font-size: 10pt">VANCOUVER, CANADA&#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) announced today that it has $6.2
+million in project funding from the U.S. Department of Energy (DOE)&nbsp;under contract over a four year
+period. Ballard Material Products, a U.S. subsidiary of Ballard Power Systems, was awarded $4.1
+million as prime for a contract that will focus on improvements in fuel cell durability and cost.
+Additionally, Ballard will be sub-contractor to leading U.S. technology organizations for several
+other fuel cell research and development projects funded by the DOE.
+
+
+<P align="left" style="font-size: 10pt">&#147;We are excited to be working with a technology leader such as Ballard Power Systems,&#148; said Dr.&nbsp;Rod
+Borup, Fuel Cell Program Manager, Institute for Hydrogen and Fuel Cell Research at Los Alamos
+National Laboratory, one of Ballard&#146;s project partners. &#147;This is important work in support of the
+DOE goal to move fuel cell technology closer to large scale commercialization. Our collaborations
+with Ballard are in the areas of understanding and improving fuel cell durability and reducing
+technology cost, which are the primary enablers to rapid market adoption of fuel cell systems.&#148;
+
+
+<P align="left" style="font-size: 10pt">Over eighty percent of the announced DOE funding has been allocated to projects aimed at increased
+durability and cost reduction, with the remaining funds focused on water management modeling. The
+project for which Ballard Material Products will be prime is meant to improve the understanding of
+fuel cell materials and components degradation, leading to recommended mitigation strategies to
+facilitate further commercialization. Resulting advancements will facilitate commercialization of
+fuel cells for a range of applications, including stationary power generation.
+
+
+<P align="left" style="font-size: 10pt">In addition to Los Alamos National Laboratory, Ballard will be partnering with other leading U.S.
+technology organizations, including Lawrence Berkeley National Laboratory, Sandia National
+Laboratory, Georgia Institute of Technology, Michigan Technical University, University of Hawaii at
+Manoa and University of New Mexico.
+
+
+<P align="left" style="font-size: 10pt">&#147;The receipt of significant funding from the DOE clearly demonstrates the Department of Energy&#146;s
+interest in fuel cell market adoption,&#148; said Dr.&nbsp;Christopher Guzy, Chief Technology Officer at
+Ballard Power Systems. &#147;This funding is completely aligned with Ballard&#146;s plans to continue
+investing in strategic enhancements of non-automotive fuel cell products.&#148;
+
+
+<P align="left" style="font-size: 10pt"><B>About Ballard Power Systems</B>
+
+
+<P align="left" style="font-size: 10pt">Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) provides clean energy fuel cell products enabling
+optimized power systems for a range of applications. To learn more about Ballard, please visit
+www.ballard.com.
+
+
+<P align="left" style="font-size: 10pt"><B>Further Information</B>
+
+
+<P align="left" style="font-size: 10pt">Investor Relations:
+<BR>
+Lori Rozali
+<BR>
+&#043;1.604.412.3195
+<BR>
+investors@ballard.com
+
+
+<P align="left" style="font-size: 10pt">Public Relations:
+<BR>
+Guy McAree
+<BR>
+&#043;1.604.412.7919
+<BR>
+media@ballard.com
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+
+
+<!-- v.121908 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

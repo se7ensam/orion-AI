@@ -1,0 +1,420 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LG0i3Ii17uRiwZDWBHaZREkykDJ+I+mwC+GiYffc/qJN4B60FUNNtFuM8RwRIQUM
+ pVG9NPq6Vtt4qaF0aosQ3w==
+
+<SEC-DOCUMENT>0001362310-09-003939.txt : 20090317
+<SEC-HEADER>0001362310-09-003939.hdr.sgml : 20090317
+<ACCEPTANCE-DATETIME>20090317060113
+ACCESSION NUMBER:		0001362310-09-003939
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20090301
+FILED AS OF DATE:		20090317
+DATE AS OF CHANGE:		20090317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRMEDIA GROUP INC.
+		CENTRAL INDEX KEY:			0001413745
+		STANDARD INDUSTRIAL CLASSIFICATION:	UNKNOWN SIC - 8880 [8880]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33765
+		FILM NUMBER:		09686314
+
+	BUSINESS ADDRESS:	
+		STREET 1:		17/F, SKY PLAZA, NO.46 DONGZHIMENWAI ST.
+		STREET 2:		DONGCHENG DISTRICT
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+		BUSINESS PHONE:		(86-10) 8438-6868
+
+	MAIL ADDRESS:	
+		STREET 1:		17/F, SKY PLAZA, NO.46 DONGZHIMENWAI ST.
+		STREET 2:		DONGCHENG DISTRICT
+		CITY:			BEIJING
+		STATE:			F4
+		ZIP:			100027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>c82663e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Form 6-K</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 10pt"><B>UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 10pt"><B>FORM 6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 10pt"><B>REPORT OF FOREIGN PRIVATE ISSUER<BR>
+PURSUANT TO RULE 13a-16 OR 15d-16 UNDER<BR>
+THE SECURITIES EXCHANGE ACT OF 1934</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>For the month of March&nbsp;2009</B>
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 20pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>Commission File Number: 001-33765</B>
+</DIV>
+
+
+<DIV align="center">
+<DIV style="font-size: 10pt; margin-top: 20pt; width: 26%; border-top: 1px solid #000000">&nbsp;</DIV>
+</DIV>
+
+
+
+<DIV align="center" style="font-size: 24pt; margin-top: 10pt"><B>AIRMEDIA GROUP INC.</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">17/F, Sky Plaza,<BR>
+No.&nbsp;46 Dongzhimenwai Street<BR>
+Dongcheng District<BR>
+100027, Beijing<BR>
+People&#146;s Republic of China<BR>
+(Address of principal executive offices)
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or <FONT style="white-space: nowrap">Form&nbsp;40-F.</FONT>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">Form&nbsp;20-F <FONT face="Wingdings">&#254;</FONT> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form&nbsp;40-F <FONT face="Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T <FONT style="white-space: nowrap">Rule&nbsp;101(b)(1): <FONT face="Wingdings">&#111;</FONT></FONT>
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T <FONT style="white-space: nowrap">Rule&nbsp;101(b)(7): <FONT face="Wingdings">&#111;</FONT></FONT>
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt">SIGNATURE
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt; text-indent: 4%">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">AIRMEDIA GROUP INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Herman Man Guo
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Herman Man Guo&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Chief Executive Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Date:
+March&nbsp;17, 2009
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head --><TR valign="bottom">
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="85%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>Exhibit No.</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Description</B></TD>
+</TR>
+
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">&nbsp;</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+</TR>
+<TR valign="bottom" style="padding-top: 1px">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">99.1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+
+<TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Press
+release regarding the acquisition of concession rights in Beijing and
+Shenzhen airports</DIV></TD>
+</TR>
+<!-- End Table Body --></TABLE>
+</DIV>
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="right" style="font-size: 10pt; margin-top: 10pt"><U>Exhibit&nbsp;99.1</U>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><B>AirMedia Obtains Concession Rights in Beijing and Shenzhen Airports</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 10pt"><I>Company penetrates into traditional media<BR>
+and strengthens leadership in digital media advertising</I>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Beijing, China &#151; March&nbsp;13, 2009 &#151; AirMedia Group Inc. (Nasdaq: AMCN), operator of the largest
+digital media network in China dedicated to air travel advertising, today announced that it
+recently obtained the contractual concession rights to operate various traditional advertising
+media in Beijing Capital International Airport and Shenzhen International Airport and digital
+frames in the baggage claim areas in Beijing Capital International Airport. In addition, AirMedia
+also renewed its concession rights contract for digital TV screens in Shenzhen International
+Airport.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">AirMedia entered into a concession rights contract with Beijing Capital International Airport to
+operate traditional advertising formats including billboards, light boxes and other formats in 376
+locations at Terminals 1, 2, and 3 of Beijing Capital International Airport from April&nbsp;1, 2009 to
+March&nbsp;31, 2012. AirMedia will start operating most of these 376 locations on April&nbsp;1, 2009. In the
+same contract, AirMedia also obtains concession rights to operate digital frames in the baggage
+claim areas in all of the three Terminals from April&nbsp;1, 2009 to March&nbsp;31, 2012. Previously,
+AirMedia only operated digital frames in the departure areas of Terminals 2 and 3. The newly
+obtained concession rights will significantly enhance AirMedia&#146;s digital frame presence in the
+arrival areas to meet advertisers&#146; strong demands for advertisements in Beijing Capital
+International Airport.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">AirMedia also entered into a concession rights contract with Shenzhen International Airport to
+operate 90 light boxes in the arrival walkways of Terminals A and B of Shenzhen International
+Airport from April&nbsp;1, 2009 to December&nbsp;31, 2011. AirMedia will start operating the light boxes in
+most of these 90 locations on April&nbsp;1, 2009.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">&#147;We are excited about the signing of these contracts as we expected in our fourth quarter 2008
+earnings release. These contracts also opened a new era for AirMedia to become a one-stop operator
+of both digital and traditional media in the air travel advertising sector with a leading market
+share. We believe we are now better positioned to broaden and integrate our customer base,
+strengthen our pricing power and further enhance our relationships with airports and airlines,&#148;
+commented Herman Guo, chairman and chief executive officer of AirMedia.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">In a separate concession rights contract with Shenzhen International Airport, AirMedia also renewed
+its concession rights contract to continue operating digital TV screens in Shenzhen International
+Airport from January&nbsp;1, 2009 to December&nbsp;31, 2011.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">Taking into account the above new concession rights contracts and some other concession rights
+contracts expected to be entered into, AirMedia currently expects that total concession fees for
+all the product lines in the second quarter of 2009 will be at least US$30.3&nbsp;million.
+</DIV>
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>About AirMedia Group Inc.</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">AirMedia Group Inc. (Nasdaq: AMCN) operates the largest digital media network in China dedicated to
+air travel advertising. AirMedia has contractual concession rights to operate digital TV screens in
+53 airports, including all of the 30 largest airports in China. AirMedia also has contractual
+concession rights to operate TV-attached digital frames ranging from 46 to 52 inches and
+stand-alone digital frames ranging from 63 to 82 inches in 22 major airports. In addition, AirMedia
+has contractual concession rights to place its programs on the routes operated by 10 airlines,
+including the three largest airlines in China, and the exclusive rights in mainland China to sell
+advertisements on Cathay Pacific Airline and Dragonair&#146;s routes. In select major airports, AirMedia
+also operates traditional media platforms, such as billboards, light boxes, and mega display
+screens. For more information about AirMedia, please visit
+http://www.airmedia.net.cn.
+</DIV>
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif; margin-left: .25in; width: 7.20in">
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt"><B>Safe Harbor Statement</B>
+</DIV>
+
+
+<DIV align="justify" style="font-size: 10pt; margin-top: 10pt">This announcement contains forward-looking statements. These statements are made under the &#147;safe
+harbor&#148; provisions of the U.S. Private Securities Litigation Reform Act of 1995. These
+forward-looking statements can be identified by terminology such as &#147;will,&#148; &#147;expect,&#148; &#147;anticipate,&#148;
+&#147;future,&#148; &#147;intend,&#148; &#147;plan,&#148; &#147;believe,&#148; &#147;estimate,&#148; &#147;confident&#148; and similar statements. Among other
+things, the quotations from management in this announcement, as well as AirMedia Group Inc.&#146;s
+strategic and operational plans, contain forward-looking statements. AirMedia may also make written
+or oral forward-looking statements in its periodic reports to the U.S. Securities and Exchange
+Commission on Forms 20-F and 6-K, etc., in its annual report to shareholders, in press releases and
+other written materials and in oral statements made by its officers, directors or employees to
+third parties. Statements that are not historical facts, including statements about AirMedia&#146;s
+beliefs and expectations, are forward-looking statements. Forward-looking statements involve
+inherent risks and uncertainties. A number of important factors could cause actual results to
+differ materially from those contained in any forward-looking statement. Potential risks and
+uncertainties include, but are not limited to, if advertisers or the viewing public do not accept,
+or lose interest in, our air travel digital media network, we may be unable to generate sufficient
+cash flow from our operating activities and our prospects and results of operations could be
+negatively affected; we derive substantially all of our revenues from the provision of air travel
+advertising services, and if there is a downturn in the air travel advertising industry, we may not
+be able to diversify our revenue sources; if our customers reduce their advertising spending due to
+an economic downturn in China and/or elsewhere or for any other reason, our revenues and results of
+operations may be materially and adversely affected; if we are unable to retain existing concession
+rights contracts or obtain new concession rights contracts on commercially advantageous terms that
+allow us to place or operate the digital TV screens in airports or on airplanes, we may be unable
+to maintain or expand our network coverage and our business and prospects may be harmed; a
+substantial majority of our revenues are currently concentrated in the five largest airports and
+three largest airlines in China, and if any of these airports or airlines experiences a material
+business disruption, our ability to generate revenues and our results of operations would be
+materially and adversely affected; AirMedia&#146;s limited operating history makes it difficult to
+evaluate our future prospects and results of operations; and other risks outlined in AirMedia&#146;s
+filings with the U.S. Securities and Exchange Commission. AirMedia does not undertake any
+obligation to update any forward-looking statement, except as required under applicable law.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt"><B>Investor Contact:</B><BR>
+Raymond Huang<BR>
+Investor Relations Director<BR>
+AirMedia Group, Inc.<BR>
+Tel: &#043;86-10-8460-8678<BR>
+Email: ir@airmedia.net
+
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 10pt">Cynthia He<BR>
+Brunswick Group<BR>
+Tel: &#043;86-10-6566-2256<BR>
+Email: airmedia@brunswickgroup.com
+
+</DIV>
+
+
+<P align="center" style="font-size: 10pt">&nbsp;
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

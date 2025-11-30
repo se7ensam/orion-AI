@@ -1,0 +1,914 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UvVg7sT7ureJNcUY5HeOY+G2kgDeYb5r36VGHCn3xL2eE3+r/J/qnWNEn+HFCLkM
+ +TPD883SjSzacP7rlfO4BQ==
+
+<SEC-DOCUMENT>0000912282-09-000017.txt : 20090105
+<SEC-HEADER>0000912282-09-000017.hdr.sgml : 20090105
+<ACCEPTANCE-DATETIME>20090105145406
+ACCESSION NUMBER:		0000912282-09-000017
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20090105
+FILED AS OF DATE:		20090105
+DATE AS OF CHANGE:		20090105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		09504381
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>ballard6k_mcr010209.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B></FONT>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>Form 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</CENTER>
+</P>
+<P>
+<CENTER>
+January 2009
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: &nbsp; 000-53543
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN=CENTER ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        &nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">Canada<BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="2">
+      9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+            <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<BR>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+
+Indicate by check mark whether the registrant  files or will file annual reports
+under     cover    of    Form     20-F    or    Form     40-F:&nbsp;&nbsp;<FONT size="+2"><img src="ballot.jpg"></font>&nbsp;Form       20-F&nbsp;&nbsp;&nbsp;&nbsp;
+ <FONT size="+2">  <img src="ballotx.jpg"> </font> &nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+
+Indicate by check mark if the  registrant is submitting the Form 6-K in paper as
+permitted     by     Regulation     S-T    Rule     101(b)(1):&nbsp;&nbsp;
+<FONT size="+2">  <img src="ballot.jpg"></FONT>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+Indicate by check mark if the  registrant is submitting the Form 6-K in paper as
+permitted     by     Regulation     S-T    Rule     101(b)(7):&nbsp;&nbsp;
+<FONT size="+2"><img src="ballot.jpg"></font>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+
+Indicate by check mark whether the  registrant  by  furnishing  the  information
+contained  in this  Form is  also  thereby  furnishing  the  information  to the
+Commission  pursuant to Rule  12g3-2(b)  under the  Securities  Exchange  Act of
+1934:&nbsp;&nbsp;<FONT size="+2"><img src="ballot.jpg"></font>&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;
+<FONT size="+2"><img src="ballotx.jpg"></font>&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<BR>
+
+
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+
+</DIV>
+
+
+
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%"><B>
+Ballard Power Systems Inc.
+</B></TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: &nbsp;&nbsp;January 2, 2009
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" colspan=2>
+       By:&nbsp;&nbsp;/s/ Glenn Kumoi<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_______________________________
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Glenn Kumoi
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Vice President, General Counsel and Corporate Secretary
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<BR>
+
+
+
+
+
+
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><B>FORM 51-102F3</B></p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><b>Material Change Report</b></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%%" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 1</b></p> </td>
+        <td nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Name and Address of Company</b></p> </td> </tr></table>
+
+<p style=' margin-bottom:0pt; margin-top:6pt; margin-left:10%;text-align:justify;'>Ballard Power Systems Inc. (&#147;<b>Ballard</b>&#148;)</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>9000 Glenlyon Parkway</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Burnaby, BC  V5J 5J8</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'>&nbsp;</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 2</b></p> </td>
+        <td nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Date of Material Change</b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:6pt; margin-left:10%;text-align:justify;'>December 31, 2008</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 3</b></p> </td>
+        <td nowrap valign=top style='padding:0in 0in 6.0pt 0in; '>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>News Release</b></p> </td> </tr></table>
+
+<p style=' margin-bottom:12pt; margin-top:6pt; margin-left:10%;text-align:justify;'>The press release issued by Ballard Power Systems Inc. and attached as Schedule A to this Material Change Report was disseminated via Canadian and U.S. Disclosure Networks on December 31, 2008.</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='margin-left:0pt;border-collapse:collapse; '>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 4</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Summary of Material Change</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:12pt; margin-top:6pt; margin-left:10%;text-align:justify;'>The transaction with Superior Plus Income Fund (&#147;<b>Superior Plus</b>&#148;) to reorganize Ballard&#146;s business, resulting in a non-dilutive financing with net cash proceeds of approximately C$41 million, as described in Ballard&#146;s Management Information Circular dated November 14, 2008 (the &#147;<b>Circular</b>&#148;) and filed on SEDAR on November 21, 2008, closed and became effective at 11.59 p.m. on December 31, 2008.</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='margin-left:0pt;border-collapse:collapse; '>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 5</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Full Description of Material Change</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:12pt; margin-top:6pt; margin-left:10%;text-align:justify;'>On October 30, 2008 Ballard entered into an arrangement agreement with Superior Plus which provided for the implementation of a plan of arrangement (the &#147;<b>Plan of Arrangement</b>&#148;). Under the Plan of Arrangement, which took effect at 11:59 p.m. on December 31, 2008 (the &#147;<b>Effective Time</b>&#148;):</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="15%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:6pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="5%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'>1.</p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'>Ballard (a new entity described in the Circular as Newco) acquired the entire business and operations of Ballard (which was renamed Superior Plus Corp. under the Plan of Arrangement) (&#147;<b>Old Ballard</b>&#148;), including all its assets and liabilities. Ballard has the same assets, liabilities, directors, management and employees as Old Ballard.</p> </td> </tr></table>
+
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="15%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:6pt'><font size=1>&nbsp;</font></p> </td>
+        <td width="5%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'>2.</p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'>Shareholders of Old Ballard acquired common shares in Ballard in exchange for their common shares in Old </p> </td> </tr></table>
+
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:33.33%;text-align:justify;'>&nbsp;</p>
+
+
+
+
+
+<HR SIZE=2 COLOR=black>
+<BR>
+
+
+
+<p style='page-break-before:always'></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'>2</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:right;'>&nbsp;</p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:33.33%;text-align:justify;'>&nbsp;</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:20.0%;text-align:justify;'>Ballard and upon completion of the Arrangement held the same interest in Ballard as they held in Old Ballard immediately prior to the Effective Time.</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Subject to the final approval of the Toronto Stock Exchange and NASDAQ, respectively, the common shares of Ballard will trade on the TSX under the symbol &#147;BDL&#148; and on NASDAQ under the symbol &#147;BLDP&#148;. The exsiting certificates for Old Ballard common shares will represent common shares of Ballard. Ballard shareholders do not need to take any action to replace the certificates representing their shares of Old Ballard for certificates representing shares of Ballard.</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt; margin-left:10%;text-align:justify;'>
+Full details of the transaction are described in the Circular,  copies of which
+may be obtained at www.sedar.com and www.sec.gov.</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 6</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Reliance on subsection 7.1(2) or (3) of National Instrument 51-102</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:6pt; margin-top:6pt; text-indent:10%;text-align:justify;'>Not applicable.</p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:10%; text-indent:-16.67%;text-align:justify;'>&nbsp;</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 7</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Omitted Information</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:6pt; margin-top:6pt; text-indent:10%;text-align:justify;'>Not applicable.</p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt; margin-left:10%; text-indent:-16.67%;text-align:justify;'>&nbsp;</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 8</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Executive Officer</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:0pt; margin-top:6pt; margin-left:10%;text-align:justify;'>For further information, contact:</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>&nbsp;</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:left;'>Glenn Kumoi, Vice President Human Resources,<font size=2> Chief Legal Officer and Corporate Secretary</font></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'>&nbsp;</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Ballard Power Systems Inc. </p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>9000 Glenlyon Parkway</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Burnaby, BC  V5J 5J8</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'>&nbsp;</p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Telephone:&nbsp;&nbsp;(604) 412-3106</p>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>Fax:&nbsp;&nbsp;(604) 453-3600</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'>&nbsp;</p>
+
+
+<table width="100%" border="0" cellspacing=0 cellpadding=0 style='border-collapse:collapse'>
+    <tr >
+        <td width="10%" valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Item 9</b></p> </td>
+        <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+            <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0in'><b>Date of Report</b></p> </td> </tr></table>
+
+
+<p style=' margin-bottom:0pt; margin-top:0pt; margin-left:10%;text-align:justify;'>January 2, 2009</p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:justify;'>&nbsp;</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<p style='page-break-before:always'></p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:right;'>3</p>
+
+<p style=' margin-bottom:12pt; margin-top:0pt;text-align:right;'>&nbsp;</p>
+
+<p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+<HR SIZE=2 COLOR=black>
+<BR>
+
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'>
+<b>Schedule &#147;A&#148;</b></p>
+
+<p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><b>Press Release</b></p>
+
+
+<BR>
+<BR>
+
+
+
+        <table cellspacing="0" cellpadding="0" width="100%">
+            <tr valign="top">
+                <td width="33%"><font size="3" face="Arial"><b>Ballard Power Systems
+                Inc.</b></font> <br>
+                <br>
+                <font size="5" face="Arial"><b>News Release</b></font> </td>
+
+                <td width="33%"><font size="2" face="Arial">Ballard Power Systems<br>
+                9000 Glenlyon Parkway<br>
+                Burnaby BC V5J 5J8<br>
+                Canada<br>
+                <br>
+                Tel: 604-454-0900<br>
+                Fax: 604-412-4700<br>
+                www.ballard.com</font></td>
+
+                <td width="33%">
+                <font size="2" face="Times New Roman, Times, Serif"><img src="img2.jpg"></font>
+                </td>
+            </tr>
+        </table>
+        <br>
+        <br>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <b><font size="5" face="Arial">Ballard Confirms Close of Transaction to Strengthen Balance
+        Sheet Through</font></b></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <b><font size="5" face="Arial">C$41M Non-Dilutive Financing</font></b></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">For Immediate Release &ndash; December 31, 2008</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <b><font size="2" face="ARIAL">VANCOUVER, BRITISH COLUMBIA</font></b>
+        <font size="2" face="Arial">&ndash; Ballard Power Systems Inc. (TSX: BLD)(NASDAQ: BLDP)
+        confirmed that the previously announced transaction with Superior Plus Income Fund (TSX:
+        SPF.UN)(www.superiorplus.com) to reorganize the Company&rsquo;s business, resulting in a
+        non-dilutive financing with net cash proceeds of approximately
+        C$41million (US$33 million), has closed and will take effect at 11:59 p.m. today.</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">John Sheridan, Ballard&rsquo;s President and CEO commented that
+        &ldquo;the closing of this transaction is very important for Ballard, as it completes a
+        year of transformational&nbsp;progress for our company, in three fundamental
+        areas:</font></p>
+
+        <table style="BORDER-COLLAPSE: collapse; MARGIN-LEFT: 0pt" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    &nbsp;</p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="4"><b>&bull;</b></font></p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="2" face="Arial">Re-vectoring&nbsp;our strategic direction with the
+                    automotive transaction, which closed&nbsp; on January 31, 2008, with a US$97
+                    million gain recorded in the first quarter;&nbsp;</font></p>
+                </td>
+            </tr>
+        </table>
+
+        <table style="BORDER-COLLAPSE: collapse; MARGIN-LEFT: 0pt" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    &nbsp;</p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="4"><b>&bull;</b></font></p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="2" face="Arial">Accelerating&nbsp;fuel cell product adoption, as
+                    evidenced by&nbsp;the ACME Telepower supply agreement announced on October 9,
+                    2008; and</font></p>
+                </td>
+            </tr>
+        </table>
+
+        <table style="BORDER-COLLAPSE: collapse; MARGIN-LEFT: 0pt" border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    &nbsp;</p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top" width="3%">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="4"><b>&bull;</b></font></p>
+                </td>
+
+                <td style="PADDING-BOTTOM: 5pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; PADDING-TOP: 5pt" valign="top">
+                    <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; TEXT-INDENT: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt">
+                    <font size="2" face="Arial">Strengthening the company&rsquo;s financial
+                    position,&nbsp;with this non-dilutive financing, bolstering an already strong
+                    balance sheet with significant cash reserves and no debt.&nbsp; The net
+                    proceeds will augment Ballard's cash reserves of $57.1 million as reported at
+                    September 30, 2008.&rdquo;</font></p>
+                </td>
+            </tr>
+        </table>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="MARGIN-TOP: 0pt; TEXT-INDENT: 0px; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0in; FONT-SIZE: 10pt" align="left">
+        <font size="2" face="ARIAL">
+        Mr. Sheridan reiterated that "the proceeds from this transaction, which was approved by a
+        98.3% shareholder vote, will allow Ballard to continue to execute its growth plan without
+        any need for public market financing for the foreseeable future."</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <b><font size="2" face="Arial">About Ballard Power Systems</font></b></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">Ballard Power Systems (TSX: BLD)(NASDAQ: BLDP) is recognized as
+        a world leader in the design, development, manufacture and sale of clean energy fuel cell
+        products. Ballard&rsquo;s mission is to accelerate fuel cell product adoption. To learn
+        more about what Ballard is doing with Power to Change the World(R), visit
+        www.ballard.com.</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">This release contains forward-looking statements that are based
+        on the beliefs and assumptions of Ballard&rsquo;s management and reflect Ballard&rsquo;s
+        current expectations as contemplated under section 27A of the Securities Act of 1933, as
+        amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such
+        assumptions relate to our financial forecasts and expectations regarding our product
+        development efforts, manufacturing capacity, and market demand. These statements involve
+        risks and uncertainties that may cause our actual results to be materially different,
+        including, without limitation, the rate of mass adoption of our products, product
+        development delays, changing environmental regulations, our ability to attract and retain
+        business partners and customers, our access to funding, increased competition, our ability
+        to protect our intellectual property, changes in our customers&rsquo; requirements, and our
+        ability to provide the capital required for product development, operations and marketing.
+        Readers should not place undue reliance on Ballard&rsquo;s forward-looking statements and
+        Ballard assumes no obligation to update or release any</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="1" face="Arial">Page 1 of 2</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+        <hr color="black" size="2" noshade>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <b><font size="5" face="Arial">Ballard Confirms Close of Transaction to Strengthen Balance
+        Sheet Through C$41M Non-Dilutive Financing</font></b></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">revisions to these forward looking statements. For a detailed
+        discussion of the risk factors that could affect Ballard&rsquo;s future performance, please
+        refer to our most recent Annual Information Form.</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">The securities to be issued in connection with the transaction
+        have not been and will not be registered under the United States Securities Act of 1933, as
+        amended, or any state securities laws and may not be offered or sold within the United
+        States unless an exemption from such registration requirements is available.</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+        <br>
+
+        <p style="TEXT-ALIGN: center; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">-30-</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">For further information, or to arrange an interview with a
+        Ballard spokesperson, please call:</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">Amy Harada Bradley</font></p>
+
+        <table style="BORDER-COLLAPSE: collapse" border="0" cellspacing="0" cellpadding="0" width="25%">
+            <tr>
+                <td valign="top" width="100%" nowrap>
+                    <p style="MARGIN: 0in 0in 0pt"><font size="2" face="Arial">Ballard Power
+                    Systems</font></p>
+                </td>
+            </tr>
+        </table>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">604-412-7913</font></p>
+
+        <table style="BORDER-COLLAPSE: collapse" border="0" cellspacing="0" cellpadding="0" width="26%">
+            <tr>
+                <td valign="top" width="100%" nowrap>
+                    <p style="MARGIN: 0in 0in 0pt">
+                    <font size="2" face="Arial">amy.harada@ballard.com</font></p>
+                </td>
+            </tr>
+        </table>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="2" face="Arial">Ballard, the Ballard logo and Power to Change the World are
+        registered trademarks of Ballard Power Systems Inc.</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: right; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">
+        <font size="1" face="Arial">Page 2 of 2</font></p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+
+        <p style="TEXT-ALIGN: left; MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt">&nbsp;</p>
+        <hr color="black" size="2" noshade>
+<BR>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>ballot.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ballot.jpg
+M_]C_X``02D9)1@`!`0$!+`$L``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"``,``L#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#U."#5-9UW
+M7U'B/4K&"SO4MX8+6*V*A3;0R$DR0LQ):1N_I6KX5OKC4_!^B7]W()+FZL()
+MI7``W.T:EC@<#DGI3+GPKI=S>W5V6U"&:Z=9)C;:G<P*[!50';'(`#M11D#M
+?6G8V5OINGVUC:1^5;6T2PPQ@D[44`*,GG@`=:`/_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ballotx.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ballotx.jpg
+M_]C_X``02D9)1@`!`0$!+`$L``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"``,``L#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#<\6>.]4TK
+MQOJ>F+JEW'"MQ%%"MO/;1QVJE+7,EP9+>1HXBT[8DR<D;=HQFO2_"=]<:GX-
+MT._O)/,NKK3[>:9]H&YVC4L<#@9)/2H[GPEI5UJ%S?,VI0SW3AYC:ZI<P*[!
+J%0$K'(JYVJHSCL*U+"QM],TZVL+./R[6UB2&%-Q.U%`"C)Y.`!UH`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>img2.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img2.jpg
+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
+*B(B(B(B(B(O_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

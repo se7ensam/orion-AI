@@ -1,0 +1,587 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Cd6E9/mMoEFK37kUhaF/MKy9qdFN9cCmB38AFyzOG84+BjoO4MIuLjhIOOd5ArWq
+ O/JV2Y6qhYj/BbjkbheQJQ==
+
+<SEC-DOCUMENT>0001144204-09-048670.txt : 20090916
+<SEC-HEADER>0001144204-09-048670.hdr.sgml : 20090916
+<ACCEPTANCE-DATETIME>20090916141740
+ACCESSION NUMBER:		0001144204-09-048670
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090916
+FILED AS OF DATE:		20090916
+DATE AS OF CHANGE:		20090916
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			A-Power Energy Generation Systems, Ltd.
+		CENTRAL INDEX KEY:			0001399233
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING SERVICES [8711]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			D8
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33820
+		FILM NUMBER:		091071783
+
+	BUSINESS ADDRESS:	
+		STREET 1:		625 BROADWAY
+		STREET 2:		SUITE 1111
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92101
+		BUSINESS PHONE:		619 795 4627
+
+	MAIL ADDRESS:	
+		STREET 1:		625 BROADWAY
+		STREET 2:		SUITE 1111
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92101
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHINA ENERGY TECHNOLOGY LTD
+		DATE OF NAME CHANGE:	20070510
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>v160585_6k.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!--Licensed to: Vintage Filings-->
+    <!--Document Created using EDGARizer 4.0.6.4-->
+    <!--Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved-->
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">UNITED
+STATES</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">WASHINGTON,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt">of</font> <font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt">the Securities
+Exchange Act Of 1934</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR
+THE MONTH OF SEPTEMBER 2009</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">COMMISSION
+FILE NUMBER: 001-33820</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">A-POWER
+ENERGY GENERATION SYSTEMS, LTD.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation
+of registrant's name into English)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No. 44
+Jingxing Road</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Tiexi
+District</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Shenyang,
+Liaoning, China 110021</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+of principal executive office)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form
+20-F&#160;<font style="DISPLAY: inline;" face="Wingdings">x</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Form
+40-F <font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation&#160;S-T Rule&#160;101(b)(1):&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation&#160;S-T Rule&#160;101(b)(7):&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether by furnishing the information contained in this Form, the
+registrant is also thereby furnishing the information to the Commission pursuant
+to Rule&#160;12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No
+<font style="DISPLAY: inline;" face="Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If "Yes"
+is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b): 82-________.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">TABLE
+OF CONTENTS</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="center">
+        <div align="center">
+          <table cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td valign="top" width="93%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline">Page</font></font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#ccffcc">
+                <td align="left" valign="top" width="93%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Signature</font></div>
+                </td>
+                <td valign="top" width="7%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">3</font></div>
+                </td>
+              </tr>
+              <tr bgcolor="white">
+                <td align="left" valign="top" width="93%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Exhibit
+      Index</font></div>
+                </td>
+                <td valign="top" width="7%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">4</font></div>
+                </td>
+              </tr>
+              <tr bgcolor="#ccffcc">
+                <td valign="top" width="93%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              </tr>
+              <tr bgcolor="white">
+                <td align="left" valign="top" width="93%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Exhibit
+      99.1 &#8211; Press Release dated September 15, 2009 regarding wind farm
+      contract</font></div>
+                </td>
+                <td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="left">
+        <div align="left">
+          <div align="right">
+            <table cellpadding="0" cellspacing="0" width="50%">
+                <tr>
+                  <td align="left" colspan="3" valign="top" width="51%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">A-Power
+      Energy Generation Systems, Ltd.</font></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  <td colspan="2" valign="middle" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" width="5%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:</font></div>
+                  </td>
+                  <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  <td valign="bottom" width="45%" style="BORDER-BOTTOM: black 2px solid">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/
+      John S. Lin</font></div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" width="5%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:</font></div>
+                  </td>
+                  <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  <td align="left" valign="bottom" width="45%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;John
+      S. Lin</font></div>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" width="5%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:</font></div>
+                  </td>
+                  <td align="left" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  <td align="left" valign="bottom" width="45%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Operating Officer</font></div>
+                  </td>
+                </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:
+September 16, 2009</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">EXHIBIT
+INDEX</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div align="left">
+        <div align="left">
+          <table cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td align="left" valign="top" width="8%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Exhibit</font></div>
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Number</font></div>
+                </td>
+                <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td align="left" valign="bottom" width="90%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Description</font></div>
+                </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td align="left" valign="top" width="90%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" width="8%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">99.1</font></div>
+                </td>
+                <td align="left" valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                <td align="left" valign="top" width="90%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Press
+      Release dated September 15, 2009 regarding wind farm
+    contract</font></div>
+                </td>
+              </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>v160585_ex99-1.htm
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!--Licensed to: Vintage Filings-->
+    <!--Document Created using EDGARizer 4.0.6.4-->
+    <!--Copyright 1995 - 2008 EDGARfilings, Ltd., an IEC company. All rights reserved-->
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><img src="logo.jpg"></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">A-Power
+Energy Generation Systems Ltd. to Develop a 49.5MW Wind Farm</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">in
+Inner Mongolia for Jihe Orient Wind Energy Co., Ltd.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font>
+<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">$90.5M contract includes equipment,
+construction and installation -</font></font></div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font>
+<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Project to begin October 2009
+- -</font></font></div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Shenyang, China, September 15,
+2009</font> &#8211; A-Power Energy Generation Systems Ltd. (Nasdaq: APWR) (&#8220;A-Power&#8221;
+or &#8220;the Company&#8221;), a leading provider of distributed power generation (&#8220;DG&#8221;)
+systems in China and a fast-growing manufacturer of wind turbines, today
+announced the Company has won a &#8220;full-responsibility&#8221; contract to develop a
+49.5MW wind farm in the township of Saiwusu, Guba County, Inner Mongolia (&#8220;the
+Saiwusu Wind Farm&#8221;), for the Urat Rear Banner-based Jihe Orient Wind Energy Co.,
+Ltd. (&#8220;Jihe Orient&#8221;). The total value of the contract is $90.5
+million.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A-Power
+is to supply the wind turbines, the towers and the foundations, and oversee the
+construction, subcontracting and installation for this project. The estimated
+cost breakdown is as follows: equipment procurement $84.2 million; construction
+and installation $4.8 million; miscellaneous $1.5 million. The project is due to
+commence early October this year and the estimated completion time is June
+2010.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Saiwusu Wind Farm project, owned by Jihe Orient, has been approved by the
+National Resources Bureau of the Inner Mongolia Autonomous Region and the permit
+for transmission to the electricity power grid has been issued by the Inner
+Mongolia Power Co. Its feed-in tariff also has been approved by China&#8217;s National
+Development and Reform Commission.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#8220;We are
+truly excited to embark on our first wind farm full-responsibility project,&#8221;
+said Mr. Jinxiang Lu, Chairman and CEO of A-Power. &#8220;Inner Mongolia as we all
+know has the most promising wind energy potential among all of China&#8217;s
+provinces. Among the 787GW estimated exploitable wind power, only 1.6GW in
+capacity had been developed and installed as of September 2008, according to the
+Chinese Renewable Energy Industry Association. A-Power is very proud to set its
+foot in a region with such vast resources. We look forward to leveraging our
+superior wind turbine technologies, our engineering and construction expertise
+and our excellent relations with local governments, and making headways as a
+participant in the robust growth of the wind power market of
+China.&#8221;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">About
+A-Power</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;A-Power
+Energy Generation Systems Ltd. (&#8220;A-Power&#8221;), through its China-based operating
+subsidiaries, is the largest provider of distributed power generation systems in
+China, focusing on energy-efficient and environmentally friendly projects of
+25MW to 400MW. In 2008, A-Power entered the wind energy market and has built
+China's largest wind turbine manufacturing facility, located in Shenyang,
+Liaoning Province, with technologies licensed from German FUHRL&#196;NDER AG and
+Denmark-based Norwin, and a total annual production capacity of 1,125MW. In
+March 2009, A-Power entered into an agreement to establish a Joint Venture
+partnership with GE Drivetrain Technologies to produce wind turbine gearboxes in
+Shenyang. A-Power also has strategic relationships with Tsinghua University in
+Beijing and the China Academy of Sciences in Guangzhou to develop and
+commercialize other renewable energy technologies. For more information, please
+visit http://www.apowerenergy.com.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt">Safe Harbor
+Statement </font><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#160;</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This
+press release may contain forward-looking statements. Any such statement is made
+within the 'safe harbor' provisions of the U.S. Private Securities Litigation
+Reform Act of 1995. These forward-looking statements can be identified by
+terminology such as &#8220;will,&#8221; &#8220;expects,&#8221; &#8220;anticipates,&#8221; &#8220;future,&#8221; &#8220;intends,&#8221;
+&#8220;plans,&#8221; &#8220;believes,&#8221; &#8220;estimates,&#8221; and other similar statements. Statements that
+are not historical facts, including statements relating to anticipated future
+earnings, margins, and other operating results, future growth, construction
+plans and anticipated capacities, production schedules and entry into expanded
+markets are forward-looking statements. Such forward-looking statements, based
+upon the current beliefs and expectations of our management, are subject to
+risks and uncertainties, which could cause actual results to differ materially
+from the forward-looking statements, including but not limited to, the risk
+that: inclement weather conditions could adversely affect our operating results
+in particular quarters and/or fiscal years; we may experience construction and
+development delays on our projects which could adversely affect our financial
+condition and operating results; our limited operating history and recent
+entrance into new markets may make it difficult for you to evaluate our business
+and future prospects; the expected benefits of supply and partnership agreements
+may not materialize to the extent expected or at all; we expect to rely
+increasingly on our proprietary products and systems and on technology developed
+by our licensors and partners, and if we or our licensors or partners become
+involved in an intellectual property dispute, we may be forced to spend
+considerable resources resolving such dispute; a decrease in the rate of growth
+of China's industry and economy may lead to a decrease in our revenues because
+industrial companies in China are our principal source of revenues, as well as
+other relevant risks detailed in our filings with the Securities and Exchange
+Commission, including those set forth in our annual report filed on Form 20-F
+for the fiscal year ended December 31, 2008. The information set forth herein
+should be read in light of such risks. We assume no obligation to update the
+information contained in this press release, except as required under applicable
+law.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contact:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr. John
+S. Lin</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Chief
+Operating Officer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">A-Power
+Energy Generation Systems</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">john@apowerenergy.com</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Mr.
+Valentine Ding / Mr. Dixon Chen</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Investor
+Relations</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Grayling</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">+1-646-284-9412</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">valentine.ding@us.grayling.com</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">dixon.chen@us.grayling.com</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 logo.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````/```_^X`#D%D
+M;V)E`&3``````?_;`(0`!@0$!`4$!@4%!@D&!08)"P@&!@@+#`H*"PH*#!`,
+M#`P,#`P0#`X/$`\.#!,3%!03$QP;&QL<'Q\?'Q\?'Q\?'P$'!P<-#`T8$!`8
+M&A41%1H?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?
+M'Q\?'Q\?'Q\?_\``$0@`,P`W`P$1``(1`0,1`?_$`)8```$%`0$!````````
+M``````<``@,&"`$$!0$``04!`0````````````````(#!`4&!P$0``$#`P(#
+M!P$'!0$```````(!`P0`$042!B$Q!T%188$R$Q1Q(D)B(S,D%9&Q4J*3"!$`
+M`0,"`P8#!P4``````````0`"`Q$$(1(%,4%182(&<1,C\(&A,D)R%)&QT5)#
+M_]H`#`,!``(1`Q$`/P#5-"%PBLEZ$(=[XZUX':N1+&O19$B:(H2B`H@6+DNI
+M5X^5,R3!AHK[3.WIKMF=I:&JIQO_`$[`5VTK"N@U]T@,25?);4U^6."MW=ER
+M_3(THA[-ZH[3W8OLX^3[<U$N4-Y-#EO#L+RIYDH=L6>U#1KBT/J-Z>(V*W7I
+MU5:5"%PBTI=>5"$.>HW63";3)838?-RI#=(X%80[E<+L^E,RS-8K[2-`FO.H
+M=,?$H![DZD;BR^3:R4N-&;=`5^-=E"L!+V*?JJ(^4DUHMU9=OV\3"QKW$;Z%
+M-B=2)_!K)XV#D8J\";-D0*W@06XUX)N*7+VZS;%)(QWW%+*,8<V!W%M1UR$Y
+M%,2E0"+\U@E7@XV2>H+T&AZFKRVEF:[\6\`<'?*[<>1YK1_2_?C>Y]I-9"40
+MM2XR^S.551!UBGJX\M2<:FQ29FU7.]9TPVER8QBTXA7-'05OW-2:+:M=_LVY
+MWOW4ZJGEO5?WYN%,!MN=DN"G':4FT7DI\A3^M)>:`E2[&U\^9L?]C\%E_"16
+MY$3)[SSG[I([MF&'.4B4?%$)?\1YVJO9C5Y73;^0L='90=.88G@U2[%VID.H
+M&Z#;E/*+#0^[+>%/2%[(`)R3N2AC/,=BE:K?,TRV`C'5L',\2CB70K9`8_XZ
+M0;DB?K*2J[]=7?4TP,IL6`=W)>YLV?W;D">H.SY.S,U[$9TRA2P+V3+FH\B`
+MOI425F0X;UOM%U-M_%Z@'F,/L1P4&+9EGL'+.LO.--QY3)&(DHB2&FE45$YT
+MAH/EE.7;VC4(FD`YF%:`P&7E2^@S\]P[R0PLRQ^+++@BO^M3&N].O)8.XMFL
+MU01CY?-;\7!3];X#LS8N1;;O<`%WAW-EJ6E3BK"HW;\PCO8R>-/U6=)4M'.G
+MT*.V5E9G.J^*?B!-*K4&OIKI$<9&I/<=\>"LO0O=^-VYN=YK*&C$;(MHT,@^
+M`@:+<=7@7?2[=X:<5`[JT]]S`'1XEAV!:;+*X[XWR$DM$Q:_NH8Z;=][VJP-
+M*+F!C<#2AKX+,O6_=L#/Y]B#BS20S"U`KS?%#=->0]]N50+EX<11=*[4TY]O
+M$^67I+^/!>3<`-;=V+%VUJ0\SDG1EY!D+*3:6_+;*W;X4E_2W+O*78EUW?NN
+MO\8P6M)_=''";=FP^BK^$(568>(E!HMQUOLFJ#;ON=JEAOITY+&SWC7ZD)?I
+M$K3[@0KODL<S/C.1WA0FG14#%>T22RI3Q%52,<6N#AM&Q"3J%TFQ4;9K\3!Q
+M4:=C+\EM$NI.*/J0E[;C3$L(+:!:32==E;>-DE=F:[I\$'\1`QNY<>WC#>"#
+MGX:*$4W?LM2&K\&B5?28KR6HK6APH<"%L[B62RE,H!DMWXFFUIX^"^;D\%NW
+M%?M)C$IMI/2**9-*GX=-Q5*26N&"FVU_9S]3"RO/:F8&+N)C(@>,@N.SDNC/
+MY2FH*OWA1>2^-)8UU<!BE7\EM)'21XR>*,?3+HID/Y,-P;L77)0T>9ADNM5<
+MYZW27^U2H8*&KMJQ>L]R-,?D6V#-A/\`'BCL@(@:?"U2UBTZA"AE1P?;452O
+M$(+[_P"A3.2ENY'"N)#EN*IN,K^D9+QNEO2M1Y;<$U"UND=TO@:(Y1G8J:ST
+M]ZRQQ^,S(<]D?LBB/W&WAJY4V(I!A57#M8TEYS.9C]JOG2SI?NW#9K^9S63U
+MJ0*#L1%5S6B\M1%RMX4[%"YIJ2J+6M8MKB(111Y:':C$(H*61+5(673J$)4(
+92H0FER^[YT(4?_.A"D'R\J$)U"$J$+__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

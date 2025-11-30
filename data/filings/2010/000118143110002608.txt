@@ -1,0 +1,510 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V3zFyF5FJ81B2T2xfiYzCAlpiQAnDKbXsRPMf7hxOR5tZFzpOXs6FM3QXXf1uvBb
+ 6I4gsYmD9L28YUby/gSu+Q==
+
+<SEC-DOCUMENT>0001181431-10-002608.txt : 20100111
+<SEC-HEADER>0001181431-10-002608.hdr.sgml : 20100111
+<ACCEPTANCE-DATETIME>20100111173000
+ACCESSION NUMBER:		0001181431-10-002608
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100111
+FILED AS OF DATE:		20100111
+DATE AS OF CHANGE:		20100111
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			3SBio Inc.
+		CENTRAL INDEX KEY:			0001383790
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33295
+		FILM NUMBER:		10521041
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NO.3 A1, ROAD 10 SHENYANG
+		STREET 2:		ECONOMY & TECHNOLOGY DEVELOPMENT ZONE
+		CITY:			SHENYANG
+		STATE:			F4
+		ZIP:			110027
+		BUSINESS PHONE:		86-24-2581-1820
+
+	MAIL ADDRESS:	
+		STREET 1:		NO.3 A1, ROAD 10 SHENYANG
+		STREET 2:		ECONOMY & TECHNOLOGY DEVELOPMENT ZONE
+		CITY:			SHENYANG
+		STATE:			F4
+		ZIP:			110027
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>rrd262619.htm
+<DESCRIPTION>FORM 6-K FOR FERAHEME REGISTRATION TRIAL APPLICATION
+<TEXT>
+
+<html>
+<head>
+<title>Prepared By R.R. Donnelley - Form 6-K</title>
+</head>
+<body bgcolor="WHITE">
+
+
+<hr align="left" color="#000000" noshade="noshade" size="3">
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="5"><b>SECURITIES AND EXCHANGE COMMISSION</b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="3"><b>Washington, DC 20549 </b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<hr color="#000000" noshade="noshade" size="1" width="17%">
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="5"><b>FORM 6-K</b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"></font>
+</p>
+
+<hr color="#000000" noshade="noshade" size="1" width="17%">
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="3"><b>REPORT OF FOREIGN PRIVATE ISSUER </b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="3"><b>Pursuant to Rule 13a-16 or 15d-16 of</b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="3"><b>the Securities Exchange Act of 1934 </b></font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2"><b>January 11, 2010</b></font>
+</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;">
+		<font size="1"> </font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2"><b>Commission File Number: 000-33295</b>	</font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+	</p>
+
+	<hr color="#000000" noshade="noshade" size="1" width="17%">
+
+	<p style="margin-top: 0px; margin-bottom: 0px;">
+		<font size="1"> </font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+		<font face="Times New Roman" size="6"><b>3SBio Inc.</b></font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+		<font face="Times New Roman" size="1"><b>(Translation of registrant's name into English) </b></font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;">
+		<font size="1"> </font>
+	</p>
+
+	<hr color="#000000" noshade="noshade" size="1" width="17%">
+
+	<p style="margin-top: 0px; margin-bottom: 0px;">
+		<font size="1"> </font>
+	</p>
+	<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+		<font face="Times New Roman" size="2">
+			<b>
+				No. 3 A1, Road 10<br>Shenyang Economy & Technology Development Zone<br>Shenyang 110027<br>People's Republic of China
+			</b>
+		</font>
+	</p>
+
+	<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+		<font face="Times New Roman" size="1"><b>(Address of principal executive offices) 	</b></font>
+	</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<hr color="#000000" noshade="noshade" size="1" width="90%">
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">Indicate by check mark whether the registrant files or will </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">file annual reports under
+cover of Form 20-F or Form 40-F. </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">
+		Form 20-F <u><b>&nbsp;&nbsp;X&nbsp;&nbsp;</b></u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Form 40-F <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+	</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1">&nbsp;</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font face="Times New Roman" size="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation S-T Rule 101(b)(1):
+		<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+	</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font face="Times New Roman" size="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule
+101(b)(7):
+		<u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+	</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1">&nbsp;</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">Indicate by check mark whether the registrant by furnishing the </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">information contained
+in this form is also thereby furnishing the </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">information to the Commission pursuant to Rule 12g3-2(b) under the </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">Securities Exchange Act of 1934.</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1"> </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">
+		Yes
+		<u>&nbsp;&nbsp;&nbsp;</u>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		No
+		<u><b>&nbsp;&nbsp;X&nbsp;&nbsp;</b></u>
+	</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1">&nbsp;</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">If "Yes" is marked, indicate below the file number assigned to the </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">registrant in connection with Rule 12g3-2(b): <u>82-</u>.
+</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: -6px;">
+	<font size="1"> </font>
+</p>
+
+<hr align="left" color="#000000" noshade="noshade" size="3">
+
+<hr align="center" color="#999999" size="3" width="100%">
+
+<p style="margin-top: 0px; margin-bottom: -6px;">
+ 	<font face="Times New Roman" size="2">
+ 		3SBio Inc. is furnishing under the cover of Form 6-K:<p>Exhibit 99.1  Press release, dated January 8, 2010, regarding that 3SBio Inc. Applies For SFDA Registrational Trial For Feraheme &nbsp;
+	</font>
+</p>
+
+<hr align="center" color="#999999" size="3" width="100%">
+
+<p style="margin-top: 0px; margin-bottom: 0px;" align="center">
+	<font face="Times New Roman" size="2">SIGNATURES </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1">&nbsp;</font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px; text-indent: 4%;">
+	<font face="Times New Roman" size="2">Pursuant
+	to the requirements of the Securities Exchange Act of 1934, the
+	registrant has duly caused this report to be signed on its behalf by
+	the
+	undersigned, thereunto duly authorized. </font>
+</p>
+
+<p style="margin-top: 0px; margin-bottom: 0px;">
+	<font size="1">&nbsp;</font>
+</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+			<tr>
+				<td valign="top">
+					<p style="margin-left: 1em; text-indent: -1em;">
+						<font face="Times New Roman" size="2">
+
+						</font>
+					</p>
+				</td>
+				<td colspan="3" valign="top">
+
+						<font face="Times New Roman" size="2">
+							3SBio Inc.
+						</font>
+
+				</td>
+			</tr>
+
+			<tr>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+							Date : January 11, 2010
+						</font>
+
+				</td>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+							By:
+						</font>
+
+				</td>
+
+				<td valign="bottom">
+					<font size="1"> </font>
+				</td>
+				<td valign="bottom">
+
+						<font face="Times New Roman" size="2">
+							<u>/s/ Dr. Jing Lou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u>
+						</font>
+
+
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+
+						</font>
+
+				</td>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+							Name:
+						</font>
+
+				</td>
+				<td valign="bottom">
+					<font size="1"> </font>
+				</td>
+				<td valign="bottom">
+
+						<font face="Times New Roman" size="2">
+							Dr. Jing Lou
+						</font>
+
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+						</font>
+
+				</td>
+				<td valign="top">
+
+						<font face="Times New Roman" size="2">
+							Title:
+						</font>
+
+				</td>
+
+				<td valign="bottom">
+					<font size="1"> </font>
+				</td>
+				<td valign="bottom">
+
+						<font face="Times New Roman" size="2">
+							Chief Executive Officer
+						</font>
+
+				</td>
+			</tr>
+			<tr>
+				<td>
+					&nbsp;
+				</td>
+			</tr>
+
+
+		</table>
+
+
+	<p Style='page-break-before:always'>
+	<hr  Size="3" Width="100%" Align="center">
+		<div Align="center"><font Face="times New Roman" Size="3" Color="#000000">
+	<b>Exhibit Index </b></font>
+	</div>
+
+	<div><font Size="2">&nbsp;</font></div>
+
+	<div Align="center">
+	<table Cellspacing="0" Cellpadding="0" Width="100%" Border="0">
+		<tr>
+			<td Valign="top" Align="left">
+		<div Align="left"><font Face="times New Roman" Size="2" Color="#000000">
+		<b>Exhibit&nbsp;No.</b></font>
+		</div>
+			<hr Size="2" Noshade Width="48" Color="#000000">
+			</td>
+			<td Valign="top" Width="3%"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+			<td Valign="top" Width="100%" Align="left">
+		<div><font Face="times New Roman" Size="2" Color="#000000">
+		<b>Description</b></font>
+		</div>
+		<hr Size="2" Noshade Width="73" Align="left" Color="#000000">
+			</td>
+		</tr>
+
+
+		<tr>
+			<td Valign="top" Align="left">
+		<div Align="left"><font Face="times New Roman" Size="1" Color="#000000">
+		EX-99.1</font>
+		</div>
+
+			</td>
+			<td Valign="top" Width="3%"><font Face="times New Roman" Size="2">&nbsp;&nbsp;</font></td>
+			<td Valign="top" Width="100%" Align="left">
+		<div><font Face="times New Roman" Size="2" Color="#000000">
+		Press Release - 3SBio Inc. Applies For SFDA Registrational Trial For Feraheme</font>
+		</div>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				&nbsp;
+			</td>
+		</tr>
+
+
+		</table>
+
+
+<BR><BR><BR>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>rrd262619_312.htm
+<DESCRIPTION>PRESS RELEASE - 3SBIO INC. APPLIES FOR SFDA REGISTRATIONAL TRIAL FOR FERAHEME
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>3SBio Inc</TITLE>
+</HEAD>
+<BODY>
+<B><FONT SIZE=4><P ALIGN="RIGHT">Exhibit 99.1</P>
+</FONT><P ALIGN="CENTER">3SBio Inc. Applies For SFDA Registrational Trial For Feraheme</B><FONT FACE="Calibri,Arial Narrow" SIZE=2>&trade;</P>
+</FONT><FONT SIZE=2><P>SHENYANG, PRC - January 8, 2010 - 3SBio Inc. (NASDAQ: SSRX), a leading biotechnology company focused on researching, developing, manufacturing and marketing biopharmaceutical products primarily in China, today announced that it has submitted its application for a registrational clinical trial to the Chinese State Food and Drug Administration ("SFDA") for Feraheme (ferumoxytol) Injection for intravenous use. Feraheme is an intravenous iron therapy that 3SBio licensed from AMAG Pharmaceuticals, Inc. (NASDAQ: AMAG) for development in China for the treatment of iron deficiency anemia in adult patients with chronic kidney disease ("CKD").</FONT><I><FONT FACE="Calibri,Arial Narrow" SIZE=2> </P>
+</I></FONT><FONT SIZE=2><P>Feraheme was approved on June 30, 2009 by the U.S. Food and Drug Administration for the same indication for which 3SBio is seeking approval in China and launched commercially in the U.S. by AMAG in July 2009. As previously announced, 3SBio has exclusive rights to develop and commercialize Feraheme in China. Once approved by the SFDA, 3SBio will commence a multi-center randomized efficacy and safety study in China with approximately 200 CKD patients, measuring the mean change in hemoglobin from baseline at Day 35 after first dose. </P>
+<P>Dr. Jing Lou, Chief Executive Officer of 3SBio comments: "We are pleased with the timely submission of the Feraheme clinical trial application to the SFDA in China, representing a major milestone and our commitment to bringing this innovative therapy to Chinese CKD patients in need. We look forward to working with the SFDA to ensure an efficient review process."</P>
+<P>Brian J.G. Pereira, MD, President and Chief Executive Officer of AMAG Pharmaceuticals comments: "3SBio is the ideal partner to bring Feraheme to iron deficiency anemia patients with chronic kidney disease in China. This step represents an important milestone in our efforts to broaden the global reach of Feraheme."</P>
+<B><P>Important Safety Information about Feraheme</P>
+</B><P>Feraheme is contraindicated in patients with evidence of iron overload, known hypersensitivity to Feraheme or any of its components, and patients with anemia not caused by iron deficiency. </P>
+<P>In clinical studies, hypotension was reported in 1.9% (33/1,726) of subjects receiving Feraheme, including three patients with serious hypotensive reactions. Serious hypersensitivity reactions were reported in 0.2% (3/1726) of patients. Patients should be observed for signs and symptoms of hypersensitivity for at least 30 minutes following Feraheme injection and the drug should only be administered when treatment of hypersensitivity reactions is readily available. Excessive therapy with parenteral iron can lead to excess storage of iron with the possibility of iatrogenic hemosiderosis. Patients should be regularly monitored for hematologic response during parenteral iron therapy. As a superparamagnetic iron oxide, Feraheme may transiently affect magnetic resonance diagnostic imaging but will not affect X-ray, CT, PET, SPECT, ultrasound, or nuclear imaging. </P>
+<P>In clinical trials, the most commonly occurring adverse reactions in Feraheme treated patients versus oral iron treated patients were diarrhea, nausea, dizziness, hypotension, constipation and peripheral edema.</P>
+<B><P>About 3SBio Inc.</B><BR>
+<BR>
+3SBio Inc. is a leading, fully integrated biotechnology company focused on researching, developing, manufacturing and marketing biopharmaceutical products, primarily in China. For more information, please visit 3SBio on the web at www.3sbio.com.</P>
+<B><P>Safe Harbor Statement </P>
+</B><P>This press release contains statements of a forward-looking nature. These statements are made under the "safe harbor" provisions of the U.S. Private Securities Litigation Reform Act of 1995. You can identify these forward-looking statements by terminology such as "will," "expects," "anticipates," "future," "intends," "plans," "believes," "estimates" and similar statements. The accuracy of these statements may be impacted by a number of business factors and uncertainties that could cause actual results to differ materially from those projected or anticipated, including factors related to: the ability of 3SBio to initiate and successfully complete the registrational trial for Feraheme; the risk that 3SBio may not be able to commercially offer Feraheme in China in a timely manner or at all for whatever reason, including possible failure to obtain SFDA approval; uncertainty as to hospital or patient demand for 3SBio's products; uncertainties regarding 3SBio's ability to successfully compete in the intrave
+nous iron replacement market in China; uncertainties regarding 3SBio's ability to obtain favorable insurance coverage and pricing for Feraheme, if approved by the SFDA; changes in the healthcare industry in China, including changes in the healthcare policies and regulations of the P.R.C. government and changes in the healthcare insurance sector in the P.R.C.; fluctuations in general economic and business conditions in China; and other risks outlined in 3SBio's filings with the Securities and Exchange Commission. 3SBio does not undertake any obligation to update this forward-looking information, except as required under applicable law. </P>
+</FONT><FONT FACE="Calibri,Arial Narrow" SIZE=2><P>Feraheme&trade; is a trademark of AMAG Pharmaceuticals, Inc.</P>
+</FONT><B><FONT SIZE=2><P>Investor Contacts</B><BR>
+Bo Tan<BR>
+Chief Financial Officer<BR>
+3SBio Inc.<BR>
+Tel: + 86 24 2581-1820; ir@3SBio.com</P>
+<P>Tom Folinsbee<BR>
+Director of Investor Relations<BR>
+3SBio Inc. <BR>
+Tel: + 852 8191-6991<BR>
+ir@3SBio.com</P></FONT></BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

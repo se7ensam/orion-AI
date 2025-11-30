@@ -1,0 +1,2398 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fhozh2BIyZuFfrqpYSHaLAIjUnYBSafUGCVzh7z4UxMyd14xbJoT3t3cCovwYz/t
+ rTCqVc6fMc3+OeSnMq3e+w==
+
+<SEC-DOCUMENT>0000903423-10-000423.txt : 20100729
+<SEC-HEADER>0000903423-10-000423.hdr.sgml : 20100729
+<ACCEPTANCE-DATETIME>20100729133353
+ACCESSION NUMBER:		0000903423-10-000423
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100729
+FILED AS OF DATE:		20100729
+DATE AS OF CHANGE:		20100729
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Santander UK plc
+		CENTRAL INDEX KEY:			0001087711
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14928
+		FILM NUMBER:		10977124
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+		BUSINESS PHONE:		011 44 870 607 6000
+
+	MAIL ADDRESS:	
+		STREET 1:		2 TRITON SQUARE, REGENT'S PLACE
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			NW1 3AN
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABBEY NATIONAL PLC
+		DATE OF NAME CHANGE:	19990601
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>santander-6k1_0729.htm
+<TEXT>
+<html>
+<head>
+    <title>Unassociated Document</title>
+    <!--Licensed to: Cleary Gottlieb-->
+    <!--Document Created using EDGARizer2020 5.1.6.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C. 20549</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report of Foreign Issuer</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of July 2010</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SANTANDER UK PLC</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant's name into English)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2 Triton Square, Regent&#8217;s</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Place, London NW1 3AN, England</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form 20-F . . . .X. . . . Form 40-F . . . . . . . .</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes . . . . . . . No . . .X. . . .</font><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Arial">A strong first half performance for Santander UK</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">London, 29 July 2010</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">This statement provides a summary of the unaudited business and financial trends for the six months to 30 June 2010. Unless otherwise stated, references to Santander UK&#160;&#160;and other general statements refer to the trading<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">1 </font>results and business flow analysis of the combined businesses of Santander UK plc and Alliance &amp; Leicester ("A&amp;L") compared to the same period in 2009.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">The results of Banco Santander, S.A. ("Banco Santander") for the six months to 30 June 2010 are also released today and can be found on <font color="blue" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font color="blue" style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial; TEXT-DECORATION: underline">www.santander.com</font>.</font> The results of Santander UK, on a Group basis, are included within Banco Santander&#8217;s financial statements.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#8220;Santander UK has had a strong first-half performance with profit and revenues up and costs flat on the same period last year. We are continuing to pass on the benefits of being the most efficient UK bank to our customers with more best buy mentions than any UK competitor. We are also continuing to reward the loyalty of our customers through innovations like our new Loyalty Tracker bond.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#8220;We have had growth across all areas of the business demonstrating that our transformation into a full-service commercial bank is progressing successfully. Santander provided one-in-five UK mortgages and increased our lending to SME&#8217;s by over 20%, albeit from a small market share.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#8220;We are also investing to support the sustainable growth in our business and to continue improving our service. Over the next few months, we will be hiring more than 600 additional staff into our branches and call centres. This investment demonstrates the success of our strategy, our commitment to customer service and our ongoing support for the UK economy."</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Ant&#243;nio Horta-Os&#243;rio, Chief Executive, Santander UK</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Key Highlights</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Santander UK continues to deliver improved performance and profitable growth:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">trading profit before tax up over 10% with around 6% revenue growth;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">trading cost-to-income ratio improved by over 2% relative to Half 1 2009&#160;&#160;to around 39%, maintaining Santander UK&#8217;s &#8216;best in class&#8217; position relative to UK peers <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2 </font>;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">improved funding position with growth in commercial deposits of 11%, more than twice the growth in commercial assets of 5%. As a result, the loan to deposit funding ratio improved by more than 8% to 124%<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top"> 3</font> (H1&#8217;09: 132%, H1&#8217;08:167%); and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">return on risk weighted assets increased by more than 50 basis points to c.2.4%, with an increase in the Tier 1 ratio from 9.5% in December 2009 to 10.6%.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Good progress in becoming a full service commercial bank:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">introduced next stage of our loyalty strategy by launching the Loyalty Tracker Bond, available to our mortgage, investment and primary current account customers;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">mortgage gross lending of &#163;12.3bn, up 14%, with an estimated gross market share of 19%;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">growth in lending to small and medium-sized enterprises <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">4</font> (SMEs) picking up pace, up over 20% on Half 1 2009;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">loyalty strategy delivering c.150,000 Zero current account openings;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">bank account balances up 11%, with a total of 519,000 new accounts opened, including a significant increase in higher-value current accounts;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font></div>
+</div>
+
+<div id="FTR" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">1</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"></div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right">&#160;</div>
+
+<div id="HDR" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">credit card sales of 239,000 were 31% higher than a year ago; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 72pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">o&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">with the Part VII process completed, we remain on track to fully integrate and rebrand A&amp;L to Santander by the end of the year.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Over 600 new hires planned in the second half of 2010 to support business growth.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Deleverage actions remain on track, with a 62% and 40% reduction in the A&amp;L Treasury portfolio since December 2008 and December 2009 respectively, with credit performance slightly better than original expectations.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Business Review</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Business Performance</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Our strong performance has been delivered in a difficult economic environment and ongoing market uncertainty.&#160;&#160;Our growth in revenue balanced against controlled costs means we have reduced our cost to income ratio to around 39% in the second quarter and well below the expected sector average in the high 50&#8217;s range. This continues to provide us with a significant competitive advantage and one which we have exploited in delivering even better value-for-money products for our customers.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The combination of our retail and corporate banking presence is a powerful one: with a distribution capability across more than 1,300 branches and 25 regional corporate banking centres combined with a full-commercial product range. This powerful sales platform has delivered significant new business, including new bank account openings of 519,000 in the first six months, and we are on track to open one million new accounts for the second year running, 239,000 new credit card accounts, investment sales of &#163;1.8bn, and lending to SME businesses up by over 20% for the year-to-date.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">In January 2010, we announced our strategy going forward would be to focus on rewarding our existing 25 million customers with even better-value products, giving them a compelling reason to do more business with us.&#160;By offering better products to our existing customers, we will have lower revenues per product but more products per customer, helping us to deepen the relationship we have with customers and increase our share of wallet.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We continue to support homeowners with mortgage gross lending of &#163;12.3bn with an estimated gross lending market share of 19%, well ahead of our stock share.&#160;&#160;Our continued focus on the quality of new lending based on affordability and robust risk management continues to serve us well.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Since September 2006, we have been carefully maintaining a balance between the margin of new business, prudent lending criteria and our market share aspirations.&#160;&#160;As a result, provisions for the first six months were broadly in line with the same period last year and arrears on our mortgage book remain well below the sector average.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font></div>
+</div>
+
+<div id="FTR" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">2</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">In corporate and business banking we continue to identify areas where we would like to develop and grow our business, which is predominantly the SME sector through our regional centres and to large corporate businesses where we are benefiting from their desire to have a multi- rather than single-bank relationship.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We have been very successful in attracting retail and corporate deposits of &#163;4.6bn, demonstrating the strength of the Santander brand.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Our Private Banking and Global Banking &amp; Markets operations have also contributed well in difficult market conditions and delivered a solid first-half performance.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Integration and Rebranding</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The rebranding of Abbey and Bradford &amp; Bingley&#8217;s savings business was completed in January 2010.&#160;&#160;This has been very well received and delivered a significant advantage for customers as they are able to transact in 1,000 Santander branches, which will rise to 1,300 with the addition of A&amp;L when we complete the rebranding of the A&amp;L branches later this year.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The integration of A&amp;L is on track and we expect to transfer A&amp;L onto Partenon, Santander&#8217;s proprietary IT platform and to rebrand the branch network, by the end of 2010. We are on plan to deliver the targeted &#163;180m of cost savings by the end of 2011, as stated at the time of the A&amp;L acquisition in 2008.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Rewarding customer loyalty</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Our strategy of rewarding customers who do more business with us has set us apart from our peers.&#160;&#160;Since January we have:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">launched the Santander Zero Current Account.&#160;&#160;The Zero account already has the lowest fees in the market with no overdraft fees and fee-free overseas ATM and point-of-sale transactions.&#160;&#160;It is available to anyone who has their main banking relationship with Santander and holds a Santander mortgage or investment product.&#160;&#160;With 40 million adults in the UK with at least one current account, we estimate the Santander Zero Current Account is now available to over 22 million consumers;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">removed charges for using all 4,300 Santander ATMs in Spain for all customers who have their main current account with Santander UK;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">waived the 3 per cent balance transfer fee on the Zero Credit Card for all existing customers with a mortgage or a current account with Santander or A&amp;L;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">extended the eligibility of Zero, the UK&#8217;s first and only fee-free current account to include all those who hold or open an investment with Santander.&#160;&#160;This means the Zero Current Account is now available to almost six out of ten UK adults that have a current account;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font></div>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">3</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+</div>
+
+<div id="HDR">&#160;</div>
+
+<div>&#160;</div>
+
+<div>
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">kept the Flexi-ISA open for Santander Current Account customers, meaning they can still access the market leading 3.2% rate; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">increased the LTV to 90% on mortgages exclusively available to customers who hold their primary current account with Santander.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We have introduced the next stage of this strategy with the launch of the Loyalty Tracker Bond.&#160; It will be available to our mortgage, investment and primary current account customers, and pays 2.80% gross p.a. / AER plus an additional 0.20% gross p.a. / AER loyalty bonus for 12 months, which will be paid on maturity.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Investing for growth</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We will create over 600 jobs in our UK branches and call centres, following continued and sustainable market share growth above our stock share. These additional roles will support our ongoing business and future growth whilst enabling us to continue improving our service to customers.&#160;&#160; A key part of this initiative we will be to ensure customers get quick and efficient service during the busiest times.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#8220;Best Bank in the UK&#8221; - Euromoney awards</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For the third year running we have been voted the &#8220;Best Bank in the UK&#8221; by Euromoney.&#160;&#160;This is a significant achievement and reflects the progress we have made in the last five years in transforming our business, but equally it is testament to the outstanding contribution all of our staff have made in delivering our vision to be the best commercial bank in the UK.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The economy and UK regulation</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The UK economy has made modest progress but demand for credit is subdued and we expect the market will remain challenging.&#160;&#160;House purchase volumes are higher than a year ago, but remain low relative to the past decade, and house price inflation remains stable.&#160;&#160;We therefore expect interest rates to remain low for the rest of this year.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The Government's recent announcements on regulatory reform imply considerable change ahead for the banking industry. We believe Santander UK is well placed to respond to these changes. Our wholesale banking activities differ from those usually identified with investment banking: it is a commercial activity to provide a global service to our global customers.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">We look forward to contributing to the consultation on changes to the tripartite system of regulation, as well as the work of the Independent Banking Commission on bank structure and competition.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font><br>
+&#160;</div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">4</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+<br>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Financial results</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading income</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading income growth of around 6%, driven by strong growth in net interest income offset by lower non-interest income.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Net interest income was strongly ahead compared to Half 1 2009 reflecting improved mortgage lending new business and retention margins, combined with growth in bank account and savings liability.&#160;&#160;In addition, robust balance sheet growth in SME lending and deposits have contributed positively.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Non-interest income was down on Half 1 2009, as pressure on fees continued, consistent with the UK market.&#160; This was driven by a further reduction in mortgage redemptions, lower investment fees due to the mix of sales shifting away from structured products towards managed funds which will yield a trail income in future periods, and weaker trading income reflecting recent market conditions.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading expenses</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading expenses were flat compared to the same period last year. Continued investment in growth initiatives with Corporate Banking and Global Banking &amp; Markets were funded from continuing synergy benefits resulting from the A&amp;L integration.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading provisions</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Trading provisions were broadly in line with Half 1 2009.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Despite this, provisions are running better than expected, with the Quarter 2 charge lower than Quarter 1. The secured coverage increased from 22% in June 2009 to 23% in June 2010 despite a lower provisions charge.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The stock of properties in possession remains low at 0.06% of the book (Q1&#8217;10: 0.05% Q2&#8217;09: 0.06%), well below the industry average (based on latest market data). The mortgage NPL ratio decreased slightly to 1.42% (Q1&#8217;10: 1.43% Q2&#8217;09: 1.34%), while average losses on repossessed properties have reduced as house price inflation moves into positive territory. Collection initiatives, including refinancing, and low interest rates, continue to support stable arrears levels and low volumes of properties in possession.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Strong coverage continues to be maintained across all portfolios. This combined with conservative levels of new business and stock LTV mean the business is well positioned to absorb adverse impacts from any further negative market movements. Coverage of the unsecured portfolio remains above 100%.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;<font style="FONT-WEIGHT: normal">2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;</font></font></font></font></font></div>
+
+<br>
+</div>
+</div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">5</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+<br>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The key ratios in the table below demonstrate the stable performance seen in the quarter</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><br>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: black 1.5pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: medium none; BORDER-BOTTOM: black 1.5pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: medium none; BORDER-LEFT: medium none; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 1</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 2</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 3</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: medium none; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 4</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 1</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 2</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: black 1.5pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: medium none; BORDER-BOTTOM: black 1.5pt solid; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2010</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2010</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: black 0.75pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%" style="BORDER-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: medium none; BORDER-BOTTOM: black 0.75pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%" style="BORDER-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Santander UK (mortgages only)</font></div>
+</td>
+<td valign="top" width="2%" style="BORDER-TOP: black; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">NPL (by volume) 3 month plus % of asset</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.13%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.34%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.34%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.37%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.43%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.42%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">PIP% of asset</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.07%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.06%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.06%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.05%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.05%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.06%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Secured coverage</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">22%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">22%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">22%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">21%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">22%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">23%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">New business LTV</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">59%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">59%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">61%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">64%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">61%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">62%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Stock LTV indexed</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">52%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">53%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">53%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">52%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">52%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">51%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: black 0.75pt solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%" style="BORDER-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%" style="BORDER-BOTTOM: 4px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">CML (mortgages only)</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">NPL (by volume) 3 month plus % of asset</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.39%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.43%</font></div>
+</td>
+<td valign="top" width="7%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.40%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.38%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.22%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">n/a**</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="37%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">PIP % of asset</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.23%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.19%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.16%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.14%</font></div>
+</td>
+<td valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="7%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.13%</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">n/a**</font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">** CML June 2010 data not available at time of reporting</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;<font style="FONT-WEIGHT: normal">2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font></font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-WEIGHT: normal">&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160
+;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font><br>
+&#160;</div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">6</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+<br>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Business flows</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Main highlights for the six months to 30 June 2010 (compared to the same period of 2009 unless otherwise stated).</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Half 1</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></font></div>
+</div>
+</td>
+<td valign="top" width="10%" style="BORDER-LEFT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Half 2</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2009</font></font></div>
+</div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 1</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2010</font></font></div>
+</div>
+</td>
+<td valign="top" width="10%" style="BORDER-LEFT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Qtr 2</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2010</font></font></div>
+</div>
+</td>
+<td valign="top" width="10%" style="BORDER-LEFT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Half 1</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">2010</font></font></div>
+</div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #ffffff 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #ffffff 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; <font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">Var H1'10 vs. H1'09</font></font></td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Gross mortgage lending (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">10.8</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">15.6</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">5.7</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">6.6</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">12.3</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Capital repayments (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">8.8</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">10.0</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.3</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.7</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">9.0</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Net mortgage lending (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.0</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">5.6</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.4</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.3</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">67%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Stock (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">161.2</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">166.8</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">168.3</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">170.2</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">170.2</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">6%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Market share &#8211; gross lending</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">16.3%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">20.4%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">18.9%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">19.3%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">19.1%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.8%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Market share &#8211; capital repayments</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.6%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14.7%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14.6%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14.7%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">14.6%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.0%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Market share &#8211; stock</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.2%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.5%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.6%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.7%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">13.7%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.5%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Total gross UPL lending (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.7</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.4</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.3</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.7</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">(19%)</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Total UPL stock (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.3</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.0</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.8</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.8</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">(22%)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">SME Lending - Stock (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">6.2</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">6.7</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">7.0</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">7.5</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">7.5</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">21%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Market share SME Lending - Stock (%)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.7%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">2.9%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.0%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.2%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.2%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.5%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Total commercial <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">(5)</font> asset stock (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">184.3</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">189.9</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">191.3</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">192.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">192.9</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">5%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Commercial <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">(5)</font> net deposit flows (&#163; bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">10.0</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">3.0</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.6</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">4.6</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">(7%)</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Investment sales &#8211; API (&#163; bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.8</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.6</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">1.8</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0%</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Total Commercial <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">(5) </font>liability stock (&#163;bn)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">133.8</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">143.9</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">146.9</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">148.5</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">148.5</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">11%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Bank account openings (000's)</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">522</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">571</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">285</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">234</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">519</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">(1%)</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Market Share - Bank Account Stock</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">8.7%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">8.9%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">8.9%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">9.1%</font></div>
+</td>
+<td valign="top" width="10%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">9.1%</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">0.4%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Credit card sales (000's)</font></div>
+</td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">183</font></div>
+</td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">204</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">117</font></div>
+</td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">122</font></div>
+</td>
+<td valign="top" width="10%" style="BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">239</font></div>
+</td>
+<td valign="top" width="1%" style="BORDER-LEFT: #000000 0.75pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%" style="BORDER-RIGHT: #000000 0.75pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 0.75pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">31%</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+<td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160; </font></td>
+</tr></table>
+
+<br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">funding jaws of 6% driven by commercial deposit growth of 11% to &#163;148.5bn compared with commercial loans of &#163;192.9bn up 5%;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">gross mortgage lending of &#163;12.3bn, with an estimated market share of 19.1% (H1&#8217;09: 16.3%). Lending continued to focus on affordability and lower LTV segments. The average LTV on new business completions in the first half of 2010 decreased slightly to 61% compared with 64% in Half 2 2009. The indexed stock LTV reduced further to 51% in the second quarter;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">capital repayments of &#163;9.0bn, were broadly flat at the level of repayments seen in Half 1 2009, with retention activity continuing to focus on the competitive low LTV segments;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">net mortgage lending of &#163;3.3bn, as the bank continued to be a consistent lender in the UK economy;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;</font></font></font></div>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">7</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right">&#160;</div>
+</div>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">total gross UPL lending decreased by 19%, continuing the trend of last year with a continued focus on lending to existing customers with a strong, established credit history. Balances were down &#163;1.1bn, or 22%;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">in the first six months of the year Santander UK has continued to increase its lending to the UK SME market through its network of Corporate Business Centres and has grown its lending balances by over 20%;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">net commercial deposit inflows of &#163;4.6bn were underpinned by strong flows across Retail, Private and Corporate Banking.&#160;&#160;Core retail flows market share in Half 1 2010 was estimated at 15.8%;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">11% increase in bank account balances compared to the same point last year, including a significant increase in higher-value current accounts. The business continues to offer value for money products targeting existing loyal customers, including the Santander Zero Current Account, of which c. 150,000 accounts have been opened since launch; and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 18pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Wingdings">&#167;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">credit card sales up 31%, partly due to successful campaigns such as waiving the 3% balance transfer fee on Zero Credit Card for existing customers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">1</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Trading profit before tax is management&#8217;s preferred profit measure when assessing the performance of the business and is the internal measure of segment profit required to be disclosed under IFRS 8.&#160;&#160;It is calculated by adjusting statutory profit before tax for reorganisation and other costs, hedging and other variances, and capital and other charges, as detailed in Note 1 a) to the Financial Statements in the 2009 Annual Report.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">For our internal review we compare to the PFS segments of Royal Bank of Scotland, Lloyds Banking Group and Barclays</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">3</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Includes Equity</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">4</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Excludes rundown balances</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 18pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">5</font></font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Includes Retail and Corporate</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font><br>
+&#160;</div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">8</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="santander-1.gif"><br>
+<br>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial; TEXT-DECORATION: underline">Santander UK plc &amp; Banco Santander, S.A.</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Santander UK plc (&#8220;Santander UK&#8221;) is a wholly owned subsidiary of Banco Santander, S.A. (&#8220;Santander&#8221;) (SAN.MC, STD.N).&#160;&#160;Founded in 1857, Santander has more than 90 million customers and 14,000 branches.&#160;&#160;It is the largest financial group in Spain and is a major player in Latin America and elsewhere in Europe, including in the United Kingdom (through Santander UK and Alliance &amp; Leicester plc) and in Portugal.&#160;&#160;Through Santander Consumer it also operates a leading consumer finance franchise in Germany, Italy and Spain, among other European countries.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Santander has a secondary listing of its ordinary shares on the London Stock Exchange and Santander UK continues to have its preference shares listed on the London Stock Exchange.&#160;&#160;Nothing in this press release constitutes or should be construed as constituting a profit forecast.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial; TEXT-DECORATION: underline">Disclaimer</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Santander UK and Santander both caution that this press release may contain forward-looking statements.&#160;&#160;Section 27A of the U.S. Securities Act of 1933, as amended, and Section 21E of the U.S. Securities Exchange Act of 1934, as amended, contain a safe harbour for forward-looking statements on which we rely in making such statements in documents filed with the U.S. Securities and Exchange Commission.&#160;&#160;Such forward-looking statements are found in various places throughout this press release.&#160;&#160;Words such as &#8220;believes&#8221;, &#8220;anticipates&#8221;, &#8220;expects&#8221;, &#8220;intends&#8221;, &#8220;aims&#8221; and &#8220;plans&#8221; and other similar expressions are intended to identify forward looking statements, but they are not the exclusive means of identifying such statements. Forward-looking statement
+s include, without limitation, statements concerning our future business development and economic performance. These forward looking statements are based on management&#8217;s current expectations, estimates and projections and both Santander UK and Santander caution that these statements are not guarantees of future performance.&#160;&#160;We also caution readers that a number of important factors could cause actual results to differ materially from the plans, objectives, expectations, estimates and intentions expressed in such forward-looking statements.&#160;&#160;Factors that may affect the Santander UK&#8217;s operations are described under &#8216;Risk Factors&#8217; in Santander UK&#8217;s Annual Report and Accounts on Form 20-F for 2009.&#160; A more detailed cautionary statement is also given on page 5 of Santander UK&#8217;s Annual Report and Accounts on Form 20-F for 2009. When relying on forward-looking statements to make decisions with respect to Santander UK or Santander, investors and others sh
+ould carefully consider the foregoing factors and other uncertainties and events. Such forward-looking statements speak only as of the date on which they are made, and we do not undertake any obligation to update or revise any of them, whether as a result of new information, future events or otherwise. Statements as to historical performance, historical share price or financial accretion are not intended to mean that future performance, future share price or future earnings (including earnings per share) for any period will necessarily match or exceed those of any prior year.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Arial">This announcement is not a form of statutory accounts.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Contacts</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Matthew Young<br>
+Anthony Frost&#160;<br>
+Jonathan Burgess<br>
+Israel Santos</font></td>
+<td valign="top" width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Communications Director)<br>
+(Head of Corporate Communications)&#160;<br>
+(Investor Relations)&#160;<br>
+(Investor Relations)</font></td>
+<td valign="top" width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">020 7756 4232<br>
+020 7756 5536<br>
+020 7756 4182<br>
+020 7756 4275</font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For more information contact:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;<font color="blue" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial; TEXT-DECORATION: underline">ir@santander.co.uk</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font><br>
+&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">[Missing Graphic Reference][Missing Graphic Reference]</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div style="WIDTH: 100%" align="left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: Arial">Investor Relations</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Arial">&#160;2 Triton Square, Regent&#8217;s Place, London NW1 3AN&#160;&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#
+160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;</font><br>
+&#160;</div>
+</div>
+
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">9</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="44%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">SANTANDER UK PLC</font></font></td>
+</tr><tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="44%">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></div>
+
+<div>&#160;</div>
+</td>
+</tr><tr>
+<td width="4%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="52%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Dated: 29 July 2010</font></font></td>
+<td width="44%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">By / s / Jessica Petrie<br>
+(Authorised Signatory)</font></font></td>
+</tr></table>
+
+<br>
+<br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<hr style="COLOR: black" noshade size="2">
+ &#160;</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>santander-1.gif
+<TEXT>
+begin 644 santander-1.gif
+M1TE&.#EANP`X`,0``/](2/]G9_^&AO_S\__;V__3T__DY/_^_O_#P_\%!?]8
+M6/^ZNO^KJ_\3$_^;F_\,#/]T=/^RLO^CH_^3D_\<'/_+R__L[/\S,_\L+/\\
+M//\C(_\"`O_Y^?\("/____\``"'Y!```````+`````"[`#@```7_H&&-9&F>
+M:*JN;.N^<"S/+['<>*[O?.__P*!P2"P:C\5'8LEL.I_0J'1*K5JOV*QV:\50
+M.I^P>$PNF\_HM'K-;KO?\#@[\0#+[_B\?L_OBSL-&WZ#A(6&AV:`@HB,C8Z/
+M9XJ0DY25?9*6F9J;:)B<GZ"5GGL==J&GJ'^!EP$`J:^GHWD/!JZPMYNR>!@>
+M`@^XP**K>QL*'@0:P<J/NG(;&1X>$@G+L'7,PW@;%!L/%M$*U:?;"A,*U(W-
+M;Q>^#Q/1%AEZ%`T8&!J+XF\:$`L<'A#0,5+7YH$$!($T$(B&@,*=!PH0(*A`
+MH`(#!P!,Z5,#0$"%:`$=$62C`<$`AQL"__P[,.$7'(,6$"@`D.'=@0K)-JYY
+M\```2(&(1J[1\%&`H`X2H@W(D&_..P;XPB108,``!IUM?`($>DBH&@H1/'"P
+MU>"CAP4:UURP,+8,!`)7!S9]M$%KR'39Y'0($(W`A3`9!G@XD+,-A`$#;(UI
+M4"#N(0IW)]7]*3*O'`P+SZ*$$$TQ&P$<#@@P$\#AH0T,%LQU-'EKY=5KNF5H
+M\"$!A`.#'8!IL%#`;-AN!0]00'M,A]5TE)Q)8"<YUVX"I`&GTX'K'SL=>`+_
+ML"%[';O6N]6!S9P[S[1EO!K'H"#"`0;4'C"(!O##`P?T$03(X!*-PF@'.'!!
+M<8E@($`$#`3PU_\8"1@8T`407`2!:1]T<`%^'D2P7P;\A=&3``LX($!A833`
+MC@(/7#`!`Q,`0*`8Y#C`@`0"1.>:&`ED$(",`@3P8CT00/!`!@XL$`!ZQEF&
+MQ@8:>$1?6Q]0\-$!'&"P070'X.:!`0)N]T$`N.%&@`0=DI%```M$X,!"?HE1
+M4P$>5/`6`09$PT!Q%#A@`&X<%#"1!+0U($`!%_VS0'$]1;"0!!`40(!@'K0T
+MQC,+9"CBE#?6%H`!%3@P`9P.T)8C`W!*H("6@*:A7@<`(`!@EL?$E<$WTMF4
+MI98%*(!D&,7425\!$[RXUP!"?I#!0@N(`4%8'@R0X`492(!;L0^P5V?_!!?8
+MXU`'#"1&C3&]@$%!`&99X(`"%P#`;``P9E"GD+]08&-DG"'@$@8?26"?`I5Z
+MX&>/`H2JJI)EG`GIK;`R\,L&G!TCY6`(XS9``-OE.$%H`"Y`80-5+2B?!Q;$
+M]0`%<!I``3H<GU48!G5*T!0`!R"P""T>-%3;D()%X-(&&'PSP2*,2:,1>(!9
+ML-0&2'?`&0<7,)>R!1EQA\&N87@%P$H1:SF:?:Z:"W'68BV(1@(`.$#K62XU
+M@$`!"R;P3CQBJ.VO*1M4VI@8+'O`0%/''BJ5JP50N)8'#@BD`9S)<L>7!V)S
+M1_25(/<8P.3,;OW!-QK#J(90';B:]:V#A?-!_\-??RZ-=05GL(#$HB=P@6D-
+M`%`IW&%0`#B!'50*%]YU[DT&`/$UH,!"@8LQN&YB'%[S4;._V%I(MC>[0P0:
+MBH$YA6L(U7/I8!N0#`""?8ZPOZC/M0T#_TQ@'&0L+D1[E+?_H;MC>?M>1DV>
+M?E-\&,>;HCP"'F)3XYY'C0O`J0`;8$XIJI.`?%S/#4+1P#?$!SH'4```=:(@
+MK!!@G0E@CW<90D>>"G`N#+Q-'K6+7]7F!T+[&6\!%1```**WOP_T+WEP`J!]
+M%C(`YQ'-@,<@D1D>V`:A;,!S&FP6M+!&08"LA@$0.$.E]/4!N0D@$`G`S_MH
+MB#L6AJ%^?".`!2``AO\'`$YPWT!>&/['O&B@D%=$:T"E$J,&(K+!:A-L(N'F
+MHT'<V,L,#"#`BZ1"@`/8@C,6H-#;Q,9%^<4J>=?JSP>B@\"J`:X_-UQC#L%@
+M&SL!Q2[*BL8"GN-`S4"08&4(0!XIR`$F@JUF42G#?#PX!HC$S#31@5+GF@4`
+MGG#-7TT)"P$HE("/U`(05]$="B]0)P,TP)?;^UG<$`>TA1P``CG1P#LB!0@+
+M^4H"&MA-`P)0F&L-<F!>@I'LZ".^5T5L,&(!)QKF<Y9>=L!`%F";&+0"+`<<
+MI"\2^,O@EF(\'C)%#(LS0`3T\R6Q%"!@I(I&##$`D7_8BQHF^L8P78+!P53_
+M8`(3J,#JFL70#W347VIB``+\9M)F4K2(J"S#-@:%,?IP3TL`:B4#!I0&<H7&
+M``5PE`4$8"48@:99#,@`!@D`@5Y.X%%&,X#Z!"""J#+`#@^`@`4.,$;:R.>G
+M$[B``CB``&Q20`)&&P$!?#0!`PQ@!`8HUC.DU2RF:@!]YS)-CB3PCV;%-1D/
+M$``)!F"#QG4BIF;8!@`D0">C]=6F'+"``0B@'^"ELQL4R(`"`H"NIA4,`-FR
+M@Q=FML!2_.(\"WQ`/ES7@5C:!P/0H@8@8EF'TAZGMJ5=K08R8`]!7+"!9LJ`
+M!M)U'%ZAUK2H2P]BTZ`!]D!`1@R@'@,8T",`"!$K;MC=W'+?@+3L>C<.W?RN
+M>#,1WO&:%Q+E/:]Z@](`JJWWO7E(+WSG2XKVTO>^>I`O?O=[2O?R][]DT"^`
+M!ZQ<_Q+XOP(^\($3K.`!,[C!"+8OA!L,B/;:]L(8SK"&-\SA#GOXPR`.L8A'
+(3.+4-B`$`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,508 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ET54W405TlvIviyA2kLIENk61PDu2snSpyb80WfU1BxBwjqM4RHLnQlxycb1a5H3
+ mWkRFjdqktQ8Ro9FzmVQHA==
+
+<SEC-DOCUMENT>0000950127-10-000171.txt : 20100802
+<SEC-HEADER>0000950127-10-000171.hdr.sgml : 20100802
+<ACCEPTANCE-DATETIME>20100802144049
+ACCESSION NUMBER:		0000950127-10-000171
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100802
+FILED AS OF DATE:		20100802
+DATE AS OF CHANGE:		20100802
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACERGY S.A.
+		CENTRAL INDEX KEY:			0000898685
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21742
+		FILM NUMBER:		10983785
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+		BUSINESS PHONE:		44 20 8210 5500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT OFFSHORE S A
+		DATE OF NAME CHANGE:	20000510
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT COMEX SEAWAY S A
+		DATE OF NAME CHANGE:	19930315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-75_6k.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER
+<TEXT>
+<html>
+<head>
+    <title>a10-75_6k.htm</title>
+<!-- Licensed to: twib2011-->
+<!-- Document Created using EDGARizer 5.2.0.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<br>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C.&#160;&#160;20549</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">______________________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">REPORT&#160;OF FOREIGN PRIVATE ISSUER</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of the</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of August, 2010</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission File Number: 000-21742</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Acergy S.A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant&#8217;s name into English)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">200 Hammersmith Road</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">London, W6 7DL</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">England</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 20-F&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></font></div>
+</td>
+<td align="right" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 40-F&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="21%">&#160;</td>
+<td align="left" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td valign="top" width="21%" style="TEXT-ALIGN: right">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">No&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></font></div>
+</td>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&#160;&#160;82-________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attached herewith as Exhibit 99.1 is a press release, dated August 2, 2010, whereby Acergy S.A. announced today that it has been awarded a new four year contract for the <font style="DISPLAY: inline; FONT-STYLE: italic">Acergy Condor</font> by Petrobras in Brazil, commencing in September 2010.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This contract, valued at approximately $220 million, is for the provision of flexible laying services, offshore Brazil in water depths of up to 2,000 metres.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The information set forth above shall be deemed to be incorporated by reference into the prospectuses forming a part of our Registration Statements on Form S-8 (No. 33-85168, No. 333-09292, No. 333-74321, No. 333-124983, No. 333-124997 and No. 333-166574) and our Registration Statements on Form F-3 and Form F-3/A (No. 333-86288) and to be a part of such prospectuses from the date of the filing thereof.&#160;&#160;The attached press release shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain statements set forth above and contained in the press release furnished pursuant to this Form 6-K may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;These statements include, but are not limited to, statements as to the&#160;value of the&#160;awarded contract, statements as to the date of commencement and completion of the awarded contract and statements as
+ to the scope and location of our work thereunder.&#160;&#160;The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: actions by regulatory authorities or other third parties; unanticipated costs and difficulties related to the integration of Acergy S.A. and Subsea 7 Inc. and our ability to achieve benefits therefrom; unanticipated delays, costs and difficulties related to the combination transaction, including satisfaction of closing conditions; our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal proceedings or 
+governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programs; the impact of laws and regulations; and operating hazards, including spills and environmental damage. Many of these factors are beyond our ability to control or predict. Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ACERGY S.A.</font></div>
+</td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="50%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160; August&#160;2, 2010</font></div>
+</td>
+<td valign="top" width="3%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By: </font></div>
+</td>
+<td align="left" nowrap valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">/s/ Jean Cahuzac&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160; <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Jean Cahuzac</font></font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:&#160;&#160;&#160; <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Executive Officer</font></font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a10-75_ex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>a10-75_ex991.htm</title>
+<!-- Licensed to: twib2011-->
+<!-- Document Created using EDGARizer 5.2.0.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="TEXT-ALIGN: right"><font style="FONT-WEIGHT: bold; TEXT-DECORATION: underline">Exhibit 99.1</font></div>
+
+<div style="TEXT-ALIGN: right">&#160;</div>
+
+<div style="TEXT-ALIGN: right"><br>
+<img src="a10-75_ex9910.jpg" alt="logo"><br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 40pt; MARGIN-RIGHT: 14.15pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Acergy S.A. awarded $220 million contract in Brazil</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">London, England &#8211; August 2, 2010</font>&#8211; Acergy S.A. (NASDAQ-GS: ACGY; Oslo Stock Exchange: ACY) announced today that it has been awarded a new four year contract for the <font style="DISPLAY: inline; FONT-STYLE: italic">Acergy Condor</font> by Petrobras in Brazil, commencing in September 2010.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This contract, valued at approximately $220 million, is for the provision of flexible laying services, offshore Brazil in water depths of up to 2,000 metres.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Bruno Chabas, Acergy Chief Operating Officer, said: &#8220;We are pleased to have been awarded this contract for the <font style="DISPLAY: inline; FONT-STYLE: italic">Acergy Condor, </font>which follows more than twelve uninterrupted years of similar work by this ship for Petrobras, during which we have achieved an excellent operational and safety performance. It demonstrates the high degree of client satisfaction with our operational capabilities and our strong local presence.&#8221;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">***************************************************************************************************************************************</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A. is a seabed-to-surface engineering and construction contractor to the offshore oil and gas industry worldwide.&#160;&#160;&#160;We provide integrated services, and we plan, design and deliver complex projects in harsh and challenging environments.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 25pt; MARGIN-RIGHT: -7.1pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">***************************************************************************************************************************************</font><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 25pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 25pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contact:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Karen Menzel</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">+44 (0)20 8210 5568</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 25pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 25pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">www.acergy-group.com</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If you no longer wish to receive our press releases please contact: <font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 25pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Forward-Looking Statements</font>: Certain statements made in this announcement may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act and Section 21E of the US Securities Exchange Act of 1934.&#160;&#160;These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;These forward-looking statements include, but are not limited to, statements as to the value of the awarded contracts, statements as to the date of commencement and completion o
+f each awarded contract and statements as to the scope of each awarded contract. . The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: actions by regulatory authorities or other third parties; unanticipated costs and difficulties related to the integration of Acergy S.A. and Subsea 7 Inc. and our ability to achieve benefits therefrom; unanticipated delays, costs and difficulties related to the combination transaction, including satisfaction of closing conditions; our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of 
+legal proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programmes; the impact of laws and regulations; and operating hazards, including spills and environmental damage.&#160;&#160;Many of these factors are beyond our ability to control or predict.&#160;&#160;Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>a10-75_ex9910.jpg
+<DESCRIPTION>LOGO
+<TEXT>
+begin 644 a10-75_ex9910.jpg
+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
+(D?/2=VV?_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,447 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HcNjUSrxJnVPSjkXcNbsFtBQ0a0+QhVywmeeEz2dRs6IEaTmBKxxlmeysd5uBvEC
+ 4HoZII3EUAlfvwkRCv73kQ==
+
+<SEC-DOCUMENT>0000947871-09-000483.txt : 20090710
+<SEC-HEADER>0000947871-09-000483.hdr.sgml : 20090710
+<ACCEPTANCE-DATETIME>20090710060050
+ACCESSION NUMBER:		0000947871-09-000483
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090710
+FILED AS OF DATE:		20090710
+DATE AS OF CHANGE:		20090710
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANTEST CORP
+		CENTRAL INDEX KEY:			0001158838
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15236
+		FILM NUMBER:		09938302
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SHIN-MARUNOUCHI CENTER BUILDING
+		STREET 2:		1-6-2 MARUNOUCHI,
+		CITY:			CHIYODA-KU, TOKYO 100-0005
+		STATE:			M0
+		ZIP:			00000
+		BUSINESS PHONE:		81-3-3214-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIN-MARUNOUCHI CENTER BUILDING
+		STREET 2:		1-6-2 MARUNOUCHI,
+		CITY:			CHIYODA-KU, TOKYO 100-0005
+		STATE:			M0
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>ss67980_6k.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div>
+      <hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="4">
+      <hr style="MARGIN-TOP: -10px; COLOR: #000000" noshade size="1">
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16 of</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the
+Securities Exchange Act of 1934</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the
+month of July, 2009</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission
+File Number 1-15236</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Advantest
+Corporation</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation
+of Registrant&#8217;s Name Into English)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Shin Marunouchi Center
+Building</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">1-6-2,
+Marunouchi</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Chiyoda-ku</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Tokyo
+100-0005</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Japan</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+of Principal Executive Offices)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the
+registrant files or will file annual reports under cover of Form 20-F or Form
+40-F.&#160;&#160;Form 20-F&#160;<font style="DISPLAY: inline;" face="Wingdings">x</font>&#160;&#160;Form 40-F
+<font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(1): <font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(7): <font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark whether the
+registrant by furnishing the information contained in this Form is also thereby
+furnishing the information to the Commission pursuant to Rule 12g3-2(b) under
+the Securities Exchange Act of 1934.&#160;&#160;Yes&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font>&#160;&#160;No <font style="DISPLAY: inline;" face="Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>If &#8220;Yes&#8221; is marked, indicate below the
+file number assigned to the registrant in connection with Rule 12g3-2(b): <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="1">
+      <hr style="MARGIN-TOP: -13px; COLOR: #000000" noshade size="4">
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Materials
+Contained in this Report:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top" style="LINE-HEIGHT: 1.25;">
+            <td style="WIDTH: 36pt">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">English
+      translation of a press release dated July 10, 2009, regarding the
+      determination of the subscription price and other terms of stock options
+      to be issued by the registrant.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt">
+      <div align="left">
+        <div align="left">&#160;</div>
+        <div align="left">
+          <div align="left">
+            <div align="left">
+              <div align="left">
+                <div align="left">
+                  <div align="left">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Advantest
+      Corporation</font></td>
+                          <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                        <tr>
+                          <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="30%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                        <tr>
+                          <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="30%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                        <tr>
+                          <td valign="top" width="50%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></font></td>
+                          <td valign="top" width="4%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:</font></td>
+                          <td colspan="2" nowrap valign="top" width="6%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      /s/ Yuichi Kurita</font></td>
+                          <td valign="top" width="10%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                        <tr>
+                          <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td nowrap valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160;
+      </font></td>
+                          <td align="left" nowrap valign="bottom" width="30%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yuichi
+    Kurita</font></td>
+                          <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                        <tr>
+                          <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td nowrap valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:&#160;
+      </font></td>
+                          <td valign="top" width="30%">
+
+                            <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Director
+      and Managing</font></div>
+                            <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Executive
+      Officer</font></div>
+                          </td>
+                          <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div align="left">&#160;</div>
+      <div align="left">&#160;</div><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:&#160; July 10,
+2009</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+    <div>
+      <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ss67980_9901.htm
+<DESCRIPTION>NOTICE OF STOCK OPTIONS
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR
+IMMEDIATE RELEASE</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">July 10,
+2009</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ADVANTEST
+CORPORATION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Haruo
+Matsuno, Representative Director, President &amp; CEO</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Stock
+Code Number: 6857, TSE first section</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Ticker
+Symbol: ATE, NYSE</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CONTACT:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hiroshi
+Nakamura</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Managing
+Executive Officer &amp;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Vice
+President, Corporate Administration Group</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Phone:
++81-(0)3-3214-7500</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Notice
+Concerning the Determination of the Subscription Price and Other
+Terms</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">of
+Stock Options (Stock Acquisition Rights)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Tokyo
+&#8211;July 10, 2009 &#8211; Advantest Corporation (the &#8220;Company&#8221;) resolved at a meeting of
+its Board of Directors on June 25, 2009 to issue stock options in the form of
+stock acquisition rights.&#160;&#160;The specific terms and conditions of the
+issuance of stock options in the form of stock acquisition rights that were not
+determined at the meeting of its Board of Directors on June 25, 2009 have been
+determined as set forth below.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+    <div>
+      <div align="left">
+        <div align="left">
+          <div align="left">
+            <div align="left">
+              <div align="left">
+                <div align="left">
+                  <div align="left">
+                    <table cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                          <td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1.</font></td>
+                          <td align="left" valign="top" width="45%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date
+      of allocation</font></div>
+                          </td>
+                          <td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td align="left" valign="top" width="50%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">July
+      10, 2009</font></div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">2.</font></td>
+                          <td align="left" valign="top" width="45%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Issuance
+      price</font></div>
+                          </td>
+                          <td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td align="left" valign="top" width="50%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">41,700
+      yen per unit</font></div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">3.</font></td>
+                          <td align="left" valign="top" width="45%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Subscription
+      price to be paid upon exercise of each stock acquisition
+    right</font></div>
+                          </td>
+                          <td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td align="left" valign="top" width="50%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">184,400
+      yen per unit (1,844 yen per share)</font></div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">4.</font></td>
+                          <td align="left" valign="top" width="45%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">The
+      total value of all shares (newly issued shares or treasury shares) issued
+      or delivered upon exercise of stock acquisition rights</font></div>
+                          </td>
+                          <td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td align="left" valign="top" width="50%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">623,272,000
+      yen</font></div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td align="left" valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5.</font></td>
+                          <td align="left" valign="top" width="45%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Matters
+      concerning the amount of capital and the additional paid-in capital
+      increased by the issuance of shares upon exercise of the stock acquisition
+      rights</font></div>
+                          </td>
+                          <td align="left" valign="top" width="2%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                          <td align="left" valign="top" width="50%">
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The
+      amount of capital increased by the issuance of the shares upon exercise of
+      the stock acquisition rights is&#160;1,131 yen per share.</font></div>
+                            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The
+      amount of additional paid-in capital increased by the issuance of the
+      shares upon exercise of the stock acquisition rights is&#160;1,130 yen per
+      share.</font></div>
+                          </td>
+                        </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">
+      <div>
+        <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+      </div><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1937 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ C4NsB6u344j07kpP7EBIIw1fYXxU49lREWjOn8Llxs3KIBdZFX8BSzEBs93HDG7Q
+ ucioqTyA6ky/U7NLTnL0UA==
+
+<SEC-DOCUMENT>0000950127-10-000121.txt : 20100528
+<SEC-HEADER>0000950127-10-000121.hdr.sgml : 20100528
+<ACCEPTANCE-DATETIME>20100528171101
+ACCESSION NUMBER:		0000950127-10-000121
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20100528
+FILED AS OF DATE:		20100528
+DATE AS OF CHANGE:		20100528
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACERGY S.A.
+		CENTRAL INDEX KEY:			0000898685
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21742
+		FILM NUMBER:		10867406
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+		BUSINESS PHONE:		44 20 8210 5500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT OFFSHORE S A
+		DATE OF NAME CHANGE:	20000510
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT COMEX SEAWAY S A
+		DATE OF NAME CHANGE:	19930315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-48_a6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+<head>
+    <title>a10-48_a6k.htm</title>
+<!-- Licensed to: White & Case-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C.&#160;&#160;20549</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">______________________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">REPORT&#160;OF FOREIGN PRIVATE ISSUER</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of the<br>
+</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of May, 2010</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission File Number: 000-21742</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="30%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="100%" style="BORDER-BOTTOM: black 1px solid; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Acergy S.A</font></td>
+</tr><tr>
+<td width="100%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Translation of registrant&#8217;s name into English)</font></font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">200 Hammersmith Road</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">London, W6 7DL</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">England</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 20-F&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></font></div>
+</td>
+<td align="right" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 40-F&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td align="left" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td align="right" valign="top" width="21%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">No&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></font></div>
+</td>
+<td valign="top" width="21%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&#160;&#160;82-________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attached herewith as Exhibit 99.1 is a press release, dated May 28, 2010, whereby Acergy S.A. (the &#8220;Company&#8221;) advises that at the Annual General Meeting of shareholders on May 28, 2010, all resolutions were approved by shareholders.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The payment of a dividend of $0.23 per common share for shareholders of record on June 3, 2010 was approved.&#160;&#160;The first trading date ex-dividend will be June 1, 2010 and the date of payment of dividend will be June 18, 2010 to holders of common shares and June 23, 2010 for holders of our ADRs.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Accordingly, the Company would like to inform holders of convertible bonds that, in accordance with clause 6B3 of the terms and conditions of the convertible bond, the new conversion price of the Bonds will be $22.37.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The information set forth above shall be deemed to be incorporated by reference into the prospectuses forming a part of our Registration Statements on Form S-8 (No. 33-85168, No. 333-09292, No. 333-74321, No. 333-124983, No. 333-124997 and No. 333-166574) and our Registration Statements on Form F-3 and Form F-3/A (No. 333-86288) and to be a part of such prospectuses from the date of the filing thereof.&#160;&#160;The attached press release shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain statements set forth above and contained in the press release furnished pursuant to this Form 6-K may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions. These statements include, but are not limited to, statements as to the expected amount of the dividend and the timing of the payment thereof, and statements as to the expected conversion price of our convertible bonds. The forward-looking statem
+ents reflect our current views and assumptions and are subject to risks and uncertainties. The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programs; the impact of laws and regulations; and operating hazards, including spills and environmental damage. Many of these factors are beyond our ability to control or predict. Given these factors, you should not place undue reliance on the forward-looking statements.<
+/font></div>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="38%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ACERGY S.A.</font></div>
+</td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="50%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160; May&#160;28, 2010</font></div>
+</td>
+<td valign="top" width="3%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By: </font></div>
+</td>
+<td align="left" nowrap valign="top" width="35%" style="PADDING-BOTTOM: 4px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="TEXT-DECORATION: underline">&#160;/s/ Jean Cahuzac&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: #ffffff solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160;&#160;Jean Cahuzac&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:&#160;&#160;&#160; Chief Executive Officer</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr></table>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a10-48_ex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>a10-48_ex991.htm</title>
+<!-- Licensed to: White & Case-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+<div>&#160;</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><img src="a1048_ex991-1.jpg" alt=""></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Acergy S.A. Annual General Meeting</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">and dividend effect on Convertible Notes</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">London, England &#8211; May 28, 2010</font> &#8211; Acergy S.A. (NASDAQ-GS: ACGY; Oslo Stock Exchange: ACY), advises that at the Annual General Meeting of shareholders on May 28, 2010, all resolutions were approved by shareholders.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The payment of a dividend of $0.23 per common share for shareholders of record on June 3, 2010 was approved.&#160;&#160;The first trading date ex-dividend will be June 1, 2010 and the date of payment of dividend will be June 18, 2010 to holders of common shares and June 23, 2010 for holders of our ADRs.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Accordingly, the Company would like to inform holders of convertible bonds that, in accordance with clause 6B3 of the terms and conditions of the convertible bond, the new conversion price of the Bonds will be $22.37.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The minutes of the Annual General Meeting detailing the resolutions proposed and the result of the poll on resolutions is attached hereto.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">***************************************************************************************************************************************</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A. is a seabed-to-surface engineering and construction contractor to the offshore oil and gas industry worldwide.&#160;&#160;&#160;We provide integrated services, and we plan, design and deliver complex projects in harsh and challenging environments.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ***************************************************************************************************************************************</font></font></div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contact:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Karen Menzel</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">+44 (0)20 8210 5568</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">www.acergy-group.com</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If you no longer wish to receive our press releases please contact: <font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Forward-Looking Statements:</font> Certain statements made in this announcement may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act and Section 21E of the US Securities Exchange Act of 1934.&#160;&#160;These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;These statements include, but are not limited to, statements as to the expected amount of the dividend and the timing of the payment thereof, and statements as to the expected c
+onversion price of our convertible bonds.&#160;&#160;The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal and administrative proceedings or government enquiries; uncertainties inherent in operating internationally; the impact of laws and regulations; and operating hazards, including spills and environmental damage.&#160;&#160;Many of these factors are beyond our ability to control or predict.&#160;&#160;Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right"><img src="a1048_ex991-2.jpg" alt=""></div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ACERGY S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Soci&#233;t&#233; Anonyme Holding</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">412F, route d&#8217;Esch</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">L-2086 Luxembourg</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">R.C.S. Luxembourg B 43172</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Minutes of the Annual General Meeting held at the offices of SGG S.A., </font><font style="DISPLAY: inline; TEXT-DECORATION: underline">412F, route<br>
+d&#8217;Esch, </font><font style="DISPLAY: inline; TEXT-DECORATION: underline">Luxembourg on</font><font style="DISPLAY: inline; TEXT-DECORATION: underline"> May 28, 2010</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Meeting was opened at 2.00 p.m.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Chairman&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:&#160;&#160;Mr. Alistair Peel, Company Secretary of Acergy S.A.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Secretary</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;:&#160;&#160;Ma&#238;tre Philippe HOSS</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><br>
+<font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Ballot-judges</font>&#160;&#160;&#160;&#160;:&#160;&#160;Mrs. Chantal MATHU and Mrs. C&#233;line BONVALET</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman declared and the Meeting noted that:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">it appeared from the main register kept by SGG S.A. and the Branch Register kept by DnB NOR Bank ASA of Oslo produced to the Meeting together with proxies duly filed within the statutory period that 70,912,447 Common Shares out of 194,953,972 issued Common Shares and 183,429,857 outstanding Common Shares as at March 29, 2010 were represented.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the notice of the Meeting was published according to the legal requirements in the &#8220;Luxemburger Wort&#8221; a Luxembourg daily newspaper and in the "M&#233;morial C" on May 10, 2010 and May 19, 2010 as evidenced by the documents presented to the Meeting and in accordance with article 26 of the Articles of Incorporation (i) notice of this Meeting together with a proxy card, a letter of explanation and a business reply envelope have been mailed to the Common Shareholders on the Company&#8217;s Registers as of March 29, 2010 and (ii) notice of this Meeting together with a proxy card, the letter of explanation and a business reply envelope were also mailed to the holders of American Depositary Shares (ADSs) (each of which represents one Common Share of the Company) on the register of Deutsche Bank Trust Company Americas, Depositary for the ADSs, as 
+of March 29, 2010.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">in order to attend the present Meeting, the Common Shares represented complied with the legal and statutory requirements.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the present Meeting was therefore regularly convened and has the legal power to act on the items 1 to 15 inclusive of the agenda.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman refers to the agenda as published in the Luxembourg daily and the M&#233;morial.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt;" face="Symbol, serif">&#183;&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman explained the variances between the agenda as published and the agenda sent to the shareholders. The reason for this change is that Luxembourg law in particular law 18, December 2009 (the &#8220;Law&#8221;) provides that only authorised statutory auditors in Luxembourg have the right to report and certify accounts of Luxembourg companies. The Chairman recites the relevant legal provisions.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Consequently the official accounts of the Company for any legal Luxembourg purpose whatsoever have to be those signed by Deloitte S.A., rather than Deloitte LLP, in particular with respect to reporting and approving by shareholders. Similarly only Deloitte S.A. may be appointed as Authorised Statutory Auditor. Resolutions 1 and 14 reflect this.&#160;&#160;It will be up to Deloitte S.A. to determine to what extent it may seek the assistance of other professionals.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right"><img src="a1048_ex991-3.jpg" alt=""></div>
+
+<div>&#160;</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">AGENDA</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(1)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To consider (i) the report of Deloitte S.A., Luxembourg, Authorised Statutory Auditor (&#8220;<font style="DISPLAY: inline; FONT-STYLE: italic">R&#233;viseurs d&#8217;entreprises agr&#233;es</font>&#8221;) on the unconsolidated and the consolidated financial statements of the Company, (ii) the reports by the Board of Directors of the Company in respect of the unconsolidated and consolidated financial statements of the Company, for the fiscal year ended November 30, 2009.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(2)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To approve the unconsolidated balance sheet and statement of profit and loss of the Company for the fiscal year ended November 30, 2009.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(3)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To approve the consolidated balance sheet and statements of operations of the Company for the fiscal year ended November 30, 2009.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(4)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To discharge the Board of Directors of the Company in respect of the proper performance of their duties for the fiscal year ended November 30, 2009.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(5)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To authorise the Company, or any wholly-owned subsidiary or sub-subsidiary, to purchase Common Shares of the Company up to a maximum of 10% of the issued Common Shares net of the Common Shares previously repurchased and still held, at a price reflecting such open market price and on such other terms as shall be determined by the Board of Directors of the Company, provided (a) the maximum price to be paid for such Common Shares shall not exceed the average closing price for such Common Shares on the Oslo Stock Exchange (or the average closing price for American Depositary Shares (ADSs) on the NASDAQ Global Select Market, if applicable) for the five most recent trading days prior to such purchase and b) the minimum price to be paid for such Common Shares shall not be less than the par value (i.e. U.S. $2.00 per share) thereof and further provided such p
+urchases are in conformity with Article 49-2 of the Luxembourg Company Law, such authorisation being granted for purchases completed on or before August 31, 2011.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(6)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Sir Peter Mason as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(7)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Mr. Tom Ehret as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(8)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Mr. Jean Cahuzac as a Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(9)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Dr. Thorleif Enger as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(10)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Mr. Dod A. Fraser as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(11)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Mr. J. Frithjof Skouver&#248;e as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(12)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To re-elect Mr. Trond Westlie as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(13)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To elect Mr. Ron Henderson as a new independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 54pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(14)&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To elect Deloitte S.A., Luxembourg as Authorised Statutory Auditor (&#8220;<font style="DISPLAY: inline; FONT-STYLE: italic">R&#233;viseurs d&#8217;entreprises agr&#233;es</font>&#8221;) to audit the unconsolidated and the consolidated financial statements of the Company, for a term to expire at the next Annual General Meeting of Shareholders.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 71px; TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(15)</font></font></div>
+</td>
+<td align="left" width="911">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To approve the determination of dividends of the Company for the fiscal year ended November 30, 2009, namely approval of the recommendation of the Board of Directors of the Company of payment of a final dividend of U.S. $0.23 per Common Share, payable on June 18, 2010 to Shareholders (and June 23, 2010 for holders of ADSs) of record as of June 3, 2010. (Note: The first trading date ex-dividend will be June <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1, 2010).</font></font></div>
+</td>
+</tr></table>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right"><img src="a1048_ex991-4.jpg" alt=""></div>
+
+<div>&#160;</div>
+
+<div>
+<table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+</table>
+</div>
+
+<div>
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Meeting then deliberated on each of the agenda items and proceeded to a vote on each of them as follows:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to consider (i) the report of Deloitte S.A., Luxembourg, Independent Auditors (&#8220;R&#233;viseurs d&#8217;entreprises&#8221;) on the unconsolidated and the consolidated financial statements of the Company, (ii) the reports by the Board of Directors of the Company, in respect of the unconsolidated and consolidated financial statements of the Company for the fiscal year ended November 30, 2009;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman tabled, (i) the reports of Deloitte S.A., 560, rue de Neudorf, L-2220 Luxembourg, Authorised Statutory Auditors of the Company and (ii) the reports by the Board of Directors of the Company in respect of the unconsolidated and consolidated financial statements of the Company for the fiscal year ended November 30, 2009. A copy of each of the reports was ordered to be filed with the Minutes of the Meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,812,437<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;38,470&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;61,540</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to approve the unconsolidated balance sheet and statement of profit and loss of the Company for the fiscal year ended November 30, 2009;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to approve the unconsolidated accounts for the fiscal year ended November 30, 2009.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,793,786<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;55,061&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;63,600</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to approve the consolidated balance sheet and statements of operations of the Company for the fiscal year ended November 30, 2009;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to approve the consolidated accounts for the fiscal year ended November 30, 2009.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,793,106<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;55,091&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;64,250</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to approve the discharge of the Board of Directors of the Company in respect of the proper performance of their duties for the fiscal year ended November 30, 2009;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to discharge the Directors of the Company in respect of the proper performance of their duties for the fiscal year ended November 30, 2009.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;69,593,391<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;893,564&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;425,492</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right"><img src="a1048_ex991-5.jpg" alt=""></div>
+
+<div>&#160;</div>
+
+<div>
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to authorise the Company, or any wholly-owned subsidiary or sub-subsidiary, to purchase Common Shares of the Company, up to a maximum of 10% of the issued Common Shares net of the Common Shares previously repurchased and still held, at a price reflecting such open market price and on such other terms as shall be determined by the Board of Directors of the Company, provided (a) the maximum price to be paid for such Common Shares shall not exceed the average closing price for such Common Shares on the Oslo Stock Exchange (or the average closing price for American Depositary Shares (ADSs) on the Nasdaq Global Select Market, if applicable) for the five most recent trading days prior to such purchase and b) the minimum price to be paid for such Common Shares shall not be less than the par value (i.e. U.S. $2.00 per share) thereof and further provided such 
+purchases are in conformity with Article 49-2 of the Luxembourg Company Law, such authorisation being granted for purchases completed on or before August 31, 2011.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to approve the authorisation to permit the purchase of Common Shares.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,768,395<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;31,962&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;112,090</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Sir Peter Mason as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Sir Peter Mason as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,668,792<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;137,001&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;106,654</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Mr. Tom Ehret as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr. Tom Ehret as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,108,954<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;741,516&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;61,977</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Mr. Jean Cahuzac as a Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr. Jean Cahuzac as a Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;48,952,061<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;345,403&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;21,614,983</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">9.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Dr. Thorleif Enger as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Dr. Thorleif Enger as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,651,949<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;199,825&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;60,673</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right"><img src="a1048_ex991-6.jpg" alt=""></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">10.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Mr Dod A. Fraser as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr Dod A. Fraser as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,670,369<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;180,495&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;61,583</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">11.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Mr J. Frithjof Skouveroe as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr J. Frithjof Skouveroe as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,072,723<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;778,242&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;61,482</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">12.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to re-elect Mr. Trond Westlie as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr. Trond Westlie as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,707,392<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;142,482&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;62,573</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">13.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to elect Mr Ron Henderson as an independent Director of the Company to hold office until the next Annual General Meeting of Shareholders or until his successor has been duly elected.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to the Meeting to elect Mr Ron Henderson as an independent Director until the next Annual General Meeting of Shareholders or until his successor has been duly elected:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,703,501<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;146,883&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;62,063</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">14.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to elect Deloitte S.A., Luxembourg, as Authorised Statutory Auditor (&#8220;R&#233;viseurs d&#8217;entreprises agr&#233;es&#8221;) to audit the unconsolidated and the consolidated financial statements of the Company, for a term to expire at the next Annual General Meeting of Shareholders.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to elect Deloitte S.A., 560, rue Neudorf, L-2220 Luxembourg, as Authorised Statutory Auditor of the Company to audit the consolidated and unconsolidated financial statements of the Company, for a term to expire at the next Annual General Meeting of Shareholders.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,296,899<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;553,992&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;61,556</font></div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+</div>
+</div>
+</div>
+
+<div style="TEXT-ALIGN: right"><img src="a1048_ex991-7.jpg" alt=""></div>
+
+<div>&#160;</div>
+
+<div>
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 36pt; TEXT-ALIGN: center">
+<div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">15.&#160;&#160;</font></div>
+</td>
+<td>
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">to approve the determination of dividends of the Company for the fiscal year ended November 30, 2009, namely (i) approval of the recommendation of the Board of Directors of the Company of payment of a final dividend of U.S. $0.23 per Common Share, payable on June 18, 2010 to Shareholders (and June 23, 2010 for holders of ADRs) of record as of June 3, 2010, and (ii) transfer of all undistributed profits to the retained earnings of the Company. (Note: The first trading date ex-dividend will be June 1, 2010).</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman proposed to approve the determination of dividends.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 45pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR:&#160;&#160;70,832,051<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;AGAINST:&#160;&#160;18,214&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ABSTAINING:&#160;&#160;62,182</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The Chairman noted that resolutions 1 to 15 inclusive had been approved.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">There being no further business to come before the Meeting, the Chairman closed the Meeting at 3.00 p.m.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Luxembourg, May 28, 2010</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">C. BONVALET&#160;&#160;C. MATHU</font></font></td>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">P. HOSS</font></font></td>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">A. PEEL</font></font></td>
+</tr><tr>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-STYLE: italic">Ballot-judges</font></font></td>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-STYLE: italic">Secretary</font></font></td>
+<td width="33%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-STYLE: italic">Chairman</font></font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 18pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+</div>
+
+<div>&#160;</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>a1048_ex991-1.jpg
+<TEXT>
+begin 644 a1048_ex991-1.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>a1048_ex991-2.jpg
+<TEXT>
+begin 644 a1048_ex991-2.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>5
+<FILENAME>a1048_ex991-3.jpg
+<TEXT>
+begin 644 a1048_ex991-3.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>6
+<FILENAME>a1048_ex991-4.jpg
+<TEXT>
+begin 644 a1048_ex991-4.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>7
+<FILENAME>a1048_ex991-5.jpg
+<TEXT>
+begin 644 a1048_ex991-5.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>8
+<FILENAME>a1048_ex991-6.jpg
+<TEXT>
+begin 644 a1048_ex991-6.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_VP!#``@&!@<&!0@'!P<)"0@*#!0-#`L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+#`Q-#0T'R<Y/3@R/"XS-#+_
+MVP!#`0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P``1"`!'`*X#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#W^BBB@`HH
+MHZ#)H`**:'1C@,I/L:=0`4444`%%%%`!1110`5X-XP\2:CJOB"]C:[FCM()F
+MBB@1RJ@*<9('4D@G)]<5[S7BC^#->F\7&:71Y7LGU'S'=F0JT9ER21NSC;VQ
+M6%=2:2B>SDTJ4*DIU&E9:7_0XW[:_P#S^2?]_C_C1]M?_G\D_P"_Q_QKZ9\B
+M'_GDG_?(H\B'_GDG_?(J/JS[G7_;\?\`GW^/_`/F;[:__/Y)_P!_C_C1]M?_
+M`)_)/^_Q_P`:^F?(A_YY)_WR*/(A_P">2?\`?(I?5GW#^WX_\^_Q_P"`?,WV
+MU_\`G\D_[_'_`!H^VO\`\_DG_?X_XU],^1#_`,\D_P"^11Y$/_/)/^^11]6?
+M</[?C_S[_'_@'S,+R0G`NY"3V\X_XUV_@3QE>:9=36=[/+<V1B+QK(Q9HV!`
+M^4G/!!/'L,8YSZIK6GQWFAW]NMLDCR6[JJ;1RVTX_'.*\?TCP9XDCO"TND31
+MKY9&6=.N1Z-2]G.G)6U.B&,P^.I2C52CZM?AL>Y4445V'R85Y3\=O%W]B>$E
+MT6UEVWNJDHVT\I`/OG\>%^A;TKU1W6-&=V"HH)9F.`!ZFOE6YDF^,/QB5$+_
+M`-GRR;$ZCR[2/DGV+<G_`'GH`P+)-<\`ZGX;\2M$R"YC%[;#)_>1Y*LA_P!Y
+M"/P<5]@:9J-MJ^E6FI6;[[:ZB6:)O56&1GWKB/BYX.C\0_#^5+.`"[TM?M%H
+MJ#'RJ,,@^JYP/4+7)_L]^+?M6FW?A:YDS):9N+3/>)C\Z_@Q!_X'[4`>W53O
+M]7TS2E5M1U&TLPW0W$ZQY_[Z(KC/BUX[F\$>&$:PV?VI?.8K8N,B,`9:3'0X
+MX`![L.HS7DW@GX0ZGX_MO^$D\0ZM/#!=,6C9OWL]P.F\EN%7TZYQT`QD`^BK
+M#6M*U7=_9VIV=YM&3]GG63'_`'R35ZOG'Q?\#K_PO9'6_#&I75W):D.8@FVX
+M4?WHV3J1UQ@''3/2O0_`GCO4F^'FH:CXLL[N"[T=&,LDT#1&X0+E2,@98X*G
+MWQZT`>C7-U;V<#3W4\4$*_>DE<*H^I-4+3Q+H-_.(+/6]-N9B<".&Z1V/X`Y
+MKYTT#1/$'QQ\37>H:QJ#6^G6I&[8-RQ;ND<2DXS@<L?J<YKL-7_9QTLZ=(=&
+MUB\6]524%X$>-SZ':H*_7G'H:`/;Z8LT3/L65"WH&&:\/^"GCG53K-SX*\02
+MR23P!Q:M,V9(VC.'A)[XY(]-I'3&/,+=];7XK:G%X;^75KF_N[>%QP4WLX9@
+M>Q"Y.>W6@#ZQN=?T:SO%L[K5[""Z=@JP2W**Y)Z`*3G)J^[K&C.[!449+,<`
+M"O!M'_9\U*RU"QU*Y\0VK7,%Q'/)&MNS!BK!B-Y()SCKBL/QYJ.K_$7XM_\`
+M"'Q7C6^GPW7V6.,D[`5&9)&7/S-PV,^@'&2:`/?F\7>&ED\MO$.DA\XVF]CS
+M^6ZK]SJ=A9Z>VH7-[;0V2C<;B255C`]=Q.*\K'[.OA3[)Y9U#5C/M_UHDCQG
+M_=V8Q[?K7D$WA0Z1\2K?P+K&H74NF&_C4_9GV`^8HV2!6RJM\RYX/<9[T`?6
+M5KJ=C?6<-Y:W<,MM.NZ*57!5QZ@]ZM`AE!4@@]"*\L^(GPVMI_A1#IFG"6>X
+MT*,RV;RX,CH/OH<`9ROH.2JUF_L^^*_[0T"Y\-W$F9M//FV^3RT+GD?\!8_D
+MPH`]DD4O$Z+(T98$!UQE?<9!&?J*XMM/\8>1$L7BVT,HCC$F^"+YG"_.V0G0
+MMT&WICFD^*WBP^$O`MW<02;+^[_T6U(ZAV!RW_`5#'Z@>M<%^S]X-B33+WQ-
+M>VZL;HFVM1(H(\M2"[?BP`_X`?6@#W2BBB@#RWXY^+O[!\'_`-D6TFV]U;,1
+MP>5@'^L/XY"_\"/I7-?"3P5J4/PZU;7=.G-GKFIQE-/FVJ2D:'('S`C#L"#D
+M=`#4?CCX9>-?'/C^34+F*WM]+,BV\+?:%9HK<'!8+ZG+-CU.*]TLK.WTZQM[
+M*TC$5O;QK%$@Z*JC`'Y"@#YN&O?'#KY&M?\`@NC_`/B*XO3[C7?A]XRT_5K_
+M`$ZYL[J.3SS#+%Y1EB)(<`8Q@C</:OLRO.OB]X`N/&^AVCZ8L9U6RES%YC;0
+M\;<.N?P4_A[T`<%^T(RZGI_A76K-_-L)XY0DB]/G",OY@'\J]:^'6HVFJ?#S
+M09[-E,:64<+*O\#HH5E/T(-<?X6^'>J7_P`-;CP=XRMXTC@E\RPN()A(T6<D
+M8]U);KU#8KB(/`'Q6^']U.OABZ^TVLC;B;:2,H_;+12\!L`<C/UH`^@M6U6R
+MT/2KG4]2G6"SMDWRR-DX'T'))/``ZDUYQXR\6:/X^^%?BE/#=S+=FT@228F"
+M2,`!@Y^\HS\J,>*X.Y\$_%OQ]-%!XCN'M[-6#$W,D:1K[^7%]YNN,C\17MWA
+M#P;IG@_PTFBVB^<C9:YEE49N'(PQ8=,8XQV``YH`^;_AO\._^$]MK[R/$ATV
+MXM77=;B`N70CA\AU[@CIV'K7=?\`#.U]_P!#K)_X!-_\=J'7/@WXG\+Z^VL_
+M#^^(3)*0>:(Y8@>J9;Y9$_WCZ<'&:KW47QT\06S:9<QS6\,@V2NI@@W#OEU.
+M<?[M`&CX&^&FD:-XYT_4K/X@:9J=W;N[?9(53S)<HP8<2D]"2>#TKF/AS_R<
+M-<?]?=__`.SUZE\+OA3#X%$FHW\\=UK$Z>66C!\N!.ZIGDD\98@=,`#G/-^#
+M?AKXET;XO3>(KVV@737N+MPZSJS8DW;?EZ]Q0![=7S5\3M/2Q^+MO=^#K]Y_
+M$,TRRR6-O$6:&8`'.<;2&`RRGISG@\?2M?)NM6DNL?%>[F^'^HWE]?7%S+<+
+M)"/),3$G?MD+`%.2,\#!QSW`.[/Q-^+`B^S?\((_VG&/-_L^X*_7&<?KBD\`
+M_#+Q-J?C5?&/C3,4J3?:5BD93)-(!\I(7A%7C`Z_*!C%98\/_'7@?;+_`/'4
+M(?\`XJLO5?%/Q9^']U:/K6H3*+C<8TN3%.DNW&X9&2.HZ$'F@#Z@KY@UV"7X
+M1?&B+4+=&32II//15'!MY#B1`/\`9.<#V4U]$>%M:/B/PMIFL&'R6O+=96C_
+M`+K$<@>V<X]J\U_:(M;"3P?I]S,Z+?PW@6V!/S.K*?,`'IPI/T'K0!PWQ-U6
+M?XD?%&Q\.:/,LMK`PMH)$.Y"[8:63CJ`!CZ(?6OH_2M,M=&TFTTVR39;6L2Q
+M1KWV@8Y]_4UXA^SUX2P+SQ7<QX!S:V61VX\QQ^.%!]F%>]4`%%%%`!1110`4
+M444`%%%%`!1110`4444`%%%>"RZ_J-MXQ=I=6OEM8M2.]?M#E1&)>1MSTQVQ
+M6<ZBA:YVX+!/%.23M8]ZZUX;JOP'U&PUMM4\&>(?L#[V>*.8NC0YZJLB9)7G
+M'(Z=<UZY_P`)1X?_`.@[IG_@7'_C1_PE'A__`*#NF?\`@7'_`(U=T<_L*O\`
+M*_N/)_\`A!_C01L/C6R"],_:7_\`C.:DL?@7?:KJ,=_XU\47.J.G!BC9CD>G
+MF.<@>P`^HKU3_A*/#_\`T'=,_P#`N/\`QH_X2CP__P!!W3/_``+C_P`:+H/8
+M5?Y7]QS7Q"\$ZEX@\+:=I7AB\ATN2QF1HLR/$HC5&0*"@)'4=NU>:V'[/_B+
+M4=46;Q-X@@:#^-X)9)YF'H#(H"_7GZ5[?_PE'A__`*#NF?\`@7'_`(T?\)1X
+M?_Z#NF?^!<?^-%T'L*O\K^XM:5I=EHFEVVFZ?`L%I;((XHU[`?S/<GN:N5S>
+MM>*]#CT._:'6[)I?(<1B&Y5G+%2!M"G.<XZ5Y%H^MZN;TA]6OW'E'AKIV'4>
+MIJ)U5%I'=A,KJ8B+DWRV[H^@:***T/,"BBB@`HHHH`****`"BBB@`HHHH`*\
+M-\<>%;W1M8NKT*)+"ZF:6.0,,J6))4@G/!)Y';%%%9U8*<=3T\IKRIXA16TM
+M&<IM/I1M/I117+[&)]A<-I]*-I]***/8Q"X;3Z4;3Z444>QB%P"DG`%>@^`O
+M!$UZTFI:G'Y=H\6R!0X+.20=W&<`8QSSS[<E%:4Z,5*YY>;8FI1H^YI=V/_9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>9
+<FILENAME>a1048_ex991-7.jpg
+<TEXT>
+begin 644 a1048_ex991-7.jpg
+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
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

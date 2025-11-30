@@ -1,0 +1,757 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ U5/sYfbp2YjlAnJbjXBKgITfS6kvEgZE+51apQpFMNa8D827BZgwPxpflrp2doOL
+ fUGOOE0IpO7L13FA4UcSxQ==
+
+<SEC-DOCUMENT>0000950127-10-000116.txt : 20100526
+<SEC-HEADER>0000950127-10-000116.hdr.sgml : 20100526
+<ACCEPTANCE-DATETIME>20100526130846
+ACCESSION NUMBER:		0000950127-10-000116
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20100525
+FILED AS OF DATE:		20100526
+DATE AS OF CHANGE:		20100526
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ACERGY S.A.
+		CENTRAL INDEX KEY:			0000898685
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL, GAS FIELD SERVICES, NBC [1389]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			N4
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21742
+		FILM NUMBER:		10859068
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+		BUSINESS PHONE:		44 20 8210 5500
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O ACERGY M.S. LIMITED
+		STREET 2:		200 HAMMERSMITH ROAD
+		CITY:			LONDON
+		STATE:			X0
+		ZIP:			W6 7DL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT OFFSHORE S A
+		DATE OF NAME CHANGE:	20000510
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STOLT COMEX SEAWAY S A
+		DATE OF NAME CHANGE:	19930315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>a10-45_6k.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER
+<TEXT>
+<html>
+<head>
+    <title>a10-45_6k.htm</title>
+<!-- Licensed to: whitecase-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div><br>
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington, D.C.&#160;&#160;20549</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">______________________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM 6-K</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">REPORT&#160;OF FOREIGN PRIVATE ISSUER</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to Rule 13a-16 or 15d-16 of the</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the month of May, 2010</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission File Number: 000-21742</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Acergy S.A.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation of registrant&#8217;s name into English)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">200 Hammersmith Road</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">London, W6 7DL</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">England</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="40%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="50%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Form 20-F&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></font></td>
+<td width="29%" style="TEXT-ALIGN: right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="21%" style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Form 40-F&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&#160;&#160;&#160;__</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate by check mark whether by furnishing the information contained in this Form, the registrant is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="40%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="50%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes&#160;&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font></font></td>
+<td width="29%" style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="21%" style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;No&#160;&#160;<font style="DISPLAY: inline;" face="Wingdings">x</font></font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&#160;&#160;82-________</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Attached herewith as Exhibit 99.1 is a press release, dated May 25, 2010, whereby Acergy S.A. announced the award of a contract valued at approximately $120 million, offshore Nigeria in shallow water depths.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This contract includes the removal of existing risers and the installation of approximately 15km of new pipelines and associated risers, together with associated diving and hook-up activities. Construction engineering will commence immediately, with offshore installation due to commence in Q1 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The information set forth above shall be deemed to be incorporated by reference into the prospectuses forming a part of our Registration Statements on Form S-8 (No. 33-85168, No. 333-09292, No. 333-74321, No. 333-124983, No. 333-124997 and No. 333-166574) and our Registration Statements on Form F-3 and Form F-3/A (No. 333-86288) and to be a part of such prospectuses from the date of the filing thereof.&#160;&#160;The attached press release shall not be deemed &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934 or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certain statements set forth above and contained in the press release furnished pursuant to this Form 6-K may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;These statements include, but are not limited to, statements as to the&#160;value of the&#160;awarded contract, statements as to the date of commencement and completion of the awarded contract and statements as to the scope and locati
+on of our work thereunder.&#160;&#160;The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programs; the impact of laws and regulations; and operating hazards, including spills and environmental damage. Many of these factors are beyond our ability to control or predict. Given these facto
+rs, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURE</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="3" valign="top" width="38%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ACERGY S.A.</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td align="left" valign="top" width="50%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160;&#160; May 26, 2010&#160;</font></div>
+</td>
+<td valign="top" width="3%" style="BORDER-BOTTOM: #ffffff solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By: </font></div>
+</td>
+<td align="left" colspan="2" nowrap valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/&#160;Simon Crowe</font></td>
+<td valign="top" width="12%" style="BORDER-BOTTOM: #ffffff solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td align="left" nowrap valign="bottom" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Name:</font></td>
+<td align="left" nowrap valign="bottom" width="30%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Simon Crowe</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;Title:</font></td>
+<td valign="top" width="30%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Financial Officer</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr><tr>
+<td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="3%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td colspan="2" valign="top" width="35%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+</tr></table>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a10-45_ex991.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>a10-45_ex991.htm</title>
+<!-- Licensed to: whitecase-->
+<!-- Document Created using EDGARizer 5.1.6.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="TEXT-ALIGN: right"><br>
+<img src="a10-45_ex9910.jpg" alt="logo"><br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 14.15pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Acergy S.A. awarded $120 million contract</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 14.15pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">offshore Nigeria</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">London, England &#8211; May 25, 2010</font> &#8211; Acergy S.A. (NASDAQ-GS: ACGY; Oslo Stock Exchange: ACY) announced today the award of a contract valued at approximately $120 million, offshore Nigeria in shallow water depths.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This contract includes the removal of existing risers and the installation of approximately 15km of new pipelines and associated risers, together with associated diving and hook-up activities. Construction engineering will commence immediately, with offshore installation due to commence in Q1 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Bruno Chabas, Acergy&#8217;s Chief Operating Officer, said: &#8220;We are pleased to have been awarded this contract, which builds on our strong local presence and provides an excellent opportunity to leverage our expertise, re-enforcing Acergy&#8217;s strong presence in the upgrade and maintenance of complex conventional field developments in West Africa.&#8221;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -7.1pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">****************************************************************************************************************************************</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A. is a seabed-to-surface engineering and construction contractor to the offshore oil and gas industry worldwide.&#160;&#160;&#160;We provide integrated services, and we plan, design and deliver complex projects in harsh and challenging environments.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 7.05pt" align="justify"><br>
+&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: -7.1pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">****************************************************************************************************************************************</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Contact:</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Karen Menzel</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Acergy S.A.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">+44 (0)20 8210 5568</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">www.acergy-group.com</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If you no longer wish to receive our press releases please contact: <font style="DISPLAY: inline; TEXT-DECORATION: underline">karen.menzel@acergy-group.com</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 27pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Forward-Looking Statements: </font>Certain statements made in this announcement may include &#8220;forward-looking statements&#8221; within the meaning of Section 27A of the Securities Act and Section 21E of the US Securities Exchange Act of 1934.&#160;&#160;These statements may be identified by the use of words like &#8220;anticipate,&#8221; &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;forecast&#8221;, &#8220;project,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;seek,&#8221; and similar expressions.&#160;&#160;These forward-looking statements include, but are not limited to, statements as to the value of the awarded contracts, statements as to the date of commencement and completion o
+f each awarded contract and statements as to the scope of each awarded contract.&#160;&#160;The forward-looking statements reflect our current views and assumptions and are subject to risks and uncertainties.&#160;&#160;The following factors, and others which are discussed in our public filings and submissions with the U.S. Securities and Exchange Commission, are among those that may cause actual and future results and trends to differ materially from our forward-looking statements: our ability to recover costs on significant projects; the general economic conditions and competition in the markets and businesses in which we operate; our relationship with significant clients; the outcome of legal proceedings or governmental enquiries; uncertainties inherent in operating internationally; the timely delivery of ships on order and the timely completion of ship conversion programmes; the impact of laws and regulations; and operating hazards, including spills and environmental damage.&#160;&#160;Many of these fact
+ors are beyond our ability to control or predict.&#160;&#160;Given these factors, you should not place undue reliance on the forward-looking statements.</font></div>
+
+<br>
+<br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>a10-45_ex9910.jpg
+<DESCRIPTION>LOGO
+<TEXT>
+begin 644 a10-45_ex9910.jpg
+M_]C_X``02D9)1@`!`@$`8`!@``#_X0V117AI9@``34T`*@````@`!P$2``,`
+M```!``$```$:``4````!````8@$;``4````!````:@$H``,````!``(```$Q
+M``(````<````<@$R``(````4````CH=I``0````!````I````-``#J8````G
+M$``.I@```"<0061O8F4@4&AO=&]S:&]P($-3,R!7:6YD;W=S`#(P,3`Z,#4Z
+M,C8@,3`Z-38Z,#```````Z`!``,````!__\``*`"``0````!````DJ`#``0`
+M```!````.P`````````&`0,``P````$`!@```1H`!0````$```$>`1L`!0``
+M``$```$F`2@``P````$``@```@$`!`````$```$N`@(`!`````$```Q;````
+M`````$@````!````2`````'_V/_@`!!*1DE&``$"``!(`$@``/_M``Q!9&]B
+M95]#30`"_^X`#D%D;V)E`&2``````?_;`(0`#`@("`D(#`D)#!$+"@L1%0\,
+M#`\5&!,3%1,3&!$,#`P,#`P1#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`$-"PL-#@T0#@X0%`X.#A04#@X.#A01#`P,#`P1$0P,#`P,#!$,#`P,#`P,
+M#`P,#`P,#`P,#`P,#`P,#`P,#`P,_\``$0@`.P"2`P$B``(1`0,1`?_=``0`
+M"O_$`3\```$%`0$!`0$!``````````,``0($!08'"`D*"P$``04!`0$!`0$`
+M`````````0`"`P0%!@<("0H+$``!!`$#`@0"!0<&"`4###,!``(1`P0A$C$%
+M05%A$R)Q@3(&%)&AL4(C)!52P6(S-'*"T4,')9)3\.'Q8W,U%J*R@R9$DU1D
+M1<*C=#87TE7B9?*SA,/3=>/S1B>4I(6TE<34Y/2EM<75Y?569G:&EJ:VQM;F
+M]C='5V=WAY>GM\?7Y_<1``("`0($!`,$!08'!P8%-0$``A$#(3$2!$%187$B
+M$P4R@9$4H;%"(\%2T?`S)&+A<H*20U,58W,T\24&%J*R@P<F-<+21)-4HQ=D
+M154V=&7B\K.$P]-UX_-&E*2%M)7$U.3TI;7%U>7U5F9VAI:FML;6YO8G-T=7
+M9W>'EZ>WQ__:``P#`0`"$0,1`#\`]18QFQOM'`[*6QG[H^Y)GT&_`*22F.QG
+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
+M````````````&`,``&0"`````<`#``"P!````0`/)P$`;&QU;@``````````
+M`/\X0DE-`^T``````!``8`````$``0!@`````0`!.$))300F```````.````
+M`````````#^````X0DE-!`T```````0````>.$))3009```````$````'CA"
+M24T#\P``````"0```````````0`X0DE-!`H```````$``#A"24TG$```````
+M"@`!``````````(X0DE-`_4``````$@`+V9F``$`;&9F``8```````$`+V9F
+M``$`H9F:``8```````$`,@````$`6@````8```````$`-0````$`+0````8`
+M``````$X0DE-`_@``````'```/____________________________\#Z```
+M``#_____________________________`^@`````____________________
+M_________P/H`````/____________________________\#Z```.$))300(
+M```````0`````0```D````)``````#A"24T$'@``````!``````X0DE-!!H`
+M`````T\````&```````````````[````D@````T`80`Q`#``+0`T`#4`7P!E
+M`'@`.0`Y`#$`,`````$``````````````````````````0``````````````
+MD@```#L``````````````````````0`````````````````````````0````
+M`0```````&YU;&P````"````!F)O=6YD<T]B:F,````!````````4F-T,0``
+M``0`````5&]P(&QO;F<``````````$QE9G1L;VYG``````````!"=&]M;&]N
+M9P```#L`````4F=H=&QO;F<```"2````!G-L:6-E<U9L3',````!3V)J8P``
+M``$```````5S;&EC90```!(````'<VQI8V5)1&QO;F<`````````!V=R;W5P
+M241L;VYG``````````9O<FEG:6YE;G5M````#$53;&EC94]R:6=I;@````UA
+M=71O1V5N97)A=&5D`````%1Y<&5E;G5M````"D53;&EC951Y<&4`````26UG
+M(`````9B;W5N9'-/8FIC`````0```````%)C=#$````$`````%1O<"!L;VYG
+M``````````!,969T;&]N9P``````````0G1O;6QO;F<````[`````%)G:'1L
+M;VYG````D@````-U<FQ415A4`````0```````&YU;&Q415A4`````0``````
+M`$US9V5415A4`````0``````!F%L=%1A9U1%6%0````!```````.8V5L;%1E
+M>'1)<TA434QB;V]L`0````AC96QL5&5X=%1%6%0````!```````):&]R>D%L
+M:6=N96YU;0````]%4VQI8V5(;W)Z06QI9VX````'9&5F875L=`````EV97)T
+M06QI9VYE;G5M````#T53;&EC959E<G1!;&EG;@````=D969A=6QT````"V)G
+M0V]L;W)4>7!E96YU;0```!%%4VQI8V5"1T-O;&]R5'EP90````!.;VYE````
+M"71O<$]U='-E=&QO;F<`````````"FQE9G1/=71S971L;VYG``````````QB
+M;W1T;VU/=71S971L;VYG``````````MR:6=H=$]U='-E=&QO;F<``````#A"
+M24T$*```````#`````$_\````````#A"24T$$0```````0$`.$))3004````
+M```$`````3A"24T$#``````,=P````$```"2````.P```;@``&5H```,6P`8
+M``'_V/_@`!!*1DE&``$"``!(`$@``/_M``Q!9&]B95]#30`"_^X`#D%D;V)E
+M`&2``````?_;`(0`#`@("`D(#`D)#!$+"@L1%0\,#`\5&!,3%1,3&!$,#`P,
+M#`P1#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`$-"PL-#@T0#@X0%`X.
+M#A04#@X.#A01#`P,#`P1$0P,#`P,#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`P,_\``$0@`.P"2`P$B``(1`0,1`?_=``0`"O_$`3\```$%`0$!`0$!
+M``````````,``0($!08'"`D*"P$``04!`0$!`0$``````````0`"`P0%!@<(
+M"0H+$``!!`$#`@0"!0<&"`4###,!``(1`P0A$C$%05%A$R)Q@3(&%)&AL4(C
+M)!52P6(S-'*"T4,')9)3\.'Q8W,U%J*R@R9$DU1D1<*C=#87TE7B9?*SA,/3
+M=>/S1B>4I(6TE<34Y/2EM<75Y?569G:&EJ:VQM;F]C='5V=WAY>GM\?7Y_<1
+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
+M<"!#4S,@5VEN9&]W<R(@9&,Z9F]R;6%T/2)I;6%G92]J<&5G(B!P:&]T;W-H
+M;W`Z0V]L;W)-;V1E/2(S(B!P:&]T;W-H;W`Z2&ES=&]R>3TB(B!X87!-33I)
+M;G-T86YC94E$/2)U=6ED.CDY0C8X,CDR1#8V.$1&,3%!14,R0D8Q-#A$.$4V
+M-C)$(B!T:69F.D]R:65N=&%T:6]N/2(Q(B!T:69F.EA297-O;'5T:6]N/2(Y
+M-C`P,#`O,3`P,#`B('1I9F8Z65)E<V]L=71I;VX](CDV,#`P,"\Q,#`P,"(@
+M=&EF9CI297-O;'5T:6]N56YI=#TB,B(@=&EF9CI.871I=F5$:6=E<W0](C(U
+M-BPR-3<L,C4X+#(U.2PR-C(L,C<T+#(W-RPR.#0L-3,P+#4S,2PR.#(L,C@S
+M+#(Y-BPS,#$L,S$X+#,Q.2PU,CDL-3,R+#,P-BPR-S`L,C<Q+#(W,BPS,#4L
+M,S$U+#,S-#,R.S@V-3`P,#<V0T9".$1!0C4R.48R-C@P-S(S14%!-S9$(B!E
+M>&EF.E!I>&5L6$1I;65N<VEO;CTB,30V(B!E>&EF.E!I>&5L641I;65N<VEO
+M;CTB-3DB(&5X:68Z0V]L;W)3<&%C93TB+3$B(&5X:68Z3F%T:79E1&EG97-T
+M/2(S-C@V-"PT,#DV,"PT,#DV,2PS-S$R,2PS-S$R,BPT,#DV,BPT,#DV,RPS
+M-S4Q,"PT,#DV-"PS-C@V-RPS-C@V."PS,S0S-"PS,S0S-RPS-#@U,"PS-#@U
+M,BPS-#@U-2PS-#@U-BPS-S,W-RPS-S,W."PS-S,W.2PS-S,X,"PS-S,X,2PS
+M-S,X,BPS-S,X,RPS-S,X-"PS-S,X-2PS-S,X-BPS-S,Y-BPT,30X,RPT,30X
+M-"PT,30X-BPT,30X-RPT,30X."PT,30Y,BPT,30Y,RPT,30Y-2PT,3<R."PT
+M,3<R.2PT,3<S,"PT,3DX-2PT,3DX-BPT,3DX-RPT,3DX."PT,3DX.2PT,3DY
+M,"PT,3DY,2PT,3DY,BPT,3DY,RPT,3DY-"PT,3DY-2PT,3DY-BPT,C`Q-BPP
+M+#(L-"PU+#8L-RPX+#DL,3`L,3$L,3(L,3,L,30L,34L,38L,3<L,3@L,C`L
+M,C(L,C,L,C0L,C4L,C8L,C<L,C@L,S`[-T)!1#E$1D%%-#-&0C@P-T,P1#4U
+M1C5$-4$W.4%!,44B+SX@/"]R9&8Z4D1&/B`\+W@Z>&UP;65T83X@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`\/WAP86-K970@96YD/2)W(C\^_^X`#D%D;V)E
+M`&0``````?_;`(0`!@0$!`4$!@4%!@D&!08)"P@&!@@+#`H*"PH*#!`,#`P,
+M#`P0#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`$'!P<-#`T8$!`8%`X.
+M#A04#@X.#A01#`P,#`P1$0P,#`P,#!$,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`P,_\``$0@`.P"2`P$1``(1`0,1`?_=``0`$__$`:(````'`0$!`0$`
+M``````````0%`P(&`0`'"`D*"P$``@(#`0$!`0$``````````0`"`P0%!@<(
+M"0H+$``"`0,#`@0"!@<#!`(&`G,!`@,1!``%(1(Q05$&$V$B<8$4,I&A!Q6Q
+M0B/!4M'A,Q9B\"1R@O$E0S13DJ*R8W/"-40GDZ.S-A=49'3#TN(()H,)"A@9
+MA)1%1J2T5M-5*!KRX_/$U.3T976%E:6UQ=7E]69VAI:FML;6YO8W1U=G=X>7
+MI[?'U^?W.$A8:'B(F*BXR-CH^"DY25EI>8F9J;G)V>GY*CI*6FIZBIJJNLK:
+MZOH1``("`0(#!04$!08$"`,#;0$``A$#!"$2,4$%41-A(@9Q@9$RH;'P%,'1
+MX2-"%5)B<O$S)#1#@A:24R6B8[+"!W/2->)$@Q=4DP@)"A@9)C9%&B=D=%4W
+M\J.SPR@IT^/SA)2DM,34Y/1E=865I;7%U>7U1E9F=H:6IK;&UN;V1U=G=X>7
+MI[?'U^?W.$A8:'B(F*BXR-CH^#E)66EYB9FIN<G9Z?DJ.DI::GJ*FJJZRMKJ
+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
+:M_N_^\;_`-/&9W^E?/O^NG^^_'_6S_L7_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

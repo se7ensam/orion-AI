@@ -1,0 +1,1032 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FR8ku1MCdZXKZ81lGTNJebLGG3sY+/ZjV6RlmmynuX/GCxLRJzccGxF4qumbdFNF
+ 4+nIbYCg5tc9//zwnE1vEw==
+
+<SEC-DOCUMENT>0001309014-09-000290.txt : 20090429
+<SEC-HEADER>0001309014-09-000290.hdr.sgml : 20090429
+<ACCEPTANCE-DATETIME>20090429114238
+ACCESSION NUMBER:		0001309014-09-000290
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090429
+FILED AS OF DATE:		20090429
+DATE AS OF CHANGE:		20090429
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		09777906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_3900.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>Form 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+April 29, 2009
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: April 29, 2009
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Glenn Kumoi<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Glenn Kumoi
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       VP Human Resources & Chief Legal Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard Reports First Quarter 2009 Results</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 10pt">Ballard Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 10pt">News Release
+
+
+<P align="left" style="font-size: 10pt">Ballard Reports First Quarter 2009 Results
+
+
+<P align="left" style="font-size: 10pt"><B>For Immediate Release &#150; April&nbsp;28, 2009</B>
+
+
+<P align="left" style="font-size: 10pt">VANCOUVER, CANADA&#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) announced its results for the
+first quarter ended March&nbsp;31, 2009 today. All amounts are in U.S. dollars, unless otherwise noted.
+
+
+<P align="left" style="font-size: 10pt">&#147;Our first quarter results are generally consistent with the outlook provided in January, with weak
+product shipments and revenue in Q1, expected to ramp up over the back half of the year,&#148; said John
+Sheridan, President and CEO. He added, &#147;While the negative macroeconomic backdrop is presenting
+clear risks to Ballard&#146;s 15-30% revenue growth target, we still view this type of growth as
+attainable, but given the risks in the environment, more likely to the low end of this range.&#148;
+
+
+<P align="left" style="font-size: 10pt">The company also confirmed its full year guidance for:
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Total product shipments: 4,000 units (115% growth from 2008)</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Operating cash consumption<sup>1</sup>: $17&nbsp;million to $27&nbsp;million (7% to 40% reduction
+from 2008)</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>First Quarter 2009 Overview</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Total Product Shipments </I>of 192 units, a decrease from 284 units in Q1 2008.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Shipments expected to ramp up over the back half of the year.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>FCgen</I><sup><I>TM</I></sup><I>-1300 development program </I>is on track for Indian market deployment.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Commissioning of BC Transit Olympic Buses </I>proceeding on schedule for bus delivery by the
+consortium starting in August&nbsp;2009.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Key progress in material handling</I>, with lift truck fleet conversions by Plug Power for
+Central Grocers and Nestl&#233; Waters.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Organizational restructuring </I>completed, resulting in a 7% workforce reduction with
+annual cost savings of approximately $4&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Appointment of Bruce Cousins as CFO on April&nbsp;6, 2009 and Michael Goldstein as Chief
+Commercial Officer on April&nbsp;27, 2009.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>First Quarter 2009 Financial Highlights</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Revenue </I>was $8.1&nbsp;million (Q1 2008: $16.0&nbsp;million).</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Product and service revenues for the core Fuel Cell Products segment of $3.9
+million were consistent with the prior year quarter.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The overall year over year quarterly decline was primarily driven by:</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="10%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The slow down in the automotive sector and its impact on Contract
+Automotive and Material Products revenues; and</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="10%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The decline in engineering development revenues due primarily to the
+elimination of automotive fuel cell development work subsequent to the
+closing of the AFCC transaction and completion of the 1kW residential
+cogeneration fuel cell development program, both in 2008.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Operating expenses</I>, excluding depreciation and amortization decreased $3.4&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Research and product development </I>decreased $3.8&nbsp;million to $7.8&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Sales and Marketing </I>flat at $1.8&nbsp;million.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="6%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>General and Administrative </I>increased $0.4&nbsp;million to $4.3&nbsp;million, which
+includes $1.1&nbsp;million in severance expense related to the 7% workforce reduction.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Operating cash consumption</I><sup><I>1 </I></sup>was $11.0&nbsp;million, a 20% increase from $9.2
+million in the first quarter of 2008.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Net Loss </I>was ($18.6) million or ($0.22) loss per share, a decrease of $99.6&nbsp;million from
+Q1 2008 net income of $81.0&nbsp;million. 2008 net income included a $97&nbsp;million gain from the
+sale of our automotive assets.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Normalized net loss</I><sup><I>1</I></sup> was ($17.5) million or ($0.21) per share, representing
+a $1.6&nbsp;million increase in loss from Q1 2008 ($15.9&nbsp;million) driven by lower margins and
+engineering development revenues, partially offset by reductions in operating expenses.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Cash reserves </I>of $66.7&nbsp;million and debt-free balance sheet.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>First Quarter 2009 Financial Results</B>
+
+
+<P align="left" style="font-size: 10pt">Ballard&#146;s revenues for the three months ended March&nbsp;31, 2009 decreased to $8.1&nbsp;million, or 50%,
+compared to $16.0&nbsp;million for the first quarter of 2008 due primarily to the continuing slowdown
+in the automotive sector negatively impacting the supporting business segments. Contract
+Automotive and Material Products revenues were down $5.6&nbsp;million due to lower shipments of
+light-duty automotive modules and carbon friction material products combined with the elimination
+of light-duty automotive fuel cell program work subsequent to the closing of the AFCC Transaction
+on January&nbsp;31, 2008 (the &#147;AFCC Transaction&#148;). In addition, Fuel Cell Products engineering
+development revenues were down $2.3&nbsp;million due primarily to the completion of the 1kW residential
+cogeneration fuel cell development program in the third quarter of 2008. In the core Fuel Cell
+Products segment, product and service revenues of $3.9&nbsp;million were essentially flat versus the
+prior year quarter of $4.0&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">Ballard&#146;s net loss for the three months ended March&nbsp;31, 2009 increased to $18.6&nbsp;million, or
+($0.22) per share, compared with net income of $81.0&nbsp;million, or $0.87 per share, in the first
+quarter of 2008. The first quarter net income in 2008 included a gain on sale of assets of $96.9
+million related to the AFCC Transaction. The first quarter net loss in 2009 included severance and
+related costs of $1.1&nbsp;million relating to a 7% workforce reduction initiated in March&nbsp;2009.
+
+
+<P align="left" style="font-size: 10pt">Ballard&#146;s normalized net loss<sup>1</sup> for the first quarter of 2009 increased $1.6&nbsp;million to
+$17.5&nbsp;million, or ($0.21) per share, compared with a normalized net loss of $15.9&nbsp;million, or
+($0.17) per share, for 2008. Product and service revenue and related gross margin declines of $4.0
+million and $1.7&nbsp;million, respectively, combined with lower engineering development revenues of
+$3.9&nbsp;million, were only partially offset by reductions in operating expenses of $4.5&nbsp;million. In
+addition, declines in investment and other income of $1.1&nbsp;million negatively impacted normalized
+net loss in 2009 as compared to 2008.
+
+
+<P align="left" style="font-size: 10pt">Operating cash consumption<sup>1</sup> for the three months ended March&nbsp;31, 2009 increased 20% to
+$11.0&nbsp;million, compared to $9.2&nbsp;million for the first quarter of 2008. The higher operating cash
+consumption in the first quarter of 2009 was driven by increased capital expenditures, a decline
+in investment income, lower product and service gross margins and lower engineering development
+revenues. These increases were partially offset by lower working capital requirements and lower
+operating expenses.
+
+
+<P align="center" style="font-size: 10pt; display: none">1
+<!-- PAGEBREAK -->
+
+<P align="left" style="font-size: 10pt"><B>Total Product Shipments:</B>
+
+<DIV align="center">
+<TABLE style="font-size: 8pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="67%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="4%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000">Three months ended March 31,</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2009</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2008</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px"><B>Total Product Shipments</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>192</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>284</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right"><B>(32</B></TD>
+    <TD nowrap><B>%)</B></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD colspan="13" align="left"><B><I>Key Markets:</I></B><BR></TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Material Handling</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">57</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(88</TD>
+    <TD nowrap>%)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Backup Power</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">76</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">99</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">(23</TD>
+    <TD nowrap>%)</TD>
+</TR>
+<TR valign="bottom" style="font-size: 8pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Residential Cogeneration</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">102</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">49</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">108</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>Revenue breakdown:</B>
+</FONT>
+<!-- Preformatted ASCII caused by input condition 'badstub' -->
+<PRE>
+
+        (Expressed in thousands of U.S. dollars)            Three months ended March 31,
+                                                              2009                                                                  2008
+
+                                                   Product and      Engineering                       Total           Product and      Engineering                       Total
+                                                       Service      Develop-ment              -------------               Service      Develop-ment              -------------
+                         ----------------------------------   --------------------                   ----------------   --------------------
+
+Fuel Cell Products                                      $3,912      $ -                              $3,912                $4,006      $ 2,314                         $ 6,320
+
+Contract Automotive                                      1,877      -                                 1,877                 5,190      1,618                             6,808
+
+Material Products                                        2,295      -                                 2,295                 2,915      -                                 2,915
+- -----------------        ----------------------------------   -                      -------------   ----------------   -                      -------------
+
+                                                        $8,084      $ -                              $8,084               $12,111      $ 3,932                         $16,043
+                         ----------------------------------   ---                    -------------   ----------------   -------                -------------
+</PRE>
+
+<P align="left" style="font-size: 8pt"><FONT style="font-size: 10pt">For a more detailed discussion of Ballard Power Systems&#146; first quarter 2009 results, please
+see the company&#146;s financial statements and management&#146;s discussion &#038; analysis, which are available
+at www.ballard.com, www.sedar.com and www.sec.gov/edgar.shtml.
+</FONT>
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 7.5pt"><U><B>Endnotes:</B></U>
+</FONT><BR>
+<FONT style="font-size: 8pt"><sup>1</sup> Normalized net loss and operating cash consumption are non-GAAP measures used to
+assist in assessing Ballard&#146;s financial performance. Non-GAAP measures do not have any
+standardized meaning prescribed by GAAP and are therefore unlikely to be comparable to similar
+measures presented by other companies. Normalized net loss measures Ballard&#146;s net loss after
+excluding items that are unusual in nature or do not reflect the normal continued operating
+activity of the business. Gains on sale of assets held for sale, losses from discontinued
+operations, write-downs of long-lived assets and severance and related costs are not considered
+part of Ballard&#146;s core activities, and are either unusual or are expected to occur infrequently.
+Therefore Ballard removes these in the calculation of normalized net loss. Operating cash
+consumption measures the amount of cash required to fund the operating activities of Ballard&#146;s
+business and excludes financing and investing activities except for net additions to property,
+plant and equipment.
+</FONT>
+
+<P align="center" style="font-size: 10pt; display: none">2
+<!-- PAGEBREAK -->
+
+<P align="left" style="font-size: 8pt"><FONT style="font-size: 10pt"><B>First Quarter 2009 Conference Call</B>
+<BR>
+Ballard will hold a conference call to discuss its first quarter 2009 financial results on
+Wednesday, April&nbsp;29, 2009 at 8:00 a.m. PST (11:00&nbsp;a.m. EST). The live call can be accessed by
+calling &#043;1-604-638-5340. The live audio webcast can be accessed through a link on Ballard&#146;s
+homepage (www.ballard.com). Following the call, an audio recording will be available for
+approximately 24 hours and can be accessed at &#043;1-604-638-9010 using confirmation number 6325#. The
+audio webcast with slides will also be archived in the Investor Events &#038; Conference Calls section
+of Ballard&#146;s website for approximately 90&nbsp;days.
+</FONT>
+
+<P align="left" style="font-size: 10pt"><B>About Ballard Power Systems</B>
+<BR>
+Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) is recognized as a world leader in the design,
+development, manufacture and sale of clean energy fuel cell products. Ballard&#146;s mission is to
+accelerate fuel cell product adoption. To learn more about what Ballard is doing with Power to
+Change the World</FONT><FONT style="font-size: 6.5pt">&#174;</FONT><FONT style="font-size: 10pt">, visit www.ballard.com.
+</FONT>
+
+<P align="left" style="font-size: 10pt">This release contains forward-looking statements, including estimated&nbsp;future product shipments,
+revenue and operating cash consumption contained in our outlook, which are provided to enable
+external stakeholders to understand our expectations as at the date of this release and may not be
+appropriate for other purposes. These forward-looking statements are based on the beliefs and
+assumptions of Ballard&#146;s management and reflect Ballard&#146;s current expectations as contemplated
+under section 27A of the Securities Act of 1933, as amended, and Section&nbsp;21E of the Securities
+Exchange Act of 1934, as amended. Such assumptions relate to Ballard&#146;s financial forecasts and
+expectations regarding its product development efforts, manufacturing capacity, and market demand,
+and include matters such as generating new sales, producing,&nbsp;delivering&nbsp;and selling the expected
+number of units, and controlling its costs.
+
+
+<P align="left" style="font-size: 10pt">These statements involve risks and uncertainties that may cause Ballard&#146;s actual results to be
+materially different, including, without limitation, the condition of the global economy, the rate
+of mass adoption of its products, product development delays, changing environmental regulations,
+its ability to attract and retain business partners and customers, its access to funding,
+increased competition, its ability to protect its intellectual property, changes in its customers&#146;
+requirements, foreign exchange impacts on its net monetary assets and its ability to provide the
+capital required for product development, operations and marketing. For a detailed discussion of
+these risk factors and other risk factors that could affect Ballard&#146;s future performance, please
+refer to Ballard&#146;s most recent Annual Information Form.
+
+
+<P align="left" style="font-size: 10pt">Readers should not place undue reliance on Ballard&#146;s forward-looking statements and Ballard
+assumes no obligation to update or release any revisions to these forward looking statements,
+other than as required under applicable legislation.
+
+
+<P align="left" style="font-size: 10pt"><B>Further Information</B>
+<BR>
+For further information, or to arrange an interview with a Ballard spokesperson, please contact Amy
+Harada Bradley at telephone number 604-412-7913 or on e-mail amy.harada@ballard.com. Ballard, the
+Ballard logo and Power to Change the World are registered trademarks of Ballard Power Systems Inc.
+
+
+
+<P align="center" style="font-size: 10pt; display: none">3
+
+
+<!-- v.060107 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

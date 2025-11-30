@@ -1,0 +1,766 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Nvtzkx1iojB2mOT433tSUqLmKpYMnkCA++Oy6xyhytJyxvYdsIfIpJXsF6s2xeJa
+ IRJFNLV8LEqvWwm96KorWA==
+
+<SEC-DOCUMENT>0000950142-09-000089.txt : 20090128
+<SEC-HEADER>0000950142-09-000089.hdr.sgml : 20090128
+<ACCEPTANCE-DATETIME>20090127190301
+ACCESSION NUMBER:		0000950142-09-000089
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090127
+FILED AS OF DATE:		20090128
+DATE AS OF CHANGE:		20090127
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANTAGE ENERGY INCOME FUND
+		CENTRAL INDEX KEY:			0001259995
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32677
+		FILM NUMBER:		09549382
+
+	BUSINESS ADDRESS:	
+		STREET 1:		CANTERRA TOWER
+		STREET 2:		700, 400 - 3RD AVENUE
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 4H2
+		BUSINESS PHONE:		403-718-8000
+
+	MAIL ADDRESS:	
+		STREET 1:		CANTERRA TOWER
+		STREET 2:		700, 400 - 3RD AVENUE
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2P 4H2
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k_012709.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER
+<TEXT>
+<html>
+    <head>
+        <title></title>
+    </head>
+
+    <body style="FONT-FAMILY: 'Times New Roman'" bgcolor="#ffffff">
+        <div style="WIDTH: 600px">
+            <div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: 0.05em solid">
+                <div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: 0.25em solid">
+                    <p>&nbsp;</p>
+                </div>
+            </div>
+            <br>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">UNITED STATES</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">SECURITIES AND EXCHANGE COMMISSION</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">Washington, D.C. 20549</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 5pt; MARGIN-BOTTOM: 5pt; TEXT-ALIGN: center"><b><font size="2">FORM 6-K</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><b><font size="2">REPORT OF FOREIGN PRIVATE ISSUER</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><b><font size="2">Pursuant to Section 13a-16 or 15d-16 of the</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><b><font size="2">Securities Exchange Act of 1934</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 3pt; TEXT-ALIGN: center"><b><font size="2">January 27, 2009</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">Commission File Number: 001-32677</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><b><font size="2">ADVANTAGE ENERGY INCOME FUND</font></b><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></u><font size="2">&nbsp;</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">(Exact name of registrant as specified in its charter)</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">700, 400 &ndash; 3<sup>rd</sup> Avenue SW</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><u><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Calgary, Alberta, Canada T2P 4H2</font></u> <font size="2">&nbsp;</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center"><font size="2">(Address of principal executive offices)</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: justify">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: justify"><font size="2">Indicate by check mark whether the registrant files or will file annual reports under cover Form 20-F or Form 40-F.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: justify">&nbsp;</p>
+
+            <div align="left">
+                <table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="533" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="242">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: justify">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" nowrap width="148">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: justify"><font size="2">Form&nbsp;20-F&nbsp; <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> &nbsp;</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="58">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: justify"><font size="2">Form 40-F</font></p>
+                        </td>
+
+                        <td valign="top" nowrap width="86">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: justify"><u><font size="2">&nbsp;&nbsp;X &nbsp;</font></u></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: justify"><font size="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1). ____</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: left"><font size="2">Note: Regulation S-T Rule 101(b)(1) only permits the submission in paper of a Form 6-K if submitted solely to provide an attached annual report to security holders.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: left"><font size="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): ____</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.5in; TEXT-ALIGN: left"><font size="2">Note: Regulation S-T Rule 101(b)(7) only permits the submission in paper of a Form 6-K if submitted to furnish a report or other document that the registrant foreign private issuer must furnish and make public under the laws of the jurisdiction in which the registrant is incorporated, domiciled or legally organized (the registrant&rsquo;s &ldquo;home country&rdquo;), or under the
+            rules of the home country exchange on which the registrant&rsquo;s securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the registrant&rsquo;s security holders, and, if discussing a material event, has already been the subject of a Form 6-K submission or other Commission filing on EDGAR.</font></p>
+
+            <div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: 0.25em solid">
+                <div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0in; BORDER-TOP: medium none; PADDING-LEFT: 0in; PADDING-BOTTOM: 1pt; BORDER-LEFT: medium none; PADDING-TOP: 0in; BORDER-BOTTOM: 0.05em solid">
+                    <p>&nbsp;</p>
+                </div>
+            </div>
+            <br>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div title="EE+ Page Break" style="FONT-SIZE: 1pt; PAGE-BREAK-AFTER: always; WIDTH: 100%; HEIGHT: 1px">
+                <hr align="center" width="100%" noshade size="2">
+            </div>
+
+            <p style="MARGIN-TOP: 5pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: center">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 5pt; TEXT-ALIGN: center"><b><font size="2">SIGNATURES</font></b></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.47in; TEXT-ALIGN: justify"><font size="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div align="center">
+                <table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="600" border="0">
+                    <tr style="page-break-inside: avoid">
+                        <td valign="bottom" width="306">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="bottom" width="44">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="bottom" colspan="2">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">ADVANTAGE ENERGY INCOME FUND</font><br>
+                            <font size="2">(Registrant)</font><br>
+                            <br>
+                            </p>
+                        </td>
+                    </tr>
+
+                    <tr style="page-break-inside: avoid">
+                        <td valign="bottom" width="306">
+                            <p style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+                            <font size="2">Date:&nbsp;&nbsp;&nbsp;&nbsp;January 27, 2009</font></p>
+                        </td>
+
+                        <td valign="bottom" width="44">
+                            <p style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="bottom" width="25">
+                            <p style="MARGIN-TOP: 1pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">By:&nbsp;</font></p>
+                        </td>
+
+                        <td style="BORDER-BOTTOM: black 1pt solid" valign="bottom" width="250">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><br>
+                            <font size="2">/s/ Craig Blackwood</font></p>
+                        </td>
+                    </tr>
+
+                    <tr style="page-break-inside: avoid">
+                        <td valign="top" width="306">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" width="44">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" width="25">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+                        </td>
+
+                        <td valign="top" width="250">
+                            <p style="MARGIN-TOP: 0in; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">Craig Blackwood</font><br>
+                            <font size="2">Vice President, Finance</font></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div title="EE+ Page Break" style="FONT-SIZE: 1pt; PAGE-BREAK-AFTER: always; WIDTH: 100%; HEIGHT: 1px">
+                <hr align="center" width="100%" noshade size="2">
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div align="left">
+                <table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="277" border="0">
+                    <tr>
+                        <td valign="top" nowrap width="192">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><u><font size="2">Exhibit Number</font></u></p>
+                        </td>
+
+                        <td valign="top" nowrap width="85">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><u><font size="2">Description</font></u></p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <div align="left">
+                <table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%" border="0">
+                    <tr>
+                        <td valign="top" width="192">
+                            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; TEXT-ALIGN: left"><font size="2">99.1</font></p>
+                        </td>
+
+                        <td valign="top"><font face="Times New Roman, Times, serif" size="2">Press release dated January 27, 2009 - Advantage Announces Senior<br>
+                        Management Appointments</font></td>
+                    </tr>
+                </table>
+            </div>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+
+            <p style="MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-ALIGN: left">&nbsp;</p>
+        </div>
+    </body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99-1form6k_012709.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+            <HTML>
+            <HEAD>
+            <TITLE> </TITLE>
+            </HEAD>
+            <BODY bgcolor="#ffffff" style='font-family:"Times New Roman"'>
+
+            <div style='width:600;'>
+
+
+
+            <p style=' margin-bottom:12pt; margin-top:0pt;text-align:right;'><U><B><font SIZE=2>EXHIBIT 99.1</font></B></U></p>
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="600" style='border-collapse:collapse; '>
+                <tr >
+                    <td width="686" valign=top style='padding:0in 5.4pt 0in 5.4pt'>
+                        <p style='margin-left:0in;text-indent:0pt;text-align:center;margin-top:0in;margin-bottom: 12.0pt'><img src="img1.gif"><br> </p> </td> </tr></table>
+            </div>
+
+            <p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><font size=3>&nbsp;</font></p>
+
+            <p style=' margin-bottom:12pt; margin-top:0pt;text-align:center;'><b><font size=3>Advantage Energy Income Fund &#150; News Release</font></b></p>
+
+            <p style=' margin-bottom:6pt; margin-top:0pt;text-align:center;'><b><font size=2>January 27, 2009</font></b></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:center;'><b><font size=4>Advantage Announces Senior Management Appointments</font></b></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:1in;text-align:left;'><font size=4>&nbsp;</font></p>
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+                <tr >
+                    <td width="24" valign=top style='padding:0in 0in 6.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:6.0pt'><font size=1>&nbsp;</font></p> </td>
+                    <td width="24" valign=top style='padding:0in 0in 6.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font face=Wingdings>&Oslash;</font></p> </td>
+                    <td  valign=top style='padding:0in 0in 6.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>CALGARY, ALBERTA &#150; (AVN.UN &#150; TSX, AAV &#150; NYSE)</font></p> </td> </tr></table>
+            </div>
+
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><font size=2>Advantage Energy Income Fund (&#147;Advantage&#148;) announces the following appointments to the executive officer team of its wholly-owned subsidiary and administrator, Advantage Oil &amp; Gas Ltd. ("AOG"):</font></p>
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+                <tr >
+                    <td width="48" valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+                    <td  valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Mr. Andy Mah, the former President and Chief Operating Officer, has been appointed to the position of Chief Executive Officer.  Mr. Mah is a professional engineer with over 26 years of experience in the industry and has held senior management positions in several companies.  Mr. Mah will also continue on the Board of Directors of AOG.</font></p> </td> </tr></table>
+            </div>
+
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+                <tr >
+                    <td width="48" valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+                    <td  valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Mr. Kelly Drader, the former Chief Executive Officer, has been appointed as President and Chief Financial Officer.  Mr. Drader is a founder of Advantage with over 28 years of experience in the oil and gas industry.  Mr. Drader will also continue on the Board of Directors of AOG.</font></p> </td> </tr></table>
+            </div>
+
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="100%" style='margin-left:0pt;border-collapse:collapse'>
+                <tr >
+                    <td width="48" valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+                    <td  valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Mr.&nbsp;Craig Blackwood, the former Director of Finance, has been appointed as Vice-President, Finance; and </font></p> </td> </tr></table>
+            </div>
+
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="100%" style='border-collapse:collapse'>
+                <tr >
+                    <td width="48" valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font size=4><b>&#149;</b></font></p> </td>
+                    <td  valign=top style='padding:0in 0in 9.0pt 0in'>
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:justify;margin-top:0pt;margin-bottom:0pt'><font size=2>Mr. Peter Hanrahan, the former Vice-President of Finance and Chief Financial Officer, has elected to resign from such positions.  The Board of Directors of AOG thanks Mr. Hanrahan for his service to Advantage and wish him well in his future endeavours.</font></p> </td> </tr></table>
+            </div>
+
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><font size=2>Mr. Mah's engineering and operational expertise is expected to contribute considerably to Advantage's plan to further develop and exploit the Montney resource play on its Glacier property where approximately 50% of Advantage's 2009 capital expenditure budget has been allocated.  Mr. Mah commented:</font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><i><font size=2>"Advantage has substantially transformed in the last few years and is now well positioned with a significant organic growth opportunity at our Glacier Montney natural gas resource play.  In addition, we have developed an excellent conventional long life asset base with over 5 years of drilling inventory.  With the numerous market, industry and financial challenges ahead, we wish to ensure that our strengths at the senior management level are optimally aligned within the organization in an effort to maximize our operational and financial results.  I am very excited to lead Advantage and work with our very experienced staff and management team."</font></i></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+            <div TITLE="EE+ Page Break" STYLE="PAGE-BREAK-AFTER: always">
+
+            <HR noshade align="center" width="100%" size="2">
+            </DIV>
+
+            <div TITLE="EE+ Page Header">
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font color="#808080"><font size=2>&nbsp;</font></font></p>
+
+
+            <div align=left>
+
+            <table border="0" cellspacing=0 cellpadding=0 width="600" style='border-collapse:collapse'>
+                <tr >
+                    <td width="500" nowrap valign=top >
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#808080"><b><font size=2>Advantage Energy Income Fund</font></b></font></p> </td>
+                    <td width="99" nowrap valign=top >
+                        <p style='margin-left:0pt;text-indent:0pt;text-align:left;margin-top:0pt;margin-bottom:0pt'><font color="#808080"><b><font size=2>Page 2 of 2</font></b></font></p> </td> </tr></table>
+            </div>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font color="#808080"><font size=2>&nbsp;</font></font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font color="#808080"><font size=2>&nbsp;</font></font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font SIZE=2></font></p>
+            </DIV>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><font size=2>Mr. Drader's move to President and Chief Financial Officer recognizes his exceptional financial background and industry experience which will serve Advantage well in the challenging global economic environment and in an industry facing depressed commodity prices.</font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><font size=2>Mr. Blackwood is a Chartered Accountant and has been Director of Finance with AOG since November 2004.  Prior thereto, Mr. Blackwood has worked in various financial roles and has diverse experience throughout the resource sector. His areas of expertise include financial, accounting and taxation that has been well demonstrated during his employment.  Mr.&nbsp;Blackwood is expected to be a valuable contributor to the senior management team.  </font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><font size=2>Mr.&nbsp;Steven Sharpe, the non-executive Chair of AOG, commented:</font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:justify;'><i><font size=2>"The changes to the senior executive team at Advantage puts the organization in an even better position to address the challenges facing income funds and royalty trusts in the oil and gas industry and, further, to identify and exploit opportunities that arise in this environment of low commodity prices and economic uncertainty.  The promotion of Mr. Mah to Chief Executive Officer recognizes his advancement within the organization and the role that the operational group within Advantage will take going forward as we focus additional capital and development efforts on our Montney resource play at Glacier."</font></i></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:justify;'><font size=2>&nbsp;</font></p>
+
+            <p style=' margin-bottom:9pt; margin-top:0pt;text-align:left;'><font size=2>For further information please contact:</font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>Investor Relations</font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><b><font size=2>Toll free: 1-866-393-0393</font></b></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>&nbsp;</font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><b><small>ADVANTAGE</small> <small>ENERGY</small> <small>INCOME</small> <small>FUND</small></b></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>700, 400 &#150; 3<sup>rd</sup> Avenue SW</font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>Calgary, Alberta T2P 4H2</font></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>Phone:  (403) 718-8000</font></p>
+
+            <p style=' margin-bottom:3pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>Fax:      (403) 718-8300</font></p>
+
+            <p style=' margin-bottom:3pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>Web Site:  </font><font color="#0000FF"><u><font size=2>www.advantageincome.com</font></u></font></p>
+
+            <p style=' margin-bottom:3pt; margin-top:0pt; margin-left:0.12in;text-align:center;'><font size=2>E-mail: </font><font color="#0000FF"><u><font size=2>advantage@advantageincome.com</font></u></font></p>
+
+            <p style=' margin-bottom:6pt; margin-top:0pt;text-align:left;'><i><b><font size=1>Advisory</font></b></i></p>
+
+            <p style=' margin-bottom:6pt; margin-top:0pt;text-align:justify;'><i><font size=1>The information in this press release contains certain forward-looking statements. These statements relate to future events or our future performance. All statements other than statements of historical fact may be forward-looking statements. Forward-looking statements are often, but not always, identified by the use of words such as &#147;seek&#148;, &#147;anticipate&#148;, &#147;plan&#148;, &#147;continue&#148;, &#147;estimate&#148;, &#147;expect&#148;, &#147;may&#148;, &#147;will&#148;, &#147;project&#148;, &#147;predict&#148;, &#147;potential&#148;, &#147;targeting&#148;, &#147;intend&#148;, &#147;could&#148;, &#147;might&#148;, &#147;should&#148;, &#147;believe&#148;, &#147;would&#148; and similar expressions. These statements involve substantial known and unknown risks and uncertainties, certain of which are beyond Advantage&#146;s control, including: the impact of general economic conditions;
+            industry conditions; changes in laws and regulations including the adoption of new environmental laws and regulations and changes in how they are interpreted and enforced; fluctuations in commodity prices and foreign exchange and interest rates; stock market volatility and market valuations; volatility in market prices for oil and natural gas; liabilities inherent in oil and natural gas operations; uncertainties associated with estimating oil and natural gas reserves; competition for, among other things, capital, acquisitions, of reserves, undeveloped lands and skilled personnel; incorrect assessments of the value of acquisitions; changes in income tax laws or changes in tax laws and incentive programs relating to the oil and gas industry and income trusts; geological, technical, drilling and processing problems and other difficulties in producing petroleum reserves; and obtaining required approvals of regulatory authorities. Advantage&#146;s actual results, performance or achievement
+            could differ materially from those expressed in, or implied by, such forward-looking statements and, accordingly, no assurances can be given that any of the events anticipated by the forward-looking statements will transpire or occur or, if any of them do, what benefits that Advantage will derive from them. Except as required by law, Advantage undertakes no obligation to publicly update or revise any forward-looking statements.</font></i></p>
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+            <p style=' margin-bottom:0pt; margin-top:0pt;text-align:left;'><font size=2>&nbsp;</font></p>
+
+
+            </div>
+            </BODY>
+            </HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>img1.gif
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 img1.gif
+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
+B^BBDD4HZ*:656GHIIIEJNBFGG7KZ*:BABCHJJ:5R&A``.S\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

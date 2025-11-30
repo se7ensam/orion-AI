@@ -19,12 +19,17 @@ class Neo4jConnection:
         """Initialize Neo4j connection with environment variables."""
         self.uri = os.getenv("NEO4J_URI", "bolt://localhost:7687")
         self.user = os.getenv("NEO4J_USER", "neo4j")
-        self.password = os.getenv("NEO4J_PASSWORD", "")
+        # Default password matches docker-compose.yml default
+        self.password = os.getenv("NEO4J_PASSWORD", "orion123")
         self.driver: Optional[GraphDatabase.driver] = None
     
     def connect(self) -> bool:
         """Establish connection to Neo4j database."""
         try:
+            # Ensure password is not empty
+            if not self.password:
+                self.password = "orion123"  # Default from docker-compose
+            
             self.driver = GraphDatabase.driver(
                 self.uri,
                 auth=(self.user, self.password)
@@ -35,6 +40,9 @@ class Neo4jConnection:
             return True
         except Exception as e:
             print(f"✗ Failed to connect to Neo4j: {e}")
+            print(f"  URI: {self.uri}")
+            print(f"  User: {self.user}")
+            print(f"  Password set: {'Yes' if self.password else 'No'}")
             return False
     
     def close(self):
@@ -53,36 +61,75 @@ class Neo4jConnection:
             return list(result)
     
     def setup_schema(self):
-        """Initialize the graph schema with indexes and constraints."""
-        print("Setting up Neo4j schema...")
+        """Initialize the graph schema with indexes and constraints for EDGAR filings."""
+        print("Setting up Neo4j schema for EDGAR filings...")
         
-        # Create constraints
+        # Create constraints for EDGAR entities
         constraints = [
-            "CREATE CONSTRAINT employee_id_unique IF NOT EXISTS FOR (e:Employee) REQUIRE e.id IS UNIQUE",
-            "CREATE CONSTRAINT document_id_unique IF NOT EXISTS FOR (d:Document) REQUIRE d.id IS UNIQUE",
-            "CREATE CONSTRAINT project_id_unique IF NOT EXISTS FOR (p:Project) REQUIRE p.id IS UNIQUE",
-            "CREATE CONSTRAINT department_id_unique IF NOT EXISTS FOR (dept:Department) REQUIRE dept.id IS UNIQUE",
-            "CREATE CONSTRAINT author_id_unique IF NOT EXISTS FOR (a:Author) REQUIRE a.id IS UNIQUE",
+            # Company constraints
+            "CREATE CONSTRAINT company_cik_unique IF NOT EXISTS FOR (c:Company) REQUIRE c.cik IS UNIQUE",
+            "CREATE CONSTRAINT company_id_unique IF NOT EXISTS FOR (c:Company) REQUIRE c.id IS UNIQUE",
+            
+            # Person constraints
+            "CREATE CONSTRAINT person_id_unique IF NOT EXISTS FOR (p:Person) REQUIRE p.id IS UNIQUE",
+            
+            # Event constraints
+            "CREATE CONSTRAINT event_id_unique IF NOT EXISTS FOR (e:Event) REQUIRE e.id IS UNIQUE",
+            
+            # Sector constraints
+            "CREATE CONSTRAINT sector_sic_unique IF NOT EXISTS FOR (s:Sector) REQUIRE s.sic_code IS UNIQUE",
+            
+            # Rating constraints
+            "CREATE CONSTRAINT rating_id_unique IF NOT EXISTS FOR (r:Rating) REQUIRE r.id IS UNIQUE",
+            
+            # Debenture constraints (optional)
+            "CREATE CONSTRAINT debenture_id_unique IF NOT EXISTS FOR (d:Debenture) REQUIRE d.id IS UNIQUE",
         ]
         
-        # Create indexes
+        # Create indexes for performance
         indexes = [
-            "CREATE INDEX employee_id IF NOT EXISTS FOR (e:Employee) ON (e.id)",
-            "CREATE INDEX document_id IF NOT EXISTS FOR (d:Document) ON (d.id)",
-            "CREATE INDEX project_id IF NOT EXISTS FOR (p:Project) ON (p.id)",
-            "CREATE INDEX department_id IF NOT EXISTS FOR (dept:Department) ON (dept.id)",
-            "CREATE INDEX author_id IF NOT EXISTS FOR (a:Author) ON (a.id)",
-            "CREATE INDEX document_file_type IF NOT EXISTS FOR (d:Document) ON (d.file_type)",
+            # Company indexes
+            "CREATE INDEX company_cik IF NOT EXISTS FOR (c:Company) ON (c.cik)",
+            "CREATE INDEX company_name IF NOT EXISTS FOR (c:Company) ON (c.name)",
+            "CREATE INDEX company_sic_code IF NOT EXISTS FOR (c:Company) ON (c.sic_code)",
+            
+            # Person indexes
+            "CREATE INDEX person_name IF NOT EXISTS FOR (p:Person) ON (p.name)",
+            "CREATE INDEX person_role_type IF NOT EXISTS FOR (p:Person) ON (p.role_type)",
+            
+            # Event indexes
+            "CREATE INDEX event_type IF NOT EXISTS FOR (e:Event) ON (e.event_type)",
+            "CREATE INDEX event_date IF NOT EXISTS FOR (e:Event) ON (e.event_date)",
+            "CREATE INDEX event_filing_id IF NOT EXISTS FOR (e:Event) ON (e.filing_id)",
+            
+            # Sector indexes
+            "CREATE INDEX sector_sic_code IF NOT EXISTS FOR (s:Sector) ON (s.sic_code)",
+            
+            # Rating indexes
+            "CREATE INDEX rating_agency IF NOT EXISTS FOR (r:Rating) ON (r.rating_agency)",
+            "CREATE INDEX rating_date IF NOT EXISTS FOR (r:Rating) ON (r.rating_date)",
         ]
         
         try:
+            print("Creating constraints...")
             for constraint in constraints:
-                self.execute_query(constraint)
-                print(f"  ✓ Created constraint/index")
+                try:
+                    self.execute_query(constraint)
+                    print(f"  ✓ Created constraint")
+                except Exception as e:
+                    # Some constraints might already exist, continue
+                    if "already exists" not in str(e).lower():
+                        print(f"  ⚠️  Constraint warning: {e}")
             
+            print("Creating indexes...")
             for index in indexes:
-                self.execute_query(index)
-                print(f"  ✓ Created index")
+                try:
+                    self.execute_query(index)
+                    print(f"  ✓ Created index")
+                except Exception as e:
+                    # Some indexes might already exist, continue
+                    if "already exists" not in str(e).lower():
+                        print(f"  ⚠️  Index warning: {e}")
             
             print("✓ Schema setup completed successfully")
         except Exception as e:

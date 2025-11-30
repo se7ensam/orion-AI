@@ -1,0 +1,307 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Epkgmpq4PpRVcVPMzN/0SPjsWNKb9TLhY7EpJZflqP2dYnSoQatJjHLYjzXLxzKJ
+ 1XJTWdo8lnhkxVhVBaWm0w==
+
+<SEC-DOCUMENT>0001176256-10-000369.txt : 20100423
+<SEC-HEADER>0001176256-10-000369.hdr.sgml : 20100423
+<ACCEPTANCE-DATETIME>20100423134429
+ACCESSION NUMBER:		0001176256-10-000369
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100421
+FILED AS OF DATE:		20100423
+DATE AS OF CHANGE:		20100423
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALBERTA STAR DEVELOPMENT CORP
+		CENTRAL INDEX KEY:			0001142462
+		STANDARD INDUSTRIAL CLASSIFICATION:	METAL MINING [1000]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			A0
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-31172
+		FILM NUMBER:		10766782
+
+	BUSINESS ADDRESS:	
+		STREET 1:		675 WEST HASTINGS ST
+		STREET 2:		SUITE 506
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6B1N2
+		BUSINESS PHONE:		6046813131
+
+	MAIL ADDRESS:	
+		STREET 1:		675 WEST HASTINGS ST
+		STREET 2:		SUITE 506
+		CITY:			VANCOUVER
+		STATE:			A1
+		ZIP:			V6B1N2
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALBERTA STAR MINING CORP
+		DATE OF NAME CHANGE:	20010612
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>albertastar6k100421.htm
+<DESCRIPTION>REPORT OF FOREIGN PRIVATE ISSUER FOR THE MONTH OF APRIL 2010
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>Filed by e3 Filing, Computershare 1-800-973-3274 - Alberta Star Development Corp. - Form 6-K</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff" style="font-family: 'Times New Roman';font-size: 10pt;">
+<hr noshade size="3">
+<A name="page_1"></A><BR><BR>
+<TABLE style="FONT-SIZE: 10pt; FONT-FAMILY: '''''''''''Times New Roman'''''''''''" cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TR>
+    <TD width="20%"></TD>
+    <TD width="60%"></TD>
+    <TD width="12%"></TD>
+    <TD width="8%"></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+    <TD colspan="2" align=center style="BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">OMB APPROVAL</TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+    <TD width="12%" align=left noWrap style="BORDER-LEFT: #000000 1px solid">OMB Number:</TD>
+    <TD width="8%" align=right noWrap style="BORDER-RIGHT: #000000 1px solid">3235-0116</TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+    <TD width="12%" align=left noWrap style="BORDER-LEFT: #000000 1px solid">Expires:</TD>
+    <TD width="8%" align=right noWrap style="BORDER-RIGHT: #000000 1px solid">March 31, 2011</TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD width="20%">&nbsp;</TD>
+    <TD width="60%"><P style="TEXT-ALIGN: center"><B><FONT size=4>UNITED STATES</FONT></B></P></TD>
+    <TD width="12%" align=left valign="top" style="BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Estimated average burden hours per response</TD>
+    <TD width="8%" align=right noWrap style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">8.7</TD>
+  </TR>
+</TABLE>
+<P style="TEXT-ALIGN: center; margin:0px"><B><FONT size=4>SECURITIES AND EXCHANGE COMMISSION </FONT><BR>
+  Washington, D.C. 20549</B></P>
+<P style="TEXT-ALIGN: center"><FONT size=5><B>FORM 6-K</B></FONT></P>
+<P style="TEXT-ALIGN: center"><B>REPORT OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style="TEXT-ALIGN: center;">For the month of April 2010</P>
+<P style="TEXT-ALIGN: center">Commission File Number <U>000-31172</U></P>
+<P style="TEXT-ALIGN: center"><u><FONT size=6><B>ALBERTA STAR DEVELOPMENT CORP.<br>
+  </B></FONT></u>(Translation of registrant&#146;s name into English)</P>
+<P style="TEXT-ALIGN: center"><u>506 - 675 West Hastings Street, Vancouver, B.C. V6B 1N2<br>
+  </u>(Address of principal executive office)</P>
+<P style="TEXT-ALIGN: center">Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F. </P>
+<P style="TEXT-ALIGN: center">Form 20-F [ X&nbsp;]&nbsp;Form 40-F [ &nbsp;&nbsp;]</P>
+<P style="TEXT-ALIGN: center">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): [ &nbsp;&nbsp;]</P>
+<P style="TEXT-ALIGN: center"><B>Note: </B>Regulation S-T Rule 101(b)(1) only permits the submission in paper of a Form 6-K if submitted solely to provide an attached annual report to security holders.</P>
+<P style="TEXT-ALIGN: center">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7): [ &nbsp;&nbsp;]</P>
+<P style="TEXT-ALIGN: center"><B>Note: </B>Regulation S-T Rule 101(b)(7) only permits the submission in paper of a Form 6-K if submitted to furnish a report or other document that the registrant foreign private issuer must furnish and make public under the laws of the jurisdiction in which the registrant is incorporated, domiciled or legally organized (the registrant&#146;s &#147;home country&#148;), or under the rules of the home country exchange on which the registrant&#146;s securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the registrant's security holders, and, if discussing a material event, has already been the subject of a Form 6-K submission or other Commission filing on EDGAR.</P>
+<P style="TEXT-ALIGN: center">Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934. </P>
+<P style="TEXT-ALIGN: center">Yes [ &nbsp;&nbsp;]&nbsp;No [ X&nbsp;]</P>
+<P style="TEXT-ALIGN: center">If &#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b): 82- ________.</P>
+<BR>
+<HR style="PAGE-BREAK-AFTER: always;" align=center width="100%" noShade SIZE=1>
+<BR>
+<BR>
+<TABLE width="100%" border=0 align="center" cellSpacing=0 style="FONT-SIZE: 10pt; FONT-FAMILY: ''''''''''Times New Roman''''''''''">
+  <TR>
+    <TD width="8%"></TD>
+    <TD width="92%"></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD align=left valign="middle" noWrap><u><strong>Exhibit</strong></u></TD>
+    <TD align=left>&nbsp;</TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD align=left valign="middle" noWrap>&nbsp;</TD>
+    <TD align=left>&nbsp;</TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD align=left valign="middle" noWrap bgcolor="#ececec"><a href="exhibit99-1.htm">99.1</a></TD>
+    <TD align=left bgcolor="#ececec"><a href="exhibit99-1.htm">News Release&nbsp;dated April 21, 2010</a></TD>
+  </TR>
+</TABLE>
+<BR>
+<BR>
+<HR style="PAGE-BREAK-AFTER: always;" align=center width="100%" noShade SIZE=1>
+<BR>
+<BR>
+<P style="TEXT-ALIGN: center"><B>SIGNATURES</B></P>
+<P style="TEXT-ALIGN: justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+<TABLE style="FONT-SIZE: 10pt; FONT-FAMILY: ''''''''''Times New Roman''''''''''" cellSpacing=0 width="100%" border=0>
+  <TR>
+    <TD width="20%"></TD>
+    <TD width="4%"></TD>
+    <TD width="20%"></TD>
+    <TD width="12%"></TD>
+    <TD width="4%"></TD>
+    <TD width="20%"></TD>
+    <TD width="20%"></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD noWrap align=left></TD>
+    <TD noWrap align=left colSpan=2>&nbsp;</TD>
+    <TD noWrap align=left></TD>
+    <TD colspan="2" align=center noWrap style="BORDER-BOTTOM: #000000 1px solid">Alberta Star Development Corp.</TD>
+    <TD noWrap align=center></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD noWrap align=center></TD>
+    <TD noWrap align=center colSpan=2>&nbsp;</TD>
+    <TD noWrap align=center></TD>
+    <TD colspan="2" align=center noWrap>(Registrant)</TD>
+    <TD noWrap align=left></TD>
+  </TR>
+  <TR>
+    <TD></TD>
+    <TD colSpan=5>&nbsp;</TD>
+    <TD></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD noWrap align=left></TD>
+    <TD noWrap align=left>Date </TD>
+    <TD style="BORDER-BOTTOM: #000000 1px solid" noWrap align=left>April 22, 2010</TD>
+    <TD noWrap align=left></TD>
+    <TD noWrap align=left>By</TD>
+    <TD style="BORDER-BOTTOM: #000000 1px solid" noWrap align=left>/s/ Tim Coupland</TD>
+    <TD noWrap align=center></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD noWrap align=left></TD>
+    <TD noWrap align=left colSpan=2>&nbsp;</TD>
+    <TD noWrap align=left></TD>
+    <TD align=center noWrap>&nbsp;</TD>
+    <TD align=left noWrap>Tim Coupland</TD>
+    <TD noWrap align=center></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD noWrap align=left></TD>
+    <TD noWrap align=left colSpan=2>&nbsp;</TD>
+    <TD noWrap align=left></TD>
+    <TD align=center noWrap>&nbsp;</TD>
+    <TD align=left	 noWrap>President & CEO</TD>
+    <TD noWrap align=center></TD>
+  </TR>
+</TABLE>
+<BR>
+<TABLE width="100%" border=0 align="center" cellSpacing=0 style="FONT-SIZE: 10pt; FONT-FAMILY: ''''''''''Times New Roman''''''''''">
+  <TR>
+    <TD width="20%"></TD>
+    <TD width="80%"></TD>
+  </TR>
+  <TR vAlign=bottom>
+    <TD align=left valign="middle" noWrap>SEC 1815 (04-07)</TD>
+    <TD align=justify><B>Persons who are to respond to the collection of information contained in this form are not required to respond unless the form displays a currently valid OMB control number.</B></TD>
+  </TR>
+</TABLE>
+<BR>
+<BR>
+<HR align=center width="100%" noShade SIZE=3>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99-1.htm
+<DESCRIPTION>NEWS RELEASE DATED APRIL 21, 2010
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+
+<BODY bgcolor="#ffffff" style="font-family: 'Times New Roman';font-size: 10pt;"><hr noshade size="3"><P style="line-height:11pt; margin:0px; font-size:10pt; font-family:Times New Roman;" align=right><b>Exhibit 99.1</b></p>
+ <!--$$/page=-->
+<A name="page_1"></A><BR>
+<DIV style="PADDING-RIGHT: 0%; PADDING-LEFT: 0%">
+<P style="TEXT-ALIGN: center"><font size="6"><B>ALBERTA STAR DEVELOPMENT CORP.<BR>
+</B></font>Suite 506 - 675 West Hastings Street &#183; Vancouver &#183; British Columbia &#183; V6B 1N2<BR>
+Telephone: (604) 681-3131 Facsimile: (604) 408-3884</P>
+<P style="TEXT-ALIGN: center"><font size="4"><B><U>NEWS RELEASE</U></B></font></P>
+<DIV align=left>
+<TABLE style="FONT-SIZE: 10pt; WIDTH: 100%; FONT-FAMILY: '''Times New Roman'''" cellSpacing=0 border=0>
+<TR>
+     <TD width="38%"></TD>
+     <TD width="61%"></TD></TR>
+<TR vAlign=bottom>
+     <TD noWrap align=left>April 21, 2010&nbsp;</TD>
+     <TD noWrap align=right>TSX-V Trading Symbol: <B>ASX</B>&nbsp;</TD></TR>
+<TR vAlign=bottom>
+     <TD noWrap align=left>&nbsp;</TD>
+     <TD noWrap align=right>OTC BB Trading Symbol: <B>ASXSF</B>&nbsp;</TD></TR>
+<TR vAlign=bottom>
+     <TD noWrap align=left>&nbsp;</TD>
+     <TD noWrap align=right>FRANKFURT Trading Symbol<B>: QLD</B>&nbsp;</TD></TR></TABLE></DIV><BR>
+<DIV align=left>
+<TABLE style="FONT-SIZE: 16pt; WIDTH: 100%; FONT-FAMILY: '''Times New Roman'''" cellSpacing=0 border=0>
+<TR>
+     <TD width="100%"></TD></TR>
+<TR vAlign=bottom>
+     <TD style="BORDER-TOP: #000000 2px solid; BORDER-BOTTOM: #000000 2px solid" noWrap align=center><B>&nbsp;<BR>
+ALBERTA STAR ANNOUNCES THAT IT WAS UNSUCCESSFUL IN ITS BID TO<BR>
+</B><B>ACQUIRE THE STERLING MINING COMPANY<BR>
+&nbsp;</B></TD></TR></TABLE></DIV><BR>
+<P style="TEXT-ALIGN: justify">Alberta Star Development Corp. (the &#147;<B>Company</B>&#148;) (TSXV - ASX) announces that the Company was unsuccessful in its bid to acquire 100% of the shares of Sterling Mining Company (&#147;<B>Sterling</B>&#148;) and the Sunshine Mine Lease pursuant to a bankruptcy auction held on April 21, 2010. As a result of the unsuccessful bid, the Company has confirmed that certain conditions contained in the Acquisition Agreement (the &#147;<B>Agreement</B>&#148;) with Sterling Mining Company dated November 17, 2009 have not been satisfied in accordance with the terms of the Agreement (see the Company's press release dated November l, 2009). As a result of the unsatisfied conditions, the Company will pursue a compensation fee of US$250,000 in accordance with the terms of the Agreement and the Second Amended Plan and Disclosure Statement filed by Sterling.</P>
+<P style="TEXT-ALIGN: justify"><B><U>ALBERTA STAR DEVELOPMENT CORP.</U></B></P>
+<P style="TEXT-ALIGN: justify">The Company is a Canadian mineral exploration company that identifies, acquires and finances advanced stage mineral exploration projects in North America. The Company maintains a strong balance sheet, has no long term debt and continues to maintain seasoned management. The Company has a stated mandate of acquiring advanced stage exploration and production projects and will continue to review other advanced resource opportunities available to the Company, including a number of mineral exploration projects that contain established resources, expansion potential, infrastructure, cash flow and near term cash flow.</P>
+<P style="TEXT-ALIGN: justify"><B><U>INVESTOR RELATIONS</U></B></P>
+<P style="TEXT-ALIGN: justify">Investors are welcomed to contact Benjamin Curry of Progressive I.R. Consultants Corp. at (604) 689-2881, the Company&#146;s Investor Relations specialists for all corporate updates, and investor inquiries, or Morgan Brewster, Corporate Development of the Company at (778) 989-2739 or mbrewster@alberta-star.com.</P>
+</DIV><BR>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" noShade SIZE=1>
+<BR>
+<A name="page_2"></A>
+<DIV style="PADDING-RIGHT: 0%; PADDING-LEFT: 0%">
+<P style="TEXT-ALIGN: center">2</P>
+<P style="TEXT-ALIGN: justify"><B><U>FOR FURTHER INFORMATION, PLEASE CONTACT:</U></B></P>
+<P style="TEXT-ALIGN: justify">Tim Coupland, President and CEO<BR>
+Alberta Star Development Corp.<BR>
+Tel (604) 681-3131&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fax (604) 408-3884 <BR>
+www.alberta-star.com</P>
+<P style="TEXT-ALIGN: justify"><I></I>&nbsp;</P>
+<P style="TEXT-ALIGN: justify"><I>Forward-Looking Statements</I></P>
+<P style="TEXT-ALIGN: justify">In the interest of providing the Company's shareholders and potential investors with information regarding the Company, including managements' assessment of the future plans and operations of the Company, certain statements contained in this document constitute forward-looking statements or information (collectively &#147;forward-looking statements&#148;) within the meaning of applicable securities legislation. Forward-looking statements are typically identified by words such as &#147;anticipate&#148;, &#147;continue&#148;, &#147;estimate&#148;, &#147;expect&#148;, &#147;forecast&#148;, &#147;may&#148;, &#147;will&#148;, &#147;project&#148;, &#147;could&#148;, &#147;plan&#148;, &#147;intend&#148;, &#147;should&#148;, &#147;believe&#148;, &#147;outlook&#148;, &#147;potential&#148;, &#147;target&#148; and similar words suggesting future events or future performance. In addition, statements relating to &#147;resources&#148; are deemed to be forward-looking statements as they invol
+ve the implied assessment, based on certain estimates and assumptions, that the resources described exist in the quantities predicted or estimated and can be profitably produced in the future. In particular, this document contains, without limitation, forward-looking statements pertaining to the following: expectations of management regarding the termination of the agreement to acquire Sterling, payment of the termination fee and the company&#146;s review of additional resource opportunities including the timing of completion of an acquisition; potential synergies resulting from an acquisition and the effect of the acquisition on the Company's operations.</P>
+<P style="TEXT-ALIGN: justify">With respect to forward-looking statements contained in this document, we have made assumptions regarding, among other things: future capital expenditure levels; future silver and base and precious metals prices and future silver and base and precious metal production levels; future exchange rates and interest rates; our ability to obtain equipment other resources in a timely manner to carry out development activities; our ability to market our silver and base and precious metals successfully to current and new customers; the impact of increasing competition; our ability to obtain financing on acceptable terms; our ability to attract new senior management and board members; and our ability to add production and resources through our development and exploitation activities. Although the Company believes that the expectations reflected in the forward-looking statements contained in this document, and the assumptions on which such forward-looking statements are made, are reasonabl
+e, there can be no assurance that such expectations will prove to be correct. Readers are cautioned not to place undue reliance on forward-looking statements included in this document, as there can be no assurance that the plans, intentions or expectations upon which the forward-looking statements are based will occur. By their nature, forward-looking statements involve numerous assumptions, known and unknown risks and uncertainties that contribute to the possibility that the predictions, forecasts, projections and other forward-looking statements will not occur, which may cause the Company&#146;s actual performance and financial results in future periods to differ materially from any estimates or projections of future performance or results expressed or implied by such forward-looking statements. These risks and uncertainties include, among other things, the following: that the proposed transaction may not close when planned or at all or on the terms and conditions set forth herein; the failure of the Compa
+ny to obtain the necessary Court, TSX Venture Exchange, regulatory and other third party approvals required in order to proceed with the proposed transaction; volatility in market prices for silver and other base and precious metals; incorrect assessment of the value of the acquisition; failure to realize the anticipated benefits and synergies of the</P>
+</DIV><BR>
+<HR style="PAGE-BREAK-AFTER: always" align=center width="100%" noShade SIZE=1>
+<BR>
+<!--$$/page=-->
+<A name="page_3"></A>
+<DIV style="PADDING-RIGHT: 0%; PADDING-LEFT: 0%">
+<P style="TEXT-ALIGN: center">3</P>
+<P style="TEXT-ALIGN: justify">acquisition; general economic conditions in Canada, the U.S. and globally; and the other factors described under &#147;Risk Factors&#148; in the Company&#146;s annual reports and Form 20-F available in Canada at www.sedar.com, as well as on file with the U.S. Securities and Exchange Commission. Readers are cautioned that this list of risk factors should not be construed as exhaustive.</P>
+<P style="TEXT-ALIGN: justify">The forward-looking statements contained in this document speak only as of the date of this document. Except as expressly required by applicable securities laws, the Company does not undertake any obligation to publicly update or revise any forward looking statements, whether as a result of new information, future events or otherwise. The forward-looking statements contained in this document are expressly qualified by this cautionary statement.</P>
+<P style="TEXT-ALIGN: justify">Statements contained in this news release relating to future results, events, and expectations are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements involve known and unknown risks, uncertainties, scheduling, re-scheduling, and other factors which may cause the actual results, performance, estimates, projections, resource potential, interpretations, prognoses, schedules, or achievements of the Company, or industry results, to be materially different from any future results, performance, or achievements expressed or implied by such statements. Such factors include, among others, those described in the Company' annual reports on Form 20-F on file with the U.S. Securities and Exchange Commission and available in Canada at www.sedar.com.</P>
+<P style="TEXT-ALIGN: justify">Neither the TSX Venture Exchange nor its Regulation Services Provider (as the term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.</P>
+</DIV><BR>
+<HR align=center width="100%" noShade SIZE=3>
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

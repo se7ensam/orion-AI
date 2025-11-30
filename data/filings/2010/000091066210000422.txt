@@ -1,0 +1,542 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IV6OVrfZP6q+iceCv2MLqy159kXhCE1/EA0oBqiWFPA550YTHc6VaJrxijWX/0gb
+ AoS/zgnBVpV3RkNHfL/zvA==
+
+<SEC-DOCUMENT>0000910662-10-000422.txt : 20101007
+<SEC-HEADER>0000910662-10-000422.hdr.sgml : 20101007
+<ACCEPTANCE-DATETIME>20101007145913
+ACCESSION NUMBER:		0000910662-10-000422
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101007
+FILED AS OF DATE:		20101007
+DATE AS OF CHANGE:		20101007
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			B COMMUNICATIONS LTD
+		CENTRAL INDEX KEY:			0001402606
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMUNICATION SERVICES, NEC [4899]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			L3
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33773
+		FILM NUMBER:		101113744
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2 DOV FRIEDMAN STREET
+		CITY:			RAMAT GAN
+		STATE:			L3
+		ZIP:			52503
+		BUSINESS PHONE:		972-3-939-9848
+
+	MAIL ADDRESS:	
+		STREET 1:		2 DOV FRIEDMAN STREET
+		CITY:			RAMAT GAN
+		STATE:			L3
+		ZIP:			52503
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	012 SMILE.COMMUNICATIONS LTD
+		DATE OF NAME CHANGE:	20071010
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SMILE.COMMUNICATIONS LTD
+		DATE OF NAME CHANGE:	20070611
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>form6k.htm
+<DESCRIPTION>NOTICE OF AGM PUBLISHED IN ISRAEL
+<TEXT>
+<html>
+<head>
+    <title>form6k.htm</title>
+<!-- Licensed to: Carter Ledyard & Milburn LLP-->
+<!-- Document Created using EDGARizer 5.1.5.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+  <div id="lockwidth" style="width: 640px"><br><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">Washington,
+D.C.&#160;&#160;20549</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">F
+O R M&#160;&#160;6-K</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">REPORT
+OF FOREIGN PRIVATE ISSUER PURSUANT TO RULE 13a-16 OR 15d-16 UNDER THE SECURITIES
+EXCHANGE ACT OF 1934</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">For
+the month of October 2010</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">B
+COMMUNICATIONS LTD.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;(Name
+of Registrant)</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">2
+Dov Friedman Street, Ramat Gan 52503, Israel</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Address
+of Principal Executive Office)</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Indicate by check mark whether the
+registrant files or will file annual reports under cover of Form 20-F or Form
+40-F.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Form
+20-F <font style="DISPLAY: inline;" face="Wingdings 2, serif">T</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Form
+40-F <font style="DISPLAY: inline; FONT-SIZE: 12pt" face="Wingdings 2, serif">*</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(1): <font style="DISPLAY: inline; FONT-SIZE: 12pt" face="Wingdings 2, serif">*</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(7): <font style="DISPLAY: inline; FONT-SIZE: 12pt" face="Wingdings 2, serif">*</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Indicate by check mark whether by
+furnishing the information contained in this Form, the registrant is also
+thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b)
+under the Securities Exchange Act of 1934.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Yes<font style="DISPLAY: inline; FONT-SIZE: 12pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 12pt" face="Wingdings 2, serif">*</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+No <font style="DISPLAY: inline;" face="Wingdings 2, serif">T</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 72pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">If
+"Yes" is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b): 82- __________</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">This
+Form 6-K is being incorporated by reference into the Registrant&#8217;s Form S-8
+Registration Statement File No. 333-150173.</font></div><br>
+    <div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+        <div style="TEXT-ALIGN: center; WIDTH: 100%">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+    </div><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">B
+COMMUNICATIONS LTD.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The
+following exhibit is attached:</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td style="WIDTH: 36pt">
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">99.1</font></div>
+            </td>
+            <td>
+              <div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Notice
+      of 2010 Annual General Meeting of Shareholders to be held November 15,
+      2010, published in&#160;&#160;Israel on October 7,
+  2010.</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div><br>
+    <div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+        <div style="TEXT-ALIGN: center; WIDTH: 100%">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+    </div><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SIGNATURE</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+            <td align="left" valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td align="left" valign="top" width="31%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">B
+      COMMUNICATIONS LTD.</font></div>
+            </td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td valign="top" width="31%" style="TEXT-ALIGN: left">
+              <div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;(Registrant)</font></div>
+            </td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td valign="top" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td align="left" valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td align="left" valign="top" width="31%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">By
+      <font style="DISPLAY: inline; TEXT-DECORATION: underline">/s/Eli Holtzman</font></font></div>
+            </td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td align="left" valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td align="left" valign="top" width="31%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Eli
+      Holtzman</font></div>
+            </td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td align="left" valign="top" width="49%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+            <td align="left" valign="top" width="31%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Chief
+      Executive Officer</font></div>
+            </td>
+            <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Date:
+October 7, 2010</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 216pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font><br>&#160;</div><br>
+    <div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+        <div style="TEXT-ALIGN: center; WIDTH: 100%">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+    </div><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 216pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">EXHIBIT
+INDEX</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+            <td valign="top" width="19%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline"><font style="DISPLAY: inline">EXHIBIT
+      NO</font>.</font></div>
+            </td>
+            <td align="left" valign="top" width="61%" style="PADDING-BOTTOM: 2px">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline"><font style="DISPLAY: inline">DESCRIPTION</font></font></div>
+            </td>
+          </tr><tr>
+            <td valign="top" width="19%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+            <td valign="top" width="61%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;
+      </font></td>
+          </tr><tr>
+            <td valign="top" width="19%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">99.1</font></div>
+            </td>
+            <td align="left" valign="top" width="61%">
+              <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Notice
+      of 2010 Annual General Meeting of Shareholders to be held November 15,
+      2010, published in Israel on October 7,
+2010.</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div><br><br></div></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99_1.htm
+<DESCRIPTION>NOTICE OF AGM PUBLISHED IN ISRAEL
+<TEXT>
+<html>
+<head>
+    <title>ex99_1.htm</title>
+<!-- Licensed to: Carter Ledyard & Milburn LLP-->
+<!-- Document Created using EDGARizer 5.1.5.0 -->
+<!-- Copyright 1995 - 2009 Thomson Reuters. All rights reserved. -->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+  <div id="lockwidth" style="width: 640px"><br><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">EXHIBIT
+99.1</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-DECORATION: underline">B COMMUNICATIONS
+LTD.</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2 Dov
+Friedman Street, Ramat-Gan, 52503, Israel</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">+972-3-9240000
+(phone), +972-3-939-9832 (fax)</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">NOTICE
+OF 2010 ANNUAL GENERAL MEETING OF SHAREHOLDERS</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Dear.
+Shareholders:</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">We
+cordially invite you to the 2010 Annual General Meeting of Shareholders to be
+held on Monday, November&#160;15, 2010 at 10:30 a.m. (Israel time) at our
+offices at 2 Dov Friedman Street, Ramat-Gan 52503, Israel, for the following
+purposes:</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">1.&#160;&#160;</font></div>
+            </td>
+            <td>
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To
+      reelect the following three directors, to hold office until our next
+      annual general meeting of shareholders (Mr. Shaul Elovitch, Ms. Aliza
+      Schloss and Ms. Anat Winner);</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">2.&#160;&#160;</font></div>
+            </td>
+            <td>
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To
+      elect the following two outside directors (as such term is defined in the
+      Israeli Companies Law) each for a three-year term: Mr. Moshe Rosenthal and
+      Ms. Debbie Saperia;</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">3.&#160;&#160;</font></div>
+            </td>
+            <td>
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To
+      ratify and approve the reappointment of Somekh Chaikin, registered public
+      accounting firm, a member of KPMG International, as our independent
+      registered public accountants for the year ending December 31, 2010, and
+      to authorize our Board of Directors to delegate to the Audit Committee the
+      authority to fix the compensation of such independent registered public
+      accountants in accordance with the volume and nature of their
+      services;</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">4.&#160;&#160;</font></div>
+            </td>
+            <td>
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To
+      review and discuss our auditor&#8217;s report and consolidated financial
+      statements for the year ended December 31, 2009;
+  and</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">5.&#160;&#160;</font></div>
+            </td>
+            <td>
+              <div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">To
+      transact such other business that may properly come before the annual
+      general meeting or any adjournment
+thereof.</font></div>
+            </td>
+          </tr></table>
+    </div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Shareholders
+may review the full version of the proposed resolutions in the Proxy Statement
+as well as the accompanying proxy card, as of October 14, 2010, via the Israeli
+Securities Authority&#8217;s electronic filing system at <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://www.magna.isa.gov.il</font>
+or the website of the Tel-Aviv Stock Exchange Ltd. at <font style="DISPLAY: inline; TEXT-DECORATION: underline">http://maya.tase.co.il</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">,</font> and also at our
+offices (2 Dov Friedman St., Ramat-Gan, 52503, Israel - +972-3-9240000 (phone),
++972-3-939-9832 (fax)).</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Our company&#8217;s representative
+is Mr. Ami Barlev (2 Dov Friedman Street, Ramat Gan, Israel - Tel: 050-2029021
+Fax:&#160;03-5758093).</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Shareholders
+of record at the close of business on October&#160;11, 2010 are entitled to
+notice of and to vote at the meeting. You can vote either by mailing in your
+proxy or in person by attending the meeting.&#160;&#160;If voting by mail, the
+proxy must be received by our transfer agent or at our registered office in
+Israel at least forty-eight (48) hours prior to the appointed time of the
+meeting to be validly included in the tally of ordinary shares voted at the
+meeting.&#160;&#160;If you attend the meeting, you may vote in person and your
+proxy will not be used.&#160;&#160;Detailed proxy voting instructions are
+provided both in the Proxy Statement and on the proxy card.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Quorum and
+Voting</font></font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The
+presence, in person or by proxy, of shareholders holding or representing, in the
+aggregate, at least one third of our company&#8217;s voting rights will constitute a
+quorum at the meeting.&#160;&#160;No business will be considered or determined
+at the meeting unless the requisite quorum is present within half an hour from
+the time designated for the meeting.&#160;&#160;If within half an hour from the
+time designated for the meeting a quorum is not present, the meeting will stand
+adjourned to the same day in the following week, at the same time and
+place.&#160;&#160;If within half an hour from the time designated for the
+adjourned meeting a quorum is not present, any number of shareholders present
+will constitute a quorum. This notice will serve as notice of such reconvened
+meeting if no quorum is present at the original date and time and no further
+notice of the reconvened meeting will be given to shareholders.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div><br>
+    <div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+        <div style="TEXT-ALIGN: center; WIDTH: 100%">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160;
+</font></div>
+      </div>
+    </div><br>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block"><br></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Our
+Articles of Association require each shareholder that wishes to participate in
+the meeting to certify to us prior to the vote, or if the shareholder is voting
+by proxy, in the proxy card, as to whether or not his or her holdings in our
+company or his or her vote requires the approval of the Prime Minister of Israel
+and Israeli Minister of Communications pursuant to the Israeli Communications
+Law (Telecommunications and Broadcasting), 1982 or the Communications
+Order.&#160;&#160;If a shareholder does not provide such certification, such
+shareholder will not be entitled to vote at the meeting and such shareholder&#8217;s
+vote will not be counted for quorum purposes.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">According
+to our Articles of Association, &#8220;Exceptional Holdings&#8221; do not entitle the holder
+to vote such shares at the meeting.&#160;&#160;&#8220;Exceptional Holdings&#8221; are
+defined in the Israeli Communications Order (Determination Of Essential Service
+Provided By &#8220;Bezeq&#8221; The Israeli Telecommunications Corp., Limited), 5757-1997,
+or the Communications Order.&#160;&#160;A description of the definition of
+&#8220;Exceptional Holdings&#8221; is included in the Proxy Statement.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">An
+affirmative vote of the holders of a majority of the ordinary shares represented
+at the meeting, in person or by proxy, entitled to vote and voting thereon, is
+required to approve the proposals 1 and 3.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">With
+respect to proposal 2, under the Israeli Companies Law, the election of each of
+the nominees for outside director requires the affirmative vote of a majority of
+ordinary shares represented at the meeting, in person or by proxy, entitled to
+vote and voting on the matter, provided that either (i) the shares voting in
+favor of such election include at least one-third of the shares of
+non-controlling shareholders who vote on the election (excluding the vote of
+abstaining shareholders), or (ii) the total shareholdings of the non-controlling
+shareholders who vote against such election do not represent more than 1% of the
+voting rights in our company.</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">October
+7, 2010</font></div>
+    <div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div><br><br></div></body>
+</html>
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,942 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PYRBVwCNw0KZT9RuhAHzXBZj4nwIJomZcFWXSh5KpzEbPpJ2c+kkjJmjraaART1C
+ iaP6dmzh+IuTbHZtT8M3Sg==
+
+<SEC-DOCUMENT>0001193125-09-147885.txt : 20090713
+<SEC-HEADER>0001193125-09-147885.hdr.sgml : 20090713
+<ACCEPTANCE-DATETIME>20090713083850
+ACCESSION NUMBER:		0001193125-09-147885
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090713
+FILED AS OF DATE:		20090713
+DATE AS OF CHANGE:		20090713
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AEGON NV
+		CENTRAL INDEX KEY:			0000769218
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10882
+		FILM NUMBER:		09941197
+
+	BUSINESS ADDRESS:	
+		STREET 1:		AEGONPLEIN 50
+		STREET 2:		PO BOX 85
+		CITY:			THE HAGUE
+		STATE:			P7
+		ZIP:			2501 CB
+		BUSINESS PHONE:		011-31-70-344-7308
+
+	MAIL ADDRESS:	
+		STREET 1:		AEGONPLEIN 50
+		STREET 2:		PO BOX 85
+		CITY:			THE HAGUE
+		STATE:			P7
+		ZIP:			2501 CB
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>Securities and Exchange Commission
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>Form 6-K </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Report of Foreign Issuer </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Pursuant to Rule 13a-16 or 15d/16 of
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>the Securities Exchange Act of 1934 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>July 2009 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P
+STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>AEGON N.V. </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><center> <P STYLE="line-height:6px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>AEGONplein 50 </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>2591 TV THE HAGUE </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>The Netherlands </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P
+STYLE="line-height:3px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">AEGON&#146;s press release, dated July&nbsp;13, 2009, is included as appendix and incorporated herein by reference.
+</FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">SIGNATURE </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="42%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="9%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="42%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">AEGON N.V.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">(Registrant)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Date: July 13, 2009</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">By</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ E. Lagendijk</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">E. Lagendijk</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Executive Vice President and General Counsel</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>dex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 99.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center">
+
+<IMG SRC="g29207img001.jpg" ALT="LOGO"> </P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>AEGON reaches final agreement to reduce charges on unit-linked insurance policies in the Netherlands </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">AEGON has reached a final agreement with <I>Stichting Verliespolis</I> and <I>Stichting Woekerpolis Claim</I> to reduce charges for customers of its unit-linked insurance
+policies in the Netherlands. The agreement is part of industry-wide efforts in the Netherlands to address concerns over charges related to unit-linked insurance products. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">AEGON previously announced improvements to such policies last September. Based on the information available at that time, the company estimated the cost at approximately EUR 140&nbsp;million before tax. Under the
+final agreement announced today, AEGON will commit an additional maximum amount of EUR 110&nbsp;million before tax to improve terms and conditions of its unit-linked policies, which includes a maximum of EUR 80&nbsp;million before tax to assist
+those customers experiencing adverse financial circumstances. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As a result of the final agreement, there will be an additional impact on the company&#146;s
+embedded value of approximately EUR 70&nbsp;million after tax. The cost of improvements will be reflected in AEGON&#146;s earnings over the remainder of the lifespan of affected policies. Consequently, AEGON expects no significant impact on its 2009
+income statement as it has adequate provisions. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The final agreement is the result of several months of negotiations between AEGON and organizations in the
+Netherlands representing the interests of customers. These organizations will be involved in supervising the implementation of the agreement. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;We are
+pleased to have reached a good agreement for our customers&#148;, said Marco Keim, member of AEGON&#146;s Management Board. &#147;The Dutch Financial Service Ombudsman has examined the AEGON agreement and confirmed that it is fully in line with his
+Recommendation and consistent with prior agreements of other insurance companies&#148;. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Before this agreement, AEGON had made substantial improvements by
+reducing costs and premiums for its unit-linked insurance products in the Netherlands. These previous improvements, introduced over a number of years, are valued at approximately EUR 380&nbsp;million before tax. AEGON&#146;s unit-linked portfolio
+consists of 1.3&nbsp;million policies, of which 50% have a guaranteed minimum return. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P
+STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">20090713 </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">About AEGON
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">As an international life insurance, pension and investment company based in The Hague, AEGON has businesses in over twenty markets in the Americas, Europe and Asia. AEGON companies employ just over 31,000 people and
+have over 40&nbsp;million customers across the globe. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="68%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:39pt"><FONT FACE="Times New Roman" SIZE="1"><B>Key figures</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>First&nbsp;quarter&nbsp;2009</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Full&nbsp;year&nbsp;2008</B></FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Underlying earnings before tax</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR&nbsp;(22)&nbsp;million</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR&nbsp;1.57&nbsp;billion</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">New life sales</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR&nbsp;543&nbsp;million</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR 2.63 billion</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Gross deposits</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR 8.2 billion</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR&nbsp;40.75&nbsp;billion</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Revenue generating investments <I>(End of period)</I></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR 334 billion</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">EUR 332 billion</FONT></TD></TR>
+</TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>For further information:</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2"><B>Communications AEGON The Netherlands</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2"><B>Investor relations</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Debora de Laaf</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Gerbrand Nijman</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">+ 31 (0)70 344 8730 / +31(0)6 1133 1501</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">+ 31 (0)70 &#150; 344 8305 or 877 548 9668 &#150; toll free USA only</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">E-mail: <U>ddelaaf@aegon.nl</U></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">E-mail: <U>ir@aegon.com</U></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Media relations AEGON N.V. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Dick Schiethart </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">+ 31 (0)70 &#150; 344 8956 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">E-mail: <U>gcc-ir@aegon.com</U> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Website </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B><U>www.aegon.com</U> </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Local knowledge. Global
+power.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 2 of 3</B></FONT></P></TD></TR>
+</TABLE>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Disclaimer
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><U>Forward-looking statements </U></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The statements contained in this press release that are not historical facts are
+forward-looking statements as defined in the US Private Securities Litigation Reform Act of 1995. The following are words that identify such forward-looking statements: believe, estimate, target, intend, may, expect, anticipate, predict, project,
+counting on, plan, continue, want, forecast, should, would, is confident, will, and similar expressions as they relate to our company. These statements are not guarantees of future performance and involve risks, uncertainties and assumptions that
+are difficult to predict. We undertake no obligation to publicly update or revise any forward-looking statements. Readers are cautioned not to place undue reliance on these forward-looking statements, which merely reflect company expectations at the
+time of writing. Actual results may differ materially from expectations conveyed in forward-looking statements due to changes caused by various risks and uncertainties. Such risks and uncertainties include but are not limited to the following:
+</FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes in general economic conditions, particularly in the United States, the Netherlands and the United Kingdom; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes in the performance of financial markets, including emerging markets, such as with regard to: </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The frequency and severity of defaults by issuers in our fixed income investment portfolios; and </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The effects of corporate bankruptcies and/or accounting restatements on the financial markets and the resulting decline in the value of equity and debt securities
+we hold; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The frequency and severity of insured loss events; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes affecting mortality, morbidity and other factors that may impact the profitability of our insurance products; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes affecting interest rate levels and continuing low or rapidly changing interest rate levels; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes affecting currency exchange rates, in particular the EUR/USD and EUR/GBP exchange rates; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Increasing levels of competition in the United States, the Netherlands, the United Kingdom and emerging markets; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes in laws and regulations, particularly those affecting our operations, the products we sell, and the attractiveness of certain products to our consumers;
+</FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Regulatory changes relating to the insurance industry in the jurisdictions in which we operate; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Acts of God, acts of terrorism, acts of war and pandemics; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Changes in the policies of central banks and/or governments; </FONT></P></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Litigation or regulatory action that could require us to pay significant damages or change the way we do business; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Customer responsiveness to both new products and distribution channels; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Competitive, legal, regulatory, or tax changes that affect the distribution cost of or demand for our products; </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">Our failure to achieve anticipated levels of earnings or operational efficiencies as well as other cost saving initiatives; and </FONT></P></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="3%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">&#149;</FONT></TD>
+<TD WIDTH="1%" VALIGN="top"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">The impact our adoption of the International Financial Reporting Standards may have on our reported financial results and financial condition.
+</FONT></P></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Further details of potential risks and uncertainties affecting the company are described in the company&#146;s filings with Euronext
+Amsterdam and the US Securities and Exchange Commission, including the Annual Report on Form 20-F. These forward-looking statements speak only as of the date of this document. Except as required by any applicable law or regulation, the company
+expressly disclaims any obligation or undertaking to release publicly any updates or revisions to any forward-looking statements contained herein to reflect any change in the company&#146;s expectations with regard thereto or any change in events,
+conditions or circumstances on which any such statement is based. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Local knowledge. Global
+power.&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Page 3 of 3</B></FONT></P></TD></TR>
+</TABLE>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g29207img001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g29207img001.jpg
+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
+$Y=?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

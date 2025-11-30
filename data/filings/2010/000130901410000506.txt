@@ -1,0 +1,1310 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O+4XqXfWYUXhXmwm5AD26+iCxfcYbkVirjg5IQDiKMBHzx4lRN5FDNtjbD9dVljI
+ GBK71Kpw2NeORN6OKLnf0g==
+
+<SEC-DOCUMENT>0001309014-10-000506.txt : 20100729
+<SEC-HEADER>0001309014-10-000506.hdr.sgml : 20100729
+<ACCEPTANCE-DATETIME>20100729161536
+ACCESSION NUMBER:		0001309014-10-000506
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100729
+FILED AS OF DATE:		20100729
+DATE AS OF CHANGE:		20100729
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ballard Power Systems Inc.
+		CENTRAL INDEX KEY:			0001453015
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRICAL INDUSTRIAL APPARATUS [3620]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-53543
+		FILM NUMBER:		10978054
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+		BUSINESS PHONE:		206-903-8850
+
+	MAIL ADDRESS:	
+		STREET 1:		9000 GLENLYON PARKWAY
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5J 5J8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	7076991 Canada Inc.
+		DATE OF NAME CHANGE:	20090102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>htm_5194.htm
+<DESCRIPTION>LIVE FILING
+<TEXT>
+<!-- HTML Header Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Ballard Power Systems Inc.&nbsp;-&nbsp;Form&nbsp;6-K
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page --><!-- Cover Page Header -->
+<BODY bgcolor=white text=black>
+<HR NOSHADE>
+<A NAME="DOCUMENT_TOP">&nbsp;</A>
+<P align="center">
+<FONT size="+1"><B>
+UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION<BR>
+Washington, D.C. 20549</B>
+</P>
+
+<P>
+<CENTER>
+<FONT SIZE="+2" FACE="Arial"><B>FORM 6-K</B></FONT><BR>
+
+</CENTER>
+</P>
+
+<P>
+<CENTER>
+<FONT size="+1">
+REPORT OF FOREIGN PRIVATE ISSUER<BR>PURSUANT TO RULE 13a-16 OR 15d-16<BR>UNDER THE SECURITIES EXCHANGE ACT OF 1934
+</FONT>
+</CENTER>
+</P>
+<P>
+<CENTER>
+July 29, 2010
+</CENTER>
+</P>
+<P>
+<CENTER>
+Commission File Number: 000-25270
+</CENTER>
+</P>
+<!-- End Cover Page Header -->
+<!-- Cover Page Registrant -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="+2"><B>Ballard Power Systems Inc.</B></FONT><BR>
+	<FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	<FONT SIZE="-1">(Translation of registrant&#146;s name into English)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+<TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT FACE="Courier" SIZE="+0">Canada</FONT><BR><FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT></TD></TR><TR><TD VALIGN="CENTER" ALIGN="CENTER" WIDTH="100%" COLSPAN="5"><FONT SIZE="-1">(Jurisdiction of incorporation or organization)</FONT></TD></TR><TR><TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">&nbsp;</TD></TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+      <FONT FACE="Courier" SIZE="+0">9000 Glenlyon Parkway<br>Burnaby, BC<br>V5J 5J8<br>Canada</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+        <FONT SIZE="-7">&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;</FONT><BR>
+	    <FONT SIZE="-1">(Address of principal executive office)</FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="CENTER" WIDTH="100%" COLSPAN="5">
+	&nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Cover Page Registrant -->
+<!-- Checkboxes Page -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%" COLSPAN="5">
+	Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Form 20-F&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;Form 40-F
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        Indicate by check mark whether the registrant by furnishing the information contained in this Form is also thereby furnishing the information to the Commission pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934:&nbsp;&nbsp;[<FONT FACE="Courier">&nbsp;</FONT>]&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;[<FONT FACE="Courier">x</FONT>]&nbsp;No
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" COLSPAN="5" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        If "Yes" is marked, indicate below the file number assigned to the registrant in connection with Rule 12g3-2(b):&nbsp;&nbsp;&nbsp;<FONT FACE="Courier"><U>&nbsp;n/a&nbsp;</U></FONT>
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+        &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Checkboxes Page -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Report Page -->
+<FONT SIZE="3">
+<PRE>
+
+</PRE>
+</FONT>
+<!-- End Report Page -->
+<!-- Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+ <!-- Page Break  -->
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End Page Break -->
+<!-- Signatures Page Header -->
+<FONT SIZE="+1">
+<CENTER>
+<B>SIGNATURES</B>
+</CENTER>
+</FONT>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="100%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Header -->
+<!-- Signatures Page Details -->
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="100%">
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Ballard Power Systems Inc.
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="40%">
+       Date: July 29, 2010
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="4%%">
+       By:
+    </TD>
+    <TD VALIGN="TOP" ALIGN="LEFT" WIDTH="56%">
+       Tony Guglielmin<BR><HR WIDTH="30%" NOSHADE>
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Name:&nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Tony Guglielmin
+    </TD>
+  </TR>
+
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       Title:
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       Chief Financial Officer
+    </TD>
+  </TR>
+  <TR>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="40%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="4%%">
+       &nbsp;
+    </TD>
+    <TD VALIGN="BOTTOM" ALIGN="LEFT" WIDTH="56%">
+       &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End Signatures Page Details -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- Exhibit Index Header Page -->
+<CENTER>
+<FONT SIZE="+1"><B>
+EXHIBIT&nbsp;INDEX
+</B></FONT>
+</CENTER>
+<BR>
+<CENTER>
+<TABLE CELLSPACING="0" BORDER="0" CELLPADDING="0" WIDTH="60%">
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="LEFT" WIDTH="8%">
+      <FONT SIZE="-1"><B>Exhibit No.</B></FONT>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="LEFT" WIDTH="77%">
+      <FONT SIZE="-1"><B>Description</B></FONT>
+    </TD>
+  </TR>
+  <TR VALIGN="BOTTOM">
+    <TD NOWRAP ALIGN="CENTER" WIDTH="8%">
+      <HR SIZE="1" NOSHADE>
+    </TD>
+    <TD WIDTH="15%">
+      &nbsp;
+    </TD>
+    <TD NOWRAP ALIGN="CENTER" WIDTH="77%">
+      <HR ALIGN="LEFT" SIZE="1" WIDTH="88%" NOSHADE>
+    </TD>
+  </TR>
+<!-- Exhibit Index Header Page -->
+<!-- Exhibit Index Item -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      <FONT SIZE="-1">99.1<FONT>
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      <FONT SIZE="2">Ballard Reports Second Quarter 2010 Results</FONT>
+    </TD>
+  </TR>
+<!-- End Exhibit Index Item -->
+<!-- ExhibitIndexFooter -->
+  <TR VALIGN="BOTTOM">
+    <TD VALIGN="TOP" WIDTH="8%" nowrap>
+      &nbsp;
+    </TD>
+    <TD WIDTH="15%">
+       &nbsp;
+    </TD>
+    <TD ALIGN="LEFT" VALIGN="TOP" WIDTH="77%">
+      &nbsp;
+    </TD>
+  </TR>
+</TABLE>
+<!-- End ExhibitIndexFooter -->
+<!-- HR Page Break  -->
+<HR NOSHADE>
+<DIV ALIGN="LEFT" STYLE="PAGE-BREAK-BEFORE:ALWAYS">
+<!-- End HR Page Break --><!-- HTML Footer Page -->
+</BODY>
+</HTML>
+<!-- End HTML Footer Page -->
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit1.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!-- ExhibitContentHeader Page -->
+<HTML>
+<HEAD>
+<TITLE>
+Exhibit&nbsp;&nbsp;EX-99.1
+</TITLE>
+</HEAD>
+<!-- End HTML Header Page -->
+<!-- ExhibitContentPage -->
+
+<BODY style="font-family: 'Times New Roman',Times,serif">
+
+
+<P align="left" style="font-size: 10pt"><FONT style="font-size: 10pt">Ballard Power Systems Inc.
+</FONT>
+
+<P align="left" style="font-size: 10pt">News Release
+
+
+<P align="left" style="font-size: 10pt"><B>Ballard Reports Second Quarter 2010 Results</B>
+
+
+<P align="left" style="font-size: 10pt"><B>For Immediate Release &#150; July&nbsp;28, 2010</B>
+
+
+<P align="left" style="font-size: 10pt">VANCOUVER, CANADA&#150; Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) announced its financial results
+for the second quarter ended June&nbsp;30, 2010 today. All amounts are consolidated to include Dantherm
+Power&#146;s results and are in U.S. dollars, unless otherwise noted.
+
+
+<P align="left" style="font-size: 10pt">John Sheridan, President and CEO said &#147;Ballard&#146;s second quarter results are in line with our
+expectations and full-year guidance. Revenue of $15.5&nbsp;million represents growth of 31% over the
+first quarter and 30% on a year-to-date basis. Our operating expense and cash flow improved
+significantly over last year and, in addition, we further augmented cash reserves by $5&nbsp;million in
+July.&#148;
+
+
+<P align="left" style="font-size: 10pt"><U><B>Second Quarter 2010 Highlights</B></U>
+
+
+<P align="left" style="font-size: 10pt"><B>Growth:</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Revenue of $15.5&nbsp;million, for a total of $27.4&nbsp;million on a year-to-date basis,
+representing growth of 19% and 30%, respectively.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Fuel cell product shipments of 651 units, representing growth of 46% over the same
+period last year. Year-to-date fuel cell product shipments of 979 units, representing
+growth of 54% over the same period in 2009.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Twelve-month rolling order book of $31.0&nbsp;million, an increase of $2.0&nbsp;million over the
+previous quarter.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Deployment of Dantherm Power backup power systems in the Wind Mobile telecom network,
+meeting a 2010 growth milestone.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Signing of new supply agreement with Plug Power on July&nbsp;15 through 2014, including
+mutual exclusivity in North America.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Completion of the factory acceptance test of a utility-scale distributed generation
+system for FirstEnergy Generation Corp.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>Profitability:</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Operating expense of $12.2&nbsp;million. Excluding Dantherm Power, operating expense of $10.2
+million represents an improvement of 21% year-over-year, despite the negative impact of a
+14% stronger Canadian dollar.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>EBITDA<sup>1</sup> of ($9.3) million. A year-over-year comparison is not meaningful
+given the one-time gain of $10.8&nbsp;million in 2009 resulting from discontinuation of
+EBARA-Ballard Corporation&#146;s operations.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Net loss of $10.9&nbsp;million or $0.13 per share. Excluding Dantherm Power, net loss is $9.8
+million or $0.12 per share.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Cash flow from operations of ($12.1) million. Excluding Dantherm Power, cash flow from
+operations was ($10.1) million, an improvement of 34% year-over-year. The company notes
+that year-to-date cash flow from operations of ($21.6) million, excluding Dantherm Power,
+includes over $10&nbsp;million in non-trend items, specifically bonuses, severance and inventory
+buildup.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Cash reserves at the end of second quarter of $73.6&nbsp;million. Cash reserves were further
+augmented by $5&nbsp;million on July&nbsp;9, 2010 through the monetization of the remaining tranche
+of Ballard&#146;s Share Purchase Agreement with Ford.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>Guidance:</B>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Ballard expects strong revenue in the second half of the year and reconfirms full-year
+guidance of growth in excess of 35%.</TD>
+</TR>
+
+</TABLE>
+
+
+<P>
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="2%" style="background: transparent">&nbsp;</TD>
+    <TD width="1%" nowrap align="right">&#149;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Ballard continues to expect to achieve its goal of improving cash flow from operations
+by 30% for the full year, excluding the cash flow impact of Dantherm Power and a negative
+foreign exchange impact of approximately $4&nbsp;million. However, timing impacts related to
+working capital requirements in support of increased sales activity in the second half of
+the year could result in increased pressures against this target.</TD>
+</TR>
+
+</TABLE>
+
+
+<P align="left" style="font-size: 10pt"><B>Revenue Breakdown:</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><I>(Millions of U.S. dollars)</I></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Three months ended June 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Six months ended June 30,</B></TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Fuel Cell Products*</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>6.4</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">9.7</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-34</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>11.4</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">13.6</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-16</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Contract Automotive</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>3.0</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">0.9</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;241</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>4.6</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;67</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Material Products</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>6.1</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">2.5</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;140</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>11.4</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">4.8</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;135</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Total Revenue</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>15.5</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">13.1</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;19</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>$</B></TD>
+    <TD align="right"><B>27.4</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">21.2</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;30</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">&#149;&nbsp;The reduction in fuel cell product revenue over prior year is primarily due to $6&nbsp;million bus
+revenue in the second quarter of 2009 for the B.C. Transit 2010 Olympic fuel cell bus program.
+
+
+<P align="left" style="font-size: 10pt"><B>Product Shipments:</B>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="34%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="6%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Three months ended June 30,</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="11" style="border-bottom: 1px solid #000000"><B>Six months ended June 30,</B></TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000"><B>2010</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">2009</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">% Change</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:10px; text-indent:-10px">Fuel Cell Products</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>651</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">445</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;46</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>979</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">635</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;54</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Material Handling</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>428</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">12</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;3,467</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>544</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">19</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD align="right">&#043;2,763</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR valign="bottom" style="font-size: 10pt">
+    <TD><DIV style="margin-left:20px; text-indent:-10px">Backup Power*</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>207</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">423</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-51</TD>
+    <TD nowrap>%</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right"><B>417</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">601</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="right">&nbsp;</TD>
+    <TD nowrap align="right">-31</TD>
+    <TD nowrap>%</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD style="border-top: 1px solid #000000"><DIV style="margin-left:10px; text-indent:-10px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="right" style="border-top: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="left" style="font-size: 10pt">&#149;&nbsp;The reduction in backup power shipments over prior year is primarily due to shipments of 368
+hydrogen-based units to IdaTech, LLC for India.
+
+
+<P align="left" style="font-size: 10pt"><U><B>Endnotes:</B></U>
+<BR>
+<sup>1</sup> EBITDA is a non-GAAP measure used to assist in assessing Ballard&#146;s financial
+performance and liquidity. Non-GAAP measures do not have any standardized meaning prescribed by
+GAAP and are therefore unlikely to be comparable to similar measures presented by other companies.
+EBITDA measures net loss after excluding interest expense, income tax expense, depreciation of
+property, plant and equipment, amortization of intangible assets, and goodwill impairment charges.
+EBITDA includes the impact attributable to Ballard&#146;s controlling interest in Dantherm Power.
+Ballard believes that EBITDA assists investors in assessing actual and future performance. For a
+reconciliation of EBITDA to the Consolidated Financial Statements, please refer to Ballard&#146;s
+Management&#146;s Discussion & Analysis,
+
+
+<P align="left" style="font-size: 10pt"><U><B>Detailed Financial Results</B></U>
+
+
+<P align="left" style="font-size: 10pt"><I>Three months ended June&nbsp;30, 2010</I>
+
+
+<P align="left" style="font-size: 10pt">Revenues for the second quarter of 2010 increased 19%, or $2.5&nbsp;million, to $15.5&nbsp;million, compared
+to $13.1&nbsp;million for the second quarter of 2009. Increases in the supporting Material Products
+segment of $3.6&nbsp;million combined with increases in the Contract Automotive segment of $2.1&nbsp;million
+more than offset declines in the core Fuel Cell Products segment of $3.2&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">In the core Fuel Cell Products business segment, second quarter of 2010 revenues declined 34%, or
+$3.2&nbsp;million, to $6.4&nbsp;million compared to the second quarter of 2009 as fuel cell bus revenues in
+the second quarter of 2009 were positively impacted by shipments for the B.C. Transit 2010 Olympic
+fuel cell bus program of $6.0&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">Higher material handling revenues as a result of increased shipments to support Plug Power Inc.&#146;s
+GenDrive&#153; systems and consistent sales in the backup power market to IdaTech, LLC were offset by
+lower fuel cell bus revenues and lower backup power revenues related to work performed on the
+FirstEnergy distributed power generator project.
+
+
+<P align="left" style="font-size: 10pt">In the supporting Contract Automotive and Material Products business segments, second quarter of
+2010 revenues increased 166%, or $5.7&nbsp;million, to $9.1&nbsp;million compared to the first quarter of
+2009. Improvements in the Contract Automotive segment of $2.1&nbsp;million were as a result of increased
+shipments of light duty automotive products in support of Daimler AG&#146;s Highway 2/3 programs.
+Improvements in the Material Products segment of $3.6&nbsp;million represents increased volumes of
+carbon friction material products related to the recovery in the U.S. automotive sector in 2010 as
+compared to 2009.
+
+
+<P align="left" style="font-size: 10pt">EBITDA<sup>1</sup> for the second quarter of 2010 declined by $12.9&nbsp;million, to ($9.3) million,
+compared to $3.6&nbsp;million, in the second quarter of 2009. EBITDA, excluding the impact related to
+Ballard&#146;s controlling ownership interest in Dantherm Power of ($1.0) million, declined $11.9
+million to ($8.3) million.
+
+
+<P align="left" style="font-size: 10pt">EBITDA in the second quarter of 2009 was positively impacted by a non-cash gain of $10.8&nbsp;million
+related to Ballard&#146;s decision to discontinue operations in EBARA Ballard Corporation (&#147;EBARA
+BALLARD&#148;) on May&nbsp;24, 2009. EBARA BALLARD was a joint venture with EBARA Corporation (&#147;Ebara&#148;) that
+was focused on the development, manufacture, sale, and servicing of stationary power systems for
+the residential cogeneration market in Japan. Excluding the impact of this 2009 non-cash gain and
+excluding the impact of Dantherm Power in 2010, EBITDA declined by $1.1&nbsp;million, to ($8.3) million
+in the second quarter of 2010, compared to ($7.2) million in the second quarter of 2009. The $1.1
+million decline was driven by lower investment and other income of $3.2&nbsp;million and declines in
+gross margins of $0.8&nbsp;million which more than offset reductions in operating expenses of $2.7
+million (excluding depreciation and amortization, and restructuring and related charges). The $2.7
+million, or 21%, reduction in operating expenses was primarily a result of Ballard&#146;s 2009 workforce
+reduction and cost optimization initiatives which were partially offset by the negative effects in
+2010 of a 14% stronger Canadian dollar, relative to the U.S. dollar.
+
+
+<P align="left" style="font-size: 10pt">Net income (loss)&nbsp;attributable to Ballard for the second quarter of 2010 decreased by $12.4
+million, to ($10.9) million, or ($0.13) per share, compared with net income of $1.6&nbsp;million, or
+$0.02 per
+
+
+<P align="left" style="font-size: 10pt">share, in the second quarter of 2009. The second quarter net income in 2009 was positively impacted
+by a non-cash gain of $10.8&nbsp;million related to Ballard&#146;s decision to discontinue operations in
+EBARA BALLARD whereas net loss attributable to Ballard for the second quarter of 2010 includes the
+negative impact of Ballard&#146;s controlling interest in Dantherm Power of $1.0&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">Cash used in operating activities in the second quarter of 2010 declined by $3.2&nbsp;million to $12.1
+million, compared to $15.3&nbsp;million for the second quarter of 2009. Cash used in operating
+activities, excluding the negative impact of Dantherm Power of $2.0&nbsp;million, declined by $5.2
+million to $10.1&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">The lower cash used in operating activities of $5.2&nbsp;million, excluding the results of Dantherm
+Power, was primarily a result of reduced working capital requirements of $5.0&nbsp;million as
+improvements as a result of the timing of revenues and customer collections more than offset the
+negative impact as a result of the continued buildup of inventory in 2010 to support expected
+shipments in the last half of the year.
+
+
+<P align="left" style="font-size: 10pt">The cash used in operating activities of Dantherm Power of $2.0&nbsp;million in the second quarter of
+2010 was driven by delays in Danish government funding, the timing of revenue and customer
+collections, and costs of development work on the new 5 kW direct hydrogen backup system. The
+negative cash flow in Dantherm Power is expected to be markedly less in the last half of 2010.
+
+
+<P align="left" style="font-size: 10pt"><I>Six months ended June&nbsp;30, 2010</I>
+
+
+<P align="left" style="font-size: 10pt">Revenues for the six months ended June&nbsp;30, 2010 increased 30%, or $6.3&nbsp;million, to $27.4&nbsp;million,
+compared to $21.2&nbsp;million for the corresponding period of 2009. Increases in the supporting
+Material Products segment of $6.5&nbsp;million combined with increases in the Contract Automotive
+segment of $1.9&nbsp;million, more than offset declines in the core Fuel Cell Products segment of $2.2
+million.
+
+
+<P align="left" style="font-size: 10pt">In the core Fuel Cell Products business segment, first half of 2010 revenues declined 16%, or $2.2
+million, to $11.4&nbsp;million compared to the second quarter of 2009. Higher material handling revenues
+as a result of increased shipments to support Plug Power Inc.&#146;s GenDrive&#153; systems and increased
+sales in the backup power market to IdaTech, LLC were offset by lower fuel cell bus revenues and
+lower backup power revenues related to work performed on the FirstEnergy distributed power
+generator project. Fuel cell bus revenues in the first half of 2009 were positively impacted by
+shipments for the B.C. Transit 2010 Olympic fuel cell bus program of $6.0&nbsp;million. Revenues in the
+second quarter of 2010 were positively impacted by the consolidation of Dantherm Power&#146;s operating
+results which contributed $1.1&nbsp;million of revenue.
+
+
+<P align="left" style="font-size: 10pt">In the supporting Contract Automotive and Material Products business segments, first half of 2010
+revenues increased 111%, or $8.4&nbsp;million, to $16.0&nbsp;million compared to the first half of 2009.
+Improvements in the Contract Automotive segment of $1.9&nbsp;million were as a result of increased
+shipments of light duty automotive products in support of Daimler AG&#146;s Highway 2/3 programs
+partially offset by lower automotive testing and engineering services provided to AFCC.
+
+
+<P align="left" style="font-size: 10pt">Improvements in the Material Products segment of $6.5&nbsp;million represents increased volumes of
+carbon friction material products related to the recovery in the U.S. automotive sector in 2010 as
+compared to 2009.
+
+
+<P align="left" style="font-size: 10pt">EBITDA<sup>1 </sup>for the six months ended June&nbsp;30, 2010 declined by $4.0&nbsp;million, to ($17.9)
+million, compared to ($13.8) million, in the corresponding period of 2009. EBITDA, excluding the
+impact related to Ballard&#146;s controlling ownership interest in Dantherm Power of ($2.0) million,
+declined $2.1&nbsp;million to ($15.9) million.
+
+
+<P align="left" style="font-size: 10pt">EBITDA in the first half of 2009 was positively impacted by a net gain on discontinuance of
+operations in EBARA BALLARD of $7.9&nbsp;million. Excluding the impact of this 2009 non-cash gain and
+excluding the impact of Dantherm Power in 2010, EBITDA improved by $5.9&nbsp;million, or 27%, to ($15.9)
+million in the first half of 2010, compared to ($21.8) million in the first half of 2009. The $5.9
+million improvement was driven by lower operating expenses of $5.9&nbsp;million (excluding depreciation
+and amortization, and restructuring and related charges). Declines in investment and other income
+of $1.7&nbsp;million were offset by restructuring and related expenses in 2009 of $1.4&nbsp;million relating
+to the 7% workforce reduction initiated in March&nbsp;2009. The $5.9&nbsp;million, or 23%, reduction in
+operating expenses was primarily a result of Ballard&#146;s 2009 workforce reduction and cost
+optimization initiatives which were partially offset by the negative effects in 2010 of a 17%
+stronger Canadian dollar, relative to the U.S. dollar.
+
+
+<P align="left" style="font-size: 10pt">Net loss attributable to Ballard for the six months ended June&nbsp;30, 2010 increased by $3.4&nbsp;million,
+to ($20.9) million, or ($0.25) per share, compared to ($17.5) million, or ($0.21) per share, in the
+corresponding period of 2009.
+
+
+<P align="left" style="font-size: 10pt">Net loss in 2009 was positively impacted by a net non-cash gain of $7.9&nbsp;million related to the
+decision to discontinue operations in EBARA BALLARD whereas net loss attributable to Ballard in
+2010 includes the negative impact of Ballard&#146;s controlling interest in Dantherm Power of $2.1
+million.
+
+
+<P align="left" style="font-size: 10pt">Cash used in operating activities in the six months ended June&nbsp;30, 2010 increased by $2.4&nbsp;million
+to $26.4&nbsp;million, compared to $23.9&nbsp;million for the corresponding period of 2009. Cash used in
+operating activities, excluding the negative impact of Dantherm Power of $4.7&nbsp;million, declined by
+$2.3&nbsp;million to $21.6&nbsp;million.
+
+
+<P align="left" style="font-size: 10pt">The reduced cash used in operating activities in 2010 of $2.3&nbsp;million, excluding the results of
+Dantherm Power, was driven by lower cash operating losses of $6.4&nbsp;million as a result of lower
+operating expenses and higher gross margins, partially offset by increased working capital
+requirements of $4.1&nbsp;million primarily as a result of the continued buildup of inventory in 2010 to
+support expected shipments in the last half of the year.
+
+
+<P align="left" style="font-size: 10pt">The cash used in operating activities of Dantherm Power of $4.7&nbsp;million in the six months ended
+June&nbsp;30, 2010 was driven by delays in Danish government funding, the timing of revenue and customer
+collections, and costs of development work on the new 5 kW direct hydrogen backup system.
+
+
+<P align="left" style="font-size: 10pt">For a more detailed discussion of Ballard Power Systems&#146; second quarter 2010 results, please see
+the company&#146;s financial statements and management&#146;s discussion & analysis, which are available at
+www.ballard.com, www.sedar.com and www.sec.gov/edgar.shtml.
+
+
+<P align="left" style="font-size: 10pt"><U><B>Conference Call</B></U>
+<BR>
+Ballard will hold a conference call on Thursday, July&nbsp;29, 2010 at 8:00 a.m. PST (11:00&nbsp;a.m. EST) to
+review second quarter 2010 operating results. The live call can be accessed by calling
+&#043;1.604.638.5340. Alternatively, a live audio webcast can be accessed through a link on Ballard&#146;s
+homepage (www.ballard.com). Following the call, the audio webcasts will be archived in the Investor
+Events & Conference Calls section of Ballard&#146;s website.
+
+
+<P align="left" style="font-size: 10pt"><U><B>About Ballard Power Systems</B></U>
+<BR>
+Ballard Power Systems (TSX: BLD; NASDAQ: BLDP) provides clean energy fuel cell products enabling
+optimized power systems for a range of applications. To learn more about Ballard, please visit
+www.ballard.com.
+
+
+<P align="left" style="font-size: 10pt">This release contains forward-looking statements, including estimated&nbsp;revenue and cash flow from
+operations, which are provided to enable external stakeholders to understand Ballard&#146;s
+expectations&nbsp;as at the date of this release and may not be appropriate for other purposes. These
+forward-looking statements are based on the beliefs and assumptions of Ballard&#146;s management and
+reflect Ballard&#146;s current expectations as contemplated under section 27A of the Securities Act of
+1933, as amended, and Section&nbsp;21E of the Securities Exchange Act of 1934, as amended. Such
+assumptions relate to Ballard&#146;s financial forecasts and expectations regarding its product
+development efforts, manufacturing capacity, and market demand, and include matters such as
+generating new sales, producing, delivering and selling the expected number of units, and
+controlling its costs. These statements involve risks and uncertainties that may cause Ballard&#146;s
+actual results to be materially different, including, without limitation, the condition of the
+global economy, the rate of mass adoption of its products, product development delays, changing
+environmental regulations, its ability to attract and retain business partners and customers, its
+access to funding, increased competition, its ability to protect its intellectual property,
+changes in its customers&#146; requirements, foreign exchange impacts on its net monetary assets and
+its ability to provide the capital required for product development, operations and marketing. For
+a detailed discussion of these risk factors and other risk factors that could affect Ballard&#146;s
+future performance, please refer to Ballard&#146;s most recent Annual Information Form. Readers should
+not place undue reliance on Ballard&#146;s forward-looking statements and Ballard assumes no obligation
+to update or release any revisions to these forward looking statements, other than as required
+under applicable legislation.
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="95%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="46%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="21%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="23%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 10pt" valign="bottom">
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000"><B>Further Information</B></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="font-size: 10pt">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Investor Relations: Lori Rozali<BR>
+&#043;1.604.412.3195<BR>
+investors@ballard.com
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Public Relations:
+</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Guy McAree<BR>
+&#043;1.604.412.7919<BR>
+media@ballard.com</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt; display: none">
+
+
+
+
+<!-- v.121908 -->
+</BODY>
+
+<!-- End ExhibitContentPage -->
+<!-- ExhibitContentFooter Page -->
+</HTML>
+<!-- ExhibitContentFooter Page -->
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

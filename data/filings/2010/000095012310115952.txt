@@ -1,0 +1,705 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HxdgMj/OQA3NZykZM2uooRuTduZc51BaCG6zhmWdEnG7XqvssRvv2rIWzhywRZGD
+ 4gsfEYoVFROjYJ4lZqVG9w==
+
+<SEC-DOCUMENT>0000950123-10-115952.txt : 20101223
+<SEC-HEADER>0000950123-10-115952.hdr.sgml : 20101223
+<ACCEPTANCE-DATETIME>20101222204936
+ACCESSION NUMBER:		0000950123-10-115952
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101222
+FILED AS OF DATE:		20101223
+DATE AS OF CHANGE:		20101222
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		101270277
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o67494e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>REPORT OF FOREIGN ISSUER<BR>
+Pursuant to Section&nbsp;13a-16 or 15d-16 of the<BR>
+Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>For the month of December, 2010</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission File Number: 001-14460</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Name of registrant)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<B>13131 Lake Fraser Drive S.E., Calgary, Alberta, Canada T2J 7E8</B><BR>
+
+(Address of principal executive offices)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#168;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><B>Note</B>: Regulation&nbsp;S-T Rule&nbsp;101(b)(1) only permits the submission in paper of a Form 6-K if submitted
+solely to provide an attached annual report to security holders.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#168;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><B>Note: </B>Regulation&nbsp;S-T Rule&nbsp;101(b)(7) only permits the submission in paper of a Form 6-K if submitted
+to furnish a report or other document that the registrant foreign private issuer must furnish and
+make public under the laws of the jurisdiction in which the registrant is incorporated, domiciled
+or legally organized (the registrant&#146;s &#147;home country&#148;), or under the rules of the home country
+exchange on which the registrant&#146;s securities are traded, as long as the report or other document
+is not a press release, is not required to be and has not been distributed to the registrant&#146;s
+security holders, and, if discussing a material event, has already been the subject of a Form 6-K
+submission or other Commission filing on EDGAR.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the Commission pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934.</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Yes&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#168;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">No&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If &#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in connection
+with Rule&nbsp;12g3-2(b): N/A
+</DIV>
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><FONT style="FONT-variant: SMALL-CAPS"><B>Agrium Inc</B></FONT><B>.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: December 22, 2010&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Gary J. Daniel
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary &#038; Senior
+Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="84%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">Material Change Report, dated December&nbsp;22, 2010</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>o67494exv1.htm
+<DESCRIPTION>EX-1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Exhibit 1</B>
+</DIV>
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>FORM 51-102F3<BR>
+MATERIAL CHANGE REPORT</B>
+</DIV>
+
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>1.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Name and Address of Company:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Agrium Inc. (&#147;<B>Agrium</B>&#148;)<BR>
+13131 Lake Fraser Drive S.E.<BR>
+Calgary, Alberta T2J 7E8</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>Certain statements in this Material Change Report constitute forward-looking
+statements. Readers should refer to the cautionary notice regarding forward-looking
+statements that appears at the end of this report.</I></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>2.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Date of Material Change:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>December&nbsp;15, 2010</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>3.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>News Release:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>A news release disclosing the material change was issued through the facilities of
+Marketwire Canada on December&nbsp;15, 2010.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>4.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Summary of Material Change:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Agrium announced the entering into a definitive agreement to sell a majority of the
+commodity management businesses of AWB Limited (&#147;<B>AWB</B>&#148;), an Australian corporation which was
+recently acquired by Agrium.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>5.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Full Description of Material Change:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Unless the context otherwise requires, all references in this Material Change Report to
+&#147;Agrium&#148;, &#147;we&#148;, &#147;us&#148; or &#147;our&#148; means Agrium Inc. and its consolidated subsidiaries (including
+AWB and its subsidiaries), Agrium Inc.&#146;s proportionate share of joint ventures, including
+through its 50&nbsp;percent ownership interest in Profertil S.A., and any partnership of which
+Agrium Inc. and its subsidiaries are the partners including &#147;Agrium&#148;, our wholly-owned
+Alberta general partnership.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>All amounts in this Material Change Report are stated in Australian Dollars (A$) unless
+stated otherwise.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>On December&nbsp;15, 2010, we announced that a definitive agreement (the &#147;<B>Agreement</B>&#148;) had been
+reached with Cargill, Incorporation (&#147;<B>Cargill</B>&#148;), pursuant to which Cargill had agreed to
+acquire a majority of the commodity management businesses of AWB. The purchase price to be
+paid by Cargill will be the net asset value of the acquired businesses as at the completion
+date of the transaction plus a premium. The purchase price will be payable in cash and by
+Cargill assuming AWB&#146;s consolidated indebtedness related to the acquired businesses. We
+anticipate that the sale to Cargill will be completed in the first half of 2011.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>If the transaction had occurred and the purchase price had been determined on the basis of
+the net asset value of the acquired businesses as at September&nbsp;30, 2010, we estimate that
+the aggregate of the net proceeds from the sale of the acquired businesses to Cargill,
+together with the release of working capital from AWB Harvest Finance Ltd. (&#147;<B>Harvest
+Finance</B>&#148;), a finance company that supports the commodity management businesses of AWB, would
+have been approximately A$870-million. We are continuing to evaluate the disposition of
+certain other businesses that form part of the commodity management business that is not
+being acquired by Cargill. We estimate the value of these additional businesses to be
+approximately A$55-million which, combined with the estimated net proceeds from the sale of
+the acquired businesses to Cargill and the release of working capital from Harvest Finance,
+represents a total estimated</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 9pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+<TR valign="top" style="font-size: 10pt; color: #textcolor#; background: #bgcolor#">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>value of A$925-million for the commodity management businesses that we have agreed to, or
+intend to, divest. Of this total, approximately A$240-million would represent indebtedness
+assumed by Cargill related to the acquired businesses.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Completion of the disposition of the commodity management businesses of AWB to Cargill is
+subject to customary closing and other conditions, including the receipt of all required
+regulatory approvals.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>6.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Reliance on Subsection 7.1(2) or (3)&nbsp;of National Instrument 51-102:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>7.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Omitted Information:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Not applicable.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>8.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Executive Officer:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Bruce G. Waterman, Senior Vice President, Finance &#038; Chief Financial Officer may be reached
+at 13131 Lake Fraser Drive S.E., Calgary, Alberta, T2J 7E8, or by phone at (403)&nbsp;225-7000.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>9.</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><B>Date of Report:</B></TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>December&nbsp;22, 2010</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B><I>Cautionary Notice Regarding Forward Looking Statements</I></B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><I>Certain statements and other information included in this Material Change Report constitute
+&#147;forward-looking statements&#148; (within the meaning of the United States Private Securities Litigation
+Reform Act of 1995, Section&nbsp;21E of the United States Securities Exchange Act of 1934, as amended,
+and Section&nbsp;27A of the United States Securities Act of 1933, as amended), or &#147;forward-looking
+information&#148; (within the meaning of applicable Canadian securities legislation). Such statements or
+information (together, &#147;</I><B><I>forward-looking statements</I></B><I>&#148;) are generally identifiable by the words
+&#147;believe&#148;, &#147;expect&#148;, &#147;anticipate&#148;, &#147;intend&#148;, &#147;estimate&#148;, &#147;outlook&#148;, &#147;focus&#148;, &#147;potential&#148;, &#147;will&#148;,
+&#147;should&#148;, &#147;would&#148; and &#147;could&#148; and other similar expressions. These forward-looking statements
+include, but are not limited to, references to our future results and plans and the expected
+proceeds from the sale of the commodity management businesses of AWB and the release of working
+capital from Harvest Finance; the expected timing of the completion of the sale of the commodity
+management businesses of AWB to Cargill; the estimated value of the additional businesses of AWB
+that are not being sold to Cargill and our intentions relating thereto; the estimated indebtedness
+being assumed by Cargill related to the businesses being acquired; and various other actions to be
+taken in connection with the sale of the commodity management businesses of AWB to Cargill.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><I>Such forward-looking statements involve known and unknown risks and uncertainties, including those
+referred to in this Material Change Report, which may cause our actual results, performance or
+achievements to be materially different from any future results, performance or achievements
+expressed or implied by such forward-looking statements. These risks and uncertainties include, but
+are not limited to:</I>
+</DIV>
+
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>our inability to complete the sale of the commodity management businesses of AWB to Cargill
+on the terms, and within the time period, described in this Material Change Report or at all;</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>the purchase price ultimately paid by Cargill will be based on the net asset value of the
+businesses at the completion time of the transaction, which may be less than the net asset
+value of the businesses as at September&nbsp;30, 2010 as described in this Material Change Report;</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>our intentions with respect to the other commodity management businesses of AWB that are
+not being sold to Cargill and our estimate of value thereof;</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->- 2 -<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 9pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>the expected timing of the completion of the sale of the commodity management businesses of
+AWB to Cargill and the release of working capital from Harvest Finance; and</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 9pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left"><B>&#149;</B></TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD><I>other factors described in our management&#146;s discussion and analysis for the year ended
+December&nbsp;31, 2009 and for the three and nine month periods ended September&nbsp;30, 2010, in each
+case under the headings &#147;Business Risks&#148; and &#147;Outlook, Key Risks and Uncertainties&#148;.</I></TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><I>These forward-looking statements are based on certain assumptions and analyses made by us in light
+of our experience and perception of historical trends, current conditions and expected future
+developments as well as other factors we believe are appropriate in the circumstances.</I>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><I>All of the forward-looking statements contained in this Material Change Report are qualified by
+these cautionary statements and by the assumptions that are stated or inherent in such
+forward-looking statements. Although we believe these assumptions are reasonable, this list is not
+exhaustive of the factors that may affect any of our forward-looking statements and undue reliance
+should not be placed on these assumptions and such forward-looking statements. Except as required
+by law, we undertake no obligation to update or revise forward-looking statements even if
+circumstances or management&#146;s estimates or opinions should change. Investors should not place undue
+reliance on forward-looking statements.</I>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->- 3 -&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

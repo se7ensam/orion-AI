@@ -7,8 +7,10 @@ import path from 'path';
 export const HEADERS = { 'User-Agent': 'sambitsrcm@gmail.com' } as const;
 export const SUBMISSION_URL = 'https://data.sec.gov/submissions/CIK{cik}.json';
 export const ARCHIVE_BASE = 'https://www.sec.gov/Archives/edgar/data';
-export const SEC_RATE_LIMIT = 10; // requests per second
-export const MIN_INTERVAL = 1000 / SEC_RATE_LIMIT; // 100ms between requests
+export const SEC_RATE_LIMIT = 10; // requests per second (SEC limit)
+// Use 9.5 to be safe and avoid 429 errors
+export const ACTUAL_RATE_LIMIT = 9.5; // requests per second (slightly under limit for safety)
+export const MIN_INTERVAL = 1000 / ACTUAL_RATE_LIMIT; // ~105ms between requests
 
 /**
  * Get the data directory from environment or use default
@@ -21,7 +23,7 @@ export function getDataDir(): string {
  * Get the download root directory for filings
  */
 export function getDownloadRoot(): string {
-    return path.join(getDataDir(), 'edgar_filings');
+    return path.join(getDataDir(), 'filings');
 }
 
 /**

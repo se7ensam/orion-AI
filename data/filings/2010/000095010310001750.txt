@@ -1,0 +1,1988 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ T/7ssEWxE8kkBrAvaiwd3wpA7p2PuFiTWrAOhb2aaO/sbs28211a2Lz2zbk1fbYJ
+ Mye6JzwQ0QdWt+N2BNXRJQ==
+
+<SEC-DOCUMENT>0000950103-10-001750.txt : 20100611
+<SEC-HEADER>0000950103-10-001750.hdr.sgml : 20100611
+<ACCEPTANCE-DATETIME>20100611112615
+ACCESSION NUMBER:		0000950103-10-001750
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100610
+FILED AS OF DATE:		20100611
+DATE AS OF CHANGE:		20100611
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RBS Holdings N.V.
+		CENTRAL INDEX KEY:			0001038727
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMMERCIAL BANKS, NEC [6029]
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14624
+		FILM NUMBER:		10891910
+
+	BUSINESS ADDRESS:	
+		STREET 1:		GUSTAV MAHLERLAAN 10
+		CITY:			AMSTERDAM
+		STATE:			P7
+		ZIP:			1082 PP
+		BUSINESS PHONE:		44 207 672 1758
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 283
+		CITY:			AMSTERDAM
+		STATE:			P8
+		ZIP:			1000 EA
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ABN AMRO HOLDING N V
+		DATE OF NAME CHANGE:	19970507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>dp18124_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16 of</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the
+Securities Exchange Act of 1934</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the
+month of June 2010</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission
+File Number: 001-14624</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">RBS
+HOLDINGS N.V.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Gustav
+Mahlerlaan 10</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1082 PP
+Amsterdam</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Netherlands</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">________________________________________________</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+of principal executive offices)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Form
+20-F&#160;<font style="TEXT-DECORATION: underline">&#160;&#160;&#160;
+&#160;</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">X&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;Form
+40-F _____</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(1):
+Yes&#160;&#160;_____&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">X&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(7):
+Yes&#160;&#160;_____&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">X&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant by furnishing the information contained in
+this Form is also thereby furnishing the information to the Commission pursuant
+to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Yes&#160;&#160;_____&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;No&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;</font><font style="DISPLAY: inline; TEXT-DECORATION: underline">X&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If &#8220;Yes&#8221;
+is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b): <font style="DISPLAY: inline; TEXT-DECORATION: underline">N/A</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This
+report on Form 6-K shall be deemed to be incorporated by reference into the
+registration statements on Form S-8 (Registration Numbers: 333-74703, 333-81400,
+333-84044, 333-127660, 333-128619, 333-128621, 333-140798,&#160;333-145751, and
+333-149577) and the registration statements on Form F-3 (Registration Numbers:
+333-162193 and 333-104778-01) and to be a part thereof from the date on which
+this report is filed, to the extent not superseded by documents or reports
+subsequently filed or furnished.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><img src="rbs_logo.jpg" alt=""></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Amsterdam 9 June
+2010</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif">RBS
+Holdings N.V. first quarter 2010 results</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">In a challenging
+economic environment RBS Holdings N.V.<font style="FONT-SIZE: 70%; VERTICAL-ALIGN: text-top"><a href="#ref.ID0EAF">1</a></font> reported a gain of EUR 178 million for the three
+months ended 31 March 2010 compared to a loss of EUR 886 million for the same
+period in 2009<font style="FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2</font>.
+The continuing operations broke even while the discontinued operations recorded
+a EUR 178 million gain compared with a EUR 976 million loss and a EUR 90 million
+gain respectively for the prior year period. The results from discontinued
+operations are mainly attributable to the Dutch State acquired businesses
+included in the new ABN AMRO Bank N.V. which was legally separated from RBS
+Holdings N.V. (&#8216;RBS Holdings&#8217;) on 1 April 2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">For further
+information regarding the results of the RBS acquired businesses, please refer
+to the Q1 2010 Interim Management Statement of The Royal Bank of Scotland Group
+plc (&#8216;RBS Group plc&#8217;) published on 7 May 2010 and available on the RBS website
+(www.RBS.com).</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif">Results
+of operations for the three months ended 31 March</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The following table
+sets out selected information relating to RBS Holdings for the three months
+ended 31 March 2010 and 2009.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div align="left">
+        <div align="left">
+          <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+              <tr>
+                <td align="left" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">(in
+      millions of euros)</font></div>
+                </td>
+                <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">2010</font></div>
+                </td>
+                <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">2009</font></div>
+                </td>
+                <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td colspan="2" nowrap valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td colspan="2" nowrap valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Net interest
+      income</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">332</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">434</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Net fee and
+      commission income</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">208</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">271</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Net trading
+      income</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">493</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(489</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Results from
+      financial transactions</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(151</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(58</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Share of
+      results in equity accounted investments</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">16</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">17</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Other
+      operating income</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">24</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">32</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Income of
+      consolidated private equity holdings</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">7</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">8</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Total
+      income</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">929</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">215</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Operating
+      expenses</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">953</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">999</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Operating
+      result</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(24</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(784</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Loan
+      impairment and other credit risk provisions</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">26</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">429</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Operating
+      (loss) before tax</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(50</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(1,213</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Tax
+      credit</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(50</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(237</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Profit/(loss)
+      from continuing operations</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">0</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(976</font></td>
+                <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="bottom" width="78%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Profit from
+      discontinued operations net of tax</font></div>
+                </td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">178</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">90</font></td>
+                <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              </tr>
+          </table>
+        </div>
+        <div>
+          <div align="left">
+            <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+                <tr>
+                  <td align="left" valign="bottom" width="78%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Profit/(loss)
+      for the reporting period</font></div>
+                  </td>
+                  <td align="right" valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">178</font></td>
+                  <td nowrap valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td align="right" valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(886</font></td>
+                  <td nowrap valign="bottom" width="1%" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+                </tr>
+                <tr>
+                  <td valign="bottom" width="78%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                  <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="bottom" width="78%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      assets</font></div>
+                  </td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">467,357</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">469,345</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="bottom" width="78%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Risk-weighted
+      assets</font></div>
+                  </td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">135,930</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">117,535</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="bottom" width="78%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Full-time
+      equivalent staff</font></div>
+                  </td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">51,216</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">52,155</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="bottom" width="78%">
+                    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Full-time
+      equivalent staff excluding discontinued operations</font></div>
+                  </td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">29,059</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                  <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">29,384</font></td>
+                  <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+                </tr>
+            </table>
+          </div>
+          <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Results for the
+period increased by EUR 1,064 million from a loss of EUR 886 million in the
+first quarter of 2009 to a profit of EUR 178 million in the first quarter of
+2010. Results from continuing operations improved from a loss EUR 976 million to
+EUR 0 million.</font></div>
+        </div>
+        <div>
+          <hr style="COLOR: black" align="left" noshade size="1" width="18%">
+        </div>
+        <div>
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Arial">1</font><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic">RBS Holdings N.V. is
+the entity which until 1 April 2010 was known as ABN AMRO Holding N.V. It has
+its registered office in Amsterdam, the Netherlands, and is entered in the Trade
+Register of the Amsterdam Chamber of Commerce under no.
+33220369.</font></font></div>
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Arial">2</font><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic">The financial
+information included in this update is unaudited.</font></font></div>
+        </div>
+        <div>&#160;</div>
+        <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+          <div id="FTR">
+            <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          </div>
+          <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+            <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3</font></div>
+            <div style="WIDTH: 100%; TEXT-ALIGN: center">
+              <hr style="COLOR: black" noshade size="2">
+            </div>
+          </div>
+          <div id="HDR">
+            <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+          </div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Total
+income</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Total income
+increased by EUR 714 million to EUR 929 million. The improvement reflects a
+significant increase in trading income of EUR 982 million, which is partly
+offset by a EUR 102 million decrease in interest income and a EUR 93 million
+decrease in results from financial transactions.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Trading
+income</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The trading income
+increase of EUR 982 million mainly relates to the non reoccurrence of high
+losses of EUR 1,110 million in the prior year and a gain in the first quarter of
+2010 of EUR 88 million, on counterparty Credit Valuation Adjustments (&#8216;CVA&#8217;)
+against monoline insurers. Additionally, write-offs on Collaterised Debt
+Obligations (&#8216;CDO&#8217;) in the first quarter of 2010 were EUR 188 million lower.
+Exposures to monoline insurers and CDO&#8217;s were substantially risk and/or legally
+transferred to The Royal Bank of Scotland plc (&#8216;RBS plc&#8217;) in the first half of
+2009. The trading income increase is partially offset by a decrease in gains on
+currency exchange related trading.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Net
+interest income</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Net interest income
+decreased by EUR 102 million resulting from a decrease in loans and receivables
+as at 31 March 2010 compared to the prior year period. This reflects the
+significant changes in the structure of the balance sheet following transfers of
+businesses to RBS plc in the course of 2009, including the transfer of conduit
+portfolios.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Results
+from financial transactions</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The decrease in the
+results from financial transactions of EUR 93 million is mainly due to a loss on
+the fair value of own debt of EUR 146 million following tightening credit
+spreads compared to a gain in the prior year period of EUR 454 million when
+credit spreads had widened.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">This decrease has
+been partially offset by a gain of EUR 15 million on credit default swap hedges
+this quarter compared to a loss of EUR 260 million in the first quarter of the
+previous year. This quarter&#8217;s positive fair value change includes mark to market
+gains of EUR 53 million on the credit default swap entered into with RBS plc as
+part of the Asset Protection Scheme back-to-back agreement.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Losses on equity
+investments decreased to EUR 19 million compared to EUR 165 million last year
+due to the improved market conditions for equities in the first quarter of 2010
+compared to the prior year period. In addition, gains on the sale of
+available-for-sale debt securities were EUR 54 million in the first quarter of
+2010 compared to a EUR 75 million loss in the first quarter of the prior
+year.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Operating
+expenses</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Operating expenses
+remained consistent with prior periods and showed a slight decrease in general
+and administrative expenses. </font>
+
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+          <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Loan
+impairments</font></font></div>
+        </div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Loan impairments in
+the first quarter of 2010 amounted to EUR 26 million as compared to EUR 429
+million in the first quarter of 2009. This reflects a benefit of EUR 220 million
+of loss compensation under the Asset Protection Scheme back-to-back agreement
+with RBS plc, coupled with lower specific commercial and retail provisions,
+especially on consumer and card lending in Asia and Middle
+East.</font></font></div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Tax</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The reduction in
+tax credit is partly due to the non-recognition of a deferred tax asset on
+losses incurred in the Netherlands in first quarter of 2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Profit
+from discontinued operations</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Profit from
+discontinued operations includes the results of the Dutch State acquired
+businesses. The profit for the period improved by EUR 88 million to EUR 178
+million. Increased revenues and lower loan impairment levels are partially
+offset by increased expenses due to additional litigation provisions and higher
+transition costs.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif">Summary
+balance sheet</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+            <tr>
+              <td align="left" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">(in
+      millions of euros)</font></div>
+              </td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">31
+      March 2010</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">31 December
+      2009</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Assets</font></div>
+              </td>
+              <td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td colspan="2" nowrap valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td colspan="2" nowrap valign="bottom"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Cash and
+      balances at central banks</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">17,213</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">28,382</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Financial
+      assets held for trading</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">73,511</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">78,058</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Financial
+      investments</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">54,347</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">74,897</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Loans and
+      receivables - banks</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">31,490</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">39,659</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Loans and
+      receivables - customers</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">66,322</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">218,246</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Other
+      assets</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">14,202</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">25,214</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Assets of
+      businesses held for sale</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">210,272</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">4,889</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      assets</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">467,357</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">469,345</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="bottom" width="78%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Liabilities</font></div>
+              </td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Financial
+      liabilities held for trading</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">55,733</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">62,687</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Due to
+      banks</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">48,433</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">46,145</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Due to
+      customers</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">57,267</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">196,648</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Issued debt
+      securities</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">65,706</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">95,660</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Provisions</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">888</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">4,790</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Subordinated
+      liabilities</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">7,965</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">14,544</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Other
+      liabilities</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,852</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">21,061</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Liabilities of
+      businesses held for sale</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">208,409</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">8,894</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      Liabilities</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">456,253</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">450,429</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="bottom" width="78%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">Equity</font></div>
+              </td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="PADDING-BOTTOM: 2px; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Equity
+      attributable to shareholders of the parent company</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,061</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">18,880</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Equity
+      attributable to non-controlling interests</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">43</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">36</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      equity</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,104</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">18,916</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      equity and liabilities</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">467,357</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">469,345</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td valign="bottom" width="78%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">RBS Holdings&#8217; total
+assets amounted to EUR 467 billion as at 31 March 2010, a decrease of EUR 2
+billion. The Dutch State acquired businesses are classified as a disposal group
+held for sale as at 31 March 2010 increasing both asset and liabilities held for
+sale significantly whilst in turn decreasing other line items.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further commentary
+is provided in the discussion of the individual lines that constitute assets or
+liabilities below.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Assets</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Financial
+assets held for trading</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The decrease in
+financial assets held for trading of EUR 4.5 billion is mainly attributable to
+the novation to RBS plc of derivative financial instruments partially offset by
+an increase in positions due to normal changes in activity in the first quarter
+of the year.</font></font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      </div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">5</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160;
+</font></div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Financial
+investments</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The decrease in
+financial investments of EUR 20.6 billion is mainly a result of the
+classification of the Dutch State acquired businesses as assets held for sale at
+31 March 2010 as well as a decrease in the fair value of government
+paper.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">RBS Holdings holds
+EUR 54.3 billion of financial investments as available-for-sale, the majority of
+which is part of the Asset &amp; Liability Management (&#8216;ALM&#8217;) liquidity buffer.
+Of the portfolio, EUR 30.5 billion is OECD government issued debt, comprising
+exposures to European (EUR 25.8 billion) and US (EUR 4.7 billion) governments
+and government-related entities. Included therein are nominal EUR 1.7 billion
+Greek sovereign debt positions as also disclosed in the Q1 2010 Interim
+Management Statement of RBS Group plc.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Further positions
+in financial investments comprise EUR 20.1 billion of mortgage and other
+asset-backed securities. The composition of this portfolio has not changed
+substantially from 31 December 2009 as disclosed on page 41 of the RBS Holdings
+2009 annual report as part of the disclosure &#8216;Credit market and related
+exposures&#8217;.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Loans
+and receivables &#8211; banks</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Total loans and
+receivables &#8211; banks decreased by EUR 8.2 billion to EUR 31.5 billion as at 31
+March 2010 compared to the balance of EUR 39.7 billion at 31 December 2009. This
+decrease is predominantly attributable to a decrease in time deposits placed due
+to a EUR 6.5 billion repayment by Santander coupled with the Dutch State
+acquired businesses being classified as assets held for sale as at 31 March
+2010. This has been partly offset by a receivable from RBS plc under the Asset
+Protection Scheme back-to-back agreement. The professional securities
+transactions increased due to an increase in reverse repurchase transactions due
+to normal changes in activity in the first quarter of the year.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Loans
+and receivables &#8211; customers</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Loans and
+receivables &#8211; customers decreased by EUR 151.9 billion compared to December 2009
+mainly relating to Dutch State acquired businesses being classified as assets
+held for sale as at 31 March 2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Credit
+risk provisions</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The credit risk
+provision balance as at 31 March 2010 amounts to EUR 3.5 billion, decreasing by
+EUR 2.3 billion as compared to 31 December 2009. This decrease is mainly due to
+the reclassification of the impairment allowance related to the Dutch State
+acquired business of EUR 2.4 billion to held for sale as at 31 March 2010.
+Additionally a number of large corporates loan write-offs amounting to EUR 276
+million were partially offset by recoveries amounting to EUR 220 million under
+the Asset Protection Scheme back-to-back agreement with RBS plc.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Other
+assets</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The decrease is due
+to the classification of the Dutch State acquired businesses as assets held for
+sale as at 31 March 2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Liabilities</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The balance sheet
+categories Financial liabilties held for trading, Due to customers, Issued debt
+securities, Subordinated liabilities, Provisions and Other liabilities have
+significantly decreased due to the classification of the Dutch State acquired
+businesses as liabilities held for sale as at 31 March 2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">6</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">Due
+to banks</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Due to banks
+increased by EUR 2.3 billion from EUR 46.1 billion at 31 December 2009 to EUR
+48.4 billion at 31 March 2010, mainly due to increased balances on repurchase
+agreements in line with normal changes in activity in the first quarter of the
+year.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Participation
+in UK Government's Asset Protection Scheme</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">On 26 November
+2009, RBS Group plc and RBS plc signed an accession agreement to the UK
+Government's Asset Protection Scheme ('APS'). This scheme also encompasses some
+assets within the RBS acquired businesses of RBS Holdings. For these assets, RBS
+Holdings has purchased credit protection through a back-to-back agreement
+comprising a guarantee and a credit default swap arrangement with RBS plc to
+strengthen the capital position and to de-risk future earnings. These
+arrangements relate to approximately EUR 30.0 billion of covered assets
+predominately commercial loan facilities.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">This quarter&#8217;s
+positive fair value change includes mark to market gains of EUR 53 million on
+the credit default swap. Loan impairments for the quarter reflect a benefit of
+EUR 220 million of loss compensation under the Asset Protection Scheme
+back-to-back agreement with RBS plc.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Analysis of changes to
+equity</font></font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The following table
+shows RBS Holdings&#8217; equity at 31 March 2010, and 31 December 2009.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+            <tr>
+              <td align="left" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">(in
+      millions of euros)</font></div>
+              </td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">March
+      2010</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">December
+      2009</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Ordinary share
+      capital</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">1,852</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">1,852</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Ordinary share
+      premium reserves</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,943</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,943</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Retained
+      earnings</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(626</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">6,697</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Net
+      gains/(losses) not recognised in the income statement</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">(2,109</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">(1,612</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">)</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Equity
+      attributable to shareholders of the parent company</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,061</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">18,880</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Non-controlling
+      interests</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">43</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">36</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      equity</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">11,104</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">18,916</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Total equity at 31
+March 2010 was EUR 11,104 million, a decrease of EUR 7,812 million compared to
+31 December 2009. This was mainly due to a EUR 7,500 million dividend payment by
+RBS Holdings to RFS Holdings B.V. for the benefit of Santander.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">7</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div><a name="ref.ID0E2F"><!--EFPlaceholder-->
+</a>&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Key metrics</font></font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div align="left">
+        <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+            <tr>
+              <td align="left" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: arial">(in
+      billions of euros)</font></div>
+              </td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">March
+      2010</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" colspan="2" nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">December
+      2009</font></div>
+              </td>
+              <td nowrap valign="bottom" style="BORDER-TOP: black 2px solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Funded balance
+      sheet<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">1</font></font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">422.0</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">415.1</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total
+      assets</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">467.4</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">469.3</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Risk-weighted
+      assets</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">135.9</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">117.5</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Loan
+      book</font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">97.8</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">257.9</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Tier 1 capital
+      ratio<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2</font></font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">12.79%</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left">&#160;</td>
+              <td align="right" valign="bottom" width="1%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">19.89%</font></td>
+              <td nowrap valign="bottom" width="1%" style="TEXT-ALIGN: left">&#160;</td>
+            </tr>
+            <tr>
+              <td align="left" valign="bottom" width="78%" style="BORDER-BOTTOM: black 2px solid">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">Total capital
+      ratio<font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2</font></font></div>
+              </td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: arial">17.84%</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left">&#160;</td>
+              <td align="right" valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;</font></td>
+              <td valign="bottom" width="8%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">25.48%</font></td>
+              <td nowrap valign="bottom" width="1%" style="BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: left">&#160;</td>
+            </tr>
+        </table>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">1
+</font>Funded balance sheet is defined as total assets less derivatives held for
+trading.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-STYLE: italic; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top">2 </font>These
+capital ratios are calculated under the BIS I transitional regime.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The increase in
+risk weighted assets of EUR 18.4 billion mainly reflects the reduction in
+securitisations. Capital ratios are significantly higher than the current minima
+set by the Dutch Central Bank.This reflects remaining amounts to be repatriated
+to Santander and the capital actions undertaken by RBS Group plc and the Dutch
+State to enable legal separation and to meet expected requirements on the
+transition to Basel II in 2010 for the two separated banks.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The Tier 1 capital
+ratio and Total capital ratio for RBS acquired businesses at 31 March 2010 is
+11.92% and 18.46% respectively.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: Arial, sans-serif">Post
+balance sheet events</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">1
+April 2010 &#8211; Dividend distribution</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Immediately before
+legal separation on 1 April 2010 RBS Holdings made a distribution of EUR 1.4
+billion for the benefit of Santander.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">1
+April 2010 - Legal separation</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Legal separation of
+ABN AMRO Bank N.V. occurred on 1 April 2010, with the shares in that entity
+being transferred by RBS Holdings to a holding company called ABN AMRO Group
+N.V., owned by the Dutch State. Some assets and liabilities of the Dutch State
+acquired businesses amounting to approximately EUR 653 million and EUR 642
+million respectively at legal separation could not be transferred to new ABN
+AMRO Bank N.V. before separation and remained temporarily in The Royal Bank of
+Scotland N.V. (&#8216;RBS N.V.&#8217;). These assets and liabilities are adequately funded
+and capitalised by the Dutch State.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Following the legal
+separation, formerly intergroup provisions between RBS N.V. and ABN AMRO Bank
+N.V. have become receivables, payables and off-balance provisions between
+unrelated external counterparties. Other than resulting from normal business
+transactions, these include positions from some agreed transitory services and
+from the cross liabilities that arose in legal demerger on 6 February
+2010.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">On 6 February 2010,
+ABN AMRO Bank N.V. (as it was then named) was demerged into two entities, being
+RBS N.V. (the former ABN AMRO Bank N.V.) and the new ABN AMRO Bank. In principle
+investors now only have recourse to the entity to which the relevant assets and
+liabilities have been transferred for payments in respect of the appropriate
+securities. Under the Dutch Civil Code, however, each entity remains liable to
+creditors for the monetary obligations of the other entity that existed at the
+date of the legal demerger in the event that the other entity cannot meet its
+obligations to those creditors. In each case, the liability relates only to
+obligations existing at the date of the legal demerger. The liability of RBS
+N.V. is limited to the equity retained at legal demerger, which amounted to EUR
+4.0 billion. On 1 April 2010 this amount was recorded <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">in the books of RBS
+Holdings as an off balance sheet guarantee. The liability of the new ABN AMRO
+Bank N.V. is limited to the amount of equity acquired at legal demerger, which
+amounted to EUR 1.8 billion.</font> </font>
+
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      </div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">RBS N.V. has made
+arrangements to mitigate the risks of liability to the creditors which
+transferred to the new ABN AMRO Bank upon legal demerger. The new ABN AMRO Bank
+also has made arrangements to mitigate the risks of liability to the creditors
+that remain in RBS N.V. Both of these entities hold the level of regulatory
+capital agreed upon with the Dutch Central Bank for purposes of covering any
+residual risks. Similarly, the legal demerger of certain commercial activities
+in relation to the EC remedy into New HBU II N.V. resulted in a cross liability
+arrangement that changes the legal recourse available to investors. Also in this
+case, the liability relates only to obligations existing at the date of legal
+demerger of New HBU II N.V. Such liability of New HBU II N.V. is limited to the
+equity acquired at legal demerger.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-STYLE: italic; FONT-FAMILY: Arial">10
+May 2010 - Final settlement reached with United States Department of
+Justice</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">The United States
+Department of Justice (&#8216;DoJ&#8217;) and the consortium of banks that acquired ABN AMRO
+in 2007 have agreed to a Deferred Prosecution Agreement (&#8216;DPA&#8217;) relating to the
+previously disclosed criminal investigation into ABN AMRO Bank N.V.'s US dollar
+clearing activities, OFAC compliance procedures, and Bank Secrecy Act compliance
+matters during the period from 1995 to the end of 2007.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ABN AMRO Bank N.V.
+announced in April 2007, six months before it was acquired by the consortium,
+that it had reached an agreement in principle with DoJ to resolve the
+investigation and made a provision of USD 500 million to cover the costs of
+resolving the investigation. The final amount agreed with and paid to the DoJ on
+10 May 2010 is covered by this provision. The DPA deferral period is 12 months
+and the signatory to the DPA is RBS N.V.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+        <div id="FTR">
+          <div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+        <div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+          <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">9</font></div>
+          <div style="WIDTH: 100%; TEXT-ALIGN: center">
+            <hr style="COLOR: black" noshade size="2">
+          </div>
+        </div>
+        <div id="HDR">
+          <div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+</font></div>
+        </div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Signatures</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.</font></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div align="left">
+          <table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+              <tr>
+                <td colspan="2" valign="top" width="27%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td align="left" colspan="3" valign="top" width="52%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">RBS
+      HOLDINGS N.V.</font></div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                  <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+                </td>
+                <td align="left" valign="top" width="6%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" width="7%" style="PADDING-BOTTOM: 2px">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0.55pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:</font></div>
+                </td>
+                <td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: -5.2pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">10
+      June 2010</font></div>
+                </td>
+                <td valign="top" width="15%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td align="left" valign="top" width="9%" style="PADDING-BOTTOM: 2px">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 27pt; MARGIN-RIGHT: 0.65pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:</font></div>
+                </td>
+                <td align="left" colspan="2" valign="top" width="43%" style="BORDER-BOTTOM: black 2px solid">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 14.4pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/
+      Petri Hofst&#233;</font></div>
+                </td>
+                <td align="left" valign="top" width="6%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              </tr>
+              <tr>
+                <td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td align="left" valign="top" width="8%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:</font></div>
+                </td>
+                <td valign="top" width="35%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Petri
+      Hofst&#233;</font></div>
+                </td>
+                <td valign="top" width="6%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              </tr>
+              <tr>
+                <td valign="top" width="7%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="20%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="15%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td valign="top" width="9%"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: arial">&#160;
+    </font></td>
+                <td align="left" valign="top" width="8%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0.3pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:</font></div>
+                </td>
+                <td valign="top" width="35%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Financial Officer</font></div>
+                </td>
+                <td valign="top" width="6%" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+              </tr>
+          </table>
+        </div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+        <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+      </div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">10</font><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+        <div>
+          <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+        </div><br></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>rbs_logo.jpg
+<TEXT>
+begin 644 rbs_logo.jpg
+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
+<`!0`4`%`!0`4`%`!0`4`%`!0`4`%`!0`4`?_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

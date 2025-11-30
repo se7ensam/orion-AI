@@ -22,6 +22,6 @@ except ImportError:
     
     def download_6k_filings(*args, **kwargs):
         raise NotImplementedError("Python downloader has been moved to Node.js. Use the CLI: python -m src.cli download")
-    
-    __all__ = ['get_fpi_list', 'download_6k_filings']
+
+__all__ = ['get_fpi_list', 'download_6k_filings']
 

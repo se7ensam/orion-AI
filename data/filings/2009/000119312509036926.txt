@@ -1,0 +1,592 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Uo/1ukMmCwvQm3ehx+M20m7ItGwQgi/2jkDEHqdj+gyiXjCoBimTjz0OqKEctF8w
+ KojMAhH/waKst9k+F3oQ0A==
+
+<SEC-DOCUMENT>0001193125-09-036926.txt : 20090225
+<SEC-HEADER>0001193125-09-036926.hdr.sgml : 20090225
+<ACCEPTANCE-DATETIME>20090225101423
+ACCESSION NUMBER:		0001193125-09-036926
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090225
+FILED AS OF DATE:		20090225
+DATE AS OF CHANGE:		20090225
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		09632570
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>d6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 6-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="4"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Washington, DC 20549 </B></FONT></P> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>Form 6-K </B></FONT></P> <P
+STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Report of Foreign Issuer </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Pursuant to Rule
+13a-16 or 15d-16 of </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">the Securities Exchange Act of 1934 </FONT></P> <P STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">For the month of: February, 2009</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">Commission File Number: 001-14460</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>AGRIUM INC. </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">(Name of registrant) </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>13131 Lake Fraser Drive S.E. </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Calgary, Alberta, </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="3"><B>Canada T2J 7E8
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">(Address of Principal Executive Offices) </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Indicate by check mark whether the registrant files or will file annual reports under cover of Form 20-F or Form 40-F: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Form 20-F
+<U></U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Form 40-F <U>X</U> </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(1): <U></U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by Regulation S-T Rule 101(b)(7):
+<U></U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant by furnishing the information contained in
+this Form is also thereby furnishing the information to the SEC pursuant to Rule 12g3-2(b) under the Securities Exchange Act of 1934: <U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"
+ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Yes
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <U></U>No <U>X</U> </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">If &#147;Yes&#148; is marked, indicate the file number assigned to the registrant in
+connection with Rule 12g3-2(b): N/A </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT
+FACE="Times New Roman" SIZE="2">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P> <P
+STYLE="font-size:18px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="5"><FONT FACE="Times New Roman" SIZE="2">AGRIUM INC.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="32"></TD>
+<TD HEIGHT="32" COLSPAN="2"></TD>
+<TD HEIGHT="32" COLSPAN="4"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date: February&nbsp;25, 2009</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Gary J. Daniel</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Name:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Gary J. Daniel</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Title:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Senior Legal Counsel &amp; Assistant</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Corporate
+Secretary</FONT></P></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT INDEX </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="border-bottom:1px solid #000000;width:25pt"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Description of Exhibit</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">Press Release, dated February&nbsp;25, 2009</FONT></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>Exhibit 1 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="middle">
+
+<IMG SRC="g53466g31i31.jpg" ALT="LOGO"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="3"><B>NEWS RELEASE</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="3"><B></B><B><I>FOR IMMEDIATE
+RELEASE</I></B><B></B></FONT></P></TD></TR>
+</TABLE> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P
+STYLE="margin-top:24px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Agrium proposes to acquire CF industries for US$72.00 per share </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>in cash and stock, a 30 percent premium </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>Creates Global Leader in Nutrient Manufacturing and
+Distribution </I></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>Generates Substantial Operating Synergies and Earnings Accretion </I></B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><I>Triples Agrium&#146;s Phosphate and UAN Solution Capacity and Provides Significant Distribution Assets </I></B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P> <P STYLE="line-height:1px;margin-top:0px;margin-bottom:2px;border-bottom:1pt solid #000000">&nbsp;</P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>February 25, 2009 &#150; ALL AMOUNTS ARE STATED IN U.S.$ </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">CALGARY, Alberta &#150; Agrium Inc. (TSX and NYSE: AGU) today announced that it
+has submitted a proposal to the board of directors of CF Industries Holdings, Inc. (NYSE: CF) to acquire all of the capital stock of CF for cash and Agrium shares at $72.00 per CF share, or a total of approximately $3.6-billion, based on
+yesterday&#146;s closing price of Agrium shares. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The proposal represents a premium of 30 percent over CF&#146;s closing price on February&nbsp;24, 2009,
+and a premium of 42 percent over the 30-day volume-weighted average share price of CF. Under the terms of the proposed transaction, stockholders of CF would be entitled to receive one Agrium common share and $31.70 in cash for each CF share. Of the
+total consideration, approximately 56&nbsp;percent would be in Agrium common shares and 44&nbsp;percent would be in cash. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">&#147;The proposed transaction
+is strategically compelling and a superb opportunity to create value for both Agrium and CF shareholders. Adding CF&#146;s strong North American nitrogen, phosphate and extensive crop nutrient distribution assets to Agrium&#146;s broader global
+wholesale and retail capabilities would greatly enhance our existing portfolio and enable us to create a premier global franchise across the entire agricultural value chain,&#148; said Agrium President and CEO Mike Wilson. &#147;We will have
+combined revenues of nearly $14-billion and become a global leader in nutrient production and distribution. The acquisition would also triple our phosphate and UAN capacity and further strengthen all aspects of our business. We expect to achieve
+significant operating synergies &#150; well in excess of those contemplated in CF&#146;s proposal to acquire Terra Industries Inc. &#150; and expect the combination to provide many benefits to the customers, suppliers,&nbsp;and employees&nbsp;of
+both Agrium and CF, as well as the communities in which both companies operate. Furthermore, our offer presents CF stockholders a compelling opportunity for significant long-term value through their ownership in the combined company.&#148;
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Mr.&nbsp;Wilson continued, &#147;Importantly, this proposed transaction will not diminish our ability to continue to build on our position as the leading
+North American agricultural retailer, further expand our potash capacity and advanced technologies business or pursue other strategic opportunities. We look forward to engaging with CF&#146;s board of directors to quickly reach a negotiated
+agreement and deliver on the exciting opportunities this combination offers to both companies.&#148; </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Agrium expects to realize substantial annual operating synergies of approximately $150-million from the combination
+within three years of closing, and CF stockholders will share in the value of those synergies through their continued ownership of 24 percent of the combined company. Agrium expects the transaction to be accretive to both earnings and cash flow in
+2010 and significantly accretive on both measures in subsequent years. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The proposal is not subject to a financing condition. Agrium has sufficient cash
+resources and committed financing underwritten by Royal Bank of Canada and The Bank of Nova Scotia to fund the cash portion of the proposal. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">RBC Capital
+Markets and Scotia Capital are acting as financial advisors to Agrium and Paul, Weiss, Rifkind, Wharton&nbsp;&amp; Garrison LLP and Blake, Cassels&nbsp;&amp; Graydon LLP are providing legal advice. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The full text of the letter sent today to the CF board of directors is as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Board of Directors </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">CF Industries Holdings, Inc. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">4
+Parkway North </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Suite 400 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Deerfield, Illinois 60015-2590
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Attention: Stephen R. Wilson, Chairman, President, and Chief Executive Officer </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Dear Members of the Board: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">On behalf of the board of directors of Agrium Inc. (&#147;Agrium&#148;), I am
+writing to submit for your consideration a proposal to acquire CF Industries Holdings, Inc. (&#147;CF&#148;) in a transaction that will create significantly more value for your stockholders than your proposal to acquire Terra Industries Inc.
+(&#147;Terra&#148;). </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Under the terms of our cash-and-stock proposal, Agrium would acquire 100% of the outstanding capital stock of CF (the
+&#147;Proposed Transaction&#148;) at a per share value of US$72.00 based on Agrium&#146;s current share price. Our offer price represents a premium of 30% over CF&#146;s closing price of $55.58 on February 24, 2009, the day before we announced our
+proposal, a premium of 42% over the 30-day volume-weighted average share price of CF and a premium of 52% over CF&#146;s closing price of $47.23 on January&nbsp;15, 2009, immediately prior to CF&#146;s announced proposal to acquire Terra. Under the
+terms of the Proposed Transaction, stockholders of CF would be entitled to receive one Agrium common share and $31.70 in cash for each CF share. Of the approximately $3.6 billion of total consideration, 56% would be in Agrium common shares and 44%
+would be in cash. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">As you know, our two companies had serious discussions regarding a combination prior to CF&#146;s initial public
+offering in 2005. Since that time, we have closely followed CF and believe that the strategic and business logic of a combination, which was compelling then, is even stronger now. We have the highest regard for CF and its employees and believe that
+our companies, which share highly compatible cultures and operating philosophies, exhibit complementary strengths both geographically and in terms of our product mix. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">We believe the Proposed Transaction represents full and fair value for CF&#146;s stockholders. By offering a combination of cash and Agrium common shares at a substantial premium, and by offering your stockholders the
+ability to elect which form of consideration they would prefer to receive (subject to the overall limits of cash and shares comprising the aggregate consideration), the Proposed Transaction presents your stockholders with a unique opportunity for
+significant long-term value while providing liquidity for those of your stockholders wishing to sell their shares at an extremely attractive price. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">The Proposed Transaction will create a leading global producer of agricultural inputs with the broadest
+product offering in the industry. Together, we can combine our respective world-class distribution networks, knowledgeable and experienced employees and first-rate production capabilities to more efficiently and effectively serve the increasingly
+competitive global agribusiness industry. We anticipate annual operating synergies from the combination will be approximately $150 million, substantially in excess of those contemplated in CF&#146;s proposal to acquire Terra, and your stockholders
+will share in the value of those synergies through their continued ownership of the combined company. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">We share your view of the benefits
+of creating a stronger North American-based global player that can more effectively compete on the world stage. We think it is readily apparent that the benefits you highlight with respect to a CF-Terra combination are even more compelling in a
+CF-Agrium combination. Through the successful execution of our growth strategy, Agrium has become a global enterprise that spans the entire agricultural value chain. A combination with Agrium would create a company with a substantially larger global
+footprint with a combined crop nutrient production capacity of about 17 million tonnes and touching over 20 million tonnes of crop nutrients through our wholesale, retail, and advanced technologies businesses. Our balanced portfolio of nitrogen,
+phosphate and potash production and distribution, coupled with our more predictable retail and advanced technologies businesses provide for a more stable company, better able to navigate the volatility of commodity cycles. Furthermore, we have a
+proven track record of accretive acquisitions and successful integrations. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">We have thoroughly analyzed a combination of Agrium and CF and
+are confident such a transaction can be completed expeditiously. We have sufficient cash resources and fully underwritten financing commitments from Royal Bank of Canada and The Bank of Nova Scotia to fund the Proposed Transaction; accordingly, our
+proposal is not subject to any financing condition. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">Our proposal is conditioned on (i)&nbsp;CF&#146;s termination of its bid for Terra,
+(ii)&nbsp;negotiation of a definitive merger agreement between Agrium and CF, (iii)&nbsp;receipt of the necessary CF board and stockholder approvals, (iv)&nbsp;receipt of necessary regulatory approvals, (v)&nbsp;the absence of any material adverse
+changes to CF or its business and the continued operation of CF in the ordinary course of business and (vi) the opportunity to conduct limited confirmatory due diligence. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT
+FACE="Times New Roman" SIZE="2">While we would have preferred to approach you privately, we concluded that given your recent unsolicited proposal to acquire Terra, it was imperative to act now to ensure that CF stockholders have an opportunity to
+consider our proposal &#150; one that is clearly a superior alternative &#150; prior to you reaching any agreement with Terra. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">We firmly
+believe that our Proposed Transaction is an exceptional opportunity for our two companies and our respective stockholders, employees, customers, suppliers and the communities in which we each do business. My leadership team and I are available to
+meet with you, your management team and your board at any time to discuss the terms and merits of the Proposed Transaction. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">This letter is
+not intended to create or constitute any legally binding obligation, liability or commitment by us regarding the Proposed Transaction and there will be no legally binding contract or agreement between us unless and until a definitive agreement is
+executed. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; text-indent:8%"><FONT FACE="Times New Roman" SIZE="2">We look forward to hearing from you. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Sincerely yours, </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Michael M. Wilson </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">President and
+Chief Executive Officer </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Agrium Inc. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">For further information
+regarding Agrium&#146;s offer for CF, please visit www.agrium.com. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Analyst/Investor Conference Call/Webcast </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">There will be a conference call and webcast for the investment community today at 10:30 a.m. ET (8:30 a.m. MT). Dial-in information is as follows: </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Dial-in: 1-877-869-3847 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">No Access Code </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Accompanying slides will be available on the Agrium website. Agrium will also webcast the call and a replay of the webcast will be available to all interested parties on our website, www.agrium.com. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>About Agrium </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Agrium Inc. is a major retail supplier of agricultural
+products and services in both North and South America and a leading global producer and marketer of agricultural nutrients and industrial products. Agrium produces and markets three primary groups of nutrients: nitrogen, phosphate and potash as well
+as controlled release fertilizers and micronutrients. Agrium&#146;s strategy is to grow through incremental expansion of its existing operations and acquisitions as well as the development, commercialization and marketing of new products and
+international opportunities. Contact us at: www.agrium.com </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Important Information </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">This press release does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote or approval. This press release relates to a business combination transaction
+with CF proposed by Agrium, which may become the subject of a registration statement filed with the Securities and Exchange Commission (the &#147;SEC&#148;). This material is not a substitute for the prospectus/proxy statement Agrium would file with
+the SEC regarding the proposed transaction if such a negotiated transaction with CF is reached or for any other document which Agrium may file with the SEC and send to Agrium or CF stockholders in connection with the proposed transaction.
+<B>INVESTORS AND SECURITY HOLDERS OF AGRIUM AND CF ARE URGED TO READ ANY SUCH DOCUMENTS FILED WITH THE SEC CAREFULLY IN THEIR ENTIRETY IF AND WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED
+TRANSACTION.</B> Such documents would be available free of charge through the web site maintained by the SEC at www.sec.gov, by calling the SEC at telephone number 800-SEC-0330 or by directing a request to the Agrium Investor Relations/Media
+Department, Agrium Inc., 13131 Lake Fraser Drive S.E., Calgary, Alberta, Canada T2J 7E8. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Agrium and its directors and executive officers and other persons
+may be deemed to be participants in any solicitation of proxies from CF&#146;s stockholders in respect of the proposed transaction with CF. Information regarding Agrium&#146;s directors and executive officers is available in its management proxy
+circular dated March&nbsp;17, 2008 relating to the annual general meeting of its shareholders held on May&nbsp;7, 2008. Other information regarding potential participants in such proxy solicitation and a description of their direct and indirect
+interests, by security holdings or otherwise, will be contained in any proxy statement or tender offer statement filed in connection with the proposed transaction. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">All information in this press release concerning CF, including its business, operations and financial results, was obtained from public sources. While Agrium has no knowledge that any such information is inaccurate or incomplete, Agrium has
+not had the opportunity to verify any of that information. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Forward-Looking Statements </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><I>Certain statements and other information included in this press release constitute &#147;forward-looking statements&#148; within the meaning of the U.S. federal securities laws or &#147;forward-looking information&#148; within the
+meaning of applicable Canadian securities legislation (together, &#147;forward-looking statements&#148;). All statements in this press release, other than those relating to historical information or current condition, are forward-looking statements,
+including, but not limited to, estimates, forecasts and statements as to management&#146;s expectations with respect to, among other things, business and financial prospects, financial multiples and accretion estimates, future trends, plans,
+strategies, objectives and expectations, including with respect to future operations following the proposed acquisition of CF. These forward-looking statements are subject to a number of risks and uncertainties, many of which are beyond our control,
+which could cause actual results to differ materially from such forward-looking statements. </I></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>Events or circumstances that could cause actual results
+to differ materially from those in the forward-looking statements, include, but are not limited to, CF&#146;s failure to accept Agrium&#146;s proposal and enter into a definitive agreement to effect the transaction, Agrium common shares issued in
+connection with the proposed acquisition may have a market value lower than expected, the businesses of Agrium and CF, or any other recent business acquisitions, may not be integrated successfully or such integration may be more difficult,
+time-consuming or costly than expected, the expected combination benefits and synergies and costs savings from the Agrium/CF transaction may not be fully realized or not realized within the expected time frame, the possible delay in the completion
+of the steps required to be taken for the eventual combination of the two companies, including the possibility that approvals or clearances required to be obtained from regulatory and other agencies and bodies will not be obtained in a timely
+manner, disruption from the proposed transaction making it more difficult to maintain relationships with customers, employees and suppliers, general business and economic conditions, interest rates, exchange rates and tax rates, weather conditions,
+crop prices, the supply, demand and price level for our major products, gas prices and gas availability, operating rates and production costs, domestic fertilizer consumption and any changes in government policy in key agriculture markets, including
+the application of price controls and tariffs on fertilizers and the availability of subsidies or changes in their amounts, changes in development plans, construction progress, political risks, including civil unrest, actions by armed groups or
+conflict, governmental and regulatory requirements and actions by governmental authorities, including changes in government policy, changes in environmental, tax and other laws or regulations and the interpretation thereof and other risk factors
+detailed from time to time in Agrium and CF&#146;s reports filed with the SEC. </I></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>Agrium disclaims any intention or obligation to update or revise any
+forward-looking statements in this press release as a result of new information or future events, except as may be required under applicable U.S. federal securities laws or applicable Canadian securities legislation. </I></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>These forward-looking statements are based on certain assumptions and analyses made by us in light of our experience and perception of historical trends, current
+conditions and expected future developments as well as other factors we believe are appropriate in the circumstances. Expected future developments are based, in part, upon assumptions respecting our ability to successfully integrate the businesses
+of Agrium and CF, or any other recent acquisitions. </I></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><I>All of the forward-looking statements contained herein are qualified by these cautionary
+statements and by the assumptions that are stated or inherent in such forward-looking statements. Although we believe these assumptions are reasonable, undue reliance should not be placed on these assumptions and such forward-looking statements. The
+key assumptions that have been made in connection with the forward-looking statements include, but are not limited to, CF&#146;s acceptance of Agrium&#146;s proposal and the entering into of a definitive agreement to effect the proposed transaction,
+the market value of Agrium common shares issued in connection with the proposed acquisition, our ability to successfully integrate within expected time frames and costs, and realize the expected combination benefits and synergies and costs savings
+from, the combination of the businesses of Agrium and CF, or any other recent business acquisitions, and our ability to maintain relationships with customers, employees and suppliers during the course of the proposed transaction. </I></FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>FOR FURTHER INFORMATION: </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>Investor Relations: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Richard Downey, Senior Director, Investor Relations </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">(403) 225-7357 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Ashley Harris, Manager, Investor Relations </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">(403) 225-7437 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>Media Contacts: </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Drew Brown/Stephanie Pillersdorf </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Sard Verbinnen&nbsp;&amp; Co </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">(212) 687-8080 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Tom Gardiner </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Georgeson Inc.
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">(212) 440-9872 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Contact us at: www.agrium.com </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g53466g31i31.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g53466g31i31.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````9```_^$-;6AT
+M='`Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"\`/#]X<&%C:V5T(&)E9VEN/2+O
+MN[\B(&ED/2)7-4TP37!#96AI2'IR95-Z3E1C>FMC.60B/SX*/'@Z>&UP;65T
+M82!X;6QN<SIX/2)A9&]B93IN<SIM971A+R(@>#IX;7!T:STB061O8F4@6$U0
+M($-O<F4@-"XR+C(M8S`V,R`U,RXS-3(V,C0L(#(P,#@O,#<O,S`M,3@Z,3(Z
+M,3@@("`@("`@("(^"B`\<F1F.E)$1B!X;6QN<SIR9&8](FAT='`Z+R]W=W<N
+M=S,N;W)G+S$Y.3DO,#(O,C(M<F1F+7-Y;G1A>"UN<R,B/@H@(#QR9&8Z1&5S
+M8W)I<'1I;VX@<F1F.F%B;W5T/2(B"B`@("!X;6QN<SID8STB:'1T<#HO+W!U
+M<FPN;W)G+V1C+V5L96UE;G1S+S$N,2\B"B`@("!X;6QN<SIX;7!2:6=H=',]
+M(FAT='`Z+R]N<RYA9&]B92YC;VTO>&%P+S$N,"]R:6=H=',O(@H@("`@>&UL
+M;G,Z<&AO=&]S:&]P/2)H='1P.B\O;G,N861O8F4N8V]M+W!H;W1O<VAO<"\Q
+M+C`O(@H@("`@>&UL;G,Z27!T8S1X;7!#;W)E/2)H='1P.B\O:7!T8RYO<F<O
+M<W1D+TEP=&,T>&UP0V]R92\Q+C`O>&UL;G,O(@H@("!X;7!2:6=H=',Z5V5B
+M4W1A=&5M96YT/2(B"B`@('!H;W1O<VAO<#I!=71H;W)S4&]S:71I;VX](B(^
+M"B`@(#QD8SIR:6=H=',^"B`@("`\<F1F.D%L=#X*("`@("`\<F1F.FQI('AM
+M;#IL86YG/2)X+61E9F%U;'0B+SX*("`@(#PO<F1F.D%L=#X*("`@/"]D8SIR
+M:6=H=',^"B`@(#QD8SIC<F5A=&]R/@H@("`@/')D9CI397$^"B`@("`@/')D
+M9CIL:3YS87)U;75G86T\+W)D9CIL:3X*("`@(#PO<F1F.E-E<3X*("`@/"]D
+M8SIC<F5A=&]R/@H@("`\9&,Z=&ET;&4^"B`@("`\<F1F.D%L=#X*("`@("`\
+M<F1F.FQI('AM;#IL86YG/2)X+61E9F%U;'0B/DUI8W)O<V]F="!7;W)D("T@
+M,38T-#=0<F5S<R!296QE87-E+F1O8SPO<F1F.FQI/@H@("`@/"]R9&8Z06QT
+M/@H@("`\+V1C.G1I=&QE/@H@("`\>&UP4FEG:'1S.E5S86=E5&5R;7,^"B`@
+M("`\<F1F.D%L=#X*("`@("`\<F1F.FQI('AM;#IL86YG/2)X+61E9F%U;'0B
+M+SX*("`@(#PO<F1F.D%L=#X*("`@/"]X;7!2:6=H=',Z57-A9V5497)M<SX*
+M("`@/$EP=&,T>&UP0V]R93I#<F5A=&]R0V]N=&%C=$EN9F\*("`@($EP=&,T
+M>&UP0V]R93I#:4%D<D5X=&%D<CTB(@H@("`@27!T8S1X;7!#;W)E.D-I061R
+M0VET>3TB(@H@("`@27!T8S1X;7!#;W)E.D-I061R4F5G:6]N/2(B"B`@("!)
+M<'1C-'AM<$-O<F4Z0VE!9')08V]D93TB(@H@("`@27!T8S1X;7!#;W)E.D-I
+M061R0W1R>3TB(@H@("`@27!T8S1X;7!#;W)E.D-I5&5L5V]R:STB(@H@("`@
+M27!T8S1X;7!#;W)E.D-I16UA:6Q7;W)K/2(B"B`@("!)<'1C-'AM<$-O<F4Z
+M0VE5<FQ7;W)K/2(B+SX*("`\+W)D9CI$97-C<FEP=&EO;CX*(#PO<F1F.E)$
+M1CX*/"]X.GAM<&UE=&$^"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M"B`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`*("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@"B`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`*
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@("`@
+M("`@("`@("`@(`H@("`@("`@("`@("`@("`@("`@("`@("`@("`*/#]X<&%C
+M:V5T(&5N9#TB=R(_/O_N``Y!9&]B90!DP`````'_VP"$``$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$"`@("`@("`@("`@,#
+M`P,#`P,#`P,!`0$!`0$!`@$!`@("`0("`P,#`P,#`P,#`P,#`P,#`P,#`P,#
+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
+B-/Y1SGEU-(<H#@!P`X`<`.`'`#@!P`X`<`.`'`#@!P#_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,718 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Oc83d+vbUlVw3yGhV+hcVJv9vSADKmWOioQYFDzPEZP6gI2OewEZagAltKVQvBw9
+ GAh9Nb97i50DvVvH/sgH0Q==
+
+<SEC-DOCUMENT>0000950123-10-048548.txt : 20100512
+<SEC-HEADER>0000950123-10-048548.hdr.sgml : 20100512
+<ACCEPTANCE-DATETIME>20100512171851
+ACCESSION NUMBER:		0000950123-10-048548
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20100512
+FILED AS OF DATE:		20100512
+DATE AS OF CHANGE:		20100512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		10825301
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o62013e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, DC 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>Form&nbsp;6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">Report of Foreign Issuer<BR>
+Pursuant to Rule&nbsp;13a-16 or 15d-16 of<BR>
+the Securities Exchange Act of 1934
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="40%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="50%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">For the month of: May, 2010
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Commission File Number: 001-14460</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Name of registrant)
+13131 Lake Fraser Drive S.E.</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Calgary, Alberta,<BR>
+Canada T2J 7E8</B><BR>
+(Address of Principal Executive Offices)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant files or will file annual reports under cover of Form
+20-F or Form 40-F:
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the SEC pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934:
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Yes&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">No&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">If &#147;Yes&#148; is marked, indicate the file number assigned to the registrant in connection with Rule
+12g3-2(b): N/A
+</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">AGRIUM INC.<BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: May 12, 2010&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left"><I>/S/ GARY J. DANIEL</I>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary  &#038;
+Senior Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="88%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">Report of Voting Results dated May&nbsp;12, 2010</DIV></TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD colspan="5" nowrap valign="top" align="left" style="border-top: 1px solid #000000">&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>o62013exv99w1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv99w1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 18pt"><B>AGRIUM INC.</B>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><B>Annual and Special Meeting of Shareholders<BR>
+of<BR>
+Agrium Inc.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>May&nbsp;12, 2010</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>REPORT OF VOTING RESULTS</B><BR>
+<I>National Instrument 51-102 &#151; Continuous Disclosure Obligations<BR>
+Section&nbsp;11.3</I>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Matters Voted Upon</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt"><B>General Business</B>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>Each of the twelve director nominees proposed by Management was elected by
+acclamation. Proxies were received as follows:</TD>
+</TR>
+
+</TABLE>
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="91%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="54%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD><!-- VRule -->
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><FONT style="FONT-variant: SMALL-CAPS"><B>Director</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><FONT style="FONT-variant: SMALL-CAPS"><B>For</B></FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="7"><FONT style="FONT-variant: SMALL-CAPS"><B>Withheld</B></FONT></TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(a)&nbsp;Ralph S. Cunningham</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">91,094,524</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">89.63</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10,537,558</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">10.37</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(b)&nbsp;Germaine Gibara</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98,819,538</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">97.23</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2,812,544</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">2.77</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(c)&nbsp;Russell K. Girling</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,467,077</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.85</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,165,005</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.15</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(d)&nbsp;Susan A. Henry</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,438,309</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.83</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,193,773</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.17</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(e)&nbsp;Russell J. Horner</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,434,232</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.82</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,197,850</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.18</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(f)&nbsp;Anne McLellan</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,173,148</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.56</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,458,934</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.44</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(g)&nbsp;David J. Lesar</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,420,327</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.81</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,211,755</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.19</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(h)&nbsp;John E. Lowe</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,456,068</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.84</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,176,014</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.16</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(i)&nbsp;Derek G. Pannell</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">94,154,805</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">92.64</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">7,477,277</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">7.36</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(j)&nbsp;Frank W. Proto</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,130,318</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.52</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,501,764</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.48</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(k)&nbsp;Michael M. Wilson</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,079,603</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.47</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,552,479</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.53</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">(l)&nbsp;Victor J. Zaleschuk</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">100,454,795</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">98.84</TD>
+    <TD nowrap valign="top">%</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1,177,287</TD>
+    <TD valign="top">&nbsp;</TD>
+    <TD style="border-right: 1px solid #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.16</TD>
+    <TD nowrap valign="top">%</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The appointment of KPMG LLP, as independent auditors of Agrium for 2010,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was
+approved by a show of hands. Proxies were received representing 106,397,247
+(99.27%) votes for and 782,985 (0.73%) votes withheld.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Amended and Restated Shareholder Rights Plan was approved by a show of hands.
+Proxies were received representing 98,611,063 (97.02%) votes for against 3,030,827
+(2.98%) votes withheld.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="3%" nowrap align="left">4.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The Advisory Vote on Agrium&#146;s approach to Executive Compensation was approved by a
+show of hands. Proxies were received representing 103,899,144 (96.95%) votes for
+against 3,270,610 (3.05%) votes withheld.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio --><!-- /Folio -->
+</DIV>
+
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

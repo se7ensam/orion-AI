@@ -1,0 +1,654 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A4zpKw1S40cgZ6KpawIMWKb3fIP7iAUVt4KzP/oaQg6W7r6v85/XtVVJKqo0I6j2
+ O5i8N1BeS2Wum8RVkegyKw==
+
+<SEC-DOCUMENT>0000950103-09-001363.txt : 20090608
+<SEC-HEADER>0000950103-09-001363.hdr.sgml : 20090608
+<ACCEPTANCE-DATETIME>20090608060107
+ACCESSION NUMBER:		0000950103-09-001363
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20090608
+FILED AS OF DATE:		20090608
+DATE AS OF CHANGE:		20090608
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANCED SEMICONDUCTOR ENGINEERING INC
+		CENTRAL INDEX KEY:			0001122411
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16125
+		FILM NUMBER:		09878432
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26 CHIN THIRD ROAD
+		STREET 2:		NANTZE EXPORT PROCESSING ZONE
+		CITY:			KAOHSIUNG TAIWAN
+		STATE:			F5
+		ZIP:			00000
+
+	MAIL ADDRESS:	
+		STREET 1:		26 CHIN THIRD ROAD
+		STREET 2:		NANTZE EXPORT PROCESSING ZONE
+		CITY:			KAOHSIUNG TAIWAN
+		STATE:			F5
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>dp13758_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Arial">
+    <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left">
+          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">of
+the Securities Exchange Act of 1934</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">June 8,
+2009</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div>
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                    <td align="left" colspan="2" valign="top" width="23%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Commission
+      File Number</font>&#160;&#160;&#160; <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">001-16125</font></font></font></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td valign="top" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td valign="top" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" valign="top" width="69%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: times new roman">Advanced
+      Semiconductor Engineering, Inc.</font></div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" valign="top" width="69%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(
+      Exact name of Registrant as specified in its charter)</font></div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td valign="top" width="23%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td valign="top" width="46%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" valign="top" width="69%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">26
+      Chin Third Road</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Nantze
+      Export Processing Zone</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Kaoshiung,
+      Taiwan</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Republic
+      of China</font></div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" valign="top" width="69%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Address
+      of principal executive offices)</font></div>
+                    </td>
+                  </tr>
+              </table>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F.</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div>
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                    <td valign="top" width="68%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Form 20-F&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">&#160;
+      </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">X&#160;
+      </font>&#160;&#160;&#160;&#160; &#160; &#160;&#160; </font>Form 40-F <font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">____</font></font></font></font></div>
+                    </td>
+                  </tr>
+              </table>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(1):</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">____</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: Times New Roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Note:</font>
+Regulation S-T Rule 101(b)(1) only permits the submission in paper of a Form 6-K
+if submitted solely to provide an attached annual report to security
+holders.</font></font></font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark if the registrant is submitting the Form 6-K in paper as permitted
+by Regulation S-T Rule 101(b)(7):</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">____</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+              <div id="FTR">
+                <div id="GLFTR" style="WIDTH: 100%" align="left">
+                </div>
+              </div>
+              <div id="PN" style="PAGE-BREAK-AFTER: always">
+                <div style="WIDTH: 100%; TEXT-ALIGN: center">
+                </div>
+                <div style="WIDTH: 100%; TEXT-ALIGN: center">
+                  <hr style="COLOR: black" noshade size="2">
+                </div>
+              </div>
+              <div id="HDR">
+                <div id="GLHDR" style="WIDTH: 100%" align="right">
+                </div>
+              </div>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: Times New Roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Note:</font>
+Regulation S-T Rule 101(b)(7) only permits the submission in paper of a Form 6-K
+if submitted to furnish a report or other document that the registrant foreign
+private issuer must furnish and make public under the laws of the jurisdiction
+in which the registrant is incorporated, domiciled or legally organized (the
+registrant's "home country"), or under the rules of the home country exchange on
+which the registrant's securities are traded, as long as the report or other
+document is not a press release, is not required to be and has not been
+distributed to the registrant's security holders, and, if discussing a material
+event, has already been the subject of a Form 6-K submission or other Commission
+filing on EDGAR.</font></font></font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether by furnishing the information contained in this Form, the
+registrant is also thereby furnishing the information to the Commission pursuant
+to Rule 12g3-2(b) under the Securities Exchange Act of 1934.</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div>
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                    <td valign="top" width="68%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yes
+      ___&#160;&#160;&#160;&#160;&#160;&#160; &#160; No&#160;<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;<font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; TEXT-DECORATION: underline">&#160;&#160;X&#160;&#160;</font></font></font></font></font></div>
+                    </td>
+                  </tr>
+              </table>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">If "Yes"
+is marked, indicate below the file number assigned to the registrant in
+connection with Rule 12g3-2(b):</font></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">Not
+applicable</font></font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+              <div id="FTR">
+                <div id="GLFTR" style="WIDTH: 100%" align="left">
+                </div>
+              </div>
+              <div id="PN" style="PAGE-BREAK-AFTER: always">
+                <div style="WIDTH: 100%; TEXT-ALIGN: center">
+                </div>
+                <div style="WIDTH: 100%; TEXT-ALIGN: center">
+                  <hr style="COLOR: black" noshade size="2">
+                </div>
+              </div>
+              <div id="HDR">
+                <div id="GLHDR" style="WIDTH: 100%" align="right">
+                </div>
+              </div>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Signatures</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.</font><br></font></font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+            <div>
+              <table cellpadding="0" cellspacing="0" width="100%">
+                  <tr>
+                    <td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td align="left" valign="top" width="33%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">ADVANCED
+      SEMICONDUCTOR <br>ENGINEERING, INC.</font></div>
+                    </td>
+                    <td align="left" valign="top" width="5%"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                  </tr>
+                  <tr>
+                    <td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td valign="top" width="33%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                    <td valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" width="42%" style="PADDING-BOTTOM: 2px">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="left"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman"><font id="TAB1" style="MARGIN-LEFT: 71.4pt"></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Date:&#160;June
+      8,&#160;2009&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      By:&#160;&#160;&#160; </font></font></div>
+                    </td>
+                    <td valign="top" width="33%" style="BORDER-BOTTOM: black 2px solid">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+                        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/
+      Joseph Tung</font></div>
+                      </div>
+                    </td>
+                    <td valign="top" width="5%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" width="42%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Name:&#160;&#160;&#160;
+      </font></div>
+                    </td>
+                    <td align="left" valign="top" width="33%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Joseph
+      Tung</font></div>
+                    </td>
+                    <td align="left" valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top" width="42%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Title:&#160;&#160;&#160;
+      </font></div>
+                    </td>
+                    <td align="left" valign="top" width="33%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief
+      Financial Officer</font></div>
+                    </td>
+                    <td align="left" valign="top" width="5%"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                  </tr>
+              </table>
+            </div>
+          </div>
+          <div>&#160;</div>
+          <div>&#160;</div>
+          <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+            <div id="FTR">
+              <div id="GLFTR" style="WIDTH: 100%" align="left">
+              </div>
+            </div>
+            <div id="PN" style="PAGE-BREAK-AFTER: always">
+              <div style="WIDTH: 100%; TEXT-ALIGN: center">
+              </div>
+              <div style="WIDTH: 100%; TEXT-ALIGN: center">
+                <hr style="COLOR: black" noshade size="2">
+              </div>
+            </div>
+            <div id="HDR">
+              <div id="GLHDR" style="WIDTH: 100%" align="right">
+              </div>
+            </div>
+            <div>&#160;</div>
+          </div>
+        </div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left">&#160;</div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left">&#160;</div>
+        <div align="center">
+          <table bgcolor="white" cellpadding="0" cellspacing="0" width="100%">
+              <tr>
+                <td valign="middle" width="71%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-FAMILY: arial, sans-serif">Advanced
+      Semiconductor Engineering, Inc.</font></div>
+                </td>
+                <td valign="middle" width="29%">
+                  <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="left"><img src="logo.jpg" alt=""></div>
+                </td>
+              </tr>
+          </table>
+        </div>
+        <div>&#160;</div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left">&#160;</div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left">
+          <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 14pt; FONT-STYLE: italic; FONT-FAMILY: Arial, sans-serif">FOR
+IMMEDIATE RELEASE</font></div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br></div>
+            <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">Contact:</font></div>
+            <div style="MARGIN-LEFT: 9pt" align="left">
+              <table cellpadding="0" cellspacing="0" width="88%">
+                  <tr>
+                    <td valign="top" width="32%">
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">ASE,
+      Inc.</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Joseph Tung,
+      CFO / Vice President</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Freddie Liu,
+      Vice President</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Allen Kan,
+      Manager</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Tel:
+      +886-2-8780-5489</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Fax:
+      +886-2-2757-6121</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">ir@aseglobal.com</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; COLOR: #0000ff; FONT-FAMILY: arial"><font style="DISPLAY: inline; COLOR: #0000ff; TEXT-DECORATION: underline">http://www.aseglobal.com</font></font></div>
+                    </td>
+                    <td valign="top" width="52%">
+                      <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><br>US
+      contact:</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Clare Lin,
+      Director</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Tel:
+      +1-408-986-6524</font></div>
+                      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">clare.lin@aseus.com</font></div>
+                    </td>
+                  </tr>
+              </table>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 3.95pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ADVANCED
+SEMICONDUCTOR ENGINEERING, INC.</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 3.95pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial">ANNOUNCES
+MONTHLY NET REVENUES</font></div>
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">TAIPEI, TAIWAN,
+R.O.C., JUNE 8, 2009 &#8211; ADVANCED SEMICONDUCTOR ENGINEERING, INC. (NYSE: ASX,
+TAIEX: 2311, &#8220;ASE&#8221; or the &#8220;Company&#8221;), announces its unaudited consolidated net
+revenues for May of 2009.</font></div>
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+              <div>
+                <div align="left">
+                  <table cellpadding="0" cellspacing="0" width="100%">
+                      <tr>
+                        <td align="left" colspan="6" valign="top" width="78%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial">CONSOLIDATED
+      NET REVENUES (UNAUDITED)</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+                        <td align="left" valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160;</font></td>
+                        <td align="left" valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160;</font></td>
+                        <td align="left" valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160;</font></td>
+                        <td align="left" valign="top" width="13%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160;</font></td>
+                        <td align="left" valign="top" width="12%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">&#160;</font></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" width="16%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">May</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Apr</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">May</font></div>
+                        </td>
+                        <td align="left" valign="top" width="13%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Sequential</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">YoY</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="16%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">(NT$
+      Million)</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%" style="BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">2009</font></font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%" style="BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">2009</font></font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%" style="BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">2008</font></font></div>
+                        </td>
+                        <td align="left" valign="top" width="13%" style="BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Change</font></font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%" style="BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial"><font style="DISPLAY: inline">Change</font></font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="16%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">Net
+      Revenues</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">7,037</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">6,116</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">8,640</font></div>
+                        </td>
+                        <td align="left" valign="top" width="13%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">+15.1%</font></div>
+                        </td>
+                        <td align="left" valign="top" width="12%">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: arial">-18.6%</font></div>
+                        </td>
+                      </tr>
+                  </table>
+                </div>
+              </div>
+              <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 9pt; FONT-FAMILY: Arial">Safe
+Harbor Notice:</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: Arial">This press release
+contains "forward-looking statements" within the meaning of Section 27A of the
+United States Securities Act of 1933, as amended, and Section 21E of the United
+States Securities Exchange Act of 1934, as amended, including statements
+regarding our future results of operations and business
+prospects.&#160;&#160;Although these forward-looking statements, which may
+include statements regarding our future results of operations, financial
+condition or business prospects, are based on our own information and
+information from other sources we believe to be reliable, you should not place
+undue reliance on these forward-looking statements, which apply only as of the
+date of this press release.&#160;&#160;The words &#8220;anticipate&#8221;, &#8220;believe&#8221;,
+&#8220;estimate&#8221;, &#8220;expect&#8221;, &#8220;intend&#8221;, &#8220;plan&#8221; and similar expressions, as they relate
+to us, are intended to identify these forward-looking statements in this press
+release.&#160;&#160;Our actual results of operations, financial condition or
+business prospects may differ materially from those expressed or implied in
+these forward-looking statements for a variety of reasons, including risks
+associated with cyclicality and market conditions in the semiconductor industry;
+demand for the outsourced semiconductor packaging and testing services we offer
+and for such outsourced services generally; the highly competitive semiconductor
+industry; our ability to introduce new packaging, interconnect materials and
+testing technologies in order to remain competitive; our ability to successfully
+integrate pending and future mergers and acquisitions; international business
+activities; our business strategy; general economic and political conditions,
+including the recent global financial crisis; possible disruptions in commercial
+activities caused by natural or human-induced disasters; our future expansion
+plans and capital expenditures; the strained relationship between the Republic
+of China and the People&#8217;s Republic of China; fluctuations in foreign currency
+exchange rates; and other factors.&#160;&#160;For a discussion of these risks
+and other factors, please see the documents we file from time to time with the
+Securities and Exchange Commission, including our 2007 Annual Report on Form
+20-F filed on June 30, 2008.</font></div>
+            </div>
+            <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+          </div>
+          <div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>&#160;</div>
+        </div>
+        <div>
+          <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>logo.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 logo.jpg
+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
+"_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

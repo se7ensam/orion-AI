@@ -1,0 +1,3274 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ D/bJGPwvfAlFgcjoWlpUokhTH0hEf213fRunaEy2UgFp/k7h2UeasxOINq44jsEj
+ qOB07gDvpZisrXrVKnVw1A==
+
+<SEC-DOCUMENT>0000950123-10-114310.txt : 20101216
+<SEC-HEADER>0000950123-10-114310.hdr.sgml : 20101216
+<ACCEPTANCE-DATETIME>20101216171747
+ACCESSION NUMBER:		0000950123-10-114310
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20101216
+FILED AS OF DATE:		20101216
+DATE AS OF CHANGE:		20101216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AGRIUM INC
+		CENTRAL INDEX KEY:			0000943003
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE CHEMICALS [2870]
+		IRS NUMBER:				980346248
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14460
+		FILM NUMBER:		101257615
+
+	BUSINESS ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+		BUSINESS PHONE:		403 225-7000
+
+	MAIL ADDRESS:	
+		STREET 1:		13131 LAKE FRASER DRIVE S.E.
+		STREET 2:		-------
+		CITY:			CALGARY
+		STATE:			A0
+		ZIP:			T2J7E8
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMINCO FERTILIZERS LTD
+		DATE OF NAME CHANGE:	19950327
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>o67387e6vk.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>e6vk</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 1pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+
+
+
+<DIV align="center" style="font-size: 14pt; margin-top: 12pt"><B>SECURITIES AND EXCHANGE COMMISSION</B>
+</DIV>
+
+<DIV align="center" style="font-size: 12pt"><B>Washington, D.C. 20549</B>
+</DIV>
+
+<DIV align="center" style="font-size: 18pt; margin-top: 12pt"><B>FORM 6-K</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 12pt; margin-top: 12pt"><B>REPORT OF FOREIGN ISSUER<BR>
+Pursuant to Section&nbsp;13a-16 or 15d-16 of the<BR>
+Securities Exchange Act of 1934</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>For the month of December, 2010</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt"><B>Commission File Number: 001-14460</B>
+</DIV>
+
+<DIV align="center" style="font-size: 24pt; margin-top: 12pt"><B>AGRIUM INC.</B>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt">
+(Name of registrant)</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 12pt">
+<B>13131 Lake Fraser Drive S.E., Calgary, Alberta, Canada T2J 7E8</B><BR>
+
+(Address of principal executive offices)</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant files or will file annual
+reports under cover of Form 20-F or Form 40-F.</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Form&nbsp;20-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Form&nbsp;40-F&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(1):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><B>Note</B>: Regulation&nbsp;S-T Rule&nbsp;101(b)(1) only permits the submission in paper of a Form 6-K if submitted
+solely to provide an attached annual report to security holders.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark if the registrant is submitting the Form 6-K in paper as permitted by
+Regulation&nbsp;S-T Rule&nbsp;101(b)(7):&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT></DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt"><B>Note: </B>Regulation&nbsp;S-T Rule&nbsp;101(b)(7) only permits the submission in paper of a Form 6-K if submitted
+to furnish a report or other document that the registrant foreign private issuer must furnish and
+make public under the laws of the jurisdiction in which the registrant is incorporated, domiciled
+or legally organized (the registrant&#146;s &#147;home country&#148;), or under the rules of the home country
+exchange on which the registrant&#146;s securities are traded, as long as the report or other document
+is not a press release, is not required to be and has not been distributed to the registrant&#146;s
+security holders, and, if discussing a material event, has already been the subject of a Form 6-K
+submission or other Commission filing on EDGAR.</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">Indicate by check mark whether the registrant by furnishing the information contained in this Form
+is also thereby furnishing the information to the Commission pursuant to Rule&nbsp;12g3-2(b) under the
+Securities Exchange Act of 1934.</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="45%">&nbsp;</TD>
+    <TD width="10%">&nbsp;</TD>
+    <TD width="45%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD align="right" valign="top"><DIV style="margin-left:0px; text-indent:-0px">Yes&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#111;</FONT>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">No&nbsp;&nbsp;&nbsp;<FONT style="font-family: Wingdings">&#254;</FONT></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">If &#147;Yes&#148; is marked, indicate below the file number assigned to the registrant in connection
+with Rule&nbsp;12g3-2(b): N/A</DIV>
+
+
+<DIV style="width: 100%; border-bottom: 1pt solid black; margin-top: 10pt; font-size: 1pt">&nbsp;</DIV>
+<DIV style="width: 100%; border-bottom: 2pt solid black; font-size: 1pt">&nbsp;</DIV>
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SIGNATURES</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 9pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</DIV>
+
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left"><FONT style="FONT-variant: SMALL-CAPS"><B>Agrium Inc</B></FONT><B>.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">Date: December 16, 2010&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Gary J. Daniel
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Gary J. Daniel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Corporate Secretary &#038; Senior
+Legal Counsel&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>EXHIBIT INDEX</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="2%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="2%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="84%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="center" colspan="3" style="border-bottom: 1px solid #000000">Exhibit</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="left" style="border-bottom: 1px solid #000000">Description of Exhibit</TD>
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD nowrap align="right" valign="top">&nbsp;</TD>
+    <TD align="right" valign="top">1.</TD>
+    <TD nowrap valign="top">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt">&nbsp;</TD>
+    <TD valign="top" style="font-size: 10pt"><DIV style="margin-left:0px; text-indent:-0px">Purchase Agreement, dated December&nbsp;15, 2010</DIV></TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>o67387exv1.htm
+<DESCRIPTION>EXHIBIT 1
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>exv1</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<!-- PAGEBREAK -->
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">AGRIUM INC.
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">(A corporation incorporated under the laws of Canada)
+</DIV>
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">U.S.$500,000,000 6.125% Debentures due 2041
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>PURCHASE AGREEMENT</B>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Dated: December&nbsp;15, 2010
+</DIV>
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->&nbsp;<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt">AGRIUM INC.<BR>
+(A corporation incorporated under the laws of Canada)
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt">U.S.$500,000,000 6.125% Debentures due 2041
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><U>PURCHASE AGREEMENT</U>
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt">December&nbsp;15, 2010
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">BNP Paribas Securities Corp.<BR>
+RBC Capital Markets, LLC<BR>
+Scotia Capital (USA)&nbsp;Inc.<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as Representatives of the several Underwriters
+
+</DIV>
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="96%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">c/o
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">BNP Paribas Securities Corp.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">787 Seventh Avenue</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">New York, New York 10019</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 12pt">Ladies and Gentlemen:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Agrium Inc., a corporation incorporated under the Canada Business Corporations Act (the
+&#147;<B>Company</B>&#148;), confirms its agreement with BNP Paribas Securities Corp. (&#147;<B>BNP</B>&#148;), RBC Capital Markets,
+LLC and Scotia Capital (USA)&nbsp;Inc. (together, the &#147;<B>Representatives</B>&#148;) and each of the other
+underwriters named in Schedule&nbsp;A hereto (collectively, the &#147;<B>Underwriters</B>,&#148; which term shall also
+include any underwriter substituted as hereinafter provided in Section&nbsp;10 hereof), with respect to
+the issue and sale by the Company and the purchase by the Underwriters, acting severally and not
+jointly, of the respective principal amounts set forth in said Schedule&nbsp;A of the Company&#146;s
+U.S.$500,000,000 aggregate principal amount of 6.125% Debentures due 2041 (the &#147;<B>Securities</B>&#148;). The
+Securities are to be issued pursuant to an indenture dated as of May&nbsp;16, 2006 (the &#147;<B>Indenture</B>&#148;)
+between the Company and The Bank of New York Mellon, as successor to The Bank of New York Mellon
+Trust Company, National Association (formerly known as The Bank of New York Trust Company, N.A.),
+successor to J.P. Morgan Trust Company, N.A., as trustee (the &#147;<B>Trustee</B>&#148;). Securities issued in
+book-entry form will be issued to Cede &#038; Co. as nominee of The Depository Trust Company (&#147;<B>DTC</B>&#148;)
+pursuant to a blanket issuer letter of representations agreement (the &#147;<B>DTC Agreement</B>&#148;), between the
+Company and DTC. The term &#147;Indenture,&#148; as used herein, includes the Officers&#146; Certificate (as
+defined in the Indenture) establishing the terms of the Securities pursuant to Sections&nbsp;102 and 301
+of the Indenture.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On August&nbsp;19, 2010, the Company entered into scheme implementation deed (the &#147;<B>Deed</B>&#148;) with AWB
+Limited, an Australian Corporation (&#147;<B>AWB</B>&#148;), pursuant to which the Company would acquire (the &#147;<B>AWB
+Acquisition</B>&#148;) all of the issued and outstanding share capital of AWB (the &#147;<B>AWB Shares</B>&#148;) on the
+basis of either (i)&nbsp;A.$1.50 in cash for each AWB Share or (ii)&nbsp;subject to receipt of a favorable
+Australian Taxation Office ruling and the board of directors of AWB determining that a special
+dividend be paid (the &#147;<B>Special Dividend</B>&#148;), A.$1.50 in cash per AWB Share, less the cash amount of
+the Special Dividend (the &#147;<B>AWB</B>
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->1<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Consideration</B>&#148;), representing aggregate cash consideration of approximately A.$1.236&nbsp;billion for
+all of the outstanding AWB Shares (on a fully diluted basis). The Offer was approved at a special
+meeting of holders of AWB Shares on November&nbsp;16, 2010 and became effective following approval of
+the Supreme Court of Victoria on November&nbsp;17, 2010 and was implemented on December&nbsp;3, 2010, at
+which time the Company paid to holders of AWB Shares the AWB Consideration.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has prepared and filed with the securities regulatory authorities (the &#147;<B>Qualifying
+Authorities</B>&#148;) in each of the provinces of Canada (the &#147;<B>Qualifying Provinces</B>&#148;) (1)&nbsp;a preliminary
+short form base shelf prospectus (the &#147;<B>Canadian Preliminary Base Shelf Prospectus</B>&#148;), in the English
+and French languages, relating to U.S.$1,000,000,000 of common shares, preferred shares,
+subscription receipts, debt securities and units (collectively, the &#147;<B>Initial Shelf Securities</B>&#148;)
+under the rules and procedures established in National Instrument 44-102 of the Canadian Securities
+Administrators (the &#147;<B>Shelf Procedures</B>&#148;), (2)&nbsp;a final short form base shelf prospectus, in the
+English and French languages, relating to the Initial Shelf Securities (the &#147;<B>Initial Canadian Final
+Base Shelf Prospectus</B>&#148;) and (3)&nbsp;an amendment to the Initial Canadian Final Base Shelf Prospectus,
+in the English and French languages (the &#147;<B>Amendment to the Canadian Final Base Shelf Prospectus</B>&#148;),
+relating to the Initial Shelf Securities and an additional U.S.$1,000,000,000 of common shares,
+preferred shares, subscription receipts, debt securities and units (the &#147;<B>Additional Shelf
+Securities</B>&#148;). The Initial Canadian Final Base Shelf Prospectus, as amended by the Amendment to the
+Canadian Final Base Shelf Prospectus, is hereinafter referred to as the &#147;<B>Canadian Final Base Shelf
+Prospectus</B>.&#148; The U.S.$2,000,000,000 of securities qualified by the Canadian Final Base Shelf
+Prospectus are referred to herein as the &#147;<B>Shelf Securities.</B>&#148; The Canadian Final Base Shelf
+Prospectus together with the documents incorporated by reference therein filed with the Qualifying
+Authorities is hereinafter referred to as the &#147;<B>Canadian Shelf Prospectus</B>.&#148; The term &#147;<B>Canadian
+Prospectus</B>&#148; shall mean the Canadian Preliminary Prospectus (as defined below) until such time as
+the Canadian Final Prospectus (as defined below) is filed with the Qualifying Authorities, after
+which time &#147;<B>Canadian Prospectus</B>&#148; shall mean the Canadian Final Prospectus.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has also prepared and filed with the United States Securities and Exchange
+Commission (the &#147;<B>Commission</B>&#148;) (1)&nbsp;a registration statement on Form F-10 (File No.&nbsp;333-161829)
+covering the registration of the Initial Shelf Securities under the Securities Act of 1933, as
+amended (the &#147;<B>1933 Act</B>&#148;), including the Canadian Preliminary Base Shelf Prospectus with such
+deletions therefrom and additions thereto as are permitted or required by Form F-10 and the
+applicable rules and regulations of the Commission (the &#147;<B>U.S. Preliminary Base Shelf Prospectus</B>&#148;),
+and an amendment to such registration statement, including the Initial Canadian Final Base Shelf
+Prospectus with such deletions therefrom and additions thereto as are permitted or required by Form
+F-10 and the applicable rules and regulations of the Commission (the &#147;<B>Initial U.S. Final Base Shelf
+Prospectus</B>&#148;) (the various parts of such registration statement, including all exhibits thereto and
+the documents incorporated by reference in the prospectus contained in such registration statement
+at the time it became effective, as amended at the time such registration statement became
+effective and including any post-effective amendment thereto, each in the form heretofore delivered
+or to be delivered to the Representatives, the &#147;<B>Initial Registration Statement</B>&#148;), and (2)&nbsp;a
+registration statement on Form F-10 (File No.&nbsp;333-170580) covering the registration of the
+Additional Shelf Securities under the 1933 Act, including the Canadian Shelf Prospectus with such
+deletions therefrom and additions thereto as
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">are permitted or required by Form F-10 and the applicable rules and regulations of the
+Commission (the &#147;<B>U.S. Final Base Shelf Prospectus</B>&#148;) (the various parts of such additional
+registration statement, including all exhibits thereto and the documents incorporated by reference
+in the prospectus contained in such additional registration statement at the time it became
+effective, as amended at the time such additional registration statement became effective and
+including any post-effective amendment thereto, each in the form heretofore delivered or to be
+delivered to the Representatives, the &#147;<B>Additional Registration Statement</B>&#148;; and the Additional
+Registration Statement, together with the various parts of the Initial Registration Statement,
+including the prospectus deemed to be included in the Initial Registration Statement pursuant to
+Rule&nbsp;429 under the 1933 Act at the time the Additional Registration Statement became effective, as
+amended at the time the Additional Registration Statement became effective, the &#147;<B>Registration
+Statement</B>&#148;). The U.S. Final Base Shelf Prospectus together with the documents incorporated by
+reference therein is hereinafter referred to as the &#147;<B>U.S. Shelf Prospectus.</B>&#148; The term &#147;<B>U.S.
+Prospectus</B>&#148; shall refer to the U.S. Preliminary Prospectus (as defined below), until such time as a
+U.S. Final Prospectus (as defined below) is thereafter (whether or not such prospectus is required
+to be filed pursuant to the rules and regulations of the Commission under the 1933 Act (the &#147;<B>1933
+Act Regulations</B>&#148;)) furnished to the Underwriters after the execution of this Agreement, after which
+time the term &#147;<B>U.S. Prospectus</B>&#148; shall refer to the U.S. Final Prospectus.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, the Company (A)&nbsp;has prepared and (1)&nbsp;filed with the Qualifying Authorities
+pursuant to the Shelf Procedures, a preliminary prospectus supplement dated December&nbsp;15, 2010 (in
+the English and French languages) relating to the Securities and including the Canadian Shelf
+Prospectus (the &#147;<B>Canadian Preliminary Prospectus</B>&#148;) and (2)&nbsp;filed with the Commission, in accordance
+with General Instruction II.L. of Form F-10, a preliminary prospectus supplement dated December&nbsp;15,
+2010 consisting of the Canadian Preliminary Prospectus with such deletions therefrom and additions
+thereto as are permitted or required by Form F-10 and the applicable rules and regulations of the
+Commission (the &#147;<B>U.S. Preliminary Prospectus</B>&#148;), and (B)&nbsp;will prepare and file, (1)&nbsp;with the
+Qualifying Authorities, pursuant to the Shelf Procedures, a final prospectus supplement (in the
+English and French languages) including the Canadian Shelf Prospectus (the &#147;<B>Canadian Final
+Prospectus</B>&#148;), on or before the earlier of the date the Canadian Final Prospectus is first sent or
+delivered to a purchaser or a prospective purchaser and two Business Days (the term &#147;<B>Business Day</B>&#148;
+means any day other than a day on which banks are permitted or required to be closed in New York
+City or Calgary) after the date hereof, and (2)&nbsp;with the Commission, in accordance with General
+Instruction II.L. of Form F-10, a final prospectus supplement consisting of the Canadian Final
+Prospectus with such deletions therefrom and additions thereto as are permitted or required by Form
+F-10 and the applicable rules and regulations of the Commission (the &#147;<B>U.S. Final Prospectus</B>&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The U.S. Preliminary Prospectus and the Canadian Preliminary Prospectus are referred to herein
+as the &#147;<B>Preliminary Prospectuses</B>,&#148; and the U.S. Final Prospectus and the Canadian Final Prospectus
+are referred to herein as the &#147;<B>Final Prospectuses</B>.&#148; Any amendment to the Canadian Prospectus, any
+amended or supplemental prospectus or auxiliary material, information, evidence, return, report,
+application, statement or document that may be filed by or on behalf of the Company under the
+securities laws of the Qualifying Provinces prior to the Closing Time (as hereinafter defined) or,
+where such document is deemed to be incorporated by reference into the Canadian Prospectus from the
+date of this Agreement and prior to the expiry of the period of
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->3<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">distribution of the Securities, is referred to herein collectively as the &#147;<B>Supplementary
+Material</B>.&#148;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For purposes of this Agreement, all references to the Registration Statement, the Additional
+Registration Statement, the U.S. Preliminary Base Shelf Prospectus, the Initial U.S. Final Base
+Shelf Prospectus, the U.S. Final Base Shelf Prospectus, any U.S. Preliminary Prospectus, the U.S.
+Final Prospectus, or any amendment or supplement to any of the foregoing shall be deemed to include
+the copy filed with the Commission pursuant to its Electronic Data Gathering, Analysis and
+Retrieval system (&#147;<B>EDGAR</B>&#148;). For purposes of this Agreement, all references to the Canadian
+Preliminary Base Shelf Prospectus, the Initial Canadian Final Base Shelf Prospectus, the Amendment
+to the Canadian Final Base Shelf Prospectus, the Canadian Final Base Shelf Prospectus, the Canadian
+Preliminary Prospectus and the Canadian Final Prospectus, the documents incorporated by reference
+in the Canadian Prospectus, or any amendment or supplement to any of the foregoing (including any
+Supplementary Material), shall be deemed to include the copy filed with the Qualifying Authorities
+pursuant to the System for Electronic Document Analysis and Retrieval (&#147;<B>SEDAR</B>&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company has also prepared and filed with the Commission an appointment of agent for
+service of process upon the Company on Form F-X in conjunction with the filing of the Initial
+Registration Statement (the &#147;<B>Initial Form&nbsp;F-X</B>&#148;) and an appointment of agent for service of process
+upon the Company on Form F-X in conjunction with the filing of the Additional Registration
+Statement (the &#147;<B>Additional Form&nbsp;F-X</B>&#148; and together with the Initial Form F-X, the &#147;<B>Company Form
+F-X</B>&#148;). In connection with the filing of the Registration Statement, the Company has also caused the
+Trustee to prepare and file with the Commission a Statement of Eligibility under the Trust
+Indenture Act of 1939, as amended (the &#147;<B>Trust Indenture Act</B>&#148;), on Form T-1.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company understands that the Underwriters propose to make a public offering of the
+Securities in the United States (but not to any purchaser resident in any province or territory of
+Canada) upon the terms set forth in the General Disclosure Package (as defined herein) and the
+Final Prospectuses upon the terms and conditions of this Agreement as soon as the Representatives
+deem advisable after this Agreement has been executed and delivered.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All references in this Agreement to financial statements and schedules and other information
+which is &#147;contained&#148;, &#147;included&#148;, &#147;incorporated by reference&#148; or &#147;stated&#148; (and other references of
+like import) in the Registration Statement, the Canadian Preliminary Base Shelf Prospectus, the
+U.S. Preliminary Base Shelf Prospectus, the Initial Canadian Final Base Shelf Prospectus, the
+Initial U.S. Final Base Shelf Prospectus, the Amendment to the Canadian Final Base Shelf
+Prospectus, the Canadian Final Base Shelf Prospectus, the U.S. Final Base Shelf Prospectus, the
+Canadian Shelf Prospectus, the U.S. Shelf Prospectus, the Canadian Preliminary Prospectus, the
+Canadian Final Prospectus, the Canadian Prospectus, the U.S. Preliminary Prospectus, the U.S. Final
+Prospectus and the U.S. Prospectus (collectively, the &#147;<B>Filed Documents</B>&#148;) shall be deemed to mean
+and include all such financial statements and schedules and other information filed under the
+Securities Exchange Act of 1934, as amended (the &#147;<B>1934 Act</B>&#148;), or the securities laws applicable in
+the Qualifying Provinces and incorporated by reference in or otherwise deemed to be included in any
+one or more of the Filed Documents, and all references in this Agreement to amendments or
+supplements (and other references of like
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->4<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">import) to any one or more of the Filed Documents (including any Supplementary Material) shall
+be deemed to mean and include the filing of any document under the 1934 Act or the securities laws
+applicable in the Qualifying Provinces which is incorporated by reference or otherwise deemed to be
+included in any one or more of the Filed Documents.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 1. <U>Representations and Warranties</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Representations and Warranties by the Company</I>. The Company represents and warrants to each
+Underwriter as of the date hereof, as of the Applicable Time referred to in Section&nbsp;1(a)(i) hereof
+and as of the Closing Time referred to in Section 2(b) hereof and agrees with each Underwriter, as
+follows:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) <U>Compliance with Registration Requirements</U>. The Company is qualified to file
+a prospectus in the form of a short form shelf prospectus pursuant to the Shelf Procedures.
+The Canadian Preliminary Base Shelf Prospectus, the Initial Canadian Final Base Shelf
+Prospectus and the Amendment to the Canadian Final Base Shelf Prospectus have been filed
+with the Qualifying Authorities, for which receipts have been obtained from the Qualifying
+Authorities in respect of such Canadian Preliminary Base Shelf Prospectus, the Initial
+Canadian Final Base Shelf Prospectus and the Amendment to the Canadian Final Base Shelf
+Prospectus. The Canadian Preliminary Prospectus has been filed with the Qualifying
+Authorities and no order suspending the distribution of the Securities has been issued by
+any of the Qualifying Authorities and no proceeding for that purpose has been initiated or,
+to the knowledge of the Company, threatened by any of the Qualifying Authorities. The
+Company meets the general eligibility requirements for use of Form F-10 under the 1933 Act.
+The Registration Statement has been declared effective by the Commission under the 1933 Act
+and no stop order suspending the effectiveness of the Registration Statement has been issued
+under the 1933 Act and no proceedings for that purpose have been instituted or are pending
+or, to the knowledge of the Company, are contemplated by the Commission, and any request on
+the part of the Commission for additional information has been complied with. The Company
+has filed with the Commission the U.S. Preliminary Prospectus.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the time the Registration Statement became effective under the 1933 Act and at all
+times subsequent thereto up to and including the Closing Time referred to below: (A)&nbsp;the
+Canadian Prospectus complied and will comply in all material respects with the securities
+laws applicable in the Qualifying Provinces, including the Shelf Procedures, as interpreted
+and applied by the Qualifying Authorities; (B)&nbsp;the U.S. Prospectus conformed and will
+conform to the Canadian Prospectus except for such deletions therefrom and additions thereto
+as are permitted or required by Form F-10 and the applicable rules and regulations of the
+Commission; (C)&nbsp;the Registration Statement and any amendments or supplements thereto
+complied and will comply in all material respects with the requirements of the Trust
+Indenture Act, the 1933 Act and the 1933 Act Regulations; (D)&nbsp;neither the Registration
+Statement nor any amendment or supplement thereto contained or will contain an untrue
+statement of a material fact or omit to state a material fact required to be stated therein
+or necessary to make the statements therein not misleading; and (E)&nbsp;each of the U.S.
+Prospectus, the Canadian Prospectus and any amendment or supplement thereto (including any
+Supplementary Material), including each document
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->5<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">incorporated therein by reference, constituted and will constitute full, true and plain
+disclosure of all material facts relating to the Company and its subsidiaries, considered as
+one enterprise, and the Securities, and each of the U.S. Prospectus, the Canadian Prospectus
+or any amendment or supplement thereto (including any Supplementary Material), including
+each document incorporated therein by reference, did not and will not include an untrue
+statement of a material fact or omit to state a material fact necessary in order to make the
+statements therein, in the light of the circumstances under which they were made, not
+misleading, except that the representations and warranties contained in clauses (D)&nbsp;and (E)
+above and the paragraphs below within this subsection shall not apply to statements in or
+omissions from the Registration Statement, the U.S. Prospectus, the Canadian Prospectus, any
+Issuer Free Writing Prospectus (as defined below) and any Supplementary Material made in
+reliance upon and in conformity with information furnished in writing to the Company by any
+Underwriter through the Representatives expressly for use therein.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The U.S. Shelf Prospectus (including the prospectus or prospectuses filed as part of
+the Registration Statement or any amendment thereto) complied when so filed in all material
+respects with the 1933 Act Regulations.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As of the Applicable Time (as defined below), neither (x)&nbsp;the Issuer General Use Free
+Writing Prospectus(es) (as defined below) issued at or prior to the Applicable Time and the
+Preliminary Prospectuses as of the Applicable Time, all considered together (collectively,
+the &#147;<B>General Disclosure Package</B>&#148;), nor (y)&nbsp;any individual Issuer Limited Use Free Writing
+Prospectus, when considered together with the General Disclosure Package, included any
+untrue statement of a material fact or omitted to state any material fact necessary in order
+to make the statements therein, in the light of the circumstances under which they were
+made, not misleading. The preceding sentence does not apply to statements in or omissions
+from the General Disclosure Package or any Issuer Limited Use Free Writing Prospectus made
+in reliance upon and in conformity with information furnished in writing to the Company by
+or on behalf of any Underwriter through the Representatives expressly for use therein.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As of the time of the filing of the Final Term Sheet (as defined in Section&nbsp;3(b)), the
+General Disclosure Package, when considered together with the Final Term Sheet, will not
+include any untrue statement of a material fact or omit to state any material fact necessary
+in order to make the statements therein, in the light of the circumstances under which they
+are made, not misleading. The preceding sentence does not apply to statements in or
+omissions from the General Disclosure Package or Final Term Sheet made in reliance upon and
+in conformity with information furnished in writing to the Company by or on behalf of any
+Underwriter through the Representatives expressly for use therein.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As used in this subsection and elsewhere in this Agreement:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;<B>Applicable Time</B>&#148; means 4:00 p.m. (Eastern Time) on December&nbsp;15, 2010 or such other
+time as agreed by the Company and the Representatives.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->6<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;<B>Issuer Free Writing Prospectus</B>&#148; means any &#147;issuer free writing prospectus,&#148; as defined
+in Rule&nbsp;433 of the 1933 Act Regulations (&#147;<B>Rule&nbsp;433</B>&#148;), relating to the Securities that (i)&nbsp;is
+required to be filed with the Commission by the Company, (ii)&nbsp;is a &#147;road show that is a
+written communication&#148; within the meaning of Rule&nbsp;433(d)(8)(i), whether or not required to
+be filed with the Commission or (iii)&nbsp;is exempt from filing pursuant to Rule&nbsp;433(d)(5)(i)
+because it contains a description of the Securities or of the offering that does not reflect
+the final terms, in each case in the form filed or required to be filed with the Commission
+or, if not required to be filed, in the form retained in the Company&#146;s records pursuant to
+Rule&nbsp;433(g).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;<B>Issuer General Use Free Writing Prospectus</B>&#148; means any Issuer Free Writing Prospectus
+that is intended for general distribution to prospective investors, as evidenced by its
+being specified in Schedule&nbsp;C hereto.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#147;<B>Issuer Limited Use Free Writing Prospectus</B>&#148; means any Issuer Free Writing Prospectus
+that is not an Issuer General Use Free Writing Prospectus.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each Issuer Free Writing Prospectus, as of its issue date and at all subsequent times
+through the completion of the public offer and sale of the Securities or until any earlier
+date that the issuer notified or notifies the Representatives as described in Section&nbsp;3(e),
+did not, does not and will not include any information that conflicted, conflicts or will
+conflict with the information contained in the Registration Statement, the Preliminary
+Prospectuses or the Final Prospectuses, including any document incorporated by reference
+therein that has not been superseded or modified. The preceding sentence does not apply to
+statements in or omissions from any Issuer Free Writing Prospectus made in reliance upon and
+in conformity with information furnished in writing to the Company by or on behalf of any
+Underwriter through the Representatives expressly for use therein.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) <U>Incorporated Documents</U>. Each document filed or to be filed with the
+Qualifying Authorities and incorporated or deemed to be incorporated by reference in the
+Canadian Prospectus complied or will comply when so filed and at the Closing Time in all
+material respects with the securities laws applicable in the Qualifying Provinces as
+interpreted and applied by the Qualifying Authorities, respectively, and none of such
+documents contained or will contain at the time of its filing and at the Closing Time any
+untrue statement of a material fact or omitted or will omit to state a material fact
+required to be stated therein or necessary to make the statements therein, in light of the
+circumstances under which they were or are made, not misleading.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The documents incorporated or deemed to be incorporated by reference in the
+Registration Statement, the U.S. Shelf Prospectus, the U.S. Preliminary Prospectus and the
+U.S. Final Prospectus or otherwise deemed to be a part thereof or included therein, at the
+time they were or hereafter are filed with the Commission, complied and will comply in all
+material respects with the requirements of the 1934 Act, and the rules and regulations of
+the Commission thereunder (the &#147;<B>1934 Act Regulations</B>&#148;), and, when read together with the
+other information in (A)&nbsp;the U.S. Shelf Prospectus at the time the Registration Statement
+became effective, (B)&nbsp;the General Disclosure Package at the
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->7<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">Applicable Time, and (C)&nbsp;the U.S. Final Prospectus as of its date and at the Closing
+Time, did not and will not contain an untrue statement of a material fact or omit to state a
+material fact required to be stated therein or necessary to make the statements therein not
+misleading.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) <U>Independent Accountants for the Company</U>. KPMG LLP, who have audited the
+Company&#146;s consolidated financial statements and supporting schedules, if any, included or
+incorporated by reference in the Registration Statement, the General Disclosure Package and
+the Final Prospectuses, are independent public accountants as required by the 1933 Act and
+the 1933 Act Regulations and are independent with respect to the Company within the meaning
+of the Canada Business Corporations Act, as amended (the &#147;<B>CBCA</B>&#148;), and applicable Canadian
+securities laws and regulations and policies thereunder and there has never been any
+reportable event (within the meaning of National Instrument 51-102) with the present or any
+former auditors of the Company.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iv) <U>Independent Accountants for AWB</U>. Ernst &#038; Young, who have audited AWB&#146;s
+consolidated financial statements at September&nbsp;30, 2010 and 2009 and for the financial years
+then ended and the supporting schedules, if any, included or incorporated by reference in
+the Registration Statement, the General Disclosure Package and the Final Prospectuses, have
+not contravened the auditor independence requirements of the Corporations Act
+(2001)(Australia) in respect of AWB for such financial years.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(v) <U>Company Financial Statements</U>. The consolidated financial statements of the
+Company included or incorporated by reference in the Registration Statement, the General
+Disclosure Package and the Final Prospectuses, together with the related schedules, if any,
+and notes thereto, present fairly the financial position of the Company and its consolidated
+subsidiaries at the dates indicated and the consolidated statement of operations, retained
+earnings and cash flows of the Company and its consolidated subsidiaries present fairly the
+results of operations for the periods specified (subject, in the case of unaudited
+statements, to normal year-end adjustments and to any other adjustments described therein,
+including the notes thereto); such consolidated financial statements have been prepared in
+accordance with generally accepted accounting principles in Canada (&#147;<B>Canadian GAAP</B>&#148;) applied
+on a consistent basis throughout the periods involved (except as may be indicated in the
+notes thereto); and such consolidated financial statements have been reconciled to generally
+accepted accounting principles in the United States of America (&#147;<B>U.S. GAAP</B>&#148;) in accordance
+with Item&nbsp;18 of Form 20-F under the 1934 Act. The selected historical consolidated financial
+information included in the Registration Statement, the General Disclosure Package and the
+Final Prospectuses presents fairly the information shown therein and has been compiled on a
+basis consistent with that of the consolidated financial statements included or incorporated
+by reference in the Registration Statement, the General Disclosure Package and the Final
+Prospectuses. The pro forma consolidated financial statements and the related notes thereto
+included or incorporated by reference in the Registration Statement, the General Disclosure
+Package and the Final Prospectuses present fairly the information shown therein, have been
+prepared in accordance with the rules of the Qualifying Authorities with respect to pro
+forma consolidated financial statements and have been properly compiled on the bases
+described therein, and the assumptions used in the preparation thereof are reasonable and
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->8<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">the adjustments used therein are appropriate to give effect to the transactions and
+circumstances referred to therein. The selected pro forma consolidated financial information
+included in the Registration Statement, the General Disclosure Package and the Final
+Prospectuses presents fairly the information shown therein and has been compiled on a basis
+consistent with that of the pro forma consolidated financial statements and the related
+notes included or incorporated by reference in the Registration Statement, the General
+Disclosure Package and the Final Prospectuses. There have been no changes in the
+consolidated assets or liabilities of the Company from the position thereof as set forth in
+the consolidated financial statements included or incorporated by reference in the
+Registration Statement, the General Disclosure Package or the Final Prospectuses, except
+changes arising from transactions in the ordinary course of business which, in the
+aggregate, have not been material to the Company and its subsidiaries (taken together as a
+single enterprise) and except changes that are disclosed in the General Disclosure Package
+and the Final Prospectuses.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vi) <U>AWB Financial Statements</U>. The consolidated financial statements of AWB
+included in the Registration Statement, the General Disclosure Package and the Final
+Prospectuses, together with the related notes, (i)&nbsp;present fairly in all material respects
+the financial position and results of operations of AWB and its consolidated subsidiaries at
+the dates indicated and for the periods specified; (ii)&nbsp;have been prepared in accordance
+with the Australian equivalent to International Financial Reporting Standards (&#147;<B>A-IFRS</B>&#148;)
+applied on a consistent basis throughout the periods involved (except as may be indicated in
+the notes thereto); and (iii)&nbsp;have been reconciled to Canadian GAAP.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(vii) <U>No Material
+Adverse Change in Business of the Company</U>. Since the respective dates as of which
+information is given in the Registration Statement, the General Disclosure Package, the
+Final Prospectuses and the Supplementary Material, except as otherwise stated therein, (A)
+there has been no material adverse change in the condition, financial or otherwise, or in
+the earnings, business affairs or business prospects of the Company and its subsidiaries
+considered as one enterprise, whether or not arising in the ordinary course of business (a
+&#147;<B>Material Adverse Effect</B>&#148;), (B)&nbsp;there have been no transactions entered into by the Company
+or any of its subsidiaries, other than those in the ordinary course of business, which are
+material with respect to the Company and its subsidiaries considered as one enterprise, and
+(C)&nbsp;except for regular semi-annual dividends on the Company&#146;s issued and outstanding common
+shares (the &#147;<B>Common Shares</B>&#148;) in amounts per share that are consistent with past practice,
+there has been no dividend or distribution of any kind declared, paid or made by the Company
+on any class of its share capital.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(viii) <U>Good Standing of the Company</U>. The Company has been duly organized and is
+validly existing as a corporation in good standing under the CBCA and has the corporate
+power and authority to own, lease and operate its properties and to conduct its business as
+described in the General Disclosure Package and the Final Prospectuses and to enter into and
+perform its obligations under this Agreement; and the Company is duly qualified or
+registered as an extra-provincial corporation or a foreign corporation to transact business
+and is in good standing in each jurisdiction in which such qualification or registration is
+required, whether by reason of the ownership or leasing of property or
+the conduct of business, except where the failure so to qualify or register or to be in
+good standing would not result in a Material Adverse Effect.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->9<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ix) <U>Good Standing of Subsidiaries</U>. The following is a list of the Company&#146;s
+wholly-owned or majority-owned subsidiaries which constitute a &#147;significant subsidiary&#148; of
+the Company (as such term is defined under Rule&nbsp;1-02 of Regulation&nbsp;S-X under the 1934 Act)
+and subsidiaries or joint ventures that are otherwise material: the Agrium Partnership (as
+defined in the Preliminary Prospectuses and the Final Prospectuses) and its subsidiaries
+(the &#147;<B>Partnership</B>&#148;)), Agrium U.S. Inc., Crop Production Services, Inc., Profertil S.A.,
+Cominco Fertilizer Partnership, Loveland Products, Inc., AWB and AWB (Geneva) S.A.
+(&#147;<B>AWB Geneva</B>&#148;) (each a &#147;<B>Subsidiary</B>&#148; and collectively the &#147;<B>Subsidiaries</B>&#148;). All other
+wholly-owned or majority-owned subsidiaries of the Company do not, singly, constitute
+&#147;significant subsidiaries&#148; (as such term is defined under Rule&nbsp;1-02 of Regulation&nbsp;S-X under
+the 1934 Act). Each Subsidiary has been duly organized and is validly existing as a
+corporation or partnership in good standing under the laws of the jurisdiction of its
+incorporation or formation, has the corporate or partnership power and authority to own,
+lease and operate its properties and to conduct its business as described in the General
+Disclosure Package and the Final Prospectuses and is duly qualified as an extra-provincial
+or foreign corporation or partnership to transact business and is in good standing in each
+jurisdiction in which such qualification is required, whether by reason of the ownership or
+leasing of property or the conduct of business or otherwise, except where the failure so to
+qualify, register or be in good standing would not result in a Material Adverse Effect;
+except as otherwise disclosed in the General Disclosure Package and the Final Prospectuses,
+all of the issued and outstanding share capital or partnership interests of each such
+Subsidiary (other than AWB or AWB Geneva), as applicable, and to the Company&#146;s knowledge, of
+AWB and AWB Geneva, has been duly authorized and validly issued, is fully paid and
+non-assessable and all (or, in the case of Profertil S.A. 50%) of the issued and outstanding
+share capital or partnership interests of each such Subsidiary is owned by the Company
+directly or through subsidiaries, free and clear of any security interest, mortgage, pledge,
+lien, encumbrance, claim or equity; none of the outstanding share capital or partnership
+interests of any Subsidiary (other than AWB or AWB Geneva), or to the Company&#146;s knowledge,
+of AWB or AWB Geneva, was issued in violation of the preemptive or similar rights of any
+securityholder of such Subsidiary or of AWB or of AWB Geneva.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(x) <U>Capitalization</U>. The authorized, issued and outstanding share capital of the
+Company is as set forth in the General Disclosure Package and the Final Prospectuses under
+the caption &#147;Consolidated Capitalization&#148; in the column entitled &#147;Actual&#148; (except for
+subsequent issuances, if any, pursuant to (A)&nbsp;reservations, agreements or employee benefit
+plans referred to in the General Disclosure Package and the Final Prospectuses or (B)&nbsp;the
+exercise of convertible securities or options referred to in the General Disclosure Package
+and the Final Prospectuses). All of the issued and outstanding shares in the capital of the
+Company have been duly authorized and validly issued and are fully paid and non-assessable
+and have been issued in compliance with all U.S. and Canadian securities laws; none of the
+outstanding shares in the capital of the Company was issued in violation of the preemptive
+or other similar rights of any securityholder of the Company.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->10<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xi) <U>Authorization of Agreement</U>. The Company has the corporate power and
+authority to execute, deliver and perform its obligations under this Agreement and this
+Agreement has been duly authorized, executed and delivered by the Company.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xii) <U>Authorization of the Indenture</U>. The Indenture has been duly authorized by
+the Company and constitutes a valid and binding agreement of the Company, enforceable
+against the Company in accordance with its terms, except as the enforcement thereof may be
+limited by bankruptcy, insolvency (including, without limitation, all laws relating to
+fraudulent transfers), reorganization, moratorium or similar laws affecting enforcement of
+creditors&#146; rights generally and except as enforcement thereof is subject to general
+principles of equity (regardless of whether enforcement is considered in a proceeding in
+equity or at law); the Indenture is qualified under the Trust Indenture Act.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xiii) <U>Authorization of the Securities</U>. The Securities have been duly
+authorized and, at the Closing Time, will have been duly executed by the Company and, when
+authenticated, issued and delivered in the manner provided for in the Indenture and
+delivered against payment of the purchase price therefor as provided in this Agreement, will
+constitute valid and binding obligations of the Company, enforceable against the Company in
+accordance with their terms, except as the enforcement thereof may be limited by bankruptcy,
+insolvency (including, without limitation, all laws relating to fraudulent transfers),
+reorganization, moratorium or similar laws affecting enforcement of creditors&#146; rights
+generally and except as enforcement thereof is subject to general principles of equity
+(regardless of whether enforcement is considered in a proceeding in equity or at law), and
+will be in the form contemplated by, and entitled to the benefits of, the Indenture.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xiv) <U>Description of the Securities and the Indenture</U>. The Indenture conforms,
+and the Securities will conform, in all material respects to the respective statements
+relating thereto contained in the General Disclosure Package and the Final Prospectuses and
+will be in substantially the respective forms filed or incorporated by reference, as the
+case may be, as exhibits to the Registration Statement.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xv) <U>Absence of Defaults and Conflicts</U>. Neither the Company nor any Subsidiary
+is in violation of its charter or by-laws or partnership agreement, as the case may be, or
+in default in the performance or observance of any obligation, agreement, covenant or
+condition contained in any contract, indenture, mortgage, deed of trust, loan or credit
+agreement, note, lease, license or other agreement or instrument to which the Company or any
+Subsidiary is a party or by which it or any Subsidiary may be bound, or to which any of the
+property or assets of the Company or any Subsidiary is subject (collectively, &#147;<B>Agreements
+and Instruments</B>&#148;) except for such defaults that would not result in a Material Adverse
+Effect; and the execution, delivery and performance of this Agreement, the Indenture and the
+Securities and the consummation of the transactions contemplated herein, therein and in the
+General Disclosure Package and the Final Prospectuses (including the issuance and sale of
+the Securities and the use of the proceeds from the sale of the Securities as described in
+the General Disclosure Package and the Final Prospectuses under the caption &#147;Use of
+Proceeds&#148;) and compliance by the Company with its obligations hereunder and under the
+Indenture and the Securities have
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->11<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">been duly authorized by all necessary corporate action and do not and will not, whether
+with or without the giving of notice or passage of time or both, conflict with or constitute
+a breach of, or default or Repayment Event (as defined below) under, or result in the
+creation or imposition of any lien, charge or encumbrance upon any property or assets of the
+Company or any subsidiary pursuant to, the Agreements and Instruments (except for such
+conflicts, breaches or defaults, Repayment Events or liens, charges or encumbrances that
+would not result in a Material Adverse Effect), nor will such action result in any violation
+of or conflict with the provisions of the charter or by-laws of the Company or any of its
+subsidiaries or any applicable law, statute, rule, regulation, judgment, order, writ or
+decree of any government, government instrumentality or court, domestic or foreign, or stock
+exchange, having jurisdiction over the Company or any of its subsidiaries or any of their
+assets, properties or operations. As used herein, a &#147;<B>Repayment Event</B>&#148; means any event or
+condition which gives the holder of any note, debenture or other evidence of indebtedness
+(or any person acting on such holder&#146;s behalf) the right to require the repurchase,
+redemption or repayment of all or a portion of such indebtedness by the Company or any of
+its subsidiaries.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xvi) <U>Absence of Labor Dispute</U>. No labor dispute with the employees of the
+Company or any of its subsidiaries exists or, to the knowledge of the Company, is imminent,
+and the Company is not aware of any existing or imminent labor disturbance by the employees
+of any of its or any of its subsidiaries&#146; principal suppliers, manufacturers, customers or
+contractors, which, in each case, may reasonably be expected to result in a Material Adverse
+Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xvii) <U>Absence of Proceedings</U>. There is no action, suit, proceeding, inquiry or
+investigation before or brought by any court or governmental agency, governmental
+instrumentality or body, domestic or foreign, now pending, or, to the knowledge of the
+Company, threatened, against or affecting the Company or any of its subsidiaries, which is
+required to be disclosed in the Registration Statement, the General Disclosure Package or
+the Final Prospectuses or the Supplementary Material (other than as disclosed therein), or
+which might reasonably be expected to result in a Material Adverse Effect, or, with respect
+to the Company or any of its subsidiaries, which might reasonably be expected to materially
+and adversely affect the consummation of the transactions contemplated in this Agreement or
+the performance by the Company of its obligations hereunder; the aggregate of all pending
+legal or governmental proceedings to which the Company or any of its subsidiaries is a party
+or of which any of their respective property or assets is the subject which are not
+described in the Registration Statement, the General Disclosure Package or the Final
+Prospectuses or the Supplementary Material, including ordinary routine litigation incidental
+to the business of the Company, could not reasonably be expected to result in a Material
+Adverse Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xviii) <U>Accuracy of Exhibits</U>. There are no contracts or documents which are
+required to be described in the Registration Statement, the General Disclosure Package or
+the Final Prospectuses or to be filed as exhibits thereto which have not been so described
+and filed as required.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->12<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xix) <U>Possession of Intellectual Property</U>. The Company and its subsidiaries
+(other than AWB and its subsidiaries) and, to the Company&#146;s knowledge, AWB and its
+subsidiaries, own or possess, or can acquire on reasonable terms, adequate patents, patent
+rights, licenses, inventions, copyrights, know-how (including trade secrets and other
+unpatented and/or unpatentable proprietary or confidential information, systems or
+procedures), trademarks, service marks, trade names or other intellectual property
+(collectively, &#147;<B>Intellectual Property</B>&#148;) necessary to carry on the business now operated by
+them except, in each case, as would not have a Material Adverse Effect and neither the
+Company nor any of its subsidiaries (other than AWB and its subsidiaries) nor, to the
+Company&#146;s knowledge, AWB or any of its subsidiaries, has received any notice or is otherwise
+aware of any infringement of or conflict with asserted rights of others with respect to any
+Intellectual Property or of any facts or circumstances which would render any Intellectual
+Property invalid or inadequate to protect the interest of the Company or any of its
+subsidiaries (other than AWB and its subsidiaries) or, to the Company&#146;s knowledge, AWB or
+any of its subsidiaries, therein, and which infringement or conflict (if the subject of any
+unfavorable decision, ruling or finding) or invalidity or inadequacy, singly or in the
+aggregate, would result in a Material Adverse Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xx) <U>No Stabilization or Manipulation</U>. Neither the Company nor any affiliate of
+the Company has taken, nor will the Company or any affiliate take, directly or indirectly
+any action which is designed to or which has constituted or that might be reasonably
+expected to cause or result in stabilization or manipulation of the price of any security of
+the Company to facilitate the sale or resale of the Securities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxi) <U>Absence of Further Requirements</U>. No filing with, or authorization,
+approval, consent, license, order, registration, qualification or decree of, any government,
+governmental instrumentality, agency, authority or court of (A)&nbsp;any of the Qualifying
+Provinces, (B)&nbsp;the federal government of Canada, (C)&nbsp;the federal government of the United
+States or (D)&nbsp;the various States of the United States in which the Securities are to be
+offered for sale or sold, or of any political subdivision of any of the foregoing is
+necessary or required for the performance by the Company of its obligations hereunder, in
+connection with the offering, valid authorization, issuance, sale and delivery of the
+Securities or the consummation of the transactions contemplated by this Agreement or for the
+due execution, delivery or performance of this Agreement or the performance of the Indenture
+by the Company, in each case as contemplated by the General Disclosure Package and the Final
+Prospectuses, except such as have been already obtained or as may be required under the 1933
+Act, the 1933 Act Regulations, the state securities laws of the various States of the United
+States, the CBCA and the securities laws of the Qualifying Provinces.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxii) <U>Possession of Licenses and Permits</U>. The Company and its subsidiaries
+possess such permits, certificates, licenses, approvals, consents and other authorizations
+(collectively, &#147;<B>Governmental Licenses</B>&#148;) issued by the appropriate federal, provincial,
+state, local or foreign regulatory agencies or bodies necessary to conduct the business now
+operated by them, except where the failure to so possess would not, singly or in the
+aggregate, result in a Material Adverse Effect; the Company and its subsidiaries are in
+compliance with the terms and conditions of all such Governmental Licenses, except
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->13<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">where the failure so to comply would not, singly or in the aggregate, result in a
+Material Adverse Effect; all of the Governmental Licenses are valid and in full force and
+effect, except where the invalidity of such Governmental Licenses or the failure of such
+Governmental Licenses to be in full force and effect would not, singly or in the aggregate,
+result in a Material Adverse Effect; and neither the Company nor any of its subsidiaries has
+received any notice of proceedings relating to the revocation or modification of any such
+Governmental Licenses which, singly or in the aggregate, if the subject of an unfavorable
+decision, ruling or finding, would result in a Material Adverse Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxiii) <U>Title to Property</U>. The Company and its subsidiaries (other than AWB and
+its subsidiaries) and, to the Company&#146;s knowledge, AWB and its subsidiaries, have good and
+marketable title to all real property owned by the Company and its subsidiaries (other than
+AWB and its subsidiaries) and, to the Company&#146;s knowledge, AWB and its subsidiaries, and
+good title to all other properties owned by them, in each case free and clear of all
+mortgages, pledges, liens, security interests, claims, restrictions or encumbrances of any
+kind except such as (a)&nbsp;are described in the General Disclosure Package and the Final
+Prospectuses or (b)&nbsp;do not, singly or in the aggregate, affect the value of such property
+and do not interfere with the use made and proposed to be made of such property by the
+Company, or any of its subsidiaries (other than AWB and its subsidiaries), or AWB or any of
+its subsidiaries, except in each case that would not have a Material Adverse Effect; and
+all of the leases and subleases of the Company and its subsidiaries, considered as one
+enterprise, and under which the Company or any of its subsidiaries holds properties
+described in the General Disclosure Package and the Final Prospectuses, are in full force
+and effect except as would not have Material Adverse Effect, and neither the Company nor any
+of its subsidiaries (other than AWB and its subsidiaries) nor, to the Company&#146;s knowledge,
+AWB or any of its subsidiaries has any notice of any claim of any sort that has been
+asserted by anyone adverse to the rights of the Company or any of its subsidiaries under any
+of the leases or subleases mentioned above, or affecting or questioning the rights of the
+Company or such subsidiary to the continued possession of the leased or subleased premises
+under any such lease or sublease except in each case as would not have a Material Adverse
+Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxiv) <U>Compliance with Helms-Burton Act</U>. Neither the Company nor any of its
+affiliates (other than AWB and its subsidiaries) nor, to the Company&#146;s knowledge, AWB or any
+of its affiliates, is in violation of the provisions of the U.S. Cuban Liberty and
+Democratic Solidarity (LIBERTAD)&nbsp;Act of 1996.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxv) <U>Investment Company Act</U>. The Company is not required, and upon the
+issuance and sale of the Securities as herein contemplated and the application of the net
+proceeds therefrom as described in the General Disclosure Package and the Final Prospectuses
+will not be required, to register as an &#147;investment company&#148; or an entity &#147;controlled&#148; by an
+&#147;investment company&#148; as such terms are defined in the United States Investment Company Act
+of 1940, as amended (the &#147;<B>1940 Act</B>&#148;).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxvi) <U>Environmental Laws</U>. Except as described in the General Disclosure
+Package and the Final Prospectuses and except as would not, singly or in the aggregate,
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->14<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">result in a Material Adverse Effect, (A)&nbsp;neither the Company nor any of its
+subsidiaries is in violation of any federal, provincial, state, local, municipal or foreign
+statute, law, rule, regulation, ordinance, code, policy or rule of common law or civil law
+or any judicial or administrative interpretation thereof, including any judicial or
+administrative order, consent, decree or judgment, relating to pollution or protection of
+human health, the environment (including, without limitation, ambient air, surface water,
+groundwater, land surface or subsurface strata) or wildlife, including, without limitation,
+laws and regulations relating to the release or threatened release of chemicals, pollutants,
+contaminants, wastes, toxic substances, hazardous substances, petroleum or petroleum
+products, asbestos-containing materials or mold (collectively, &#147;<B>Hazardous Materials</B>&#148;) or to
+the manufacture, processing, distribution, use, treatment, storage, disposal, transport or
+handling of Hazardous Materials (collectively, &#147;<B>Environmental Laws</B>&#148;), (B)&nbsp;the Company and
+its subsidiaries have all permits, authorizations and approvals required under any
+applicable Environmental Laws and are each in compliance with their requirements, (C)&nbsp;there
+are no pending or, to the knowledge of the Company and its subsidiaries, threatened
+administrative, regulatory or judicial actions, suits, demands, demand letters, claims,
+liens, notices of noncompliance or violation, investigations or proceedings relating to any
+Environmental Law against the Company or any of its subsidiaries and (D)&nbsp;to the knowledge of
+the Company and its subsidiaries, there are no events or circumstances that would reasonably
+be expected to form the basis of an order for clean-up or remediation, or an action, suit or
+proceeding by any private party or governmental body or agency, against or affecting the
+Company or any of its subsidiaries relating to Hazardous Materials or any Environmental
+Laws. In the ordinary course of its business, the Company periodically reviews the effect
+of Environmental Laws on the business, operations and properties of the Company and its
+subsidiaries, in the course of which it identifies and evaluates associated costs and
+liabilities (including, without limitation, any capital or operating expenditures required
+for clean-up, closure of properties or compliance with Environmental Laws, or any permit,
+license or approval, any related constraints on operating activities and any potential
+liabilities to third parties); on the basis of such review, the Company has reasonably
+concluded that such associated costs and liabilities that have not been accounted for would
+not, singly or in the aggregate, have a Material Adverse Effect.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxvii) <U>Registration Rights</U>. There are no persons with registration rights or
+other similar rights to have any securities registered or qualified for distribution
+pursuant to the Registration Statement, the Canadian Prospectus or otherwise registered by
+the Company under the 1933 Act or qualified for distribution under any Canadian provincial
+securities legislation.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxviii) <U>Other Reports and Information</U>. There are no reports or information
+that, in accordance with the requirements of applicable Canadian securities legislation,
+must be made publicly available in connection with the offering of the Securities that have
+not been made publicly available as required; no material change reports or other documents
+have been filed on a confidential basis with any of the Qualifying Authorities which as at
+the date hereof remain confidential; there are no documents required to be filed with the
+Qualifying Authorities or with any other Canadian provincial securities regulatory authority
+in connection with the Canadian Prospectus that have not been filed as required;
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->15<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">there are no contracts, documents or other materials required to be described or
+referred to in the Registration Statement, the General Disclosure Package and the Final
+Prospectuses or to be filed as exhibits to the Registration Statement that are not
+described, referred to or filed as required.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxix) <U>Accounting Controls</U>. (i)&nbsp;The Company and the Subsidiaries (other than
+AWB and AWB Geneva) maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that (1)&nbsp;transactions are executed in accordance with management&#146;s
+general or specific authorization; (2)&nbsp;transactions are recorded as necessary to permit
+preparation of financial statements in conformity with Canadian GAAP and reconciled to U.S.
+GAAP and to maintain accountability for assets; (3)&nbsp;access to assets is permitted only in
+accordance with management&#146;s general or specific authorization; and (4)&nbsp;the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences. Since the end of the Company&#146;s
+most recent audited fiscal year (1)&nbsp;there has been no material weakness in the Company&#146;s
+internal control over financial reporting (whether or not remedied) and (2)&nbsp;there has been
+no change in the Company&#146;s internal control over financial reporting that has materially
+affected, or is reasonably likely to materially affect, the Company&#146;s internal control over
+financial reporting; (ii)&nbsp;to the Company&#146;s knowledge, AWB and its subsidiaries, maintain a
+system of internal accounting controls sufficient to provide reasonable assurances that (1)
+material transactions are executed in accordance with management&#146;s general or specific
+authorization; (2)&nbsp;material transactions are recorded as necessary to permit preparation of
+financial statements in conformity with A-IFRS and reconciled to Canadian GAAP and to
+maintain accountability for assets; (3)&nbsp;access to assets is permitted only in accordance
+with management&#146;s general or specific authorization; and (4)&nbsp;the recorded accountability for
+assets is compared with the existing assets at reasonable intervals and appropriate action
+is taken with respect to any differences..
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxx) <U>Disclosure Controls</U>. The Company and the Subsidiaries (other than AWB
+and AWB Geneva) maintain disclosure controls and procedures as required by Rule&nbsp;13a-15 or
+Rule&nbsp;15d-15 of the 1934 Act Regulations, as applicable, and as contemplated by the
+certifications required under Form 52-109F1 and Form 52-109F2 under Multilateral Instrument
+52-109 &#151; Certification of Disclosures in Issuer&#146;s Annual and Interim Filings, as
+applicable; such controls and procedures are effective to provide reasonable assurances that
+all material information concerning the Company and the Subsidiaries (other than AWB and AWB
+Geneva) is made known, on a timely basis, to the individuals responsible for the preparation
+of the Company&#146;s filings with the Commission and the Qualifying Authorities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxi) <U>Compliance with the Sarbanes-Oxley Act</U>. There is and has been no failure
+on the part of the Company (other than AWB or and its subsidiaries) or any of the Company&#146;s
+directors or officers (other than the directors and officers of AWB and its subsidiaries),
+in their capacities as such, to comply in all material respects with any provision of the
+Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated in connection therewith
+(the &#147;<B>Sarbanes-Oxley Act</B>&#148;), including Section&nbsp;402 related to loans and Sections&nbsp;302 and 906
+related to certifications.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->16<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxii) <U>Taxes</U>. There are no transfer taxes or other similar fees or charges
+under Canadian federal laws or the laws of any province or any political subdivision thereof
+or U.S. federal laws or the laws of any state or any political subdivision thereof, required
+to be paid in connection with the execution and delivery of this Agreement or the issuance
+by the Company or sale by the Company of the Securities. No stamp duty, registration or
+documentary taxes, duties or similar charges are payable under the federal laws of Canada or
+the laws of any province in connection with the creation, issuance, sale and delivery to the
+Underwriters of the Securities or the authorization, execution, delivery and performance of
+this Agreement or the resale of Securities by an Underwriter to U.S. residents.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxiii) <U>Statistical and Market-Related Data</U>. Any statistical, industry and
+market-related data included in the Registration Statement, the General Disclosure Package
+and the Final Prospectuses is based on or derived from sources that the Company believes to
+be reliable and accurate, and the Company has obtained the written consent to the use of
+such data from such sources, to the extent any such consent is required.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxiv) <U>Foreign Corrupt Practices Act</U>. Neither the Company nor, to the
+knowledge of the Company, any director, officer, agent, employee, affiliate or other person
+acting on behalf of the Company or its subsidiaries is aware of or has taken any action,
+directly or indirectly, that would result in a violation by such persons of, as applicable:
+(i)&nbsp;the Foreign Corrupt Practices Act of 1977, as amended, and the rules and regulations
+thereunder (the &#147;<B>FCPA</B>&#148;), but solely to the extent such persons were subject to the
+requirements thereof at the time of such action or (ii)&nbsp;any Australian law equivalent to the
+FCPA, but solely to the extent such persons were subject to the requirements thereof at the
+time of such action. Clause (i)&nbsp;shall include: making use of the mails or any means or
+instrumentality of interstate commerce corruptly in furtherance of an offer, payment,
+promise to pay or authorization of the payment of any money, or other property, gift,
+promise to give, or authorization of the giving of anything of value to any &#147;foreign
+official&#148; (as such term is defined in the FCPA) or any foreign political party or official
+thereof or any candidate for foreign political office, in contravention of the FCPA and the
+Company and, to the knowledge of the Company, its affiliates have conducted their businesses
+in compliance with the FCPA and have instituted and maintain policies and procedures
+designed to ensure, and which are reasonably expected to continue to ensure, continued
+compliance therewith.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxv) <U>OFAC</U>. Neither the Company nor, to the knowledge of the Company, any
+director, officer, agent, employee, affiliate or person acting on behalf of the Company or
+its subsidiaries is currently subject to any U.S. sanctions administered by the Office of
+Foreign Assets Control of the U.S. Treasury Department (&#147;<B>OFAC</B>&#148;); and the Company will not
+directly or indirectly use the proceeds of the offering, or lend, contribute or otherwise
+make available such proceeds to any subsidiary, joint venture partner or other person or
+entity, for the purpose of financing the activities of any person currently subject to any
+U.S. sanctions administered by OFAC.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->17<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxvi) <U>No Broker</U>. Other than as contemplated by this Agreement, there is no
+broker, finder or other party that is entitled to receive from the Company any brokerage or
+finder&#146;s fee or other fee or commission as a result of the sale of Securities contemplated
+by this Agreement.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxvii) <U>Pending Proceedings and Examinations</U>. The Registration Statement is
+not the subject of a pending proceeding or examination under Section 8(d) or 8(e) of the
+1933 Act, and the Company is not the subject of a pending proceeding under Section&nbsp;8A of the
+1933 Act in connection with the offering of the Securities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxviii) <U>Relationships with Underwriters</U>. Except as disclosed in the General
+Disclosure Package and the Final Prospectuses, neither the Company nor any of the
+Subsidiaries (i)&nbsp;has any material lending or other relationship with any bank or lending
+affiliate of any of the Underwriters, or (ii)&nbsp;intends to use any of the proceeds from the
+sale of the Securities hereunder to repay any outstanding debt owed to any affiliate of any
+of the Underwriters.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(xxxix) <U>French Language Documents</U>. The French language versions of the
+Canadian Preliminary Prospectus and the Canadian Final Prospectus, including each document
+incorporated therein by reference therein and the financial statements and other financial
+data contained therein, is in all material respects a complete and proper or complete and
+accurate translation of the English language versions thereof.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Officer&#146;s Certificates</I>. Any certificate signed by any officer of the Company or any of its
+Subsidiaries delivered to the Representatives or to counsel for the Underwriters shall be deemed a
+representation and warranty by the Company to each Underwriter as to the matters covered thereby.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 2. <U>Sale and Delivery to Underwriters; Closing.</U>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Securities</I>. On the basis of the representations and warranties herein contained and
+subject to the terms and conditions herein set forth, the Company agrees to sell to each
+Underwriter, severally and not jointly, and each Underwriter, severally and not jointly, agrees to
+purchase from the Company, at the prices set forth in Schedule&nbsp;B, the aggregate principal amount of
+the Securities set forth in Schedule&nbsp;A opposite the name of such Underwriter, plus any additional
+principal amount of the Securities which such Underwriter may become obligated to purchase pursuant
+to the provisions of Section&nbsp;10 hereof.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Payment</I>. Payment of the purchase price for, and delivery of certificates for, the
+Securities shall be made at the offices of Blake, Cassels &#038; Graydon LLP, Calgary, Alberta, Canada,
+or at such other place as shall be agreed upon by the Representatives and the Company, at 9:00 a.m.
+(Eastern time) on the third Business Day after the date hereof (unless postponed in accordance with
+the provisions of Section&nbsp;10 hereof), or at such other time not later than ten Business Days after
+such date as shall be agreed upon by the Representatives and the Company (such time and date of
+payment and delivery being herein called the &#147;<B>Closing Time</B>&#148;).
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payment shall be made to the Company by wire transfer of immediately available funds to a bank
+account designated by the Company, against delivery to the Representatives for
+</DIV>
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->18<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">the respective accounts of the Underwriters of one or more certificates for the Securities to
+be purchased by them. It is understood that each Underwriter has authorized the Representatives,
+for its account, to accept delivery of, accept receipt for, and make payment of the purchase price
+for, the Securities which it has agreed to purchase. The Representatives individually, and not as
+representatives of the Underwriters, may (but shall not be obligated to) make payment of the
+purchase price for the Securities to be purchased by any Underwriter whose funds have not been
+received by the Closing Time, but such payment shall not relieve such Underwriter from its
+obligations hereunder.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The services provided by the Underwriters in connection herewith will not be subject to the
+goods and services tax provided for in the <I>Excise Tax Act </I>(Canada) and taxable supplies provided
+will be incidental to the exempt financial services provided.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;<I>Denominations; Registration</I>. Certificates for the Securities shall be in such
+denominations ($2,000 and integral multiples of $1,000) as the Representatives may request in
+writing at least one full Business Day before the Closing Time. The certificates representing the
+Securities shall be registered in the name of Cede &#038; Co. pursuant to the DTC Agreement and shall be
+made available for examination and packaging by the Representatives in The City of New York not
+later than 10:00&nbsp;a.m. (Eastern time) on the Business Day prior to the Closing Time.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 3. <U>Covenants of the Company</U>. The Company covenants with each Underwriter as
+follows:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Compliance with Securities Regulations and Commission Requests</I>. The Company, subject to
+Section&nbsp;3(b), will comply with the requirements of the Shelf Procedures and General Instruction
+II.L. of Form F-10, and the Company will notify the Representatives immediately, and confirm the
+notice in writing, (i)&nbsp;when any post-effective amendment to the Registration Statement or new
+registration statement relating to the Securities shall have been filed with the Commission or
+shall have become effective, or when any supplement or amendment to the U.S. Prospectus or the
+Canadian Prospectus or any amended U.S. Prospectus or Canadian Prospectus or any Supplementary
+Material shall have been filed, (ii)&nbsp;of the receipt of any comments from the Qualifying Authorities
+or the Commission, (iii)&nbsp;of any request by the Qualifying Authorities to amend or supplement the
+Canadian Prospectus or for additional information or of any request by the Commission for any
+amendment to the Registration Statement or the filing of a new registration statement or any
+amendment or supplement to the U.S. Prospectus or any document incorporated by reference therein or
+otherwise deemed to be a part thereof or for additional information, (iv)&nbsp;of the issuance by the
+Commission of any stop order suspending the effectiveness of the Registration Statement or such new
+registration statement or of any order preventing or suspending the use of any preliminary
+prospectus, or of the suspension of the qualification of the Securities for offering or sale in any
+jurisdiction, or of the institution or, to the knowledge of the Company, the initiation or
+threatening of any proceedings for any of such purposes or of any examination pursuant to Section
+8(e) of the 1933 Act concerning the Registration Statement, (v)&nbsp;if the Company becomes the subject
+of a proceeding under Section&nbsp;8A of the 1933 Act in connection with the offering of the Securities
+and (vi)&nbsp;of the issuance by the Qualifying Authorities or any stock exchange in Canada or the
+United States of any order having the effect of ceasing or suspending the distribution of the
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->19<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Securities or the trading in the Common Shares or any other securities of the Company, or of
+the institution or, to the knowledge of the Company, threatening of any proceedings for any such
+purpose. The Company will effect the filings required pursuant to General Instruction II.L of Form
+F-10 not later than the Commission&#146;s close of business on the Business Day following the date of
+filing thereof with the Qualifying Authorities and will take such steps as it deems necessary to
+ascertain promptly whether the form of prospectus transmitted for filing pursuant to General
+Instruction II.L of Form F-10 was received for filing by the Commission and, in the event that it
+was not, it will promptly file such prospectus. The Company will use every reasonable effort to
+prevent the issuance of any such stop order or of any order preventing or suspending such use or
+such order ceasing or suspending the distribution of the Securities or the trading in the Common
+Shares or any other securities of the Company and, if any such order is issued, to obtain the
+lifting thereof at the earliest possible time.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Filing of Amendments and Exchange Act Documents; Preparation of Final Term Sheet</I>. The
+Company will not at any time prior to the later of the Closing Time and the completion of the
+offering of the Securities file or make any amendment to the Registration Statement or new
+registration statement relating to the Securities, any amendment, supplement or revision to the
+Canadian Preliminary Prospectus, the U.S. Preliminary Prospectus or any amendment or supplement to
+any of the prospectuses included in the Registration Statement at the time it becomes effective,
+the U.S. Prospectus, the Canadian Prospectus or any Supplementary Material, of which the
+Representatives shall not have previously been advised and furnished copies a reasonable amount of
+time prior to such proposed filing or use, as the case may be, or to which the Representatives
+shall have reasonably objected promptly after reasonable notice thereof; <I>provided, however, </I>that
+this provision shall not prohibit the Company from complying in a timely manner with its timely
+disclosure obligations under applicable securities legislation and the requirements of any relevant
+stock exchange arising out of any material change in the business or affairs of the Company. The
+Company has given the Representatives notice of any filings made pursuant to the 1934 Act or the
+1934 Act Regulations, within 48 hours prior to the Applicable Time; the Company will give the
+Representatives notice of its intention to make any such filing from the Applicable Time to the
+Closing Time and will furnish the Representatives with copies of any such documents a reasonable
+amount of time prior to such proposed filing and will not file or use any such document to which
+the Representatives shall reasonably object. The Company will prepare a final term sheet (the
+&#147;<B>Final Term Sheet</B>&#148;) reflecting the final terms of the Securities, in form and substance
+satisfactory to the Representatives, and shall file such Final Term Sheet as an &#147;issuer free
+writing prospectus&#148; pursuant to Rule&nbsp;433 prior to the close of business two Business Days after the
+date hereof; provided that the Company shall furnish the Representatives with copies of any such
+Final Term Sheet a reasonable amount of time prior to such proposed filing and will not use or file
+any such document to which the Representatives shall object.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;<I>Delivery of Filed Documents</I>. The Company has furnished or will deliver to each of the
+Underwriters, without charge, a copy of the Initial Canadian Final Base Shelf Prospectus (in
+English and French), the Amendment to the Canadian Final Base Shelf Prospectus (in English and
+French), the Canadian Preliminary Prospectus (in English and French), the Canadian Final Prospectus
+(in English and French), the documents incorporated by reference in the Canadian Prospectus (in
+English and French), and any Supplementary Material (in English and French), approved, signed and
+certified as required by the securities laws of the Qualifying
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->20<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Provinces and signed and conformed copies of the Registration Statement as originally filed
+and of each amendment thereto (including exhibits filed therewith or incorporated by reference
+therein and documents incorporated or deemed to be incorporated by reference therein or otherwise
+deemed a part thereof), the Company Form F-X and signed copies of all consents and certificates of
+experts. The copies of the English and French versions of the Initial Canadian Final Base Shelf
+Prospectus, the Amendment to the Canadian Final Base Shelf Prospectus, the Canadian Preliminary
+Prospectus, the Canadian Final Prospectus, the documents incorporated by reference in the Canadian
+Prospectus, and any Supplementary Material furnished to the Underwriters will be identical to the
+corresponding electronically transmitted copies thereof filed with the Qualifying Authorities
+pursuant to SEDAR, and the copies of the Registration Statement and each amendment or supplement
+thereto furnished to the Underwriters will be identical to the electronically transmitted copies
+thereof filed with the Commission pursuant to EDGAR, except to the extent permitted by Regulation
+S-T. The Company will also deliver to the Representatives and counsel for the Underwriters copies
+of all correspondence with the Qualifying Authorities relating to any proposed or requested
+exemptions from the requirements of applicable Canadian securities laws relating to the Canadian
+Prospectus or the Securities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;<I>Delivery of Commercial Prospectuses. </I>The Company has delivered to each Underwriter,
+without charge, as many commercial copies of the U.S. Preliminary Prospectus (in the English
+language) as such Underwriter has reasonably requested, and the Company hereby consents to the use
+of such copies for purposes permitted by the 1933 Act. The Company will furnish to each
+Underwriter, without charge, during the period when a prospectus is required by the 1933 Act or the
+1933 Act Regulations to be delivered in connection with sales of the Securities, such number of
+copies of the U.S. Final Prospectus (in the English language) and any Issuer Free Writing
+Prospectus (each as amended or supplemented) as such Underwriter may reasonably request. The copies
+of the U.S. Preliminary Prospectus and the U.S. Final Prospectus furnished to the Underwriters will
+be identical to the electronically transmitted copies thereof filed with the Commission pursuant to
+EDGAR, except to the extent permitted by Regulation&nbsp;S-T.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;<I>Continued Compliance with Securities Laws</I>. The Company will comply with the 1933 Act and
+the 1933 Act Regulations, the 1934 Act and the 1934 Act Regulations and the securities laws of the
+Qualifying Provinces so as to permit the completion of the distribution of the Securities as
+contemplated in this Agreement, the General Disclosure Package and the Final Prospectuses. If at
+any time when a prospectus is required by the 1933 Act to be delivered in connection with sales of
+the Securities, any event shall occur or condition shall exist as a result of which it is
+necessary, in the opinion of counsel for the Underwriters or for the Company, to amend the
+Registration Statement or to file a new registration statement or to amend or supplement the U.S.
+Prospectus or the Canadian Prospectus in order that the U.S. Prospectus or the Canadian Prospectus
+will not include any untrue statement of a material fact or omit to state a material fact necessary
+in order to make the statements therein not misleading in the light of the circumstances existing
+at the time it is delivered to a purchaser, or if it shall be necessary, in the opinion of such
+counsel, at any such time to amend the Registration Statement, file a new registration statement,
+or amend or supplement the U.S. Prospectus or the Canadian Prospectus in order to comply with the
+requirements of the 1933 Act or the 1933 Act Regulations or the securities laws of the Qualifying
+Provinces, the Company will promptly prepare and file with the Commission and with the Qualifying
+Authorities, subject to Section&nbsp;3(b), such amendment,
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->21<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">supplement or new registration statement as may be necessary to correct such statement or
+omission or to make the Registration Statement or the U.S. Prospectus or the Canadian Prospectus
+comply with such requirements, the Company will use its reasonable efforts to have such amendment,
+supplement or new registration statement declared effective as soon as practicable and the Company
+will furnish to the Underwriters such number of copies of such amendment, supplement or new
+registration statement as the Underwriters may reasonably request. If at any time following the
+issuance of an Issuer Free Writing Prospectus there occurred or occurs an event or development as a
+result of which such Issuer Free Writing Prospectus conflicted or would conflict with the
+information contained in the Registration Statement (or any other registration statement relating
+to the Securities), the General Disclosure Package or the Final Prospectuses or included or would
+include an untrue statement of a material fact or omitted or would omit to state a material fact
+necessary in order to make the statements therein, in the light of the circumstances prevailing at
+that subsequent time, not misleading, the Company will promptly notify the Representatives, upon
+which notification, the Underwriters agree to discontinue use of such Issuer Free Writing
+Prospectus, and the Company will promptly amend or supplement, at its own expense, such Issuer Free
+Writing Prospectus to eliminate or correct such conflict, untrue statement or omission.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;<I>Blue Sky Qualifications</I>. The Company will use its reasonable efforts, in cooperation with
+the Underwriters, to qualify the Securities for offering and sale under the applicable securities
+laws of such states and other jurisdictions as the Representatives may reasonably designate and to
+maintain such qualifications in effect for a period of not less than one year from the date hereof;
+provided, however, that the Company shall not be obligated to file any general consent to service
+of process or to qualify as a foreign corporation or as a dealer in securities in any jurisdiction
+in which it is not so qualified or so subject itself to taxation in respect of doing business in
+any jurisdiction in which it is not otherwise so subject. In each jurisdiction in which the
+Securities have been so qualified, the Company will file such statements and reports as may be
+required by the laws of such jurisdiction to continue such qualification in effect for a period of
+not less than one year from the effective date of the Registration Statement. The Company will also
+supply the Underwriters with such information as is necessary for the determination of the legality
+of the Securities for investment under the laws of such jurisdictions as the Underwriters may
+request.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;<I>Rule&nbsp;158</I>. The Company will timely file such reports pursuant to the 1934 Act as are
+necessary in order to make generally available to its securityholders as soon as practicable an
+earnings statement for the purposes of, and to provide to the Underwriters the benefits
+contemplated by, the last paragraph of Section 11(a) of the 1933 Act.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;<I>Use of Proceeds</I>. The Company will use the net proceeds received by it from the sale of the
+Securities in the manner specified in the Preliminary Prospectuses and the Final Prospectuses under
+&#147;Use of Proceeds.&#148;
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;<I>Restriction on Sale of Securities</I>. From the date of the Final Prospectuses and continuing
+to and including the Closing Time, the Company will not, without the prior written consent of the
+Representatives, directly or indirectly issue, offer, pledge, sell, contract to sell, sell any
+option or contract to purchase, purchase any option or contract to sell, grant any option for the
+sale of, right or warrant to purchase or otherwise transfer or dispose of, any debt securities of
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->22<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">the Company, or file a registration statement under the 1933 Act with respect to any of the
+foregoing (except for the Securities)
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;<I>Reporting Requirements</I>. The Company, during the period when the U.S. Prospectus is
+required to be delivered under the 1933 Act or the 1934 Act, will file all documents required to be
+filed by the Company with (i)&nbsp;the Commission pursuant to the 1934 Act within the time periods
+required by the 1934 Act and the 1934 Act Regulations, and (ii)&nbsp;the Qualifying Authorities under
+the applicable securities laws of the Qualifying Provinces.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(k)&nbsp;<I>Subsequent Filings with Canadian Regulatory Authorities</I>. In the event that any document is
+filed with Canadian securities regulatory authorities subsequent to the time the Registration
+Statement becomes effective that is deemed to be incorporated by reference in the Canadian
+Prospectus, the Company will, if required by the 1933 Act Regulations, file such document in
+accordance with the 1933 Act and the 1933 Act Regulations.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(l)&nbsp;<I>Issuer Free Writing Prospectuses</I>. The Company represents and agrees that, unless it
+obtains the prior consent of the Representatives, and each Underwriter represents and agrees that,
+unless it obtains the prior consent of the Company and the Representatives, it has not made and
+will not make any offer relating to the Securities that would constitute an &#147;issuer free writing
+prospectus,&#148; as defined in Rule&nbsp;433, or that would otherwise constitute a &#147;free writing
+prospectus,&#148; as defined in Rule&nbsp;405, required to be filed with the Commission; provided, however,
+that prior to the preparation of the Final Term Sheet in accordance with Section&nbsp;3(b), the
+Underwriters are authorized to use the information with respect to the final terms of the
+Securities in communications conveying information relating to the offering to investors. Any such
+free writing prospectus consented to by the Company and the Representatives is hereinafter referred
+to as a &#147;<B>Permitted Free Writing Prospectus</B>&#148; and is listed on Schedule&nbsp;C hereto. The Company
+represents that it has treated or agrees that it will treat each Permitted Free Writing Prospectus
+as an &#147;issuer free writing prospectus,&#148; as defined in Rule&nbsp;433, and has complied and will comply
+with the requirements of Rule&nbsp;433 applicable to any Permitted Free Writing Prospectus, including
+timely filing with the Commission where required, legending and record keeping.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 4. <U>Payment of Expenses.</U>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Expenses</I>. The Company will pay all expenses incident to the performance of its obligations
+under this Agreement, including (i)&nbsp;the preparation, printing and filing of the Registration
+Statement (including financial statements and exhibits and the Company Form F-X) as originally
+filed and of each amendment thereto, the U.S. Preliminary Base Shelf Prospectus, the U.S. Final
+Base Shelf Prospectus, the U.S. Preliminary Prospectus, the U.S. Final Prospectus, the Initial
+Canadian Final Base Shelf Prospectus, the Amendment to the Canadian Final Base Shelf Prospectus,
+the Canadian Shelf Prospectus, the Canadian Preliminary Prospectus, the Canadian Final Prospectus,
+any Issuer Free Writing Prospectuses and any Supplementary Material and any amendments or
+supplements thereto, and the cost of furnishing copies thereof to the Underwriters, (ii)&nbsp;the
+preparation, printing and delivery to the Underwriters of this Agreement, any Agreement among
+Underwriters, the Indenture and such other documents as may be required in connection with the
+offering, purchase, sale, issuance or delivery of the
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->23<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Securities; provided, however, that this clause (ii)&nbsp;shall not include the fees of counsel to
+the Underwriters in connection with the foregoing, (iii)&nbsp;the preparation, issuance and delivery of
+the certificates for the Securities to the Underwriters, including any charges of DTC in connection
+therewith, (iv)&nbsp;the fees and disbursements of the Company&#146;s counsel, accountants (including AWB&#146;s
+accountants) and other advisers, (v)&nbsp;the qualification of the Securities under applicable
+securities laws in accordance with the provisions of Section 3(f) hereof, including filing fees and
+the reasonable fees and disbursements of counsel for the Underwriters in connection therewith and
+in connection with the preparation of the Blue Sky Survey and any supplement thereto, (vi)&nbsp;the
+printing and delivery to the Underwriters of copies of each preliminary prospectus, the U.S.
+Preliminary Base Shelf Prospectus, the U.S. Final Base Shelf Prospectus, any Permitted Free Writing
+Prospectus, the U.S. Preliminary Prospectus, the U.S. Final Prospectus, the Initial Canadian Final
+Base Shelf Prospectus, the Amendment to the Canadian Final Base Shelf Prospectus, the Canadian
+Shelf Prospectus, the Canadian Preliminary Prospectus, the Canadian Final Prospectus, and
+Supplementary Material and any amendments or supplements thereto, (vii)&nbsp;the preparation, printing
+and delivery to the Underwriters of copies of the Blue Sky Survey and any supplement thereto,
+(viii)&nbsp;the fees and expenses of the Trustee, including the fees and disbursements of counsel for
+the Trustee in connection with the Indenture and the Securities, (ix)&nbsp;the reasonable and documented
+fees and disbursements of counsel for the Underwriters in connection with compliance with the rules
+and regulations of the Financial Industry Regulatory Authority, Inc., and (x)&nbsp;the costs and
+expenses of the Company relating to investor presentations on any &#147;road show&#148; undertaken in
+connection with the marketing of the Securities, including without limitation, expenses associated
+with the production of road show slides and graphics, fees and expenses of any consultants engaged
+in connection with the road show presentations, travel and lodging expenses of the representatives
+and officers of the Company and any such consultants, and the cost of aircraft and other
+transportation chartered in connection with the road show and any fees payable in connection with
+the rating of the Securities. Except as indicated above in this paragraph, it is understood that
+the Underwriters will pay all of their costs and expenses, including the fees and expenses of their
+counsel and certain advertising expenses in connection with any offer the Underwriters make with
+respect to the Securities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Termination of Agreement</I>. If this Agreement is terminated by the Representatives in
+accordance with the provisions of Section&nbsp;5 or Section&nbsp;9(a)(i) hereof, the Company shall reimburse
+the Underwriters for all of their out-of-pocket expenses, including the reasonable and documented
+fees and disbursements of U.S. and Canadian counsel for the Underwriters within 30&nbsp;days of receipt
+of reasonable evidence of such expenses.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 5. <U>Conditions of Underwriters&#146; Obligations</U>. The obligations of the several
+Underwriters hereunder are subject to the accuracy of the representations and warranties of the
+Company contained in Section&nbsp;1 hereof or in certificates of any officer of the Company or any
+Subsidiary of the Company delivered pursuant to the provisions hereof, to the performance by the
+Company of its covenants and other obligations hereunder, and to the following further conditions:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Effectiveness of Registration Statement</I>. The Canadian Final Prospectus shall have been
+filed with the Qualifying Authorities under the Shelf Procedures and the Registration Statement
+shall have become effective; and at the Closing Time no stop order suspending the effectiveness of
+the Registration Statement shall have been issued under the 1933 Act or
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->24<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">proceedings therefor initiated or threatened by the Commission, no order having the effect of
+ceasing or suspending the distribution of the Securities or the trading in the Common Shares of the
+Company or any other securities of the Company shall have been issued or proceedings therefor
+initiated or threatened by any securities commission, securities regulatory authority or stock
+exchange in Canada or the United States, and any request on the part of the Qualifying Authorities
+or the Commission for additional information shall have been complied with to the reasonable
+satisfaction of the Underwriters. Each of (i)&nbsp;the Canadian Preliminary Prospectus and the Canadian
+Final Prospectus shall have been filed with the Qualifying Authorities under the Shelf Procedures,
+and (iii)&nbsp;the U.S. Preliminary Prospectus and the U.S. Final Prospectus shall have been filed with
+the Commission in accordance with General Instruction II.L. of Form F-10, in each case, within the
+time period prescribed for such filing, as applicable.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Opinion and 10b-5 Statement of Canadian Counsel for the Company</I>. At the Closing Time, the
+Representatives shall have received the favorable opinion and Rule&nbsp;10b-5 negative assurance
+statement, dated as of the Closing Time, of Blake, Cassels &#038; Graydon LLP, Canadian counsel for the
+Company, in form and substance reasonably satisfactory to counsel for the Underwriters, together
+with signed or reproduced copies of such letter for each of the other Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;<I>Opinion of General Counsel for the Company</I>. At the Closing Time, the Representatives shall
+have received the favorable opinion, dated as of the Closing Time, of Joni Paulus, general counsel
+of the Company, in form and substance reasonably satisfactory to counsel for the Underwriters,
+together with signed or reproduced copies of such letter for each of the other Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;<I>Opinion and 10b-5 Statement of U.S. Counsel for the Company</I>. At the Closing Time, the
+Representatives shall have received the favorable opinion and Rule&nbsp;10b-5 negative assurance
+statement, dated as of the Closing Time, of Paul, Weiss, Rifkind, Wharton &#038; Garrison LLP, United
+States counsel for the Company, together with signed or reproduced copies of such opinion for each
+of the other Underwriters, in form and substance reasonably satisfactory to counsel for the
+Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(e)&nbsp;<I>Opinion of Special Colorado Counsel for Agrium U.S. Inc., Loveland Products, Inc. and
+Cominco Fertilizer Partnership</I>. At the Closing Time, the Representatives shall have received the
+favorable opinion dated as of the Closing Time, of special Colorado counsel for Agrium U.S. Inc.,
+Loveland Products, Inc. and Cominco Fertilizer Partnership acceptable to the Representatives,
+together with signed or reproduced copies of such opinion for each of the other Underwriters, in
+form and substance reasonably satisfactory to counsel for the Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(f)&nbsp;<I>Opinion of Special Argentina Counsel for Profertil S.A. </I>At the Closing Time, the
+Representatives shall have received the favorable opinion dated as of the Closing Time, of special
+Argentina counsel for Profertil S.A. acceptable to the Representatives, together with signed or
+reproduced copies of such opinion for each of the other Underwriters, in form and substance
+reasonably satisfactory to counsel for the Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(g)&nbsp;<I>Opinion of Special Spanish Counsel for Agrium Holdco Spain, S.L.U. </I>At the Closing Time,
+the Representatives shall have received the favorable opinion dated as of the
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->25<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">Closing Time, of special Spanish counsel for Agrium Holdco Spain, S.L.U. acceptable to the
+Representatives, together with signed or reproduced copies of such opinion for each of the other
+Underwriters, in form and substance reasonably satisfactory to counsel for the Underwriters.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(h)&nbsp;<I>Opinion of Australian Counsel for AWB. </I>At the Closing Time, the Representatives shall have
+received the favorable opinion dated as of the Closing Time, of Australian counsel for AWB
+acceptable to the Representatives, together with signed or reproduced copies of such opinion for
+each of the other Underwriters, in form and substance reasonably satisfactory to counsel for the
+Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i)&nbsp;<I>Opinion of General Counsel for AWB Geneva</I>. At the Closing Time, the Representatives shall
+have received the favorable opinion dated as of the Closing Time, of the general counsel for AWB
+Geneva acceptable to the Representatives, together with signed or reproduced copies of such opinion
+for each of the other Underwriters, in form and substance reasonably satisfactory to counsel for
+the Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(j)&nbsp;<I>Opinion of Canadian Counsel for the Underwriters</I>. At the Closing Time, the Representatives
+shall have received the favorable opinion, dated as of the Closing Time, of Bennett Jones LLP,
+Canadian counsel for the Underwriters. In giving such opinion such counsel may rely, as to certain
+matters relating to the Company, upon the opinion of Blake, Cassels &#038; Graydon LLP and, as to all
+other matters governed by the laws of Qualifying Provinces other than the Province of Alberta and
+the federal laws of Canada, upon the opinions of counsel satisfactory to the Representatives. Such
+counsel may also state that, insofar as such opinion involves factual matters, they have relied, to
+the extent they deem proper, upon certificates of officers of the Company and its subsidiaries and
+certificates of public officials.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(k)&nbsp;<I>Opinion and 10b-5 Statement of U.S. Counsel for the Underwriters</I>. At the Closing Time, the
+Representatives shall have received the favorable opinion and Rule&nbsp;10b-5 negative assurance
+statement, dated as of the Closing Time, of Skadden, Arps, Slate, Meagher &#038; Flom LLP, United States
+counsel for the Underwriters. Such counsel may state that, insofar as such opinion involves factual
+matters, they have relied, to the extent they deem proper, upon certificates of officers of the
+Company and its subsidiaries and certificates of public officials.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(l)&nbsp;<I>Officers&#146; Certificate</I>. At the Closing Time, there shall not have been, since the date
+hereof or since the respective dates as of which information is given in the General Disclosure
+Package and the Final Prospectuses, any material adverse change in the condition, financial or
+otherwise, or in the earnings, business affairs or business prospects of the Company and its
+subsidiaries considered as one enterprise, whether or not arising in the ordinary course of
+business, and the Representatives shall have received a certificate of the President or a Vice
+President of the Company and of the chief financial officer or chief accounting officer of the
+Company, dated as of Closing Time, to the effect that (i)&nbsp;there has been no such material adverse
+change, (ii)&nbsp;the representations and warranties in Section 1(a) hereof are true and correct with
+the same force and effect as though expressly made at and as of the Closing Time, (iii)&nbsp;the Company
+has complied with all agreements and satisfied all conditions on its part to be performed or
+satisfied at or prior to the Closing Time, (iv)&nbsp;no stop order suspending the effectiveness of the
+Registration Statement has been issued and no proceedings for that purpose have been instituted or
+are pending or, to the knowledge of the Company, are contemplated by the Commission, and
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->26<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">(v)&nbsp;no order having the effect of ceasing or suspending the distribution of the Securities
+shall have been issued and no proceedings for that purpose have been instituted or are pending or,
+to the knowledge of the Company, are contemplated by the Qualifying Authorities.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(m)&nbsp;<I>Accountant&#146;s Comfort Letter</I>. At the time of the execution of this Agreement, the
+Representatives shall have received (i)&nbsp;from KPMG LLP, a letter dated such date, in form and
+substance satisfactory to the Representatives, together with signed or reproduced copies of such
+letter for each of the other Underwriters containing statements and information of the type
+ordinarily included in accountants&#146; &#147;comfort letters&#148; to U.S. and Canadian underwriters with
+respect to the financial statements and certain financial information relating to the Company and
+the pro forma financial statements and certain pro forma financial information included or
+incorporated by reference in the General Disclosure Package and (ii)&nbsp;from Ernst &#038; Young, a letter
+dated such date, in form and substance satisfactory to the Representatives, together with signed or
+reproduced copies of such letter for each of the other Underwriters containing statements and
+information of the type ordinarily included in accountants&#146; &#147;comfort letters&#148; to U.S. and Canadian
+underwriters with respect to the financial statements and certain financial information of AWB
+included or incorporated by reference in the General Disclosure Package.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(n)&nbsp;<I>Bring-down Comfort Letter</I>. At the Closing Time, the Representatives shall have received
+(i)&nbsp;from KPMG LLP, a letter dated such date, in form and substance satisfactory to the
+Representatives, together with signed or reproduced copies of such letter for each of the other
+Underwriters containing statements and information of the type ordinarily included in accountants&#146;
+&#147;comfort letters&#148; to U.S. and Canadian underwriters with respect to the financial statements and
+certain financial information relating to the Company and the pro forma financial statements and
+certain pro forma financial information included or incorporated by reference in the Final
+Prospectuses and (ii)&nbsp;from Ernst &#038; Young, a letter dated such date, in form and substance
+satisfactory to the Representatives, together with signed or reproduced copies of such letter for
+each of the other Underwriters containing statements and information of the type ordinarily
+included in accountants&#146; &#147;comfort letters&#148; to U.S. and Canadian underwriters with respect to the
+financial statements and certain financial information of AWB included or incorporated by reference
+in the Final Prospectuses.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(o)&nbsp;<I>Maintenance of Rating</I>. At the Closing Time, the Securities shall be rated at least &#147;Baa2&#148;
+by Moody&#146;s Investor&#146;s Service Inc. and &#147;BBB&#148; by Standard &#038; Poor&#146;s Ratings Group, a division of The
+McGraw-Hill Companies, Inc. and the Company shall have delivered to the Representatives a letter
+dated within 10&nbsp;days of the Closing Time, from each such rating agency, or other evidence
+satisfactory to the Representatives, confirming that the Securities have such ratings; and since
+the date of this Agreement, there shall not have occurred a downgrading in the rating assigned to
+the Securities or any of the Company&#146;s other securities by any &#147;nationally recognized statistical
+rating organization,&#148; as such term is used in relation to Rule&nbsp;15c3-1(c)(2)(vi)(F) under the 1934
+Act, and no such organization shall have publicly announced that it has under surveillance or
+review its rating of the Securities or any of the Company&#146;s other securities.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(p)&nbsp;<I>Agent for Service</I>. Prior to the Closing Time, the Company shall have furnished to the
+Representatives satisfactory evidence of its due and valid authorization of CT Corporation System
+as its agent to receive service of process in the United States pursuant to Section&nbsp;11
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->27<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">hereof and satisfactory evidence of CT Corporation System accepting its appointment as such
+agent.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(q)&nbsp;<I>Additional Documents</I>. At the Closing Time, counsel for the Underwriters shall have been
+furnished with such documents and opinions as they may require for the purpose of enabling them to
+pass upon the issuance and sale of the Securities as herein contemplated, or in order to evidence
+the accuracy of any of the representations or warranties, or the fulfillment of any of the
+conditions, herein contained; and all proceedings taken by the Company in connection with the
+issuance and sale of the Securities as herein contemplated shall be satisfactory in form and
+substance to the Representatives and counsel for the Underwriters.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(r)&nbsp;<I>Termination of Agreement</I>. If any condition specified in this Section&nbsp;5 shall not have been
+fulfilled when and as required to be fulfilled, this Agreement may be terminated by the
+Representatives by notice to the Company at any time at or prior to the Closing Time and such
+termination shall be without liability of any party to any other party except as provided in
+Section&nbsp;4 and except that Sections&nbsp;1, 6, 7, 8 and 11 shall survive any such termination and remain
+in full force and effect.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 6. <U>Indemnification</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Indemnification of Underwriters</I>. The Company agrees to indemnify and hold harmless each
+Underwriter, its affiliates, as such term is defined in Rule 501(b) under the 1933 Act (each, an
+&#147;<B>Affiliate</B>&#148;), its selling agents and each person, if any, who controls any Underwriter within the
+meaning of Section&nbsp;15 of the 1933 Act or Section&nbsp;20 of the 1934 Act as follows:
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) against any and all loss, liability, claim, damage and expense whatsoever, as
+incurred, arising out of any untrue statement or alleged untrue statement of a material fact
+contained in the Registration Statement (or any amendment thereto), or the omission or
+alleged omission therefrom of a material fact required to be stated therein or necessary to
+make the statements therein not misleading or arising out of any untrue statement or alleged
+untrue statement of a material fact contained in the Preliminary Prospectuses, the Final
+Prospectuses, any Issuer Free Writing Prospectus, the General Disclosure Package, or any
+Supplementary Material (or any amendment or supplement thereto), or the omission or alleged
+omission therefrom of a material fact necessary in order to make the statements therein, in
+the light of the circumstances under which they were made, not misleading;
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ii) against any and all loss, liability, claim, damage and expense whatsoever, as
+incurred, to the extent of the aggregate amount paid in settlement of any litigation, or any
+investigation or proceeding by any governmental agency or body, commenced or threatened, or
+of any claim whatsoever based upon any such untrue statement or omission, or any such
+alleged untrue statement or omission; provided that (subject to Section 6(d) below) any such
+settlement is effected with the written consent of the Company;
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->28<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt; margin-left: 2%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(iii) against any and all expense whatsoever reasonably incurred, as incurred
+(including the reasonable and documented fees and disbursements of U.S. and Canadian counsel
+chosen by the Representatives), in investigating, preparing or defending against any
+litigation, or any investigation or proceeding by any governmental agency or body, commenced
+or threatened, or any claim whatsoever based upon any such untrue statement or omission, or
+any such alleged untrue statement or omission, to the extent that any such expense is not
+paid under (i)&nbsp;or (ii)&nbsp;above;
+</DIV>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><U>provided</U>, <U>however</U>, that this indemnity agreement shall not apply to any loss,
+liability, claim, damage or expense to the extent arising out of any untrue statement or omission
+or alleged untrue statement or omission made in reliance upon and in conformity with written
+information furnished to the Company by any Underwriter through the Representatives expressly for
+use in the Registration Statement (or any amendment thereto), the Preliminary Prospectuses, the
+Final Prospectuses, any Issuer Free Writing Prospectus, the General Disclosure Package or any
+Supplementary Material (or any amendment or supplement thereto).
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Indemnification of Company, Directors and Officers</I>. Each Underwriter severally agrees to
+indemnify and hold harmless the Company, its directors, each of its officers who signed the
+Registration Statement, the Canadian Preliminary Prospectus and the Canadian Final Prospectus, and
+each person, if any, who controls the Company within the meaning of Section&nbsp;15 of the 1933 Act or
+Section&nbsp;20 of the 1934 Act against any and all loss, liability, claim, damage and expense described
+in the indemnity contained in subsection (a)&nbsp;of this Section&nbsp;6, as incurred, but only with respect
+to untrue statements or omissions, or alleged untrue statements or omissions, made in the
+Registration Statement (or any amendment thereto), the Preliminary Prospectuses, the Final
+Prospectuses, any Issuer Free Writing Prospectus, the General Disclosure Package, or any
+Supplementary Material (or any amendment or supplement thereto) in reliance upon and in conformity
+with written information furnished to the Company by such Underwriter through the Representatives
+expressly for use therein.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;<I>Actions Against Parties; Notification</I>. Each indemnified party shall give notice as
+promptly as reasonably practicable to each indemnifying party of any action commenced against it in
+respect of which indemnity may be sought hereunder, but failure to so notify an indemnifying party
+shall not relieve such indemnifying party from any liability hereunder to the extent it is not
+materially prejudiced as a result thereof and in any event shall not relieve it from any liability
+which it may have otherwise than on account of this indemnity agreement. In the case of parties
+indemnified pursuant to Section 6(a) above, counsel to the indemnified parties shall be selected by
+the Representatives, and, in the case of parties indemnified pursuant to Section 6(b) above,
+counsel to the indemnified parties shall be selected by the Company. An indemnifying party may
+participate at its own expense in the defense of any such action; <I>provided, however</I>, that counsel
+to the indemnifying party shall not (except with the consent of the indemnified party) also be
+counsel to the indemnified party. In no event shall the indemnifying parties be liable for fees and
+expenses of more than one counsel (in addition to any local counsel) separate from their own
+counsel for all indemnified parties in connection with any one action or separate but similar or
+related actions in the same jurisdiction arising out of the same general allegations or
+circumstances. No indemnifying party shall, without the prior written consent of the indemnified
+parties, settle or compromise or consent to the entry of any judgment with respect to any
+litigation, or any investigation or proceeding by any governmental agency or
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->29<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">body, commenced or threatened, or any claim whatsoever in respect of which indemnification or
+contribution could be sought under this Section&nbsp;6 or Section&nbsp;7 hereof (whether or not the
+indemnified parties are actual or potential parties thereto), unless such settlement, compromise or
+consent (i)&nbsp;includes an unconditional release of each indemnified party from all liability arising
+out of such litigation, investigation, proceeding or claim and (ii)&nbsp;does not include a statement as
+to or an admission of fault, culpability or a failure to act by or on behalf of any indemnified
+party.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;<I>Settlement without Consent if Failure to Reimburse</I>. If at any time an indemnified party
+shall have requested an indemnifying party to reimburse the indemnified party for fees and expenses
+of counsel, such indemnifying party agrees that it shall be liable for any settlement of the nature
+contemplated by Section 6(a) effected without its written consent if (i)&nbsp;such settlement is entered
+into more than 45&nbsp;days after receipt by such indemnifying party of the aforesaid request, (ii)&nbsp;such
+indemnifying party shall have received notice of the terms of such settlement at least 30&nbsp;days
+prior to such settlement being entered into, and (iii)&nbsp;such indemnifying party shall not have
+reimbursed such indemnified party in accordance with such request prior to the date of such
+settlement. Notwithstanding the immediately preceding sentence, if at any time an indemnified party
+shall have requested an indemnifying party to reimburse the indemnified party for fees and expenses
+of counsel, an indemnifying party shall not be liable for any settlement of the nature contemplated
+by Section&nbsp;6(a)(ii) effected without its consent if such indemnifying party (i)&nbsp;reimburses such
+indemnified party in accordance with such request to the extent it considers such request to be
+reasonable and (ii)&nbsp;provides written notice to the indemnified party substantiating the unpaid
+balance as unreasonable, in each case prior to the date of such settlement.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 7. <U>Contribution</U>. If the indemnification provided for in Section&nbsp;6 hereof is
+for any reason unavailable to or insufficient to hold harmless an indemnified party in respect of
+any losses, liabilities, claims, damages or expenses referred to therein, then each indemnifying
+party shall contribute to the aggregate amount of such losses, liabilities, claims, damages and
+expenses incurred by such indemnified party, as incurred, (i)&nbsp;in such proportion as is appropriate
+to reflect the relative benefits received by the Company on the one hand and the Underwriters on
+the other hand from the offering of the Securities pursuant to this Agreement or (ii)&nbsp;if the
+allocation provided by clause (i)&nbsp;is not permitted by applicable law, in such proportion as is
+appropriate to reflect not only the relative benefits referred to in clause (i)&nbsp;above but also the
+relative fault of the Company on the one hand and of the Underwriters on the other hand in
+connection with the statements or omissions which resulted in such losses, liabilities, claims,
+damages or expenses, as well as any other relevant equitable considerations.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The relative benefits received by the Company on the one hand and the Underwriters on the
+other hand in connection with the offering of the Securities pursuant to this Agreement shall be
+deemed to be in the same respective proportions as the total net proceeds from the offering of the
+Securities pursuant to this Agreement (before deducting expenses) received by the Company and the
+total underwriting commission received by the Underwriters, in each case as set forth on the cover
+of the Final Prospectuses, bear to the aggregate initial public offering price of the Securities as
+set forth on the cover of the Final Prospectuses.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->30<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The relative fault of the Company on the one hand and the Underwriters on the other hand shall
+be determined by reference to, among other things, whether any such untrue or alleged untrue
+statement of a material fact or omission or alleged omission to state a material fact relates to
+information supplied by the Company or by the Underwriters and the parties&#146; relative intent,
+knowledge, access to information and opportunity to correct or prevent such statement or omission.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Company and the Underwriters agree that it would not be just and equitable if contribution
+pursuant to this Section&nbsp;7 were determined by pro rata allocation (even if the Underwriters were
+treated as one entity for such purpose) or by any other method of allocation which does not take
+account of the equitable considerations referred to above in this Section&nbsp;7. The aggregate amount
+of losses, liabilities, claims, damages and expenses incurred by an indemnified party and referred
+to above in this Section&nbsp;7 shall be deemed to include any legal or other expenses reasonably
+incurred by such indemnified party in investigating, preparing or defending against any litigation,
+or any investigation or proceeding by any governmental agency or body, commenced or threatened, or
+any claim whatsoever based upon any such untrue or alleged untrue statement or omission or alleged
+omission.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notwithstanding the provisions of this Section&nbsp;7, no Underwriter shall be required to
+contribute any amount in excess of the amount by which the total price at which the Securities
+underwritten by it and distributed to the public were offered to the public exceeds the amount of
+any damages which such Underwriter has otherwise been required to pay by reason of any such untrue
+or alleged untrue statement or omission or alleged omission.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the
+1933 Act) shall be entitled to contribution from any person who was not guilty of such fraudulent
+misrepresentation.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For purposes of this Section&nbsp;7, each person, if any, who controls an Underwriter within the
+meaning of Section&nbsp;15 of the 1933 Act or Section&nbsp;20 of the 1934 Act and each Underwriter&#146;s
+Affiliates and selling agents shall have the same rights to contribution as such Underwriter, and
+each director of the Company, each officer of the Company who signed the Registration Statement or
+the Canadian Preliminary Prospectus or the Canadian Final Prospectus, and each person, if any, who
+controls the Company within the meaning of Section&nbsp;15 of the 1933 Act or Section&nbsp;20 of the 1934 Act
+shall have the same rights to contribution as the Company. The Underwriters&#146; respective obligations
+to contribute pursuant to this Section&nbsp;7 are several in proportion to the principal amount of
+Securities set forth opposite their respective names in Schedule&nbsp;A hereto and not joint.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 8. <U>Representations, Warranties and Agreements to Survive Delivery</U>. All
+representations, warranties and agreements contained in this Agreement or in certificates of
+officers of the Company or any of its Subsidiaries submitted pursuant hereto, shall remain
+operative and in full force and effect regardless of (i)&nbsp;any investigation made by or on behalf of
+any Underwriter or its Affiliates or selling agents, any person controlling any Underwriter, its
+officers or directors or any person controlling the Company, and (ii)&nbsp;delivery of and payment for
+the Securities.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->31<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 9. <U>Termination of Agreement</U>.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;<I>Termination, General</I>. The Representatives may terminate this Agreement, by notice to the
+Company, at any time at or prior to Closing Time (i)&nbsp;if there has been, since the time of execution
+of this Agreement or since the respective dates as of which information is given in the Final
+Prospectuses or the General Disclosure Package, any material adverse change in the condition,
+financial or otherwise, or in the earnings, business affairs or business prospects of the Company
+and its subsidiaries considered as one enterprise, whether or not arising in the ordinary course of
+business, or (ii)&nbsp;if there has occurred any material adverse change in the financial markets in the
+United States or Canada, or in the international financial markets, any outbreak of hostilities or
+escalation thereof or other calamity or crisis or any change or development involving a prospective
+change in United States, Canadian or international political, financial or economic conditions, in
+each case the effect of which is such as to make it, in the judgment of the Representatives,
+impracticable or inadvisable to market the Securities or to enforce contracts for the sale of the
+Securities, or (iii)&nbsp;if trading in any securities of the Company has been suspended or materially
+limited by the Commission, the Qualifying Authorities, any other securities commission or
+securities regulatory authority in Canada or the Toronto Stock Exchange or the New York Stock
+Exchange, or if trading generally on the American Stock Exchange, the New York Stock Exchange, the
+Toronto Stock Exchange or in the Nasdaq Stock Market has been suspended or materially limited, or
+minimum or maximum prices for trading have been fixed, or maximum ranges for prices have been
+required, by any of said exchanges or by such system or by order of the Commission, the Qualifying
+Authorities, any other securities commission or securities regulatory authority in Canada, the
+Financial Industry Regulatory Authority, Inc. or any other governmental authority, or (iv)&nbsp;a
+material disruption has occurred in commercial banking or securities settlement or clearance
+services in the United States or Canada, or (v)&nbsp;if a banking moratorium has been declared by either
+United States federal, New York state or Canadian federal or Alberta provincial authorities.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;<I>Liabilities</I>. If this Agreement is terminated pursuant to this Section&nbsp;9, such termination
+shall be without liability of any party to any other party except as provided in Section&nbsp;4 hereof,
+and Sections&nbsp;1, 6, 7, 8 and 11 shall survive such termination and remain in full force and effect.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 10. <U>Default by One or More of the Underwriters</U>. If one or more of the
+Underwriters shall fail at the Closing Time to purchase the Securities which it or they are
+obligated to purchase under this Agreement (the &#147;<B>Defaulted Securities</B>&#148;), the Representatives shall
+have the right, within 24 hours thereafter, to make arrangements for one or more of the
+non-defaulting Underwriters, or any other underwriters, to purchase all, but not less than all, of
+the Defaulted Securities in such amounts as may be agreed upon and upon the terms herein set forth;
+if, however, the Representatives shall not have completed such arrangements within such 24-hour
+period, then:
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;if the principal amount of Defaulted Securities does not exceed 10% of the aggregate
+principal amount of the Securities to be purchased hereunder, each of the non-defaulting
+Underwriters shall be obligated, severally and not jointly, to purchase the full amount thereof in
+the proportions that their respective underwriting obligations hereunder bear to the underwriting
+obligations of all non-defaulting Underwriters, or
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->32<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;if the principal amount of Defaulted Securities exceeds 10% of the aggregate principal
+amount of the Securities to be purchased hereunder, this Agreement shall terminate without
+liability on the part of any non-defaulting Underwriter.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No action taken pursuant to this Section&nbsp;10 shall relieve any defaulting Underwriter from
+liability in respect of its default.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the event of any such default which does not result in a termination of this Agreement
+either the Representatives or the Company shall have the right to postpone the Closing Time for a
+period not exceeding seven days to the extent such delay is necessary to effect any required
+changes in the Registration Statement, the U.S. Prospectus or the Canadian Prospectus or in any
+other material documents. As used herein, the term &#147;Underwriter&#148; includes any person substituted
+for an Underwriter under this Section&nbsp;10.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 11. <U>Agent for Service; Submission to Jurisdiction; Waiver of Immunities</U>. By
+the execution and delivery of this Agreement, the Company (i)&nbsp;acknowledges that it has, by separate
+written instrument, irrevocably designated and appointed CT Corporation System (or any successor)
+(together with any successor, the &#147;<B>Agent for Service</B>&#148;), as its authorized agent upon which process
+may be served in any suit or proceeding arising out of or relating to this Agreement, the
+Securities, or the Indenture that may be instituted in any federal or state court in the State of
+New York, or brought under federal or state securities laws, and acknowledges that the Agent for
+Service has accepted such designation, (ii)&nbsp;submits to the jurisdiction of any such court in any
+such suit or proceeding, and (iii)&nbsp;agrees that service of process upon the Agent for Service (or
+any successor) and written notice of said service to the Company (mailed or delivered to its
+Corporate Secretary at its principal office in Calgary, Alberta, Canada), shall be deemed in every
+respect effective service of process upon the Company in any such suit or proceeding. The Company
+further agrees to take any and all action, including the execution and filing of any and all such
+documents and instruments, as may be necessary to continue such designation and appointment of the
+Agent for Service in full force and effect so long as any of the Securities shall be outstanding.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To the extent that the Company has acquired or hereafter may acquire any immunity from
+jurisdiction of any court or from any legal process (whether through service of notice, attachment
+prior to judgment, attachment in aid of execution, execution or otherwise) with respect to itself
+or its property, it hereby irrevocably waives such immunity in respect of its obligations under the
+above-referenced documents, to the extent permitted by law.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The provisions of this Section&nbsp;11 shall survive any termination of this Agreement, in whole or
+in part.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 12. <U>Judgment Currency</U>. In respect of any judgment or order given or made for
+any amount due hereunder that is expressed and paid in a currency (the &#147;<B>Judgment Currency</B>&#148;) other
+than United States dollars, the Company will indemnify each Underwriter against any loss incurred
+by such Underwriter as a result of any variation as between (i)&nbsp;the rate of exchange at which the
+United States dollar amount is converted into the Judgment Currency for the purpose of such
+judgment or order and (ii)&nbsp;the rate of exchange at which an Underwriter is able to purchase United
+States dollars with the amount of Judgment Currency actually received
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->33<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">by such Underwriter. The foregoing indemnity shall constitute a separate and independent
+obligation of the Company and shall continue in full force and effect notwithstanding any such
+judgment or order as aforesaid. The term &#147;rate of exchange&#148; shall include any premiums and costs
+of exchange payable in connection with the purchase of or conversion into United States dollars.
+</DIV>
+
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 13. <U>Notices</U>. All notices and other communications hereunder shall be in
+writing and shall be deemed to have been duly given if mailed or transmitted by any standard form
+of telecommunication. Notices to the Underwriters shall be directed to BNP at 787 Seventh Avenue,
+New York, New York 10019, Attention: Fixed Income Syndicate; and notices to the Company shall be
+directed to it at 13131 Lake Fraser Drive S.E., Calgary, Alberta, Canada, T2J 7E8, attention of
+Corporate Secretary.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 14. <U>No Advisory or Fiduciary Relationship</U>. The Company acknowledges and agrees
+that (a)&nbsp;the purchase and sale of the Securities pursuant to this Agreement, including the
+determination of the public offering price of the Securities and any related discounts and
+commissions, is an arm&#146;s-length commercial transaction between the Company, on the one hand, and
+the several Underwriters, on the other hand, (b)&nbsp;in connection with the offering contemplated
+hereby and the process leading to such transaction each Underwriter is and has been acting solely
+as a principal and not as the agent or fiduciary of the Company or its shareholders, creditors,
+employees or any other party, (c)&nbsp;no Underwriter has assumed or will assume an advisory or
+fiduciary responsibility in favor of the Company with respect to the offering contemplated hereby
+or the process leading thereto (irrespective of whether such Underwriter has advised or is
+currently advising the Company on other matters) and no Underwriter has any obligation to the
+Company with respect to the offering contemplated hereby except the obligations expressly set forth
+in this Agreement, (d)&nbsp;the Underwriters and their respective affiliates may be engaged in a broad
+range of transactions that involve interests that differ from those of the Company, and (e)&nbsp;the
+Underwriters have not provided any legal, accounting, regulatory or tax advice with respect to the
+offering contemplated hereby and the Company has consulted its own legal, accounting, regulatory
+and tax advisors to the extent it deemed appropriate.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 15. <U>Integration</U>. This Agreement supersedes all prior agreements and
+understandings (whether written or oral) between the Company and the Underwriters, or any of them,
+with respect to the subject matter hereof.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 16. <U>Parties</U>. This Agreement shall inure to the benefit of and be binding upon
+the Underwriters and the Company and their respective successors. Nothing expressed or mentioned in
+this Agreement is intended or shall be construed to give any person, firm or corporation, other
+than the Underwriters and the Company and their respective successors and the controlling persons
+and officers and directors referred to in Sections&nbsp;6 and 7 and their heirs and legal
+representatives, any legal or equitable right, remedy or claim under or in respect of this
+Agreement or any provision herein contained. This Agreement and all conditions and provisions
+hereof are intended to be for the sole and exclusive benefit of the Underwriters and the Company
+and their respective successors, and said controlling persons and officers and directors and their
+heirs and legal representatives, and for the benefit of no other person, firm or corporation. No
+purchaser of Securities from any Underwriter shall be deemed to be a successor by reason merely of
+such purchase.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->34<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 17. <U>GOVERNING LAW</U>. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN
+ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 18. <U>TIME</U>. TIME SHALL BE OF THE ESSENCE OF THIS AGREEMENT. EXCEPT AS OTHERWISE
+SET FORTH HEREIN, SPECIFIED TIMES OF DAY REFER TO NEW YORK CITY TIME.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 19. <U>Counterparts</U>. This Agreement may be executed in any number of
+counterparts, each of which shall be deemed to be an original, but all such counterparts shall
+together constitute one and the same Agreement.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECTION 20. <U>Effect of Headings</U>. The Section headings herein are for convenience only
+and shall not affect the construction hereof.
+</DIV>
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->35<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If the foregoing is in accordance with your understanding of our agreement, please sign and
+return to the Company a counterpart hereof, whereupon this instrument, along with all counterparts,
+will become a binding agreement between the Underwriters and the Company in accordance with its
+terms.
+</DIV>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="48%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">Very truly yours,<BR>
+<BR>
+<B>AGRIUM INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Bruce Waterman
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Bruce Waterman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Senior Vice President, Finance and  <br>Chief Financial Officer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Pat Freeman
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Name:&nbsp;&nbsp;</TD>
+    <TD align="left">Pat Freeman&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top">Title:&nbsp;&nbsp;</TD>
+    <TD align="left">Vice President and Treasurer&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="5">&nbsp;</TD>
+</TR>
+</TABLE>
+
+<TABLE width="100%" border="0" cellspacing="0" cellpadding="0" style="font-size: 10pt">
+<TR>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="35%">&nbsp;</TD>
+    <TD width="15%">&nbsp;</TD>
+    <TD width="48%">&nbsp;</TD>
+</TR>
+<TR>
+    <TD colspan="3" align="left">CONFIRMED AND ACCEPTED<BR>
+as of the date first above written:<BR>
+<BR>
+<B>BNP PARIBAS SECURITIES CORP.<BR>
+RBC CAPITAL MARKETS, LLC<BR>
+SCOTIA CAPITAL (USA)&nbsp;INC.</B><BR>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD valign="top" align="left">&nbsp;</TD>
+</TR><TR>
+    <TD valign="top"><B>By:&nbsp;&nbsp;</B></TD>
+    <TD colspan="2" align="left"><B>BNP PARIBAS SECURITIES CORP.</B>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Jim Turner
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Authorized Signatory&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD valign="top"><B>By:&nbsp;&nbsp;</B></TD>
+    <TD colspan="2" align="left"><B>RBC CAPITAL MARKETS, LLC</B>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Jack Sconzo
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Authorized Signatory&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top"><B>By:&nbsp;&nbsp;</B></TD>
+    <TD colspan="2" align="left"><B>SCOTIA CAPITAL (USA) INC.</B>
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR>
+<TR>
+    <TD valign="top" align="left">&nbsp;</TD>
+    <TD colspan="3" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR><TR>
+    <TD valign="top">By:&nbsp;&nbsp;</TD>
+    <TD colspan="2" style="border-bottom: 1px solid #000000" align="left">/s/ Paul McKeown
+&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR><TR>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">Authorized Signatory&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD align="left">&nbsp;</TD>
+</TR><TR>
+    <TD align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD colspan="2" align="left">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+</TABLE>
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">For themselves and as Representatives of the other Underwriters named in Schedule&nbsp;A hereto.
+</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->36<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SCHEDULE A</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="88%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD width="3%">&nbsp;</TD>
+    <TD width="1%">&nbsp;</TD>
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Principal Amount of</B></TD>
+
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Securities to be</B></TD>
+
+</TR>
+<TR style="font-size: 8pt" valign="bottom">
+    <TD nowrap align="left"><B>Name of Underwriter</B></TD>
+    <TD>&nbsp;</TD>
+    <TD nowrap align="center" colspan="3"><B>Purchased</B></TD>
+
+</TR>
+
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom"><!-- Blank Space -->
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">BNP Paribas Securities Corp.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD ALIGN="RIGHT">U.S.$</TD>
+    <TD align="right">126,666,667</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">RBC Capital Markets, LLC</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">126,666,667</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Scotia Capital (USA)&nbsp;Inc.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">126,666,666</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">BMO Capital Markets Corp.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">25,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">NBF Securities (USA)&nbsp;Corp</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">25,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">Rabo Securities USA, Inc.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">25,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">CIBC World Markets Corp.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">15,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">RBS Securities Inc.</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">15,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom" style="background: #cceeff">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">TD Securities (USA)&nbsp;LLC</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="right">$</TD>
+    <TD align="right">15,000,000</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD><DIV style="margin-left:15px; text-indent:-15px"><B>Total</B></DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD ALIGN="RIGHT"><B>U.S.$</B></TD>
+    <TD align="right"><B>500,000,000</B></TD>
+    <TD>&nbsp;</TD>
+</TR>
+<TR style="font-size: 1px">
+    <TD><DIV style="margin-left:15px; text-indent:-15px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+
+    <TD align="right" COLSPAN="2" style="border-top: 3px double #000000">&nbsp;</TD>
+    <TD>&nbsp;</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+
+
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->A-1<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SCHEDULE B</B>
+</DIV>
+
+
+<DIV align="Center" style="font-size: 10pt; margin-top: 6pt"><U>U.S.$500,000,000 6.125% Debentures due 2041</U>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+<TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">1.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The initial public offering price of the Securities shall be 98.909% of the principal amount
+thereof, plus accrued interest, if any, from the date of issuance.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">2.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The purchase price to be paid by the Underwriters for the Securities shall be 98.034% of the
+principal amount thereof.</TD>
+</TR>
+
+<TR>
+    <TD style="font-size: 6pt">&nbsp;</TD>
+</TR><TR valign="top" style="font-size: 10pt; color: #000000; background: transparent">
+    <TD width="1%" nowrap align="left">3.</TD>
+    <TD width="1%">&nbsp;</TD>
+    <TD>The interest rate on the Securities shall be 6.125% per annum.</TD>
+</TR>
+
+</TABLE>
+</DIV>
+
+<DIV style="margin-top: 6pt">
+<TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+
+
+</TABLE>
+</DIV>
+<P align="center" style="font-size: 10pt"><!-- Folio -->C-1<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+
+<DIV style="margin-top: 6pt"><TABLE width="100%" border="0" cellpadding="0" cellspacing="0" style="font-size: 10pt">
+
+
+
+</TABLE>
+</DIV>
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>SCHEDULE C</B>
+</DIV>
+
+
+<DIV align="right" style="font-size: 10pt; margin-top: 12pt"><B>Pricing Term Sheet<BR>
+December&nbsp;15, 2010</B>
+</DIV>
+
+
+<DIV align="center" style="font-size: 10pt; margin-top: 18pt"><B>Agrium Inc.<BR>
+U.S. $500,000,000 6.125% Debentures due January&nbsp;15, 2041</B>
+</DIV>
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="35%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Issuer:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top"><B>Agrium Inc.</B></TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Format:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">SEC Registered &#151; Registration Statement Nos. 333-161829 and
+333-170580</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Ranking:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Senior Unsecured</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Trade Date:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">December&nbsp;15, 2010</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Settlement Date:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">December&nbsp;20, 2010 (T&#043;3)</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Maturity Date:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">January&nbsp;15, 2041</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Aggregate Principal Amount Offered:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">$500,000,000</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Coupon:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">6.125%</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Price to Public (Issue Price):</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">98.909%</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Interest Payment Dates:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">January&nbsp;15 and July&nbsp;15 of each year, beginning on July&nbsp;15, 2011</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Benchmark:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">UST 3.875% due 08/40</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>UST Spot (Price/Yield)</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">88-08 / 4.605%</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Spread to Benchmark:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">UST &#043; 160 basis points</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Re-offer Yield:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">6.205%</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Net Proceeds to Issuer:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">U.S. $490,170,000</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Daycount:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">30/360</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Optional Redemption:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">At any time and from time to time at the Treasury Rate &#043; 25
+basis points at anytime prior to July&nbsp;15, 2040. Callable at
+100% at any time on or after July&nbsp;15, 2040.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>CUSIP:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">008916 AJ7</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Denominations:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Minimum denominations of U.S. $2,000 and integral multiples of
+U.S. $1,000</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Joint Bookrunners:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">BNP Paribas Securities Corp.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">RBC Capital Markets, LLC</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Scotia Capital (USA)&nbsp;Inc.</TD>
+</TR>
+<TR valign="bottom"><!-- Blank Space -->
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">&nbsp;</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Lead Managers:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">BMO Capital Markets Corp.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">Rabo Securities USA, Inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">NBF Securities (USA)&nbsp;Corp.</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->C-2<!-- /Folio -->
+</DIV>
+
+<!-- PAGEBREAK -->
+<P><HR noshade><P>
+<H5 align="left" style="page-break-before:always">&nbsp;</H5><P>
+
+<DIV style="font-family: 'Times New Roman',Times,serif">
+
+<DIV align="center">
+<TABLE style="font-size: 10pt" cellspacing="0" border="0" cellpadding="0" width="100%">
+<!-- Begin Table Head -->
+<TR valign="bottom">
+    <TD width="35%">&nbsp;</TD>
+    <TD width="5%">&nbsp;</TD>
+    <TD width="60%">&nbsp;</TD>
+</TR>
+<TR></TR>
+<!-- End Table Head -->
+<!-- Begin Table Body -->
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px"><B>Co-Managers:</B>
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">CIBC World Markets Corp.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">RBS Securities Inc.</TD>
+</TR>
+<TR valign="bottom">
+    <TD valign="top"><DIV style="margin-left:0px; text-indent:-0px">&nbsp;
+</DIV></TD>
+    <TD>&nbsp;</TD>
+    <TD align="left" valign="top">TD Securities (USA)&nbsp;LLC</TD>
+</TR>
+<!-- End Table Body -->
+</TABLE>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt">A securities rating is not a recommendation to buy, sell or hold securities and may be subject to
+revision or withdrawal at any time.
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>The Issuer has filed a Registration Statement (File Nos. 333-161829 and 333-170580), including a
+short form base shelf prospectus dated November&nbsp;20, 2009, as amended by amendment No.&nbsp;1 dated
+November&nbsp;12, 2010 with the Securities and Exchange Commission for the offering to which this
+communication relates. Before you invest, you should read the prospectus in that registration
+statement and documents incorporated by reference therein that the Issuer has filed with the
+Securities and Exchange Commission for more complete information about the Issuer and this
+offering. You may get these documents for free by visiting EDGAR on the SEC Web site at www.sec.gov
+or by visiting the Canadian system for electronic document analysis and retrieval (SEDAR)&nbsp;website
+at www.sedar.com. Alternatively, the Issuer, any underwriter or any dealer participating in the
+offering will arrange to send you the prospectus if you request it by calling (1)&nbsp;BNP Paribas
+Securities Corp. toll-free at 1-800-854-5674, (2)&nbsp;RBC Capital Markets, LLC toll-free at
+1-866-375-6829, or (3)&nbsp;Scotia Capital (USA)&nbsp;Inc. toll free at 1-800-372-3930.</B>
+</DIV>
+
+<DIV align="left" style="font-size: 10pt; margin-top: 6pt"><B>Any legends, disclaimers or other notices that may appear below are not applicable to this
+communication and should be disregarded. Such legends, disclaimers or other notices have been
+automatically generated as a result of this communication having been sent via Bloomberg or another
+system.</B>
+</DIV>
+
+
+
+<P align="center" style="font-size: 10pt"><!-- Folio -->C-3<!-- /Folio -->
+</DIV>
+
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,1123 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Q0168fppFdo6JA/ra6y9VTXtJW08LcZ38dmYH67WWvz5fg458h6Q5LOMuTdaRGfY
+ wUVEUK6US8G97PVRsXj3gA==
+
+<SEC-DOCUMENT>0000947871-09-000128.txt : 20090225
+<SEC-HEADER>0000947871-09-000128.hdr.sgml : 20090225
+<ACCEPTANCE-DATETIME>20090225064657
+ACCESSION NUMBER:		0000947871-09-000128
+CONFORMED SUBMISSION TYPE:	6-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20090225
+FILED AS OF DATE:		20090225
+DATE AS OF CHANGE:		20090225
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ADVANTEST CORP
+		CENTRAL INDEX KEY:			0001158838
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		6-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15236
+		FILM NUMBER:		09632229
+
+	BUSINESS ADDRESS:	
+		STREET 1:		SHIN-MARUNOUCHI CENTER BUILDING
+		STREET 2:		1-6-2 MARUNOUCHI,
+		CITY:			CHIYODA-KU, TOKYO 100-0005
+		STATE:			M0
+		ZIP:			00000
+		BUSINESS PHONE:		81-3-3214-7500
+
+	MAIL ADDRESS:	
+		STREET 1:		SHIN-MARUNOUCHI CENTER BUILDING
+		STREET 2:		1-6-2 MARUNOUCHI,
+		CITY:			CHIYODA-KU, TOKYO 100-0005
+		STATE:			M0
+		ZIP:			00000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>6-K
+<SEQUENCE>1
+<FILENAME>ss58197_6k.htm
+<DESCRIPTION>FORM 6-K
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div>
+      <hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="4">
+      <hr style="MARGIN-TOP: -10px; COLOR: #000000" noshade size="1">
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FORM
+6-K</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SECURITIES
+AND EXCHANGE COMMISSION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Washington,
+D.C. 20549</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report
+of Foreign Private Issuer</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+to Rule 13a-16 or 15d-16 of</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">the
+Securities Exchange Act of 1934</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For the
+month of February, 2009</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission
+File Number 1-15236</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Advantest
+Corporation</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Translation
+of Registrant&#8217;s Name Into English)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Shin Marunouchi Center
+Building</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">1-6-2,
+Marunouchi</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Chiyoda-ku</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Tokyo
+100-0005</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Japan</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+of Principal Executive Offices)</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant files or will file annual reports under
+cover of Form 20-F or Form 40-F.&#160;&#160;Form 20-F <font style="DISPLAY: inline;" face="Wingdings">x</font>&#160; Form 40-F
+</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(1): <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Indicate by check mark if the
+registrant is submitting the Form 6-K in paper as permitted by Regulation S-T
+Rule 101(b)(7): <font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+by check mark whether the registrant by furnishing the information contained in
+this Form is also thereby furnishing the information to the Commission pursuant
+to Rule 12g3-2(b) under the Securities Exchange Act of
+1934.&#160;&#160;Yes&#160;<font style="DISPLAY: inline;" face="Wingdings">o</font>&#160;&#160;No <font style="DISPLAY: inline;" face="Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>If &#8220;Yes&#8221; is marked, indicate below the
+file number assigned to the registrant in connection with Rule
+12g3-2(b):&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div>
+      <hr style="MARGIN-TOP: -5px; COLOR: #000000" noshade size="1">
+      <hr style="MARGIN-TOP: -13px; COLOR: #000000" noshade size="4">
+    </div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Materials
+Contained in this Report:</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+        <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+            <tr valign="top">
+              <td style="WIDTH: 18pt">
+              </td>
+              <td align="right" style="WIDTH: 18pt">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+              </td>
+              <td align="left">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">English
+      translation of a Japanese-language press release dated February 25, 2009
+      regarding Earnings Forecast and Revision of the Dividend Forecast for the
+      Fiscal Year Ending March 31,
+2009.</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+        <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+            <tr valign="top">
+              <td style="WIDTH: 18pt">
+              </td>
+              <td align="right" style="WIDTH: 18pt">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font></div>
+              </td>
+              <td align="left">
+                <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">English
+      translation of the Japanese-language press release dated February 25,
+      2009&#160;&#160;regarding Notice with Respect to Implementation of
+      Corporate Restructuring Aimed at Strengthening the Management
+      Structure.</font></div>
+              </td>
+            </tr>
+        </table>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><br><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">SIGNATURES</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the
+Securities Exchange Act of 1934, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly
+authorized.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 234pt; MARGIN-RIGHT: 0pt" align="left">
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td colspan="3" valign="top" width="40%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Advantest
+      Corporation</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="32%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="32%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="32%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></font></td>
+            <td nowrap valign="top" width="4%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">By:&#160;
+      </font></td>
+            <td colspan="2" nowrap valign="top" width="6%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">/s/&#160;
+      Yuichi Kurita</font></td>
+            <td valign="top" width="10%" style="PADDING-BOTTOM: 2px"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td nowrap valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Name:&#160;
+      </font></td>
+            <td align="left" nowrap valign="bottom" width="32%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Yuichi
+    Kurita</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td nowrap valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Title:&#160;
+      </font></td>
+            <td valign="top" width="32%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Director and
+      Managing<br>Executive Officer</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="4%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="32%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+            <td valign="top" width="10%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:
+February 25, 2009</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">
+      <div>
+        <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+      </div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ss58197_ex9901.htm
+<DESCRIPTION>NOTICE OF CORPORATE RESTRUCTURING
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR
+IMMEDIATE RELEASE</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">February
+25, 2009</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ADVANTEST
+CORPORATION</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Toshio
+Maruyama, Representative Board Director, President and CEO</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;(Stock
+Code Number: 6857, TSE first section)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Ticker
+Symbol: ATE, NYSE)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CONTACT:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hiroshi
+Nakamura</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Executive
+Officer and</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Vice
+President, Corporate Administration Group</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Phone: +
+81-(0)3-3214-7500</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Notice
+with Respect to Implementation of Corporate Restructuring Aimed at Strengthening
+the Management Structure</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Advantest
+Corporation (the &#8220;Company&#8221;) hereby announces its decision to implement corporate
+restructuring aimed at strengthening the management structure as
+follows.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td align="right" style="WIDTH: 36pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Corporate
+      Restructuring</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+business environment in the semiconductor industry in which the Company operates
+is showing increasing signs of becoming more severe, with semiconductor
+manufacturers becoming more proactive in their moves towards restructuring and
+mergers and acquisitions, in addition to showing increasingly greater
+inclination toward restraining or postponing their capital expenditures as a
+result of factors such as the accelerated deterioration of the global economy,
+which was triggered by the financial crisis, in addition to the poor results of
+operations of semiconductor manufacturers due to weakened semiconductor
+prices.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Until
+now, the Company worked towards reducing fixed costs by implementing initiatives
+to reduce costs and restrain capital expenditures.&#160;&#160;However, because
+the semiconductor manufacturers have revised their earnings forecasts this year
+and there are concerns that the deterioration of the Company&#8217;s operating
+environment may continue into the long term, the Company has decided to
+implement corporate restructuring aimed at strengthening the management
+structure.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+            </td>
+            <td align="right" style="WIDTH: 36pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(1)</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Achieving
+      an Optimal Workforce</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Establish
+a workforce of 3,400 Advantest group employees by March 31, 2009 by reducing the
+number of employees by approximately 1,200 from the total number of employees at
+the end of the fiscal year ended March 31, 2008 through non-renewal of contracts
+of part-time employees and voluntary retirement of full-time
+employees.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+            </td>
+            <td align="right" style="WIDTH: 36pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(2)</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Reduce
+      Personnel Expenses</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">a.&#160;&#160;Directors
+and Officers:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Reduce
+directors&#8217; and officers&#8217; remuneration, in accordance with directors&#8217; and
+officers&#8217; duties by 50-60%, cease payment of bonuses.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">b.&#160;&#160;Management
+Level Employees:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Reduce
+salary of management level employees, in accordance with qualifications, by
+between 5-20%, cease payment of bonuses.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+              <div><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+      </font></div>
+            </td>
+            <td style="WIDTH: 36pt">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(3)</font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Selection
+      and Focus of Businesses</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 72pt">
+              <div><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+      </font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12304;</font>Review of
+      Existing Businesses and Establishment of New Businesses<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12305;</font></font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 90pt">
+            </td>
+            <td align="right" style="WIDTH: 9pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Streamline
+      the product lineup to account for future reductions and weakness in the
+      market and conduct a review of unprofitable businesses, including
+      downsizing the workforce.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 90pt">
+            </td>
+            <td align="right" style="WIDTH: 9pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Promote
+      the development and establishment of new businesses by transferring a part
+      of management resources to such
+businesses.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 72pt">
+              <div><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+      </font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12304;</font>Further
+      Improve Efficiency in the Production/Development Process<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12305;</font></font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 90pt">
+            </td>
+            <td align="right" style="WIDTH: 9pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Further
+      improve efficiency by integrating four subsidiaries that are involved in
+      manufacturing and treating the process from production to shipping as a
+      unified process.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 90pt">
+            </td>
+            <td align="right" style="WIDTH: 9pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Further
+      improve efficiency in the software and application development processes
+      by integrating four subsidiaries that are involved in software
+      development.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 72pt">
+              <div><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160;
+      </font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12304;</font>Commit to
+      Reducing Fixed Costs Attributed to Infrastructure<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#12305;</font></font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">
+      <table border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 90pt">
+            </td>
+            <td align="right" style="WIDTH: 9pt">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">-</font></div>
+            </td>
+            <td align="left">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commit
+      to eliminating and consolidating operating bases and existing facilities
+      and to reducing costs and restraining capital
+  expenditures.</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+          <tr valign="top">
+            <td style="WIDTH: 36pt">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font></div>
+            </td>
+            <td>
+              <div align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Forecast</font></div>
+            </td>
+          </tr>
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Company anticipates that it will incur 25 billion yen in expenses associated
+with the aforementioned corporate restructuring, which will include achieving an
+optimal workforce, inventory valuation losses and impairment loss on fixed
+assets.&#160;&#160;The Company also anticipates that it will reduce fixed costs
+by approximately 25 billion yen per year after the current fiscal
+period.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+information with respect to the earnings forecast for the fiscal year ending
+March 31, 2009, into which the aforementioned initiatives have been
+incorporated, please refer to &#8220;Earnings Forecast and Revision of the Dividend
+Forecast for the Fiscal Year Ending March 31, 2009&#8221;.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman">*
+Cautionary Statement with Respect to Forward-Looking Statements</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 9pt; FONT-FAMILY: times new roman">This
+document contains &#8220;forward-looking statements&#8221; that are based on Advantest&#8217;s
+current expectations, estimates and projections.&#160;&#160;These
+forward-looking statements are subject to known and unknown risks, uncertainties
+and other factors that may cause Advantest&#8217;s actual results, levels of activity,
+performance or achievements to be materially different from those expressed or
+implied by such forward-looking statements.&#160;&#160;These factors include:
+(i) changes in demand for the products and services produced and offered by
+Advantest&#8217;s customers, including semiconductors, communications services and
+electronic goods; (ii) circumstances relating to Advantest&#8217;s investment in
+technology, including its ability to timely develop products that meet the
+changing needs of semiconductor manufacturers and communications network
+equipment and components makers and service providers; (iii) significant changes
+in the competitive environment in the major markets where Advantest purchases
+materials, components and supplies for the production of its products or where
+its products are produced, distributed or sold; and (iv) changes in economic
+conditions, currency exchange rates or political stability in the major markets
+where Advantest procures materials, components and supplies for the production
+of its principal products or where its products are produced, distributed or
+sold.&#160;&#160;A discussion of these and other factors which may affect
+Advantest&#8217;s actual results, levels of activity, performance or achievements is
+contained in the &#8220;Operating and Financial Review and Prospects&#8221;, &#8220;Key
+Information &#9472; Risk Factors&#8221; and &#8220;Information on the Company&#8221; sections and
+elsewhere in Advantest&#8217;s annual report on Form 20-F, which is on file with the
+United States Securities and Exchange Commission.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left">2<font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></div>
+    <div>
+      <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>ss58197_ex9902.htm
+<DESCRIPTION>EARNINGS FORECAST AND REVISION OF DIVIDEND FORECAST
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    </head>
+    <body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; MARGIN-LEFT: 5%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 5%; FONT-FAMILY: Times New Roman">
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">FOR
+IMMEDIATE RELEASE</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: right" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">February
+25, 2009</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ADVANTEST
+CORPORATION</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Toshio
+Maruyama, Representative Board Director, President&#160;and CEO</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;(Stock
+Code Number: 6857, TSE first section)</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Ticker
+Symbol: ATE, NYSE)</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">CONTACT:</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Hiroshi
+Nakamura</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Executive
+Officer and</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Vice
+President, Corporate Administration Group</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Phone: +
+81-(0)3-3214-7500</font></div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><br></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center" align="left"><font style="DISPLAY: inline; FONT-SIZE: 16pt; FONT-FAMILY: Times New Roman">Earnings
+Forecast and Rev<font size="+0" style="FONT-SIZE: 16pt; FONT-FAMILY: Times New Roman">ision</font> of the Dividend Forecast for the Fiscal Year Ending March
+31, 2009</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In light
+of recent changes in business performance, Advantest Corporation (the &#8220;Company&#8221;)
+hereby announces its consolidated earnings forecast for the fiscal year ending
+March 31, 2009, which have not previously been released, as
+follows.&#160;&#160;Furthermore, the Company hereby announces the following
+revisions to its dividend forecast for the fiscal year ending March 31, 2009,
+which was released on January 28, 2009.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">1. FY2008
+Consolidated Earnings Forecast <font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">(April 1, 2008 to March
+</font>31, 2009) [US GAAP]</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+        <div align="left">
+          <div align="center">
+            <div align="center">
+              <div align="center">
+                <div align="center">
+                  <div align="center">
+                    <div align="center">
+                      <table cellpadding="2" cellspacing="0" width="100%">
+                          <tr>
+                            <td align="left" colspan="2" valign="top" width="15%" style="BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                            <td valign="middle" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Net
+      sales</font></div>
+                            </td>
+                            <td valign="middle" width="16%" style="BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Operating
+      income<br>(loss)</font></div>
+                            </td>
+                            <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Income
+      (loss) before</font></div>
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">income
+      taxes and equity in</font></div>
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">earnings
+      (loss) of affiliated company</font></div>
+                            </td>
+                            <td valign="middle" width="14%" style="BORDER-RIGHT: black 2pt solid; BORDER-TOP: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Net
+      income (loss)</font></div>
+                            </td>
+                            <td valign="middle" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Net
+      income (loss)<br>per share</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" valign="top" width="15%" style="BORDER-LEFT: #000000 2pt solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                            <td valign="top" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Million
+      yen</font></div>
+                            </td>
+                            <td valign="top" width="16%" style="BORDER-LEFT: #000000 0.75pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Million
+      yen</font></div>
+                            </td>
+                            <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Million
+      yen</font></div>
+                            </td>
+                            <td valign="top" width="14%" style="BORDER-RIGHT: black 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Million
+      yen</font></div>
+                            </td>
+                            <td valign="top" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">yen</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" width="10%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Current
+      forecast</font></div>
+                            </td>
+                            <td align="left" valign="top" width="5%" style="BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(A)</font></div>
+                            </td>
+                            <td valign="top" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">75,000</font></div>
+                            </td>
+                            <td valign="top" width="16%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(50,000)</font></div>
+                            </td>
+                            <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(54,000)</font></div>
+                            </td>
+                            <td valign="top" width="14%" style="BORDER-RIGHT: black 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(78,000)</font></div>
+                            </td>
+                            <td valign="top" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(436.42)</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" colspan="2" valign="top" width="15%" style="PADDING-BOTTOM: 2px; BORDER-LEFT: #000000 2pt solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Reference)</font></div>
+                            </td>
+                            <td rowspan="2" valign="middle" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font size="+0"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">1</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">82,767</font></font></div>
+                            </td>
+                            <td rowspan="2" valign="middle" width="16%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">22,716</font></div>
+                            </td>
+                            <td rowspan="2" valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">23,533</font></div>
+                            </td>
+                            <td rowspan="2" valign="middle" width="14%" style="BORDER-RIGHT: black 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">16,550</font></div>
+                            </td>
+                            <td rowspan="2" valign="middle" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">90.72</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" width="10%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">FY2007
+      results</font></div>
+                            </td>
+                            <td align="left" valign="top" width="5%" style="BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(B)</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" width="10%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Difference</font></div>
+                            </td>
+                            <td align="left" valign="top" width="5%" style="BORDER-BOTTOM: black 2px solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(A-B)</font></div>
+                            </td>
+                            <td valign="top" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(107,767)</font></div>
+                            </td>
+                            <td valign="top" width="16%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(72,716)</font></div>
+                            </td>
+                            <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(77,533)</font></div>
+                            </td>
+                            <td valign="top" width="14%" style="BORDER-RIGHT: black 2pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(94,550)</font></div>
+                            </td>
+                            <td valign="top" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(527.14)</font></div>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="left" colspan="2" valign="top" width="15%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Percentage
+      change</font></div>
+                            </td>
+                            <td valign="top" width="15%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: #000000 2pt solid; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(59.0%)</font></td>
+                            <td valign="top" width="16%" style="BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#65293;</font></div>
+                            </td>
+                            <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#65293;</font></div>
+                            </td>
+                            <td valign="top" width="14%" style="BORDER-RIGHT: black 2pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#65293;</font></div>
+                            </td>
+                            <td valign="top" width="17%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                              <div style="TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#65293;</font></div>
+                            </td>
+                          </tr>
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[Reasons
+for the above Earnings Forecast]</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Company did not disclose the consolidated earnings forecast for the fiscal year
+ending March 31, 2009 due to the difficulty involved in forecasting trends in
+the demand for semiconductors and investment plans for semiconductor related
+capital expenditures.&#160;&#160;However, the Company is able to disclose the
+consolidated earnings forecast for the fiscal year ending March 31, 2009, taking
+into forecast factors such as recent trends in orders input received and the
+implementation of corporate restructuring aimed at improving
+earnings.&#160;&#160;Accordingly, the relevant consolidated earnings forecast
+are as above.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">With
+respect to the Company<font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">&#8217;</font>s future operating
+environment, movements towards substantial reduction or postponement of capital
+expenditures by semiconductor manufacturers have become more pronounced, and the
+Company anticipates that the operating environment will continue to be extremely
+difficult.&#160;&#160;Corporate restructuring expenses, including impairment
+loss on fixed assets corresponding to future reduction or weakness in the
+market, are included as operating expense in the forecast set forth
+above.&#160;&#160;The Company also anticipates that it will increase the
+valuation allowance for deferred tax assets in income taxes.</font></div>
+    <div style="DISPLAY: block; TEXT-INDENT: 0pt"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman">2.
+Revisions of the <font size="+0">Dividend Forecast </font>for the Fiscal Year
+Ending March 31, 2009</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+      <div align="left">
+        <div align="center">
+          <div align="left">
+            <div align="center">
+              <div align="center">
+                <div align="center">
+                  <table cellpadding="2" cellspacing="0" width="75%">
+                      <tr>
+                        <td align="left" colspan="4" valign="top" width="100%" style="BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: 4px; TEXT-ALIGN: right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(Yen)</font></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" width="31%" style="BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman">&#160;
+      </font></td>
+                        <td colspan="3" valign="top" width="69%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-TOP: #000000 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Dividend
+      per share</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Record
+      Date</font></div>
+                        </td>
+                        <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Interim</font></div>
+                        </td>
+                        <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Year
+      end</font></div>
+                        </td>
+                        <td valign="top" width="23%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Annual
+      total</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Previous
+      forecast<br></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">(As
+      of January 28, 2009)</font></td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#8212;</font></font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Undecided</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Undecided</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Current
+      Revised Forecast</font></div>
+                        </td>
+                        <td valign="top" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman">&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#8212;</font></font></font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">5</font></font></td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">30</font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Dividend
+      paid for fiscal year<br>ending March 31, 2009</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#8212;</font></font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: black 2px solid">
+                          <div style="TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#8212;</font></font></div>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" width="31%" style="BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Dividend
+      paid for fiscal year<br>ending March 31, 2008</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 2pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: black 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">25</font></div>
+                        </td>
+                        <td valign="middle" width="23%" style="BORDER-RIGHT: #000000 2pt solid; BORDER-LEFT: #000000 0.75pt solid; BORDER-BOTTOM: #000000 2pt solid">
+                          <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">50</font></div>
+                        </td>
+                      </tr>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">[Reasons
+for the above Revisions]</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+Company's policy with respect to dividends is that, while aiming to make
+consistent distributions, because of the fluctuation of the market in which it
+operates, the Company makes dividend payouts following a target payout ratio of
+20% or more.</font></div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Because
+the consolidated earnings forecast for the fiscal year ending March 31, 2009 set
+forth above are expected to be difficult, the Company is forecasting a year-end
+dividend of 5 yen per share.</font></div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+      <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt">
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">*
+Cautionary Statement with Respect to Forward-Looking Statements</font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 9pt; TEXT-INDENT: 18pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">This
+document contains &#8220;forward-looking statements&#8221; that are based on Advantest&#8217;s
+current expectations, estimates and projections.&#160;&#160;These
+forward-looking statements are subject to known and unknown risks, uncertainties
+and other factors that may cause Advantest&#8217;s actual results, levels of activity,
+performance or achievements to be materially different from those expressed or
+implied by such forward-looking statements.&#160;&#160;These factors include:
+(i) changes in demand for the products and services produced and offered by
+Advantest&#8217;s customers, including semiconductors, communications services and
+electronic goods; (ii) circumstances relating to Advantest&#8217;s investment in
+technology, including its ability to timely develop products that meet the
+changing needs of semiconductor manufacturers and communications network
+equipment and components makers and service providers; (iii) significant changes
+in the competitive environment in the major markets where Advantest purchases
+materials, components and supplies for the production of its products or where
+its products are produced, distributed or sold; and (iv) changes in economic
+conditions, currency exchange rates or political stability in the major markets
+where Advantest procures materials, components and supplies for the production
+of its principal products or where its products are produced, distributed or
+sold.&#160;&#160;A discussion of these and other factors which may affect
+Advantest&#8217;s actual results, levels of activity, performance or achievements is
+contained in the &#8220;Operating and Financial Review and Prospects&#8221;, &#8220;Key
+Information - Risk Factors&#8221; and &#8220;Information on the Company&#8221; sections and
+elsewhere in Advantest&#8217;s annual report on Form 20-F, which is on file with the
+United States Securities and Exchange Commission.</font></div>
+        <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="left">&#160;
+
+          <hr style="COLOR: black" align="left" noshade size="2" width="100%">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
