@@ -77,5 +77,6 @@ build/
 data/edgar_filings/
 data/metadata/*.idx
 data/*.csv
+data/analysis/
 !data/.gitkeep
 
