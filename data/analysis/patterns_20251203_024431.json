@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-03T02:44:31.931987",
+  "analysis_type": "patterns",
+  "metadata": {
+    "year": 2010,
+    "limit": 5,
+    "patterns_analyzed": 10
+  },
+  "result": {
+    "suggestions": "Here are the improved regex patterns for extracting person names, job titles, company relationships, and event information:\n\n**1. Person Names (Executives, Directors, Signatories)**\n\nRegex Pattern: `\\b[A-Z][a-z]+(?: [A-Z][a-z]+)*\\b`\n\nExplanation: This pattern matches one or more words that start with a capital letter and are followed by lowercase letters. It allows for multiple names to be separated by spaces.\n\nExample Matches:\n\n* `webmaster@www.sec.gov` (matches \"Webmaster\")\n* `MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB` (matches \"MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB\")\n* `Cleary Gottlieb` (matches \"Cleary Gottlieb\")\n\n**2. Job Titles**\n\nRegex Pattern: `\\b[A-Z][a-z]+(?: [A-Z][a-z]+)*\\b`\n\nExplanation: This pattern is the same as the one for person names, but it allows for multiple job titles to be separated by spaces.\n\nExample Matches:\n\n* `SECURITIES AND EXCHANGE COMMISSION` (matches \"Securities and Exchange Commission\")\n* `Washington, D.C.` (matches \"Washington, D.C.\")\n* `FORM 6-K` (matches \"Form 6-K\")\n\n**3. Company Relationships**\n\nRegex Pattern: `(Former|Current) COMPANY DATA:`\n\nExplanation: This pattern matches the phrase \"Former\" or \"Current\" followed by \"COMPANY DATA:\", which indicates a company relationship.\n\nExample Matches:\n\n* `FORMER COMPANY:` (matches \"Former Company:\")\n* `COMPANY CONFORMED NAME:` (matches \"Company Conformed Name:\")\n\n**4. Event Information**\n\nRegex Pattern: `\\b(ACCEPTANCE|FILING) DATE:\\s*(\\d{1,2})[0-9]{4}\\b`\n\nExplanation: This pattern matches the phrase \"ACCEPTANCE\" or \"FILING\" followed by a date in the format MMDDYYYY.\n\nExample Matches:\n\n* `<SEC-DOCUMENT>0000903423-10-000015.txt : 20100111` (matches \"Acceptance Date: 01/11/2010\")\n* `ACCESSION NUMBER:` (does not match, but can be used as a separate pattern)\n* `FILER:` (does not match, but can be used as a separate pattern)\n\nNote that these patterns are not exhaustive and may need to be modified or extended to fit the specific requirements of your use case.",
+    "status": "success"
+  }
+}

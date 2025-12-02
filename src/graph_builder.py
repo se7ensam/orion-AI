@@ -5,6 +5,8 @@ Extracts entities and relationships from EDGAR filings and builds Neo4j graph.
 """
 
 import re
+import os
+import time
 from typing import Dict, List, Optional, Set
 from pathlib import Path
 from datetime import datetime
@@ -23,6 +25,14 @@ class GraphBuilder:
         self.processed_people: Set[str] = set()
         self.processed_events: Set[str] = set()
         self.processed_sectors: Set[str] = set()
+        
+        # Timing statistics
+        self.timing_stats = {
+            'total_time': 0.0,
+            'pattern_extraction_time': 0.0,
+            'db_operations_time': 0.0,
+            'pattern_extractions_count': 0
+        }
     
     def format_cik(self, cik: str) -> str:
         """Format CIK to 10-digit zero-padded string."""
@@ -133,83 +143,271 @@ class GraphBuilder:
             print(f"Error creating sector relationship: {e}")
             return False
     
-    def extract_people_from_filing(self, filing_data: Dict) -> List[Dict]:
-        """Extract people (executives, directors, signatories) from filing."""
-        people = []
-        content = filing_data.get('raw_text', '') + filing_data.get('html_content', '')
+    def _is_valid_person_name(self, name: str) -> bool:
+        """Validate if a string is likely a person's name."""
+        if not name or len(name) < 3:
+            return False
         
-        if not content:
-            return people
-        
-        # Pattern 1: Signatures section
-        signature_pattern = r'By\s*/\s*s\s*/\s*([A-Z][a-zA-Z\s\-\.]+)'
-        signature_matches = re.finditer(signature_pattern, content, re.IGNORECASE)
-        for match in signature_matches:
-            name = match.group(1).strip()
-            # Clean up name
-            name = re.sub(r'\s+', ' ', name)
-            if len(name) > 3 and name not in ['Authorised Signatory', 'Signatory']:
-                people.append({
-                    'name': name,
-                    'title': 'Authorised Signatory',
-                    'role_type': 'Signatory'
-                })
-        
-        # Pattern 2: Contacts section (table format)
-        # Look for patterns like "Name (Title, Company)"
-        contact_pattern = r'([A-Z][a-zA-Z\s\-\.]+)\s*\(([^)]+)\)'
-        contact_matches = re.finditer(contact_pattern, content)
-        for match in contact_matches:
-            name = match.group(1).strip()
-            title_info = match.group(2).strip()
-            
-            # Extract title
-            title = title_info.split(',')[0].strip()
-            
-            people.append({
-                'name': name,
-                'title': title,
-                'role_type': self._classify_role(title)
-            })
-        
-        # Pattern 3: Chief Executive, CEO mentions
-        ceo_patterns = [
-            r'Chief Executive[:\s]+([A-Z][a-zA-Z\s\-\.]+)',
-            r'CEO[:\s]+([A-Z][a-zA-Z\s\-\.]+)',
-            r'([A-Z][a-zA-Z\s\-\.]+),\s*Chief Executive',
+        # Filter out common false positives
+        false_positives = [
+            'authorised signatory', 'signatory', 'company', 'corporation',
+            'incorporated', 'limited', 'plc', 'ltd', 'inc', 'corp',
+            'bank account', 'account openings', 'adult bank',
+            'branded adult', '000s', '000', 'million', 'thousand',
+            'united states', 'securities', 'exchange', 'commission',
+            'form 6-k', 'report of', 'foreign private', 'issuer',
+            'pursuant to', 'section 13a', 'securities exchange act'
         ]
         
-        for pattern in ceo_patterns:
-            matches = re.finditer(pattern, content, re.IGNORECASE)
-            for match in matches:
-                name = match.group(1).strip()
-                if len(name) > 3:
-                    people.append({
-                        'name': name,
-                        'title': 'Chief Executive',
-                        'role_type': 'CEO'
-                    })
+        name_lower = name.lower()
+        for fp in false_positives:
+            if fp in name_lower:
+                return False
         
-        # Pattern 4: Director mentions
-        director_pattern = r'([A-Z][a-zA-Z\s\-\.]+)\s*\(([^)]*Director[^)]*)\)'
-        director_matches = re.finditer(director_pattern, content, re.IGNORECASE)
-        for match in director_matches:
-            name = match.group(1).strip()
-            title = match.group(2).strip()
-            people.append({
-                'name': name,
-                'title': title,
-                'role_type': 'Director'
-            })
+        # Should be 2-4 words (first name, middle, last name)
+        words = name.split()
+        if len(words) < 2 or len(words) > 4:
+            return False
         
-        # Deduplicate by name
-        seen = set()
-        unique_people = []
-        for person in people:
-            name_key = person['name'].lower()
-            if name_key not in seen:
-                seen.add(name_key)
-                unique_people.append(person)
+        # Each word should start with capital letter and be mostly letters
+        for word in words:
+            if not word[0].isupper():
+                return False
+            # Allow some punctuation (hyphens, periods)
+            word_clean = re.sub(r'[^a-zA-Z]', '', word)
+            if len(word_clean) < 2:
+                return False
+            # Should be mostly letters
+            if len(re.sub(r'[a-zA-Z]', '', word)) > len(word) * 0.3:
+                return False
+        
+        # Should not be all numbers or contain too many numbers
+        if re.search(r'\d{3,}', name):
+            return False
+        
+        return True
+    
+    def _is_valid_title(self, title: str) -> bool:
+        """Validate if a string is likely a job title."""
+        if not title or len(title) < 3:
+            return False
+        
+        title_lower = title.lower()
+        
+        # Filter out numbers, units, and false positives
+        false_positives = [
+            '000s', '000', 'million', 'thousand', 'hundred',
+            'percent', '%', 'usd', 'eur', 'gbp', 'cad',
+            'q1', 'q2', 'q3', 'q4', 'quarter', 'year',
+            'january', 'february', 'march', 'april', 'may',
+            'june', 'july', 'august', 'september', 'october',
+            'november', 'december'
+        ]
+        
+        for fp in false_positives:
+            if fp in title_lower:
+                return False
+        
+        # Should not be mostly numbers
+        if re.search(r'^\d+', title) or re.search(r'\d{3,}', title):
+            return False
+        
+        # Should contain title-like words
+        title_keywords = [
+            'director', 'officer', 'executive', 'president', 'vice',
+            'chief', 'manager', 'secretary', 'treasurer', 'chairman',
+            'ceo', 'cfo', 'coo', 'cto', 'cmo', 'head', 'lead',
+            'senior', 'junior', 'assistant', 'deputy', 'general'
+        ]
+        
+        has_title_keyword = any(keyword in title_lower for keyword in title_keywords)
+        
+        # If it's very short and has no title keywords, likely invalid
+        if len(title) < 10 and not has_title_keyword:
+            return False
+        
+        return True
+    
+    def extract_people_from_filing(self, filing_data: Dict, company_name: str = '', company_cik: str = '') -> List[Dict]:
+        """
+        Extract people (executives, directors, signatories) from filing.
+        
+        Uses pattern-based extraction.
+        
+        Args:
+            filing_data: Filing data dictionary
+            company_name: Name of the filing company
+            company_cik: CIK of the filing company
+            
+        Returns:
+            List of person dictionaries with name, title, and role_type
+        """
+        return self._extract_people_from_filing_patterns(filing_data)
+    
+    def _extract_people_from_filing_patterns(self, filing_data: Dict) -> List[Dict]:
+        """Extract people using regex patterns (fallback method)."""
+        start_time = time.time()
+        people = []
+        
+        try:
+            content = filing_data.get('raw_text', '') + filing_data.get('html_content', '')
+            
+            if not content:
+                return people
+            
+            # Pattern 1: Signatures section - improved to handle middle initials
+            signature_patterns = [
+                r'By\s*/\s*s\s*/\s*([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+                r'Signed:\s*([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+                r'Signature:\s*([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+                r'Authorised\s+Signatory[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+            ]
+            
+            for pattern in signature_patterns:
+                matches = re.finditer(pattern, content, re.IGNORECASE)
+                for match in matches:
+                    try:
+                        if match.lastindex is None or match.lastindex < 1:
+                            continue
+                        name = match.group(1).strip() if match.group(1) else ""
+                        if not name:
+                            continue
+                        name = re.sub(r'\s+', ' ', name)
+                        if self._is_valid_person_name(name):
+                            people.append({
+                                'name': name,
+                                'title': 'Authorised Signatory',
+                                'role_type': 'Signatory'
+                            })
+                    except (IndexError, AttributeError) as e:
+                        continue
+            
+            # Pattern 2: Director/Officer lists - improved to handle middle initials
+            # Look for patterns like "John Smith, Director" or "John Smith (Director)"
+            director_patterns = [
+            (r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*,\s*([^,\n]*Director[^,\n]*)', 2),
+            (r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*\(([^)]*Director[^)]*)\)', 2),
+            (r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*-\s*([^-\n]*Director[^-\n]*)', 2),
+            (r'Board\s+of\s+Directors[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)', 1),
+            ]
+            
+            for pattern, num_groups in director_patterns:
+                matches = re.finditer(pattern, content, re.IGNORECASE)
+                for match in matches:
+                    try:
+                        if match.lastindex is None or match.lastindex < 1:
+                            continue
+                        name = match.group(1).strip() if match.group(1) else ""
+                        if num_groups == 2:
+                            title = match.group(2).strip() if match.lastindex >= 2 and match.group(2) else "Director"
+                        else:
+                            title = "Director"
+                        
+                        if name and self._is_valid_person_name(name) and (num_groups == 1 or self._is_valid_title(title)):
+                            people.append({
+                                'name': name,
+                                'title': title,
+                                'role_type': 'Director'
+                            })
+                    except (IndexError, AttributeError) as e:
+                        continue
+            
+            # Pattern 3: Chief Executive, CEO mentions - improved to handle middle initials and more variations
+            ceo_patterns = [
+            r'Chief Executive Officer[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+            r'CEO[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+            r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?),\s*Chief Executive',
+            r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?),\s*CEO',
+            r'Chief Executive[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+            r'Executive Officer[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)',
+            ]
+            
+            for pattern in ceo_patterns:
+                matches = re.finditer(pattern, content, re.IGNORECASE)
+                for match in matches:
+                    try:
+                        if match.lastindex is None or match.lastindex < 1:
+                            continue
+                        name = match.group(1).strip() if match.group(1) else ""
+                        if name and self._is_valid_person_name(name):
+                            people.append({
+                                'name': name,
+                                'title': 'Chief Executive Officer',
+                                'role_type': 'CEO'
+                            })
+                    except (IndexError, AttributeError) as e:
+                        continue
+            
+            # Pattern 4: Officer mentions - improved to handle middle initials
+            officer_patterns = [
+            r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*,\s*([^,\n]*(?:Chief|President|Vice|Senior|Executive)\s+[^,\n]*Officer[^,\n]*)',
+            r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*\(([^)]*Officer[^)]*)\)',
+            r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*-\s*([^-\n]*(?:Chief|President|Vice|Senior|Executive)\s+[^-\n]*Officer[^-\n]*)',
+            ]
+            
+            for pattern in officer_patterns:
+                matches = re.finditer(pattern, content, re.IGNORECASE)
+                for match in matches:
+                    try:
+                        if match.lastindex is None or match.lastindex < 2:
+                            continue
+                        name = match.group(1).strip() if match.group(1) else ""
+                        title = match.group(2).strip() if match.group(2) else ""
+                        
+                        if name and title and self._is_valid_person_name(name) and self._is_valid_title(title):
+                            people.append({
+                                'name': name,
+                                'title': title,
+                                'role_type': self._classify_role(title)
+                            })
+                    except (IndexError, AttributeError) as e:
+                        continue
+            
+            # Pattern 5: Contact person - improved to handle middle initials
+            contact_patterns = [
+            (r'Contact[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*[,\-]\s*([^,\n]+)', 2),
+            (r'([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\s*[,\-]\s*([^,\n]*(?:Contact|Investor Relations|IR)[^,\n]*)', 2),
+            (r'Communications\s+Director[:\s]+([A-Z][a-z]+(?:\s+[A-Z]\.?)?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)', 1),
+            ]
+            
+            for pattern, num_groups in contact_patterns:
+                matches = re.finditer(pattern, content, re.IGNORECASE)
+                for match in matches:
+                    try:
+                        if match.lastindex is None or match.lastindex < 1:
+                            continue
+                        name = match.group(1).strip() if match.group(1) else ""
+                        if num_groups == 2:
+                            title = match.group(2).strip() if match.lastindex >= 2 and match.group(2) else "Contact"
+                        else:
+                            title = "Communications Director"
+                        
+                        if name and self._is_valid_person_name(name) and (num_groups == 1 or self._is_valid_title(title)):
+                            people.append({
+                                'name': name,
+                                'title': title,
+                                'role_type': 'Contact'
+                            })
+                    except (IndexError, AttributeError) as e:
+                        continue
+            
+            # Deduplicate by name
+            seen = set()
+            unique_people = []
+            for person in people:
+                name_key = person['name'].lower()
+                if name_key not in seen:
+                    seen.add(name_key)
+                    unique_people.append(person)
+        
+        except Exception as e:
+            # If any error occurs during extraction, return what we have so far
+            unique_people = people  # Return what we extracted so far
+        
+        # Record timing for pattern-based extraction
+        pattern_time = time.time() - start_time
+        self.timing_stats['pattern_extraction_time'] += pattern_time
+        self.timing_stats['pattern_extractions_count'] += 1
         
         return unique_people
     
@@ -344,12 +542,32 @@ class GraphBuilder:
         # Pattern 4: "wholly owned"
         wholly_owned_pattern = r'([A-Z][A-Za-z\s&\.]+(?:PLC|LTD|INC|CORP)?)\s+is\s+(?:a\s+)?wholly\s+owned\s+subsidiary\s+of\s+([A-Z][A-Za-z\s&\.]+(?:PLC|LTD|INC|CORP)?)'
         
+        # Pattern 5: "Former Company" - mentioned in analysis as missing
+        former_company_pattern = r'Former\s+Company[:\s]+([A-Z][A-Za-z\s&\.]+(?:PLC|Ltd|Inc|Corp|LLC)?)'
+        
+        # Pattern 6: acquisition mentions
+        acquisition_pattern = r'(?:acquired|acquisition\s+of)\s+([A-Z][A-Za-z\s&\.]+(?:PLC|Ltd|Inc|Corp|LLC)?)'
+        
         patterns = [
             (owns_pattern, 'OWNS'),
             (subsidiary_pattern, 'SUBSIDIARY_OF'),
             (parent_pattern, 'OWNS'),  # Reverse relationship
             (wholly_owned_pattern, 'SUBSIDIARY_OF')
         ]
+        
+        # Extract former company separately (it's a special case)
+        primary_company_name = filing_data.get('company_name', '').strip()
+        former_matches = re.finditer(former_company_pattern, content, re.IGNORECASE)
+        
+        for match in former_matches:
+            former_company = match.group(1).strip()
+            if former_company and primary_company_name:
+                relationships.append({
+                    'parent_company': primary_company_name,
+                    'child_company': former_company,
+                    'relationship_type': 'SUBSIDIARY_OF',
+                    'ownership_type': 'former company'
+                })
         
         for pattern, rel_type in patterns:
             matches = re.finditer(pattern, content, re.IGNORECASE)
@@ -443,7 +661,26 @@ class GraphBuilder:
         
         elif 'acquisition' in content_lower or 'acquired' in content_lower:
             event_type = 'Acquisition'
-            title = "Corporate Acquisition"
+            # Try to extract acquisition details
+            acquisition_match = re.search(
+                r'(?:acquired|acquisition)\s+(?:of|by)?\s*([A-Z][A-Za-z\s&\.]+(?:PLC|Ltd|Inc|Corp|LLC)?)',
+                content,
+                re.IGNORECASE
+            )
+            if acquisition_match:
+                acquired_company = acquisition_match.group(1).strip()
+                title = f"Acquisition of {acquired_company}"
+            else:
+                title = "Corporate Acquisition"
+            
+            # Try to extract acquisition date
+            date_match = re.search(
+                r'(?:acquired|acquisition|completed)\s+(?:on|date)?\s*(\d{1,2}[/\-]\d{1,2}[/\-]\d{2,4})',
+                content,
+                re.IGNORECASE
+            )
+            if date_match:
+                filing_date = date_match.group(1)  # Use extracted date if found
         
         elif 'restructuring' in content_lower or 'legal structure' in content_lower:
             event_type = 'Restructuring'
@@ -495,7 +732,7 @@ class GraphBuilder:
             print(f"Error creating event node: {e}")
             return False
     
-    def create_has_event_relationship(self, company_cik: str, event_id: str, filing_date: str) -> bool:
+    def create_has_event_relationship(self, company_cik: str, event_id: str, filing_date: str, filing_id: str) -> bool:
         """Create HAS_EVENT relationship."""
         if not company_cik or not event_id:
             return False
@@ -515,7 +752,7 @@ class GraphBuilder:
             'company_cik': company_cik,
             'event_id': event_id,
             'filing_date': filing_date,
-            'filing_id': event_id.split('_')[1] if '_' in event_id else ''
+            'filing_id': filing_id or ''
         }
         
         try:
@@ -532,6 +769,7 @@ class GraphBuilder:
         Returns:
             Dictionary with counts of created entities/relationships
         """
+        filing_start_time = time.time()
         stats = {
             'companies': 0,
             'people': 0,
@@ -540,17 +778,25 @@ class GraphBuilder:
         }
         
         try:
-            # Load filing data
-            filing_data = get_filing_data(filing_path)
+            # Load filing data with error handling
+            try:
+                filing_data = get_filing_data(filing_path)
+            except Exception as e:
+                print(f"Error loading filing {filing_path.name}: {e}")
+                return stats
             
-            if not filing_data.get('cik'):
+            if not filing_data or not filing_data.get('cik'):
                 return stats
             
             company_cik = filing_data['cik']
             
-            # 1. Create company node
-            if self.create_company_node(filing_data):
-                stats['companies'] += 1
+            # 1. Create company node with validation
+            try:
+                if self.create_company_node(filing_data):
+                    stats['companies'] += 1
+            except Exception as e:
+                print(f"Error creating company node for {filing_path.name}: {e}")
+                # Continue processing other entities even if company creation fails
             
             # 2. Create sector node and relationship
             sic_code = filing_data.get('sic_code')
@@ -560,20 +806,33 @@ class GraphBuilder:
                     if self.create_company_sector_relationship(company_cik, sic_code):
                         stats['relationships'] += 1
             
-            # 3. Extract and create people
-            people = self.extract_people_from_filing(filing_data)
-            for person_data in people:
-                if self.create_person_node(person_data, company_cik):
-                    stats['people'] += 1
-                if self.create_works_at_relationship(person_data['name'], company_cik, person_data):
-                    stats['relationships'] += 1
+            # 3. Extract and create people with error handling
+            try:
+                company_name = filing_data.get('company_name', '')
+                people = self.extract_people_from_filing(filing_data, company_name, company_cik)
+                for person_data in people:
+                    try:
+                        if self.create_person_node(person_data, company_cik):
+                            stats['people'] += 1
+                        if self.create_works_at_relationship(person_data.get('name', ''), company_cik, person_data):
+                            stats['relationships'] += 1
+                    except Exception as e:
+                        print(f"Error processing person {person_data.get('name', 'unknown')}: {e}")
+                        continue
+            except Exception as e:
+                print(f"Error extracting people from {filing_path.name}: {e}")
             
             # 4. Extract and create events
             events = self.extract_events_from_filing(filing_data)
             for event_data in events:
                 if self.create_event_node(event_data):
                     stats['events'] += 1
-                if self.create_has_event_relationship(company_cik, event_data['id'], filing_data.get('filing_date', '')):
+                if self.create_has_event_relationship(
+                    company_cik, 
+                    event_data['id'], 
+                    filing_data.get('filing_date', ''),
+                    event_data.get('filing_id', '')
+                ):
                     stats['relationships'] += 1
             
             # 5. Extract ownership relationships (basic - would need CIK lookup for full implementation)
@@ -581,6 +840,10 @@ class GraphBuilder:
             
         except Exception as e:
             print(f"Error processing filing {filing_path}: {e}")
+        finally:
+            # Record total time for this filing
+            filing_time = time.time() - filing_start_time
+            self.timing_stats['total_time'] += filing_time
         
         return stats
     
@@ -593,8 +856,18 @@ class GraphBuilder:
             limit: Optional limit on number of filings to process
             
         Returns:
-            Dictionary with total counts
+            Dictionary with total counts and timing information
         """
+        overall_start_time = time.time()
+        
+        # Reset timing stats
+        self.timing_stats = {
+            'total_time': 0.0,
+            'pattern_extraction_time': 0.0,
+            'db_operations_time': 0.0,
+            'pattern_extractions_count': 0
+        }
+        
         filings = list_filings(year)
         
         if limit:
@@ -612,7 +885,10 @@ class GraphBuilder:
         
         for i, filing_path in enumerate(filings, 1):
             if i % 10 == 0:
-                print(f"  Processed {i}/{len(filings)} filings...")
+                elapsed = time.time() - overall_start_time
+                avg_time = elapsed / i if i > 0 else 0
+                remaining = avg_time * (len(filings) - i)
+                print(f"  Processed {i}/{len(filings)} filings... (elapsed: {elapsed:.1f}s, est. remaining: {remaining:.1f}s)")
             
             stats = self.process_filing(filing_path)
             
@@ -621,6 +897,12 @@ class GraphBuilder:
                     total_stats[key] += stats[key]
             
             total_stats['filings_processed'] += 1
+        
+        # Add timing information to stats
+        overall_time = time.time() - overall_start_time
+        total_stats['total_time'] = overall_time
+        total_stats['pattern_extraction_time'] = self.timing_stats['pattern_extraction_time']
+        total_stats['pattern_extractions_count'] = self.timing_stats['pattern_extractions_count']
         
         return total_stats
 

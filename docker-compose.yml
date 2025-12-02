@@ -18,6 +18,21 @@ services:
     depends_on:
       - neo4j
 
+  # Ollama LLM Service (for AI query processing - not for data extraction)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: orion-ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+    # Pull model on startup
+    command: >
+      sh -c "ollama serve & 
+             sleep 5 && 
+             ollama pull llama3.2 || true"
+
   # Neo4j Graph Database
   neo4j:
     image: neo4j:5.15-community
@@ -52,4 +67,6 @@ volumes:
   neo4j_import:
     driver: local
   neo4j_plugins:
+    driver: local
+  ollama_data:
     driver: local

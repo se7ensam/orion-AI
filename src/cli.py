@@ -24,6 +24,7 @@ Examples:
 
 import sys
 import os
+import json
 import argparse
 from typing import Optional
 
@@ -223,7 +224,7 @@ def load_graph_command(args):
     if not conn.connect():
         print("\n❌ Failed to connect to Neo4j.")
         print("Please check your .env file and ensure Neo4j is running.")
-        print("For local Neo4j, run: cd neo4j && docker-compose up -d")
+        print("For local Neo4j, run: make neo4j")
         sys.exit(1)
     
     try:
@@ -233,7 +234,9 @@ def load_graph_command(args):
             conn.setup_schema()
             print()
         
-        # Create graph builder
+        # Create graph builder (pattern-based extraction only)
+        print("Using pattern-based relationship extraction")
+        print()
         builder = GraphBuilder(conn)
         
         # Process filings
@@ -255,6 +258,23 @@ def load_graph_command(args):
         print(f"✅ Relationships created: {stats['relationships']}")
         print(f"✅ Filings processed: {stats['filings_processed']}")
         print()
+        
+        # Print timing information
+        if 'total_time' in stats:
+            total_time = stats['total_time']
+            print("⏱️  Performance Metrics:")
+            print(f"   Total time: {total_time:.2f}s")
+            if stats['filings_processed'] > 0:
+                avg_time = total_time / stats['filings_processed']
+                print(f"   Average time per filing: {avg_time:.2f}s")
+            
+            if stats.get('pattern_extractions_count', 0) > 0:
+                pattern_time = stats.get('pattern_extraction_time', 0)
+                pattern_count = stats['pattern_extractions_count']
+                avg_pattern_time = pattern_time / pattern_count if pattern_count > 0 else 0
+                print(f"   Pattern extractions: {pattern_count} ({pattern_time:.2f}s total, {avg_pattern_time:.2f}s avg)")
+            print()
+        
         print("Graph is ready for querying!")
         print()
         print("Example queries:")
@@ -264,6 +284,396 @@ def load_graph_command(args):
         
     except Exception as e:
         print(f"\n❌ Error loading graph: {e}")
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)
+    finally:
+        conn.close()
+
+
+def analyze_command(args):
+    """Handle analyze command - AI-powered code analysis."""
+    from src.services.ai_analyzer import create_ai_analyzer, list_analysis_results, load_analysis_result, get_analysis_dir
+    from src.data_loader import get_filing_data, list_filings
+    from pathlib import Path
+    import inspect
+    
+    # Handle list command
+    if args.list:
+        print("=" * 60)
+        print("Previous Analysis Results")
+        print("=" * 60)
+        print()
+        
+        results = list_analysis_results()
+        
+        if not results:
+            print("No analysis results found.")
+            return
+        
+        # Group by type
+        by_type = {}
+        for result in results:
+            atype = result["analysis_type"]
+            if atype not in by_type:
+                by_type[atype] = []
+            by_type[atype].append(result)
+        
+        for atype, items in sorted(by_type.items()):
+            print(f"\n{atype.replace('_', ' ').title()} ({len(items)} results):")
+            print("-" * 60)
+            for item in items[:10]:  # Show latest 10 per type
+                timestamp = item["timestamp"][:19] if item["timestamp"] else "Unknown"
+                print(f"  {item['file']}")
+                print(f"    Date: {timestamp}")
+                if item.get("metadata"):
+                    meta_str = ", ".join(f"{k}={v}" for k, v in list(item["metadata"].items())[:3])
+                    if meta_str:
+                        print(f"    {meta_str}")
+                print()
+        
+        if len(results) > 10:
+            print(f"\n... and {len(results) - 10} more results")
+        print(f"\nUse --view <filename> to view a specific analysis")
+        return
+    
+    # Handle view command
+    if args.view:
+        print("=" * 60)
+        print(f"Viewing Analysis: {args.view}")
+        print("=" * 60)
+        print()
+        
+        analysis_dir = get_analysis_dir()
+        filepath = analysis_dir / args.view
+        
+        if not filepath.exists():
+            print(f"❌ Analysis file not found: {filepath}")
+            return
+        
+        try:
+            data = load_analysis_result(filepath)
+            print(f"**Type**: {data.get('analysis_type', 'Unknown')}")
+            print(f"**Date**: {data.get('timestamp', 'Unknown')}")
+            if data.get('metadata'):
+                print(f"**Metadata**: {json.dumps(data['metadata'], indent=2)}")
+            print()
+            print("=" * 60)
+            print("Analysis Content")
+            print("=" * 60)
+            print()
+            
+            result = data.get('result', {})
+            if 'analysis' in result:
+                print(result['analysis'])
+            elif 'suggestions' in result:
+                print(result['suggestions'])
+            elif 'missing_entities' in result:
+                print(result['missing_entities'])
+            elif 'improvements' in result:
+                print(result['improvements'])
+            else:
+                print(json.dumps(result, indent=2))
+            
+            # Also show markdown file if it exists
+            md_file = filepath.with_suffix('.md')
+            if md_file.exists():
+                print()
+                print(f"📄 Markdown version available at: {md_file}")
+        except Exception as e:
+            print(f"❌ Error loading analysis: {e}")
+        return
+    
+    print("=" * 60)
+    print("AI-Powered Graph Builder Analysis")
+    print("=" * 60)
+    print()
+    
+    # Initialize AI analyzer
+    print("Initializing AI analyzer...")
+    analyzer = create_ai_analyzer()
+    
+    if not analyzer.is_available():
+        print("❌ AI analyzer not available. Make sure Ollama is running:")
+        print("   brew services start ollama")
+        print("   ollama pull llama3.2")
+        return
+    
+    print("✅ AI analyzer ready")
+    print()
+    
+    # Read graph builder code
+    print("Reading graph builder code...")
+    graph_builder_path = Path(__file__).parent.parent / "src" / "graph_builder.py"
+    
+    if not graph_builder_path.exists():
+        print(f"❌ Could not find graph_builder.py at {graph_builder_path}")
+        return
+    
+    with open(graph_builder_path, 'r') as f:
+        code_content = f.read()
+    
+    print(f"✅ Loaded {len(code_content)} characters of code")
+    print()
+    
+    # Load sample filings
+    print(f"Loading sample filings (limit: {args.limit})...")
+    year = args.year or 2010
+    filings = list_filings(year=year)
+    
+    if not filings:
+        print(f"❌ No filings found for year {year}")
+        return
+    
+    sample_filings = []
+    for filing_path in filings[:args.limit]:
+        try:
+            filing_data = get_filing_data(filing_path)
+            sample_filings.append(filing_data)
+            print(f"  ✅ Loaded: {filing_path.name}")
+        except Exception as e:
+            print(f"  ⚠️  Error loading {filing_path.name}: {e}")
+    
+    if not sample_filings:
+        print("❌ No valid filings loaded")
+        return
+    
+    print(f"✅ Loaded {len(sample_filings)} sample filings")
+    print()
+    
+    # Run analysis
+    print("=" * 60)
+    print("Running AI Analysis...")
+    print("=" * 60)
+    print()
+    
+    # Main code analysis
+    print("📊 Analyzing parsing logic...")
+    result = analyzer.analyze_parsing_logic(code_content, sample_filings)
+    
+    if result.get("status") == "success":
+        # Save analysis result
+        from src.services.ai_analyzer import save_analysis_result
+        metadata = {
+            "year": year,
+            "limit": args.limit,
+            "filings_analyzed": len(sample_filings)
+        }
+        saved_path = save_analysis_result("parsing_logic", result, metadata)
+        print(f"💾 Analysis saved to: {saved_path}")
+        print()
+        
+        print("\n" + "=" * 60)
+        print("ANALYSIS RESULTS")
+        print("=" * 60)
+        print()
+        print(result["analysis"])
+        print()
+    else:
+        print(f"❌ Analysis failed: {result.get('error', 'Unknown error')}")
+        return
+    
+    # Pattern analysis if requested
+    if args.patterns:
+        print("\n" + "=" * 60)
+        print("PATTERN SUGGESTIONS")
+        print("=" * 60)
+        print()
+        
+        # Extract current patterns from code
+        import re
+        pattern_matches = re.findall(r'r[\'"]([^\'"]+)[\'"]', code_content)
+        
+        # Get sample content
+        sample_content = ""
+        for filing in sample_filings[:2]:
+            sample_content += (filing.get('raw_text', '') + filing.get('html_content', ''))[:3000]
+        
+        pattern_result = analyzer.suggest_extraction_patterns(sample_content, pattern_matches[:10])
+        
+        if pattern_result.get("status") == "success":
+            # Save pattern analysis
+            from src.services.ai_analyzer import save_analysis_result
+            metadata = {
+                "year": year,
+                "limit": args.limit,
+                "patterns_analyzed": len(pattern_matches[:10])
+            }
+            saved_path = save_analysis_result("patterns", pattern_result, metadata)
+            print(f"💾 Pattern analysis saved to: {saved_path}")
+            print()
+            
+            print(pattern_result["suggestions"])
+        else:
+            print(f"❌ Pattern analysis failed: {pattern_result.get('error')}")
+        print()
+    
+    # Missing entities analysis if requested
+    if args.missing:
+        print("\n" + "=" * 60)
+        print("MISSING ENTITIES ANALYSIS")
+        print("=" * 60)
+        print()
+        
+        # Process one filing to get extracted entities
+        from src.database.neo4j_connection import Neo4jConnection
+        from src.graph_builder import GraphBuilder
+        
+        conn = Neo4jConnection()
+        if conn.connect():
+            builder = GraphBuilder(conn)
+            
+            # Extract entities from first filing
+            filing_data = sample_filings[0]
+            people = builder.extract_people_from_filing(filing_data)
+            events = builder.extract_events_from_filing(filing_data)
+            
+            extracted = {
+                "people": [{"name": p.get("name"), "title": p.get("title")} for p in people],
+                "events": [{"type": e.get("event_type"), "title": e.get("title")} for e in events],
+                "company": {
+                    "name": filing_data.get("company_name"),
+                    "cik": filing_data.get("cik")
+                }
+            }
+            
+            content = filing_data.get('raw_text', '') + filing_data.get('html_content', '')
+            missing_result = analyzer.analyze_missing_entities(content[:8000], extracted)
+            
+            if missing_result.get("status") == "success":
+                # Save missing entities analysis
+                from src.services.ai_analyzer import save_analysis_result
+                metadata = {
+                    "year": year,
+                    "filing_cik": filing_data.get("cik"),
+                    "extracted_people": len(people),
+                    "extracted_events": len(events)
+                }
+                saved_path = save_analysis_result("missing_entities", missing_result, metadata)
+                print(f"💾 Missing entities analysis saved to: {saved_path}")
+                print()
+                
+                print(missing_result["missing_entities"])
+            else:
+                print(f"❌ Missing entities analysis failed: {missing_result.get('error')}")
+            
+            conn.close()
+        print()
+    
+    # Schema suggestions if requested
+    if args.schema:
+        print("\n" + "=" * 60)
+        print("GRAPH SCHEMA SUGGESTIONS")
+        print("=" * 60)
+        print()
+        
+        # Get current schema info
+        current_schema = {
+            "nodes": ["Company", "Person", "Event", "Sector"],
+            "relationships": ["OWNS", "SUBSIDIARY_OF", "WORKS_AT", "HAS_EVENT", "BELONGS_TO_SECTOR"]
+        }
+        
+        # Process filings to get extracted data
+        from src.database.neo4j_connection import Neo4jConnection
+        from src.graph_builder import GraphBuilder
+        
+        conn = Neo4jConnection()
+        if conn.connect():
+            builder = GraphBuilder(conn)
+            
+            # Sample extracted data
+            sample_data = {
+                "companies": [{"cik": f.get("cik"), "name": f.get("company_name")} for f in sample_filings[:3]],
+                "people_count": sum(len(builder.extract_people_from_filing(f)) for f in sample_filings[:3])
+            }
+            
+            schema_result = analyzer.suggest_graph_improvements(current_schema, sample_data)
+            
+            if schema_result.get("status") == "success":
+                # Save schema analysis
+                from src.services.ai_analyzer import save_analysis_result
+                metadata = {
+                    "year": year,
+                    "limit": args.limit,
+                    "sample_companies": len(sample_data.get("companies", []))
+                }
+                saved_path = save_analysis_result("schema", schema_result, metadata)
+                print(f"💾 Schema analysis saved to: {saved_path}")
+                print()
+                
+                print(schema_result["improvements"])
+            else:
+                print(f"❌ Schema analysis failed: {schema_result.get('error')}")
+            
+            conn.close()
+        print()
+    
+    print("=" * 60)
+    print("Analysis Complete")
+    print("=" * 60)
+
+
+def clear_graph_command(args):
+    """Handle clear-graph command."""
+    from src.database.neo4j_connection import Neo4jConnection
+    
+    if not args.confirm:
+        print("=" * 60)
+        print("⚠️  WARNING: Clear Neo4j Graph Database")
+        print("=" * 60)
+        print()
+        print("This will DELETE ALL nodes and relationships from Neo4j.")
+        print("The schema (constraints and indexes) will be preserved.")
+        print()
+        print("To confirm, run:")
+        print("  python -m src.cli clear-graph --confirm")
+        print()
+        sys.exit(1)
+    
+    print("=" * 60)
+    print("Clearing Neo4j Graph Database")
+    print("=" * 60)
+    print()
+    
+    # Connect to Neo4j
+    conn = Neo4jConnection()
+    
+    if not conn.connect():
+        print("\n❌ Failed to connect to Neo4j.")
+        print("Please check your .env file and ensure Neo4j is running.")
+        print("For local Neo4j, run: make neo4j")
+        sys.exit(1)
+    
+    try:
+        # Count nodes before deletion
+        result = conn.execute_query("MATCH (n) RETURN count(n) as count")
+        node_count = result[0]['count'] if result else 0
+        
+        result = conn.execute_query("MATCH ()-[r]->() RETURN count(r) as count")
+        rel_count = result[0]['count'] if result else 0
+        
+        print(f"Current graph state:")
+        print(f"  Nodes: {node_count}")
+        print(f"  Relationships: {rel_count}")
+        print()
+        
+        if node_count == 0:
+            print("✅ Graph is already empty.")
+            return
+        
+        print("Deleting all nodes and relationships...")
+        
+        # Delete all relationships first, then nodes
+        conn.execute_query("MATCH ()-[r]->() DELETE r")
+        conn.execute_query("MATCH (n) DELETE n")
+        
+        print("✅ All nodes and relationships deleted.")
+        print()
+        print("Schema (constraints and indexes) is preserved.")
+        print("You can now reload data with: python -m src.cli load-graph")
+        
+    except Exception as e:
+        print(f"\n❌ Error clearing graph: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)
@@ -283,6 +693,9 @@ Examples:
   
   # Setup Neo4j database schema
   python -m src.cli setup-db
+  
+  # Clear Neo4j graph (requires --confirm)
+  python -m src.cli clear-graph --confirm
   
   # Load filings into Neo4j graph
   python -m src.cli load-graph --year 2009 --limit 10
@@ -411,6 +824,64 @@ Examples:
         help="Skip schema setup (use if schema already exists)"
     )
     load_graph_parser.set_defaults(func=load_graph_command)
+    
+    # Clear Graph command
+    clear_graph_parser = subparsers.add_parser(
+        "clear-graph",
+        help="Clear all data from Neo4j graph database",
+        description="Delete all nodes and relationships from Neo4j (keeps schema intact)"
+    )
+    clear_graph_parser.add_argument(
+        "--confirm",
+        action="store_true",
+        help="Confirm deletion (required to prevent accidental deletion)"
+    )
+    clear_graph_parser.set_defaults(func=clear_graph_command)
+    
+    # Analyze command - AI-powered code analysis
+    analyze_parser = subparsers.add_parser(
+        "analyze",
+        help="AI-powered analysis of graph builder parsing logic",
+        description="Analyze the graph builder code and suggest improvements based on actual filing data"
+    )
+    analyze_parser.add_argument(
+        "--year",
+        type=int,
+        help="Year of filings to analyze (default: 2010)"
+    )
+    analyze_parser.add_argument(
+        "--limit",
+        type=int,
+        default=5,
+        help="Number of sample filings to analyze (default: 5)"
+    )
+    analyze_parser.add_argument(
+        "--patterns",
+        action="store_true",
+        help="Analyze and suggest improved regex patterns"
+    )
+    analyze_parser.add_argument(
+        "--missing",
+        action="store_true",
+        help="Find missing entities in extracted data"
+    )
+    analyze_parser.add_argument(
+        "--schema",
+        action="store_true",
+        help="Suggest graph schema improvements"
+    )
+    analyze_parser.add_argument(
+        "--list",
+        action="store_true",
+        help="List all previous analysis results"
+    )
+    analyze_parser.add_argument(
+        "--view",
+        type=str,
+        metavar="FILENAME",
+        help="View a specific analysis result (filename from --list)"
+    )
+    analyze_parser.set_defaults(func=analyze_command)
     
     args = parser.parse_args()
     

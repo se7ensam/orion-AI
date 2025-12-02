@@ -1,6 +1,6 @@
 # Orion Makefile - Docker Orchestration
 
-.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status
+.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status workers workers-scale workers-logs coordinator
 
 # Default target
 help:
@@ -16,11 +16,17 @@ help:
 	@echo "  make clean          - Clean up Docker resources"
 	@echo "  make logs           - Show download logs"
 	@echo "  make status         - Show container status"
+	@echo "  make workers        - Start worker services (2 workers)"
+	@echo "  make workers-scale  - Scale workers (e.g., make workers-scale N=4)"
+	@echo "  make workers-logs   - Show worker logs"
+	@echo "  make coordinator    - Run coordinator to process filings"
 	@echo ""
 	@echo "Examples:"
 	@echo "  make build"
 	@echo "  make neo4j"
 	@echo "  make download"
+	@echo "  make workers"
+	@echo "  make coordinator YEAR=2010 LIMIT=10"
 	@echo "  docker-compose run --rm download python -m src.cli download --start-year 2020 --end-year 2021"
 
 # Build Docker image
@@ -48,6 +54,47 @@ neo4j-stop:
 # Show Neo4j logs
 neo4j-logs:
 	docker-compose logs -f neo4j
+
+# Start Ollama
+ollama:
+	docker-compose up -d ollama
+	@echo ""
+	@echo "✓ Ollama started!"
+	@echo "  API: http://localhost:11434"
+	@echo "  Waiting for model download..."
+
+# Start Workers
+workers:
+	docker-compose up -d --scale worker=2 worker
+	@echo ""
+	@echo "✓ Workers started (2 workers)"
+	@echo "  Scale up: make workers-scale N=4"
+	@echo "  View logs: make workers-logs"
+
+# Scale Workers
+workers-scale:
+	@if [ -z "$(N)" ]; then \
+		echo "Usage: make workers-scale N=4"; \
+		exit 1; \
+	fi
+	docker-compose up -d --scale worker=$(N) worker
+	@echo ""
+	@echo "✓ Scaled workers to $(N)"
+
+# Show Worker Logs
+workers-logs:
+	docker-compose logs -f worker
+
+# Run Coordinator
+coordinator:
+	@YEAR=$(or $(YEAR),); \
+	LIMIT=$(or $(LIMIT),); \
+	NO_AI=$(or $(NO_AI),); \
+	ARGS=""; \
+	if [ -n "$$YEAR" ]; then ARGS="$$ARGS --year $$YEAR"; fi; \
+	if [ -n "$$LIMIT" ]; then ARGS="$$ARGS --limit $$LIMIT"; fi; \
+	if [ -n "$$NO_AI" ]; then ARGS="$$ARGS --no-ai"; fi; \
+	docker-compose run --rm coordinator python -m src.services.coordinator $$ARGS --wait
 
 # Stop containers
 stop:
