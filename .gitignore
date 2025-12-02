@@ -75,6 +75,7 @@ build/
 
 # Data (keep structure, ignore content)
 data/edgar_filings/
+data/filings/
 data/metadata/*.idx
 data/*.csv
 data/analysis/
