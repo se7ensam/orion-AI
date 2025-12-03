@@ -33,6 +33,32 @@ services:
              sleep 5 && 
              ollama pull llama3.2 || true"
 
+  # Streamlit Frontend
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: orion:latest
+    container_name: orion-frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+      - ./.env:/app/.env:ro
+    environment:
+      - PYTHONPATH=/app
+      - ORION_DATA_DIR=/app/data
+    command: streamlit run frontend/app.py --server.port=8501 --server.address=0.0.0.0
+    restart: unless-stopped
+    depends_on:
+      - neo4j
+      - ollama
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8501/_stcore/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
   # Neo4j Graph Database
   neo4j:
     image: neo4j:5.15-community

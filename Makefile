@@ -1,6 +1,6 @@
 # Orion Makefile - Docker Orchestration
 
-.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status workers workers-scale workers-logs coordinator
+.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status workers workers-scale workers-logs coordinator frontend frontend-logs
 
 # Default target
 help:
@@ -20,6 +20,8 @@ help:
 	@echo "  make workers-scale  - Scale workers (e.g., make workers-scale N=4)"
 	@echo "  make workers-logs   - Show worker logs"
 	@echo "  make coordinator    - Run coordinator to process filings"
+	@echo "  make frontend       - Start Streamlit frontend"
+	@echo "  make frontend-logs  - Show frontend logs"
 	@echo ""
 	@echo "Examples:"
 	@echo "  make build"
@@ -112,3 +114,17 @@ logs:
 # Show status
 status:
 	docker-compose ps
+
+# Start Frontend
+frontend:
+	docker-compose up -d frontend
+	@echo ""
+	@echo "✓ Frontend started!"
+	@echo "  URL: http://localhost:8501"
+	@echo "  Make sure Neo4j and Ollama are running:"
+	@echo "    make neo4j"
+	@echo "    make ollama"
+
+# Show Frontend logs
+frontend-logs:
+	docker-compose logs -f frontend

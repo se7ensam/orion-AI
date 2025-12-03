@@ -613,6 +613,118 @@ def analyze_command(args):
     print("=" * 60)
 
 
+def query_command(args):
+    """Handle query command - Natural language to Cypher query conversion."""
+    from src.services.cypher_rag import CypherRAG
+    from src.database.neo4j_connection import Neo4jConnection
+    
+    print("=" * 80)
+    print("Cypher RAG - Natural Language Query")
+    print("=" * 80)
+    print()
+    
+    # Initialize Cypher RAG
+    print("Initializing Cypher RAG service...")
+    try:
+        rag = CypherRAG(model_name=args.model if args.model else "llama3.2")
+        if not rag.is_available():
+            print("❌ Cypher RAG is not available. Please ensure Ollama is running.")
+            print("   Start Ollama: docker-compose up -d ollama")
+            return
+        print("✓ Cypher RAG initialized")
+    except Exception as e:
+        print(f"❌ Error initializing Cypher RAG: {e}")
+        return
+    
+    # Connect to Neo4j
+    print("\nConnecting to Neo4j...")
+    conn = Neo4jConnection()
+    if not conn.connect():
+        print("❌ Failed to connect to Neo4j")
+        return
+    print("✓ Connected to Neo4j")
+    
+    try:
+        # Get query from args or prompt
+        if args.query:
+            natural_query = args.query
+        else:
+            # Interactive mode
+            print("\n" + "=" * 80)
+            print("Interactive Query Mode (type 'exit' to quit)")
+            print("=" * 80)
+            while True:
+                natural_query = input("\n💬 Enter your question: ").strip()
+                if not natural_query or natural_query.lower() in ['exit', 'quit', 'q']:
+                    break
+                
+                if args.show_cypher:
+                    print(f"\n📝 Natural Language Query: {natural_query}")
+                
+                # Generate and execute query
+                print("\n🤖 Generating Cypher query...")
+                results, error, cypher_query = rag.query_with_retry(
+                    natural_query,
+                    conn,
+                    max_retries=2
+                )
+                
+                if error:
+                    print(f"\n❌ Error: {error}")
+                    if args.show_cypher and cypher_query:
+                        print(f"\nGenerated Cypher query:\n{cypher_query}")
+                    continue
+                
+                # Show Cypher query if requested
+                if args.show_cypher:
+                    print(f"\n✅ Generated Cypher Query:")
+                    print("-" * 80)
+                    print(cypher_query)
+                    print("-" * 80)
+                
+                # Display results
+                if results:
+                    formatted = rag.format_results(results, max_rows=args.max_rows)
+                    print(formatted)
+                else:
+                    print("\nNo results found.")
+        
+        # Non-interactive mode (single query)
+        if args.query:
+            if args.show_cypher:
+                print(f"\n📝 Natural Language Query: {natural_query}")
+            
+            print("\n🤖 Generating Cypher query...")
+            results, error, cypher_query = rag.query_with_retry(
+                natural_query,
+                conn,
+                max_retries=2
+            )
+            
+            if error:
+                print(f"\n❌ Error: {error}")
+                if args.show_cypher and cypher_query:
+                    print(f"\nGenerated Cypher query:\n{cypher_query}")
+                return
+            
+            # Show Cypher query if requested
+            if args.show_cypher:
+                print(f"\n✅ Generated Cypher Query:")
+                print("-" * 80)
+                print(cypher_query)
+                print("-" * 80)
+            
+            # Display results
+            if results:
+                formatted = rag.format_results(results, max_rows=args.max_rows)
+                print(formatted)
+            else:
+                print("\nNo results found.")
+    
+    finally:
+        conn.close()
+
+
 def clear_graph_command(args):
     """Handle clear-graph command."""
     from src.database.neo4j_connection import Neo4jConnection
@@ -707,6 +819,11 @@ Examples:
   
   # Run tests
   python -m src.cli test --download
+  
+  # Query graph with natural language
+  python -m src.cli query "Find all companies"
+  python -m src.cli query "Who works at Apple Inc?" --show-cypher
+  python -m src.cli query  # Interactive mode
         """
     )
     
@@ -882,6 +999,37 @@ Examples:
         help="View a specific analysis result (filename from --list)"
     )
     analyze_parser.set_defaults(func=analyze_command)
+    
+    # Query command - Natural language to Cypher
+    query_parser = subparsers.add_parser(
+        "query",
+        help="Query Neo4j graph using natural language",
+        description="Convert natural language questions to Cypher queries and execute them"
+    )
+    query_parser.add_argument(
+        "query",
+        type=str,
+        nargs="?",
+        help="Natural language query (if not provided, enters interactive mode)"
+    )
+    query_parser.add_argument(
+        "--show-cypher",
+        action="store_true",
+        help="Show the generated Cypher query"
+    )
+    query_parser.add_argument(
+        "--max-rows",
+        type=int,
+        default=50,
+        help="Maximum number of rows to display (default: 50)"
+    )
+    query_parser.add_argument(
+        "--model",
+        type=str,
+        default=None,
+        help="Ollama model to use (default: llama3.2)"
+    )
+    query_parser.set_defaults(func=query_command)
     
     args = parser.parse_args()
     

@@ -227,10 +227,57 @@ python -m src.cli test-db
 python -m src.cli test --download
 ```
 
+#### Query Graph with Natural Language
+```bash
+# Query using natural language
+python -m src.cli query "Find all companies"
+python -m src.cli query "Who works at Apple Inc?" --show-cypher
+
+# Interactive mode
+python -m src.cli query
+```
+
 For detailed help on any command:
 ```bash
 python -m src.cli <command> --help
 ```
+
+## 🌐 Web Frontend
+
+Orion includes a Streamlit web interface for querying the graph database:
+
+### Start Frontend
+
+**Docker:**
+```bash
+# Start all services including frontend
+docker-compose up -d
+
+# Or start just frontend
+make frontend
+
+# View logs
+make frontend-logs
+```
+
+**Local:**
+```bash
+conda activate orion
+streamlit run frontend/app.py
+```
+
+Access at: **http://localhost:8501**
+
+### Features
+
+- 💬 Natural language query interface
+- 🔍 View generated Cypher queries
+- 📊 Interactive results tables
+- 📥 Download results as CSV
+- ⚙️ Configurable LLM models
+- 📝 Example queries sidebar
+
+See [Frontend Documentation](frontend/README.md) for details.
 
 ## 📁 Project Structure
 
