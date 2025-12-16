@@ -10,7 +10,6 @@ import chalk from 'chalk';
 import { ARCHIVE_BASE, getDownloadRoot } from './config.js';
 import { RateLimiter } from './rateLimiter.js';
 import { httpClient } from './httpClient.js';
-import { MultiIpClient } from './multiIpClient.js';
 import { getMetadataWriter } from './metadataWriter.js';
 import type { FilingResult, FilingMetadata, FpiEntry } from './types.js';
 
@@ -79,23 +78,9 @@ export async function downloadFiling(
     return downloadFilingWithClient(companyName, cik, accession, filingDate, skipExisting, httpClient, rateLimiter);
 }
 
-/**
- * Download a single filing (multi-IP version)
- */
-export async function downloadFilingMultiIp(
-    companyName: string,
-    cik: string,
-    accession: string,
-    filingDate: string,
-    skipExisting: boolean,
-    multiIpClient: MultiIpClient
-): Promise<FilingResult> {
-    const { ip, client, rateLimiter } = multiIpClient.getNextIpAndClient();
-    return downloadFilingWithClient(companyName, cik, accession, filingDate, skipExisting, client, rateLimiter, ip.id, multiIpClient);
-}
 
 /**
- * Core download logic (shared between single and multi-IP)
+ * Core download logic
  */
 async function downloadFilingWithClient(
     _companyName: string, // Used in metadata, not in file path
@@ -104,9 +89,7 @@ async function downloadFilingWithClient(
     filingDate: string,
     skipExisting: boolean,
     client: any,
-    rateLimiter: RateLimiter,
-    ipId?: string,
-    multiIpClient?: MultiIpClient
+    rateLimiter: RateLimiter
 ): Promise<FilingResult> {
     const accNodash = accession.replace(/-/g, '');
     const year = filingDate.substring(0, 4);
@@ -148,9 +131,6 @@ async function downloadFilingWithClient(
         try {
             // Download index HTML
             await rateLimiter.wait();
-            if (multiIpClient && ipId) {
-                multiIpClient.getIpPool().incrementRequestCount(ipId);
-            }
             const htmlResponse = await client.get(filingUrl) as { data: string };
             const $ = cheerio.load(htmlResponse.data);
             
@@ -189,9 +169,6 @@ async function downloadFilingWithClient(
                 while (txtRetryCount <= maxRetries) {
                     try {
                         await rateLimiter.wait();
-                        if (multiIpClient && ipId) {
-                            multiIpClient.getIpPool().incrementRequestCount(ipId);
-                        }
                         const txtResponse = await client.get(txtLink) as { data: string };
                         await fs.writeFile(txtPath, txtResponse.data, 'utf-8');
                         

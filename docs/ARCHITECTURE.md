@@ -61,11 +61,11 @@ Orion is an intelligent document management system that leverages Large Language
 ### 3. Ingestion Layer
 
 #### SEC EDGAR Ingestion
-- **Location**: `src/ingestion/`
+- **Location**: `services/downloader/` (TypeScript service)
 - **Components**:
-  - `sec_companies.py` - Company index parser
-  - `filing_downloader.py` - Filing downloader and exhibit extractor
-  - `main.py` - Entry point
+  - `fpiList.ts` - Company index parser
+  - `filingDownloader.ts` - Filing downloader and exhibit extractor
+  - `index.ts` - Entry point
 - **Features**:
   - Downloads 6-K filings for Foreign Private Issuers
   - Extracts EX-99 exhibits
@@ -94,10 +94,10 @@ Orion is an intelligent document management system that leverages Large Language
 ### Document Ingestion Flow
 ```
 1. SEC EDGAR Download
-   └─> filing_downloader.py
+   └─> services/downloader/ (TypeScript)
        └─> Downloads 6-K filings
        └─> Extracts EX-99 exhibits
-       └─> Saves to Edgar_filings/
+       └─> Saves to data/filings/
 
 2. Document Processing (TODO)
    └─> document_service.py
@@ -148,15 +148,8 @@ orion/
 │   ├── database/                 # Database connections
 │   │   ├── neo4j_connection.py
 │   │   └── oracle_connection.py
-│   ├── ingestion/               # SEC EDGAR ingestion
-│   │   ├── sec_companies.py
-│   │   ├── filing_downloader.py
-│   │   └── main.py
-│   ├── services/                # Business logic (TODO)
-│   │   ├── document_service.py
-│   │   └── llm_service.py
-│   └── models/                  # Data models (TODO)
-│       └── graph_models.py
+│   ├── data_loader.py           # Loads downloaded filings
+│   └── graph_builder.py         # Builds Neo4j graph
 ├── docs/                        # Documentation
 ├── environment.yml              # Conda environment
 └── setup_conda.sh              # Setup script

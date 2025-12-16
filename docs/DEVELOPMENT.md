@@ -46,7 +46,8 @@ python -m src.cli test-db --neo4j
 src/
 ├── cli.py              # CLI entry point
 ├── database/           # Database connections
-├── ingestion/          # SEC EDGAR ingestion
+├── data_loader.py      # Loads downloaded filings
+├── graph_builder.py    # Builds Neo4j graph
 ├── services/           # Business logic (TODO)
 └── models/             # Data models (TODO)
 ```

@@ -63,7 +63,7 @@ docker-compose up -d --scale worker=4
 ```bash
 # Option 1: Run coordinator via Docker
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --year 2010 \
   --limit 10 \
   --wait
@@ -152,7 +152,7 @@ docker-compose up -d --scale worker=2
 
 # 2. Run coordinator
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --year 2010 \
   --limit 10 \
   --wait
@@ -162,7 +162,7 @@ docker-compose run --rm coordinator \
 
 ```bash
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --year 2009 \
   --wait
 ```
@@ -171,7 +171,7 @@ docker-compose run --rm coordinator \
 
 ```bash
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --year 2010 \
   --limit 10 \
   --no-ai \
@@ -261,7 +261,7 @@ If jobs are stuck in `processing/` directory (worker crashed):
 
 ```bash
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --queue-dir /custom/path/queue \
   --year 2010 \
   --wait
@@ -272,13 +272,13 @@ docker-compose run --rm coordinator \
 ```bash
 # Create jobs and exit (workers process in background)
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --year 2010 \
   --limit 100
 
 # Check status later
 docker-compose run --rm coordinator \
-  python -m src.services.coordinator \
+  python -m services.coordinator.main \
   --wait
 ```
 

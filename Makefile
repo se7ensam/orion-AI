@@ -1,6 +1,6 @@
 # Orion Makefile - Docker Orchestration
 
-.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status workers workers-scale workers-logs coordinator frontend frontend-logs
+.PHONY: help build download neo4j neo4j-stop neo4j-logs stop clean logs status workers workers-scale workers-logs coordinator
 
 # Default target
 help:
@@ -20,8 +20,6 @@ help:
 	@echo "  make workers-scale  - Scale workers (e.g., make workers-scale N=4)"
 	@echo "  make workers-logs   - Show worker logs"
 	@echo "  make coordinator    - Run coordinator to process filings"
-	@echo "  make frontend       - Start Streamlit frontend"
-	@echo "  make frontend-logs  - Show frontend logs"
 	@echo ""
 	@echo "Examples:"
 	@echo "  make build"
@@ -29,15 +27,15 @@ help:
 	@echo "  make download"
 	@echo "  make workers"
 	@echo "  make coordinator YEAR=2010 LIMIT=10"
-	@echo "  docker-compose run --rm download python -m src.cli download --start-year 2020 --end-year 2021"
+	@echo "  docker-compose run --rm download python -m services.cli.main download --start-year 2020 --end-year 2021"
 
 # Build Docker image
 build:
 	docker-compose build
 
-# Download filings (default: 2009-2010, 5 workers)
+# Download filings (default: 2009-2010)
 download:
-	docker-compose run --rm download python -m src.cli download --start-year 2009 --end-year 2010 --max-workers 5
+	docker-compose run --rm download python -m services.cli.main download --start-year 2009 --end-year 2010
 
 # Start Neo4j
 neo4j:
@@ -96,7 +94,7 @@ coordinator:
 	if [ -n "$$YEAR" ]; then ARGS="$$ARGS --year $$YEAR"; fi; \
 	if [ -n "$$LIMIT" ]; then ARGS="$$ARGS --limit $$LIMIT"; fi; \
 	if [ -n "$$NO_AI" ]; then ARGS="$$ARGS --no-ai"; fi; \
-	docker-compose run --rm coordinator python -m src.services.coordinator $$ARGS --wait
+	docker-compose run --rm coordinator python -m services.coordinator.main $$ARGS --wait
 
 # Stop containers
 stop:
@@ -114,17 +112,3 @@ logs:
 # Show status
 status:
 	docker-compose ps
-
-# Start Frontend
-frontend:
-	docker-compose up -d frontend
-	@echo ""
-	@echo "✓ Frontend started!"
-	@echo "  URL: http://localhost:8501"
-	@echo "  Make sure Neo4j and Ollama are running:"
-	@echo "    make neo4j"
-	@echo "    make ollama"
-
-# Show Frontend logs
-frontend-logs:
-	docker-compose logs -f frontend

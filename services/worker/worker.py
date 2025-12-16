@@ -11,8 +11,8 @@ import json
 import signal
 from pathlib import Path
 from typing import Optional, Dict, List
-from src.database.neo4j_connection import Neo4jConnection
-from src.graph_builder import GraphBuilder
+from services.database.neo4j_connection import Neo4jConnection
+from services.graph_builder.graph_builder import GraphBuilder
 
 
 class FilingWorker:
@@ -96,7 +96,7 @@ class FilingWorker:
             
             # Create graph builder
             use_ai = job_data.get('use_ai_extraction', True)
-            builder = GraphBuilder(self.conn, use_ai_extraction=use_ai, max_workers=1)
+            builder = GraphBuilder(self.conn)
             
             # Process the filing
             stats = builder.process_filing(filing_path)

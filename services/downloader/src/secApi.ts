@@ -8,7 +8,6 @@ import { SUBMISSION_URL } from './config.js';
 import { formatCik } from './utils.js';
 import { RateLimiter } from './rateLimiter.js';
 import { httpClient } from './httpClient.js';
-import { MultiIpClient } from './multiIpClient.js';
 import type { SubmissionData } from './types.js';
 
 /**
@@ -46,43 +45,6 @@ export async function getSubmissionJson(
     }
 }
 
-/**
- * Get submission JSON for a CIK (multi-IP version)
- */
-export async function getSubmissionJsonMultiIp(
-    cik: string,
-    multiIpClient: MultiIpClient
-): Promise<SubmissionData | null> {
-    const { ip, client, rateLimiter } = multiIpClient.getNextIpAndClient();
-    
-    await rateLimiter.wait();
-    multiIpClient.getIpPool().incrementRequestCount(ip.id);
-    
-    const url = SUBMISSION_URL.replace('{cik}', formatCik(cik));
-    try {
-        const response = await client.get<SubmissionData>(url);
-        return response.data;
-    } catch (error) {
-        const axiosError = error as AxiosError;
-        const status = axiosError.response?.status;
-        
-        // Retry on 429 (rate limit) or 503 (service unavailable)
-        if (status === 429 || status === 503) {
-            const waitTime = status === 503 ? 3000 : 5000; // Shorter wait for 503
-            const statusMsg = status === 503 ? 'Service unavailable (503)' : 'Rate limited (429)';
-            console.log(chalk.yellow(`⚠️  ${statusMsg} on IP ${ip.id} for CIK ${cik}, waiting ${waitTime/1000}s...`));
-            await new Promise(resolve => setTimeout(resolve, waitTime));
-            return getSubmissionJsonMultiIp(cik, multiIpClient);
-        }
-        
-        if (axiosError.code === 'ECONNABORTED') {
-            console.log(chalk.yellow(`⏱️  Timeout on IP ${ip.id} fetching submissions for CIK ${cik}`));
-        } else {
-            console.log(chalk.red(`❌ Error on IP ${ip.id} fetching ${cik}: ${axiosError.message}`));
-        }
-        return null;
-    }
-}
 
 /**
  * Download company index file

@@ -3,7 +3,7 @@
 Orion CLI - Main command-line interface for the Orion document management system.
 
 Usage:
-    python -m src.cli <command> [options]
+    python -m services.cli.main <command> [options]
     
 Commands:
     download      Download SEC EDGAR filings
@@ -13,13 +13,13 @@ Commands:
     
 Examples:
     # Download SEC filings
-    python -m src.cli download --start-year 2009 --end-year 2010
+    python -m services.cli.main download --start-year 2009 --end-year 2010
     
     # Setup Neo4j database
-    python -m src.cli setup-db
+    python -m services.cli.main setup-db
     
     # Test database connections
-    python -m src.cli test-db --neo4j
+    python -m services.cli.main test-db --neo4j
 """
 
 import sys
@@ -78,12 +78,6 @@ def download_command(args):
     if args.download_dir:
         cmd.extend(["--download-dir", args.download_dir])
     
-    if args.max_workers:
-        cmd.extend(["--max-workers", str(args.max_workers)])
-    
-    if args.use_multi_ip:
-        cmd.append("--use-multi-ip")
-    
     if args.max_filings:
         cmd.extend(["--max-filings", str(args.max_filings)])
     
@@ -107,7 +101,7 @@ def download_command(args):
 
 def setup_db_command(args):
     """Handle setup-db command."""
-    from src.database.neo4j_connection import Neo4jConnection
+    from services.database.neo4j_connection import Neo4jConnection
     
     print("=" * 60)
     print("Neo4j Database Setup")
@@ -140,7 +134,7 @@ def test_db_command(args):
         print("=" * 60)
         print("Testing Neo4j Connection")
         print("=" * 60)
-        from src.database.neo4j_connection import Neo4jConnection
+        from services.database.neo4j_connection import Neo4jConnection
         
         conn = Neo4jConnection()
         if conn.connect():
@@ -159,7 +153,7 @@ def test_db_command(args):
         print("=" * 60)
         print("Testing Oracle AI Vector DB Connection")
         print("=" * 60)
-        from src.database.oracle_connection import OracleConnection
+        from services.database.oracle_connection import OracleConnection
         
         conn = OracleConnection()
         if conn.connect():
@@ -210,8 +204,8 @@ def test_command(args):
 
 def load_graph_command(args):
     """Handle load-graph command."""
-    from src.database.neo4j_connection import Neo4jConnection
-    from src.graph_builder import GraphBuilder
+    from services.database.neo4j_connection import Neo4jConnection
+    from services.graph_builder.graph_builder import GraphBuilder
     
     print("=" * 60)
     print("Loading EDGAR Filings into Neo4j Graph")
@@ -293,8 +287,8 @@ def load_graph_command(args):
 
 def analyze_command(args):
     """Handle analyze command - AI-powered code analysis."""
-    from src.services.ai_analyzer import create_ai_analyzer, list_analysis_results, load_analysis_result, get_analysis_dir
-    from src.data_loader import get_filing_data, list_filings
+    from services.ai.ai_analyzer import create_ai_analyzer, list_analysis_results, load_analysis_result, get_analysis_dir
+    from services.data_loader.data_loader import get_filing_data, list_filings
     from pathlib import Path
     import inspect
     
@@ -453,7 +447,7 @@ def analyze_command(args):
     
     if result.get("status") == "success":
         # Save analysis result
-        from src.services.ai_analyzer import save_analysis_result
+        from services.ai.ai_analyzer import save_analysis_result
         metadata = {
             "year": year,
             "limit": args.limit,
@@ -493,7 +487,7 @@ def analyze_command(args):
         
         if pattern_result.get("status") == "success":
             # Save pattern analysis
-            from src.services.ai_analyzer import save_analysis_result
+            from services.ai.ai_analyzer import save_analysis_result
             metadata = {
                 "year": year,
                 "limit": args.limit,
@@ -516,8 +510,8 @@ def analyze_command(args):
         print()
         
         # Process one filing to get extracted entities
-        from src.database.neo4j_connection import Neo4jConnection
-        from src.graph_builder import GraphBuilder
+        from services.database.neo4j_connection import Neo4jConnection
+        from services.graph_builder.graph_builder import GraphBuilder
         
         conn = Neo4jConnection()
         if conn.connect():
@@ -542,7 +536,7 @@ def analyze_command(args):
             
             if missing_result.get("status") == "success":
                 # Save missing entities analysis
-                from src.services.ai_analyzer import save_analysis_result
+                from services.ai.ai_analyzer import save_analysis_result
                 metadata = {
                     "year": year,
                     "filing_cik": filing_data.get("cik"),
@@ -574,8 +568,8 @@ def analyze_command(args):
         }
         
         # Process filings to get extracted data
-        from src.database.neo4j_connection import Neo4jConnection
-        from src.graph_builder import GraphBuilder
+        from services.database.neo4j_connection import Neo4jConnection
+        from services.graph_builder.graph_builder import GraphBuilder
         
         conn = Neo4jConnection()
         if conn.connect():
@@ -591,7 +585,7 @@ def analyze_command(args):
             
             if schema_result.get("status") == "success":
                 # Save schema analysis
-                from src.services.ai_analyzer import save_analysis_result
+                from services.ai.ai_analyzer import save_analysis_result
                 metadata = {
                     "year": year,
                     "limit": args.limit,
@@ -615,8 +609,8 @@ def analyze_command(args):
 
 def query_command(args):
     """Handle query command - Natural language to Cypher query conversion."""
-    from src.services.cypher_rag import CypherRAG
-    from src.database.neo4j_connection import Neo4jConnection
+    from services.ai.cypher_rag import CypherRAG
+    from services.database.neo4j_connection import Neo4jConnection
     
     print("=" * 80)
     print("Cypher RAG - Natural Language Query")
@@ -727,7 +721,7 @@ def query_command(args):
 
 def clear_graph_command(args):
     """Handle clear-graph command."""
-    from src.database.neo4j_connection import Neo4jConnection
+    from services.database.neo4j_connection import Neo4jConnection
     
     if not args.confirm:
         print("=" * 60)
@@ -738,7 +732,7 @@ def clear_graph_command(args):
         print("The schema (constraints and indexes) will be preserved.")
         print()
         print("To confirm, run:")
-        print("  python -m src.cli clear-graph --confirm")
+        print("  python -m services.cli.main clear-graph --confirm")
         print()
         sys.exit(1)
     
@@ -782,7 +776,7 @@ def clear_graph_command(args):
         print("✅ All nodes and relationships deleted.")
         print()
         print("Schema (constraints and indexes) is preserved.")
-        print("You can now reload data with: python -m src.cli load-graph")
+        print("You can now reload data with: python -m services.cli.main load-graph")
         
     except Exception as e:
         print(f"\n❌ Error clearing graph: {e}")
@@ -801,29 +795,29 @@ def main():
         epilog="""
 Examples:
   # Download SEC EDGAR filings
-  python -m src.cli download --start-year 2009 --end-year 2010
+  python -m services.cli.main download --start-year 2009 --end-year 2010
   
   # Setup Neo4j database schema
-  python -m src.cli setup-db
+  python -m services.cli.main setup-db
   
   # Clear Neo4j graph (requires --confirm)
-  python -m src.cli clear-graph --confirm
+  python -m services.cli.main clear-graph --confirm
   
   # Load filings into Neo4j graph
-  python -m src.cli load-graph --year 2009 --limit 10
-  python -m src.cli load-graph --year 2009
+  python -m services.cli.main load-graph --year 2009 --limit 10
+  python -m services.cli.main load-graph --year 2009
   
   # Test database connections
-  python -m src.cli test-db --neo4j
-  python -m src.cli test-db --oracle
+  python -m services.cli.main test-db --neo4j
+  python -m services.cli.main test-db --oracle
   
   # Run tests
-  python -m src.cli test --download
+  python -m services.cli.main test --download
   
   # Query graph with natural language
-  python -m src.cli query "Find all companies"
-  python -m src.cli query "Who works at Apple Inc?" --show-cypher
-  python -m src.cli query  # Interactive mode
+  python -m services.cli.main query "Find all companies"
+  python -m services.cli.main query "Who works at Apple Inc?" --show-cypher
+  python -m services.cli.main query  # Interactive mode
         """
     )
     
@@ -858,17 +852,6 @@ Examples:
         type=str,
         default=None,
         help="Custom download directory (default: data/edgar_filings)"
-    )
-    download_parser.add_argument(
-        "--max-workers",
-        type=int,
-        default=100,
-        help="Number of parallel workers for downloads (default: 100, rate limiter ensures SEC compliance)"
-    )
-    download_parser.add_argument(
-        "--use-multi-ip",
-        action="store_true",
-        help="Enable multi-IP parallel processing for faster downloads (requires IP_PROXIES environment variable)"
     )
     download_parser.add_argument(
         "--max-filings",

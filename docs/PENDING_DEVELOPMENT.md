@@ -205,7 +205,8 @@ orion/
 │   ├── database/               ✅ Exists
 │   │   ├── neo4j_connection.py ✅ Exists
 │   │   └── oracle_connection.py ✅ Exists
-│   └── ingestion/              ✅ Exists
+│   ├── data_loader.py          ✅ Exists
+│   └── graph_builder.py        ✅ Exists
 ├── services/
 │   └── downloader/             ✅ Exists (TypeScript)
 └── requirements.txt            ✅ Exists

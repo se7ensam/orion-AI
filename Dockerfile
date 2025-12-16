@@ -29,7 +29,7 @@ COPY services/downloader/ ./services/downloader/
 RUN cd services/downloader && npm install && npm run build
 
 # Copy application code
-COPY src/ ./src/
+COPY services/ ./services/
 COPY setup.py ./
 COPY orion ./
 
@@ -42,5 +42,5 @@ ENV CONDA_DEFAULT_ENV=orion
 RUN mkdir -p /app/data /app/Edgar_filings /app/metadata
 
 # Default command
-CMD ["python", "-m", "src.cli", "--help"]
+CMD ["python", "-m", "services.cli.main", "--help"]
 

@@ -40,7 +40,6 @@ export interface DownloadOptions {
     skipExisting?: boolean;
     downloadDir?: string | null;
     maxWorkers?: number;
-    useMultiIp?: boolean; // Enable multi-IP parallel processing (requires IP_PROXIES env var)
     maxFilings?: number; // Maximum number of filings to download (for testing)
 }
 

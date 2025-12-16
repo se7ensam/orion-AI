@@ -151,14 +151,14 @@ make download
 
 7. **Initialize Neo4j schema**
    ```bash
-   python -m src.cli setup-db
+   python -m services.cli.main setup-db
    ```
 
 ### Verify Installation
 
 ```bash
 # Test database connections
-python -m src.cli test-db --neo4j
+python -m services.cli.main test-db --neo4j
 
 # You should see:
 # ✓ Successfully connected to Neo4j at <your-uri>
@@ -183,7 +183,7 @@ Orion provides a unified CLI interface for all operations:
 
 ```bash
 # Main CLI entry point
-python -m src.cli <command> [options]
+python -m services.cli.main <command> [options]
 
 # Or use the convenience script
 ./orion <command> [options]
@@ -194,112 +194,68 @@ python -m src.cli <command> [options]
 #### Download SEC EDGAR Filings
 ```bash
 # Download 6-K filings for a date range
-python -m src.cli download --start-year 2009 --end-year 2010
+python -m services.cli.main download --start-year 2009 --end-year 2010
 
 # Download to custom directory
-python -m src.cli download --start-year 2020 --end-year 2021 --download-dir ./my_filings
+python -m services.cli.main download --start-year 2020 --end-year 2021 --download-dir ./my_filings
 
 # Re-download existing filings
-python -m src.cli download --start-year 2009 --end-year 2010 --no-skip-existing
+python -m services.cli.main download --start-year 2009 --end-year 2010 --no-skip-existing
 ```
 
 #### Database Setup
 ```bash
 # Initialize Neo4j database schema
-python -m src.cli setup-db
+python -m services.cli.main setup-db
 ```
 
 #### Test Connections
 ```bash
 # Test Neo4j connection
-python -m src.cli test-db --neo4j
+python -m services.cli.main test-db --neo4j
 
 # Test Oracle AI Vector DB connection
-python -m src.cli test-db --oracle
+python -m services.cli.main test-db --oracle
 
 # Test both
-python -m src.cli test-db
+python -m services.cli.main test-db
 ```
 
 #### Run Tests
 ```bash
 # Test SEC EDGAR downloader
-python -m src.cli test --download
+python -m services.cli.main test --download
 ```
 
 #### Query Graph with Natural Language
 ```bash
 # Query using natural language
-python -m src.cli query "Find all companies"
-python -m src.cli query "Who works at Apple Inc?" --show-cypher
+python -m services.cli.main query "Find all companies"
+python -m services.cli.main query "Who works at Apple Inc?" --show-cypher
 
 # Interactive mode
-python -m src.cli query
+python -m services.cli.main query
 ```
 
 For detailed help on any command:
 ```bash
-python -m src.cli <command> --help
+python -m services.cli.main <command> --help
 ```
-
-## 🌐 Web Frontend
-
-Orion includes a Streamlit web interface for querying the graph database:
-
-### Start Frontend
-
-**Docker:**
-```bash
-# Start all services including frontend
-docker-compose up -d
-
-# Or start just frontend
-make frontend
-
-# View logs
-make frontend-logs
-```
-
-**Local:**
-```bash
-conda activate orion
-streamlit run frontend/app.py
-```
-
-Access at: **http://localhost:8501**
-
-### Features
-
-- 💬 Natural language query interface
-- 🔍 View generated Cypher queries
-- 📊 Interactive results tables
-- 📥 Download results as CSV
-- ⚙️ Configurable LLM models
-- 📝 Example queries sidebar
-
-See [Frontend Documentation](frontend/README.md) for details.
 
 ## 📁 Project Structure
 
 ```
 orion/
-├── src/
-│   ├── __init__.py
-│   ├── database/
-│   │   ├── __init__.py
-│   │   ├── neo4j_connection.py      # Neo4j connection and schema setup
-│   │   └── oracle_connection.py     # Oracle AI Vector DB connection (TODO)
-│   ├── ingestion/                   # SEC EDGAR filing ingestion
-│   │   ├── __init__.py
-│   │   ├── sec_companies.py         # Company index parser
-│   │   ├── filing_downloader.py     # Filing downloader
-│   │   └── main.py                  # Ingestion entry point
-│   ├── models/
-│   │   └── graph_models.py          # Graph node and relationship models (TODO)
-│   ├── services/
-│   │   ├── document_service.py      # Document processing service (TODO)
-│   │   └── llm_service.py           # LLM integration service (TODO)
-│   └── utils/
+├── services/                        # All services
+│   ├── cli/                         # CLI Service (Python) - Main entry point
+│   ├── database/                    # Database Service (Python) - Neo4j & Oracle connections
+│   ├── data_loader/                 # Data Loader Service (Python) - Loads filings from disk
+│   ├── graph_builder/               # Graph Builder Service (Python) - Builds Neo4j graph
+│   ├── downloader/                  # Downloader Service (TypeScript) - SEC EDGAR downloads
+│   ├── ai/                          # AI Services (Python) - Analysis & RAG
+│   ├── coordinator/                 # Coordinator Service (Python) - Work queue management
+│   └── worker/                      # Worker Service (Python) - Distributed processing
+├── docs/                            # Documentation
 │       └── __init__.py
 ├── docs/                            # Documentation
 │   ├── CLI_USAGE.md                 # CLI usage guide

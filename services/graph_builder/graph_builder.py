@@ -11,8 +11,8 @@ from typing import Dict, List, Optional, Set
 from pathlib import Path
 from datetime import datetime
 
-from src.database.neo4j_connection import Neo4jConnection
-from src.data_loader import get_filing_data, list_filings, parse_filing_header
+from services.database.neo4j_connection import Neo4jConnection
+from services.data_loader.data_loader import get_filing_data, list_filings, parse_filing_header
 
 
 class GraphBuilder:
