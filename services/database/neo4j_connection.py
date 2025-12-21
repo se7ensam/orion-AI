@@ -5,9 +5,17 @@ This module handles connection to Neo4j database (local or Aura Free instance).
 """
 
 import os
+import logging
 from typing import Optional
 from neo4j import GraphDatabase
 from dotenv import load_dotenv
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 load_dotenv()
 
@@ -35,21 +43,22 @@ class Neo4jConnection:
                 auth=(self.user, self.password)
             )
             # Verify connection
+            # Verify connection
             self.driver.verify_connectivity()
-            print(f"✓ Successfully connected to Neo4j at {self.uri}")
+            logger.info(f"Successfully connected to Neo4j at {self.uri}")
             return True
         except Exception as e:
-            print(f"✗ Failed to connect to Neo4j: {e}")
-            print(f"  URI: {self.uri}")
-            print(f"  User: {self.user}")
-            print(f"  Password set: {'Yes' if self.password else 'No'}")
+            logger.error(f"Failed to connect to Neo4j: {e}")
+            logger.debug(f"URI: {self.uri}")
+            logger.debug(f"User: {self.user}")
+            logger.debug(f"Password set: {'Yes' if self.password else 'No'}")
             return False
     
     def close(self):
         """Close the Neo4j connection."""
         if self.driver:
             self.driver.close()
-            print("✓ Neo4j connection closed")
+            logger.info("Neo4j connection closed")
     
     def execute_query(self, query: str, parameters: dict = None):
         """Execute a Cypher query against Neo4j."""
@@ -62,7 +71,7 @@ class Neo4jConnection:
     
     def setup_schema(self):
         """Initialize the graph schema with indexes and constraints for EDGAR filings."""
-        print("Setting up Neo4j schema for EDGAR filings...")
+        logger.info("Setting up Neo4j schema for EDGAR filings...")
         
         # Create constraints for EDGAR entities
         constraints = [
@@ -111,29 +120,29 @@ class Neo4jConnection:
         ]
         
         try:
-            print("Creating constraints...")
+            logger.info("Creating constraints...")
             for constraint in constraints:
                 try:
                     self.execute_query(constraint)
-                    print(f"  ✓ Created constraint")
+                    logger.info("Created constraint")
                 except Exception as e:
                     # Some constraints might already exist, continue
                     if "already exists" not in str(e).lower():
-                        print(f"  ⚠️  Constraint warning: {e}")
+                        logger.warning(f"Constraint warning: {e}")
             
-            print("Creating indexes...")
+            logger.info("Creating indexes...")
             for index in indexes:
                 try:
                     self.execute_query(index)
-                    print(f"  ✓ Created index")
+                    logger.info("Created index")
                 except Exception as e:
                     # Some indexes might already exist, continue
                     if "already exists" not in str(e).lower():
-                        print(f"  ⚠️  Index warning: {e}")
+                        logger.warning(f"Index warning: {e}")
             
-            print("✓ Schema setup completed successfully")
+            logger.info("Schema setup completed successfully")
         except Exception as e:
-            print(f"✗ Error setting up schema: {e}")
+            logger.error(f"Error setting up schema: {e}")
             raise
     
     def test_connection(self):
@@ -141,19 +150,19 @@ class Neo4jConnection:
         try:
             result = self.execute_query("RETURN 1 as test")
             if result:
-                print("✓ Database connection test successful")
+                logger.info("Database connection test successful")
                 return True
             return False
         except Exception as e:
-            print(f"✗ Connection test failed: {e}")
+            logger.error(f"Connection test failed: {e}")
             return False
 
 
 def main():
     """Test the Neo4j connection."""
-    print("=" * 50)
-    print("Neo4j Connection Test")
-    print("=" * 50)
+    logger.info("=" * 50)
+    logger.info("Neo4j Connection Test")
+    logger.info("=" * 50)
     
     conn = Neo4jConnection()
     
@@ -162,8 +171,8 @@ def main():
         conn.setup_schema()
         conn.close()
     else:
-        print("\nPlease check your .env file and ensure Neo4j is running.")
-        print("For Neo4j Aura Free, update NEO4J_URI, NEO4J_USER, and NEO4J_PASSWORD in .env")
+        logger.error("Please check your .env file and ensure Neo4j is running.")
+        logger.error("For Neo4j Aura Free, update NEO4J_URI, NEO4J_USER, and NEO4J_PASSWORD in .env")
 
 
 if __name__ == "__main__":
