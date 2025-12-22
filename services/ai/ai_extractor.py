@@ -8,10 +8,13 @@ import json
 import os
 import subprocess
 import time
+import logging
 from typing import Dict, List, Optional
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
+
+logger = logging.getLogger(__name__)
 
 
 class AIRelationshipExtractor:
@@ -60,7 +63,7 @@ Extract all person-company employment relationships from this filing.""")
         # Ensure model is available, download if needed
         # This may update self.model_name if fallback is used
         if not self._ensure_model_available(model_name):
-            print("Warning: Could not ensure model availability. LLM may not work.")
+            logger.warning("Could not ensure model availability. LLM may not work.")
         
         try:
             self.llm = ChatOllama(
@@ -72,7 +75,7 @@ Extract all person-company employment relationships from this filing.""")
         except Exception as e:
             error_msg = str(e)
             if "404" in error_msg or "not found" in error_msg.lower():
-                print(f"Warning: Model '{self.model_name}' not found. Attempting download...")
+                logger.warning(f"Model '{self.model_name}' not found. Attempting download...")
                 if self._ensure_model_available(self.model_name):
                     try:
                         self.llm = ChatOllama(
@@ -82,16 +85,16 @@ Extract all person-company employment relationships from this filing.""")
                             num_ctx=2048,
                         )
                     except Exception as retry_e:
-                        print(f"Warning: Could not initialize Ollama LLM after download: {retry_e}")
-                        print("Falling back to pattern-based extraction.")
+                        logger.warning(f"Could not initialize Ollama LLM after download: {retry_e}")
+                        logger.warning("Falling back to pattern-based extraction.")
                         self.llm = None
                 else:
-                    print(f"Warning: Could not download model '{self.model_name}'")
-                    print("Falling back to pattern-based extraction.")
+                    logger.warning(f"Could not download model '{self.model_name}'")
+                    logger.warning("Falling back to pattern-based extraction.")
                     self.llm = None
             else:
-                print(f"Warning: Could not initialize Ollama LLM: {e}")
-                print("Falling back to pattern-based extraction.")
+                logger.warning(f"Could not initialize Ollama LLM: {e}")
+                logger.warning("Falling back to pattern-based extraction.")
                 self.llm = None
     
     def _ensure_model_available(self, model_name: str) -> bool:
@@ -118,8 +121,8 @@ Extract all person-company employment relationships from this filing.""")
                 model_available = model_name in result.stdout or f"{model_name}:" in result.stdout
                 
                 if not model_available:
-                    print(f"Model '{model_name}' not found. Downloading...")
-                    print(f"This may take a few minutes depending on model size...")
+                    logger.info(f"Model '{model_name}' not found. Downloading...")
+                    logger.info(f"This may take a few minutes depending on model size...")
                     
                     # Download the model
                     download_result = subprocess.run(
@@ -129,39 +132,39 @@ Extract all person-company employment relationships from this filing.""")
                     )
                     
                     if download_result.returncode == 0:
-                        print(f"✅ Successfully downloaded model '{model_name}'")
+                        logger.info(f"Successfully downloaded model '{model_name}'")
                         return True
                     else:
                         error_msg = download_result.stderr or download_result.stdout
-                        print(f"❌ Failed to download model '{model_name}': {error_msg}")
+                        logger.error(f"Failed to download model '{model_name}': {error_msg}")
                         
                         # If model name has a tag (e.g., "llama3.2:1b"), try without tag
                         if ':' in model_name:
                             base_model = model_name.split(':')[0]
-                            print(f"Trying base model '{base_model}' instead...")
+                            logger.info(f"Trying base model '{base_model}' instead...")
                             self.model_name = base_model
                             return self._ensure_model_available(base_model)
                         
                         # Try to use default model
                         if model_name != "llama3.2":
-                            print(f"Falling back to default model 'llama3.2'")
+                            logger.warning(f"Falling back to default model 'llama3.2'")
                             self.model_name = "llama3.2"
                             return self._ensure_model_available("llama3.2")
                         return False
                 else:
                     return True
             else:
-                print(f"Warning: Could not check Ollama models: {result.stderr}")
+                logger.warning(f"Could not check Ollama models: {result.stderr}")
                 return False
                 
         except FileNotFoundError:
-            print("Warning: 'ollama' command not found. Please ensure Ollama is installed.")
+            logger.warning("'ollama' command not found. Please ensure Ollama is installed.")
             return False
         except subprocess.TimeoutExpired:
-            print("Warning: Timeout checking Ollama models.")
+            logger.warning("Timeout checking Ollama models.")
             return False
         except Exception as e:
-            print(f"Warning: Error checking model availability: {e}")
+            logger.warning(f"Error checking model availability: {e}")
             return False
     
     def is_available(self) -> bool:
@@ -263,7 +266,7 @@ Extract all person-company employment relationships from this filing.""")
                 error_msg = str(llm_error)
                 # If model not found, try to download it
                 if "404" in error_msg or "not found" in error_msg.lower():
-                    print(f"Model '{self.model_name}' not found during extraction. Attempting download...")
+                    logger.warning(f"Model '{self.model_name}' not found during extraction. Attempting download...")
                     if self._ensure_model_available(self.model_name):
                         # Retry the call
                         response = self.llm.invoke(prompt)
@@ -329,7 +332,7 @@ Extract all person-company employment relationships from this filing.""")
                     preview = response_text[:300].replace('\n', ' ')
                     if len(response_text) > 300:
                         preview += "..."
-                    print(f"Warning: Could not parse JSON from LLM response (showing first 300 chars): {preview}")
+                    logger.warning(f"Could not parse JSON from LLM response (showing first 300 chars): {preview}")
                     return []
             
             # Validate and normalize the response
@@ -358,7 +361,7 @@ Extract all person-company employment relationships from this filing.""")
             return normalized
             
         except Exception as e:
-            print(f"Error in AI extraction: {e}")
+            logger.error(f"Error in AI extraction: {e}")
             return []
 
 

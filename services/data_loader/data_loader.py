@@ -7,9 +7,12 @@ Provides unified interface for accessing filing data.
 
 import os
 import re
+import logging
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from datetime import datetime
+
+logger = logging.getLogger(__name__)
 
 
 def get_filings_dir() -> Path:
@@ -131,7 +134,7 @@ def parse_filing_header(txt_path: Path) -> Dict[str, str]:
                 header_data['fiscal_year_end'] = fiscal_match.group(1).strip()
             
     except Exception as e:
-        print(f"Error parsing header from {txt_path}: {e}")
+        logger.error(f"Error parsing header from {txt_path}: {e}")
     
     return header_data
 
@@ -170,7 +173,7 @@ def parse_filing_content(txt_path: Path) -> Dict:
                 content_data['html_content'] = text_matches[0]
             
     except Exception as e:
-        print(f"Error parsing content from {txt_path}: {e}")
+        logger.error(f"Error parsing content from {txt_path}: {e}")
     
     return content_data
 

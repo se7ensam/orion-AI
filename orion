@@ -9,10 +9,9 @@ Usage: ./orion <command> [options]
 import sys
 import os
 
-# Add src to path if running from project root
+# Add services to path if running from project root
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 if __name__ == "__main__":
     from services.cli.cli import main
     main()
-

@@ -9,10 +9,13 @@ import sys
 import time
 import json
 import signal
+import logging
 from pathlib import Path
 from typing import Optional, Dict, List
 from services.database.neo4j_connection import Neo4jConnection
 from services.graph_builder.graph_builder import GraphBuilder
+
+logger = logging.getLogger(__name__)
 
 
 class FilingWorker:
@@ -48,7 +51,7 @@ class FilingWorker:
     
     def _handle_shutdown(self, signum, frame):
         """Handle shutdown signals gracefully."""
-        print(f"\n[Worker {self.worker_id}] Received shutdown signal. Finishing current work...")
+        logger.info(f"[Worker {self.worker_id}] Received shutdown signal. Finishing current work...")
         self.running = False
     
     def _get_next_job(self) -> Optional[Path]:
@@ -62,7 +65,7 @@ class FilingWorker:
                 job_file.rename(processing_file)
                 return processing_file
             except Exception as e:
-                print(f"[Worker {self.worker_id}] Error moving job to processing: {e}")
+                logger.error(f"[Worker {self.worker_id}] Error moving job to processing: {e}")
                 return None
         return None
     
@@ -77,7 +80,7 @@ class FilingWorker:
             target_file = target_dir / job_file.name
             job_file.rename(target_file)
         except Exception as e:
-            print(f"[Worker {self.worker_id}] Error marking job complete: {e}")
+            logger.error(f"[Worker {self.worker_id}] Error marking job complete: {e}")
     
     def _process_job(self, job_file: Path) -> bool:
         """Process a single job file."""
@@ -89,13 +92,12 @@ class FilingWorker:
             filing_path = Path(job_data['filing_path'])
             
             if not filing_path.exists():
-                print(f"[Worker {self.worker_id}] Filing not found: {filing_path}")
+                logger.warning(f"[Worker {self.worker_id}] Filing not found: {filing_path}")
                 return False
             
-            print(f"[Worker {self.worker_id}] Processing: {filing_path.name}")
+            logger.info(f"[Worker {self.worker_id}] Processing: {filing_path.name}")
             
             # Create graph builder
-            use_ai = job_data.get('use_ai_extraction', True)
             builder = GraphBuilder(self.conn)
             
             # Process the filing
@@ -109,20 +111,20 @@ class FilingWorker:
             with open(job_file, 'w') as f:
                 json.dump(job_data, f, indent=2)
             
-            print(f"[Worker {self.worker_id}] ✅ Completed: {filing_path.name} "
-                  f"(People: {stats.get('people', 0)}, Relationships: {stats.get('relationships', 0)})")
+            logger.info(f"[Worker {self.worker_id}] Completed: {filing_path.name} "
+                       f"(People: {stats.get('people', 0)}, Relationships: {stats.get('relationships', 0)})")
             
             return True
             
         except Exception as e:
-            print(f"[Worker {self.worker_id}] ❌ Error processing job: {e}")
+            logger.error(f"[Worker {self.worker_id}] Error processing job: {e}")
             import traceback
             traceback.print_exc()
             return False
     
     def run(self):
         """Main worker loop."""
-        print(f"[Worker {self.worker_id}] Started. Waiting for jobs...")
+        logger.info(f"[Worker {self.worker_id}] Started. Waiting for jobs...")
         
         while self.running:
             job_file = self._get_next_job()
@@ -135,22 +137,28 @@ class FilingWorker:
                 # No jobs available, wait a bit
                 time.sleep(1)
         
-        print(f"[Worker {self.worker_id}] Stopped. Processed {self.processed_count} jobs.")
+        logger.info(f"[Worker {self.worker_id}] Stopped. Processed {self.processed_count} jobs.")
 
 
 def main():
     """Main entry point for worker."""
+    # Configure logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+    
     worker_id = os.getenv("WORKER_ID", f"worker-{os.getpid()}")
     queue_dir = Path(os.getenv("QUEUE_DIR", "/app/data/queue"))
     
-    print(f"[Worker {worker_id}] Initializing...")
-    print(f"  Queue directory: {queue_dir}")
-    print(f"  Worker ID: {worker_id}")
+    logger.info(f"[Worker {worker_id}] Initializing...")
+    logger.info(f"  Queue directory: {queue_dir}")
+    logger.info(f"  Worker ID: {worker_id}")
     
     # Connect to Neo4j
     conn = Neo4jConnection()
     if not conn.connect():
-        print(f"[Worker {worker_id}] ❌ Failed to connect to Neo4j")
+        logger.error(f"[Worker {worker_id}] Failed to connect to Neo4j")
         sys.exit(1)
     
     try:
@@ -162,9 +170,9 @@ def main():
         worker.run()
         
     except KeyboardInterrupt:
-        print(f"\n[Worker {worker_id}] Interrupted by user")
+        logger.info(f"\n[Worker {worker_id}] Interrupted by user")
     except Exception as e:
-        print(f"[Worker {worker_id}] Fatal error: {e}")
+        logger.error(f"[Worker {worker_id}] Fatal error: {e}")
         import traceback
         traceback.print_exc()
         sys.exit(1)

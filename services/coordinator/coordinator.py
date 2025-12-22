@@ -7,9 +7,12 @@ Creates work queue and monitors worker progress.
 import os
 import json
 import time
+import logging
 from pathlib import Path
 from typing import List, Dict, Optional
 from services.data_loader.data_loader import list_filings
+
+logger = logging.getLogger(__name__)
 
 
 class FilingCoordinator:
@@ -47,7 +50,7 @@ class FilingCoordinator:
         Returns:
             Number of jobs created
         """
-        print("Creating work queue...")
+        logger.info("Creating work queue...")
         
         filings = list_filings(self.year)
         
@@ -69,7 +72,7 @@ class FilingCoordinator:
             
             job_count += 1
         
-        print(f"✅ Created {job_count} jobs in queue")
+        logger.info(f"Created {job_count} jobs in queue")
         return job_count
     
     def get_status(self) -> Dict:
@@ -100,14 +103,15 @@ class FilingCoordinator:
         """
         start_time = time.time()
         
-        print("\nMonitoring worker progress...")
-        print("=" * 60)
+        logger.info("\nMonitoring worker progress...")
+        logger.info("=" * 60)
         
         while True:
             status = self.get_status()
             
             elapsed = time.time() - start_time
             
+            # Use print for interactive progress bar (with \r and flush)
             print(f"\r[{elapsed:.0f}s] "
                   f"Pending: {status['pending']} | "
                   f"Processing: {status['processing']} | "
@@ -116,11 +120,13 @@ class FilingCoordinator:
                   f"Progress: {status['progress']:.1f}%", end='', flush=True)
             
             if status['pending'] == 0 and status['processing'] == 0:
-                print("\n")
+                print("\n")  # New line after progress bar
+                logger.info("All jobs completed")
                 break
             
             if timeout and elapsed > timeout:
-                print(f"\n⚠️  Timeout reached ({timeout}s)")
+                print("\n")  # New line after progress bar
+                logger.warning(f"Timeout reached ({timeout}s)")
                 break
             
             time.sleep(check_interval)
@@ -157,6 +163,12 @@ def main():
     """Main entry point for coordinator."""
     import argparse
     
+    # Configure logging
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+    
     parser = argparse.ArgumentParser(description="Coordinate distributed filing processing")
     parser.add_argument("--year", type=int, help="Year filter")
     parser.add_argument("--limit", type=int, help="Limit number of filings")
@@ -177,20 +189,20 @@ def main():
         final_status = coordinator.wait_for_completion()
         
         # Show results
-        print("\n" + "=" * 60)
-        print("Processing Complete")
-        print("=" * 60)
+        logger.info("\n" + "=" * 60)
+        logger.info("Processing Complete")
+        logger.info("=" * 60)
         results = coordinator.get_results()
-        print(f"✅ Companies created: {results['companies']}")
-        print(f"✅ People created: {results['people']}")
-        print(f"✅ Events created: {results['events']}")
-        print(f"✅ Relationships created: {results['relationships']}")
-        print(f"✅ Filings processed: {results['filings_processed']}")
-        print(f"\nCompleted: {final_status['completed']}")
-        print(f"Failed: {final_status['failed']}")
+        logger.info(f"Companies created: {results['companies']}")
+        logger.info(f"People created: {results['people']}")
+        logger.info(f"Events created: {results['events']}")
+        logger.info(f"Relationships created: {results['relationships']}")
+        logger.info(f"Filings processed: {results['filings_processed']}")
+        logger.info(f"\nCompleted: {final_status['completed']}")
+        logger.info(f"Failed: {final_status['failed']}")
     else:
-        print(f"\n✅ {job_count} jobs queued. Workers will process them.")
-        print("Run with --wait to monitor progress.")
+        logger.info(f"\n{job_count} jobs queued. Workers will process them.")
+        logger.info("Run with --wait to monitor progress.")
 
 
 if __name__ == "__main__":

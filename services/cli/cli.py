@@ -26,10 +26,18 @@ import sys
 import os
 import json
 import argparse
+import logging
 from typing import Optional
 
+# Configure logging for CLI
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
-def download_command(args):
+
+def download_command(args) -> None:
     """Handle download command - uses Node.js downloader for better I/O."""
     import subprocess
     from pathlib import Path
@@ -43,13 +51,18 @@ def download_command(args):
     
     # Get path to TypeScript downloader service
     # Try multiple possible locations (local dev vs Docker)
-    project_root = Path(__file__).parent.parent  # src/cli.py -> src -> orion/
+    project_root = Path(__file__).parent.parent.parent  # services/cli/cli.py -> services -> orion/
     possible_paths = [
         # Local development path
         project_root / "services" / "downloader" / "dist" / "index.js",
         # Docker container path
         Path("/app") / "services" / "downloader" / "dist" / "index.js",
     ]
+    
+    # Also try relative to current working directory
+    cwd = Path.cwd()
+    if cwd != project_root:
+        possible_paths.append(cwd / "services" / "downloader" / "dist" / "index.js")
     
     downloader_js = None
     for path in possible_paths:
@@ -82,7 +95,6 @@ def download_command(args):
         cmd.extend(["--max-filings", str(args.max_filings)])
     
     # Set environment variable for data directory
-    import os
     env = os.environ.copy()
     if args.download_dir:
         env["ORION_DATA_DIR"] = os.path.dirname(args.download_dir)
@@ -99,7 +111,7 @@ def download_command(args):
         sys.exit(1)
 
 
-def setup_db_command(args):
+def setup_db_command(args) -> None:
     """Handle setup-db command."""
     from services.database.neo4j_connection import Neo4jConnection
     
@@ -128,7 +140,7 @@ def setup_db_command(args):
         sys.exit(1)
 
 
-def test_db_command(args):
+def test_db_command(args) -> None:
     """Handle test-db command."""
     if args.neo4j or not args.oracle:
         print("=" * 60)
@@ -168,7 +180,7 @@ def test_db_command(args):
             sys.exit(1)
 
 
-def test_command(args):
+def test_command(args) -> None:
     """Handle test command."""
     import subprocess
     
@@ -202,7 +214,7 @@ def test_command(args):
         print("No tests specified. Use --download to test the downloader.")
 
 
-def load_graph_command(args):
+def load_graph_command(args) -> None:
     """Handle load-graph command."""
     from services.database.neo4j_connection import Neo4jConnection
     from services.graph_builder.graph_builder import GraphBuilder
@@ -285,7 +297,7 @@ def load_graph_command(args):
         conn.close()
 
 
-def analyze_command(args):
+def analyze_command(args) -> None:
     """Handle analyze command - AI-powered code analysis."""
     from services.ai.ai_analyzer import create_ai_analyzer, list_analysis_results, load_analysis_result, get_analysis_dir
     from services.data_loader.data_loader import get_filing_data, list_filings
@@ -607,7 +619,7 @@ def analyze_command(args):
     print("=" * 60)
 
 
-def query_command(args):
+def query_command(args) -> None:
     """Handle query command - Natural language to Cypher query conversion."""
     from services.ai.cypher_rag import CypherRAG
     from services.database.neo4j_connection import Neo4jConnection
@@ -719,7 +731,7 @@ def query_command(args):
         conn.close()
 
 
-def clear_graph_command(args):
+def clear_graph_command(args) -> None:
     """Handle clear-graph command."""
     from services.database.neo4j_connection import Neo4jConnection
     
@@ -787,7 +799,7 @@ def clear_graph_command(args):
         conn.close()
 
 
-def main():
+def main() -> None:
     """Main CLI entry point."""
     parser = argparse.ArgumentParser(
         description="Orion - Document Management & Knowledge Graph System CLI",

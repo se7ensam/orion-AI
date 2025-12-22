@@ -7,12 +7,15 @@ Extracts entities and relationships from EDGAR filings and builds Neo4j graph.
 import re
 import os
 import time
+import logging
 from typing import Dict, List, Optional, Set
 from pathlib import Path
 from datetime import datetime
 
 from services.database.neo4j_connection import Neo4jConnection
 from services.data_loader.data_loader import get_filing_data, list_filings, parse_filing_header
+
+logger = logging.getLogger(__name__)
 
 
 class GraphBuilder:
@@ -85,7 +88,7 @@ class GraphBuilder:
             self.processed_companies.add(cik)
             return True
         except Exception as e:
-            print(f"Error creating company node: {e}")
+            logger.error(f"Error creating company node: {e}")
             return False
     
     def create_sector_node(self, sic_code: str, sic_description: str) -> bool:
@@ -118,7 +121,7 @@ class GraphBuilder:
             self.processed_sectors.add(sector_id)
             return True
         except Exception as e:
-            print(f"Error creating sector node: {e}")
+            logger.error(f"Error creating sector node: {e}")
             return False
     
     def create_company_sector_relationship(self, cik: str, sic_code: str) -> bool:
@@ -140,7 +143,7 @@ class GraphBuilder:
             self.conn.execute_query(query, {'cik': cik, 'sic_code': sic_code})
             return True
         except Exception as e:
-            print(f"Error creating sector relationship: {e}")
+            logger.error(f"Error creating sector relationship: {e}")
             return False
     
     def _is_valid_person_name(self, name: str) -> bool:
@@ -459,7 +462,7 @@ class GraphBuilder:
             self.processed_people.add(person_id)
             return True
         except Exception as e:
-            print(f"Error creating person node: {e}")
+            logger.error(f"Error creating person node: {e}")
             return False
     
     def create_works_at_relationship(self, person_name: str, company_cik: str, person_data: Dict) -> bool:
@@ -490,7 +493,7 @@ class GraphBuilder:
             self.conn.execute_query(query, props)
             return True
         except Exception as e:
-            print(f"Error creating WORKS_AT relationship: {e}")
+            logger.error(f"Error creating WORKS_AT relationship: {e}")
             return False
     
     def extract_companies_from_filing(self, filing_data: Dict) -> List[Dict]:
@@ -625,7 +628,7 @@ class GraphBuilder:
             self.conn.execute_query(query, props)
             return True
         except Exception as e:
-            print(f"Error creating ownership relationship: {e}")
+            logger.error(f"Error creating ownership relationship: {e}")
             return False
     
     def extract_events_from_filing(self, filing_data: Dict) -> List[Dict]:
@@ -729,7 +732,7 @@ class GraphBuilder:
             self.conn.execute_query(query, props)
             return True
         except Exception as e:
-            print(f"Error creating event node: {e}")
+            logger.error(f"Error creating event node: {e}")
             return False
     
     def create_has_event_relationship(self, company_cik: str, event_id: str, filing_date: str, filing_id: str) -> bool:
@@ -759,7 +762,7 @@ class GraphBuilder:
             self.conn.execute_query(query, props)
             return True
         except Exception as e:
-            print(f"Error creating HAS_EVENT relationship: {e}")
+            logger.error(f"Error creating HAS_EVENT relationship: {e}")
             return False
     
     def process_filing(self, filing_path: Path) -> Dict[str, int]:
@@ -782,7 +785,7 @@ class GraphBuilder:
             try:
                 filing_data = get_filing_data(filing_path)
             except Exception as e:
-                print(f"Error loading filing {filing_path.name}: {e}")
+                logger.error(f"Error loading filing {filing_path.name}: {e}")
                 return stats
             
             if not filing_data or not filing_data.get('cik'):
@@ -795,7 +798,7 @@ class GraphBuilder:
                 if self.create_company_node(filing_data):
                     stats['companies'] += 1
             except Exception as e:
-                print(f"Error creating company node for {filing_path.name}: {e}")
+                logger.error(f"Error creating company node for {filing_path.name}: {e}")
                 # Continue processing other entities even if company creation fails
             
             # 2. Create sector node and relationship
@@ -817,10 +820,10 @@ class GraphBuilder:
                         if self.create_works_at_relationship(person_data.get('name', ''), company_cik, person_data):
                             stats['relationships'] += 1
                     except Exception as e:
-                        print(f"Error processing person {person_data.get('name', 'unknown')}: {e}")
+                        logger.error(f"Error processing person {person_data.get('name', 'unknown')}: {e}")
                         continue
             except Exception as e:
-                print(f"Error extracting people from {filing_path.name}: {e}")
+                logger.error(f"Error extracting people from {filing_path.name}: {e}")
             
             # 4. Extract and create events
             events = self.extract_events_from_filing(filing_data)
@@ -839,7 +842,7 @@ class GraphBuilder:
             # For now, we'll create company nodes for mentioned companies but relationships need CIK lookup
             
         except Exception as e:
-            print(f"Error processing filing {filing_path}: {e}")
+            logger.error(f"Error processing filing {filing_path}: {e}")
         finally:
             # Record total time for this filing
             filing_time = time.time() - filing_start_time

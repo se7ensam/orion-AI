@@ -6,9 +6,11 @@ Note: This is a placeholder for future Oracle AI Vector DB integration.
 """
 
 import os
+import logging
 from typing import Optional
 from dotenv import load_dotenv
 
+logger = logging.getLogger(__name__)
 load_dotenv()
 
 
@@ -32,26 +34,26 @@ class OracleConnection:
                 password=self.password,
                 dsn=self.dsn
             )
-            print(f"✓ Successfully connected to Oracle AI Vector DB")
+            logger.info("Successfully connected to Oracle AI Vector DB")
             return True
         except ImportError:
-            print("✗ oracledb package not installed.")
-            print("  Install with: conda activate orion && conda env update -f environment.yml")
+            logger.error("oracledb package not installed.")
+            logger.error("  Install with: conda activate orion && conda env update -f environment.yml")
             return False
         except Exception as e:
-            print(f"✗ Failed to connect to Oracle AI Vector DB: {e}")
+            logger.error(f"Failed to connect to Oracle AI Vector DB: {e}")
             return False
     
     def close(self):
         """Close the Oracle connection."""
         if self.connection:
             self.connection.close()
-            print("✓ Oracle connection closed")
+            logger.info("Oracle connection closed")
     
     def test_connection(self):
         """Test the database connection."""
         if not self.connection:
-            print("✗ Connection not established")
+            logger.error("Connection not established")
             return False
         
         try:
@@ -61,11 +63,11 @@ class OracleConnection:
             cursor.close()
             
             if result:
-                print("✓ Oracle AI Vector DB connection test successful")
+                logger.info("Oracle AI Vector DB connection test successful")
                 return True
             return False
         except Exception as e:
-            print(f"✗ Connection test failed: {e}")
+            logger.error(f"Connection test failed: {e}")
             return False
 
 

@@ -34,15 +34,19 @@ class Neo4jConnection:
     def connect(self) -> bool:
         """Establish connection to Neo4j database."""
         try:
-            # Ensure password is not empty
+            # Ensure password is not empty (use default only if not set in env)
             if not self.password:
-                self.password = "orion123"  # Default from docker-compose
+                # Only use default if NEO4J_PASSWORD was not set at all
+                if "NEO4J_PASSWORD" not in os.environ:
+                    self.password = "orion123"  # Default from docker-compose
+                else:
+                    logger.warning("NEO4J_PASSWORD is set but empty. Please set a valid password.")
+                    return False
             
             self.driver = GraphDatabase.driver(
                 self.uri,
                 auth=(self.user, self.password)
             )
-            # Verify connection
             # Verify connection
             self.driver.verify_connectivity()
             logger.info(f"Successfully connected to Neo4j at {self.uri}")
@@ -61,13 +65,31 @@ class Neo4jConnection:
             logger.info("Neo4j connection closed")
     
     def execute_query(self, query: str, parameters: dict = None):
-        """Execute a Cypher query against Neo4j."""
+        """
+        Execute a Cypher query against Neo4j.
+        
+        Args:
+            query: Cypher query string
+            parameters: Optional query parameters dictionary
+            
+        Returns:
+            List of result records
+            
+        Raises:
+            RuntimeError: If connection not established
+            Exception: If query execution fails
+        """
         if not self.driver:
             raise RuntimeError("Database connection not established. Call connect() first.")
         
-        with self.driver.session() as session:
-            result = session.run(query, parameters or {})
-            return list(result)
+        try:
+            with self.driver.session() as session:
+                result = session.run(query, parameters or {})
+                return list(result)
+        except Exception as e:
+            logger.error(f"Query execution failed: {e}")
+            logger.debug(f"Query: {query[:200]}...")  # Log first 200 chars of query
+            raise
     
     def setup_schema(self):
         """Initialize the graph schema with indexes and constraints for EDGAR filings."""
