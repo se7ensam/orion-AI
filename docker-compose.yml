@@ -1,72 +1,76 @@
 services:
-  # SEC EDGAR Download Service
-  download:
+  # Python Backend (FastAPI + RAG)
+  backend:
     build:
-      context: .
+      context: ./backend
       dockerfile: Dockerfile
-    image: orion:latest
-    container_name: orion-download
-    volumes:
-      - ./data:/app/data
-      - ./.env:/app/.env:ro
-    environment:
-      - PYTHONPATH=/app
-      - ORION_DATA_DIR=/app/data
-    # No network needed for download (external API calls)
-    command: ["python", "-m", "services.cli.main", "download", "--start-year", "2009", "--end-year", "2010"]
-    restart: "no"
-    depends_on:
-      - neo4j
-
-  # Ollama LLM Service (for AI query processing - not for data extraction)
-  ollama:
-    image: ollama/ollama:latest
-    container_name: orion-ollama
-    volumes:
-      - ollama_data:/root/.ollama
+    container_name: orion-backend
     ports:
-      - "11434:11434"
-    restart: unless-stopped
-    # Pull model on startup
-    command: >
-      sh -c "ollama serve & 
-             sleep 5 && 
-             ollama pull llama3.2 || true"
+      - "8000:8000"
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - NEO4J_USER=${NEO4J_USER:-neo4j}
+      - NEO4J_PASSWORD=${NEO4J_PASSWORD:-orion123}
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - ORACLE_DSN=${ORACLE_DSN}
+      - ORACLE_USER=${ORACLE_USER}
+      - ORACLE_PASSWORD=${ORACLE_PASSWORD}
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    volumes:
+      - ./backend/app:/app/backend/app # Hot reload for code
 
-  # Neo4j Graph Database
+  # Next.js Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: orion-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
+    depends_on:
+      - backend
+
+  # Neo4j Graph Database (Existing)
   neo4j:
     image: neo4j:5.15-community
     container_name: orion-neo4j
     ports:
-      - "7474:7474"  # HTTP (Browser UI)
-      - "7687:7687"  # Bolt (Application connection)
+      - "7474:7474"
+      - "7687:7687"
     environment:
       - NEO4J_AUTH=neo4j/${NEO4J_PASSWORD:-orion123}
       - NEO4J_PLUGINS=["apoc"]
       - NEO4J_dbms_security_procedures_unrestricted=apoc.*
       - NEO4J_dbms_memory_heap_max__size=2G
-      - NEO4J_dbms_memory_heap_initial__size=512m
-      - NEO4J_dbms_memory_pagecache_size=1G
     volumes:
       - neo4j_data:/data
-      - neo4j_logs:/logs
-      - neo4j_import:/var/lib/neo4j/import
       - neo4j_plugins:/plugins
-    restart: unless-stopped
     healthcheck:
       test: ["CMD", "cypher-shell", "-u", "neo4j", "-p", "${NEO4J_PASSWORD:-orion123}", "RETURN 1"]
       interval: 10s
       timeout: 5s
       retries: 5
 
+  # Ollama LLM Service (Existing)
+  ollama:
+    image: ollama/ollama:latest
+    container_name: orion-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    command: >
+      sh -c "ollama serve & 
+             sleep 5 && 
+             ollama pull llama3.2 || true"
+
 volumes:
   neo4j_data:
-    driver: local
-  neo4j_logs:
-    driver: local
-  neo4j_import:
-    driver: local
   neo4j_plugins:
-    driver: local
   ollama_data:
-    driver: local
