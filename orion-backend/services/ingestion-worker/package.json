@@ -1,0 +1,22 @@
+{
+    "name": "ingestion-worker",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "node dist/index.js",
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@orion/shared": "*",
+        "amqplib": "^0.10.3",
+        "pg": "^8.11.3",
+        "axios": "^1.6.0",
+        "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+        "@types/amqplib": "^0.10.1",
+        "@types/pg": "^8.10.2",
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0"
+    }
+}
