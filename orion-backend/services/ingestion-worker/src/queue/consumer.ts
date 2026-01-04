@@ -56,10 +56,22 @@ export class IngestionConsumer {
 
             this.channel?.ack(msg);
             console.log(`Job for ${job.cik} completed.`);
-        } catch (error) {
-            console.error('Error processing message:', error);
-            // In a real app, handle retry logic / dead letter queue
-            this.channel?.nack(msg);
+        } catch (error: any) {
+            const errorMessage = error?.message || String(error);
+            
+            // Handle rate limit errors - requeue the message for later
+            if (errorMessage.includes('Rate limit') || errorMessage.includes('429')) {
+                console.error(`⚠️  Rate limit error for job ${msg.content.toString()}: ${errorMessage}`);
+                console.log('Requeuing message for later processing...');
+                // Reject and requeue - RabbitMQ will redeliver after a delay
+                this.channel?.nack(msg, false, true); // requeue = true
+                return;
+            }
+
+            // Handle other errors
+            console.error(`❌ Error processing message for ${msg.content.toString()}:`, error);
+            // Reject without requeue - message goes to dead letter queue or is lost
+            this.channel?.nack(msg, false, false); // requeue = false
         }
     }
 }
