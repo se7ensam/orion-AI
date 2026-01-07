@@ -2,6 +2,8 @@ import amqp from 'amqplib';
 import fs from 'fs-extra';
 import path from 'path';
 import { QUEUE_NAME, IngestionJob } from '@orion/shared';
+import * as dotenv from 'dotenv';
+dotenv.config();
 
 const INPUT_FILE = path.join(process.cwd(), 'filings-6k.json');
 const RABBITMQ_URL = process.env.RABBITMQ_URL || 'amqp://localhost';

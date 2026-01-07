@@ -58,6 +58,11 @@ async function main() {
                 // Correct URL for the text submission
                 url: `https://www.sec.gov/Archives/${filename}`
             });
+
+            if (filings.length >= 500) {
+                console.log('Reached limit of 500 filings. Stopping.');
+                break;
+            }
         }
     }
 
