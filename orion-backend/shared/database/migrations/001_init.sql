@@ -21,3 +21,10 @@ CREATE TABLE filing_chunks (
   chunk_index INT NOT NULL,
   content TEXT NOT NULL
 );
+
+-- Add indexes for better query performance
+CREATE INDEX IF NOT EXISTS idx_filing_chunks_filing_id ON filing_chunks(filing_id);
+CREATE INDEX IF NOT EXISTS idx_filing_chunks_filing_id_index ON filing_chunks(filing_id, chunk_index);
+CREATE INDEX IF NOT EXISTS idx_filings_cik ON filings(cik);
+CREATE INDEX IF NOT EXISTS idx_filings_status ON filings(status);
+CREATE INDEX IF NOT EXISTS idx_filings_date ON filings(filing_date);
