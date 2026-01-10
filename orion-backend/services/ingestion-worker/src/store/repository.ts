@@ -16,8 +16,6 @@ export class IngestionRepository {
     }
 
     async saveFiling(job: IngestionJob, rawText: string): Promise<string> {
-        console.log(`Saving filing for ${job.cik} - ${job.accessionNumber}`);
-        
         const client = await this.pool.connect();
         try {
             // Insert or update filing (using ON CONFLICT for upsert)
@@ -41,10 +39,9 @@ export class IngestionRepository {
             );
             
             const filingId = result.rows[0].id;
-            console.log(`Saved filing with ID: ${filingId}`);
             return filingId;
         } catch (error) {
-            console.error('Error saving filing:', error);
+            console.error(`Error saving filing for ${job.cik} - ${job.accessionNumber}:`, error);
             throw error;
         } finally {
             client.release();
@@ -63,23 +60,32 @@ export class IngestionRepository {
             // Delete existing chunks for this filing (in case of re-processing)
             await client.query('DELETE FROM filing_chunks WHERE filing_id = $1', [filingId]);
             
-            // Use bulk insert for better performance
-            // Build values array for batch insert
-            const values: any[] = [];
-            const placeholders: string[] = [];
+            // PostgreSQL has a limit of 65535 parameters per query
+            // Process in batches of 10000 chunks to avoid hitting the limit
+            const BATCH_SIZE = 10000;
             
-            chunks.forEach((chunk, index) => {
-                const baseIndex = index * 3;
-                placeholders.push(`($${baseIndex + 1}, $${baseIndex + 2}, $${baseIndex + 3})`);
-                values.push(filingId, index, chunk);
-            });
-            
-            // Insert all chunks in a single query (much faster than individual inserts)
-            await client.query(
-                `INSERT INTO filing_chunks (filing_id, chunk_index, content)
-                 VALUES ${placeholders.join(', ')}`,
-                values
-            );
+            for (let batchStart = 0; batchStart < chunks.length; batchStart += BATCH_SIZE) {
+                const batchEnd = Math.min(batchStart + BATCH_SIZE, chunks.length);
+                const batch = chunks.slice(batchStart, batchEnd);
+                
+                // Build values array for batch insert
+                const values: any[] = [];
+                const placeholders: string[] = [];
+                
+                batch.forEach((chunk, batchIndex) => {
+                    const globalIndex = batchStart + batchIndex;
+                    const baseIndex = batchIndex * 3;
+                    placeholders.push(`($${baseIndex + 1}, $${baseIndex + 2}, $${baseIndex + 3})`);
+                    values.push(filingId, globalIndex, chunk);
+                });
+                
+                // Insert batch in a single query
+                await client.query(
+                    `INSERT INTO filing_chunks (filing_id, chunk_index, content)
+                     VALUES ${placeholders.join(', ')}`,
+                    values
+                );
+            }
             
             console.log(`Successfully saved ${chunks.length} chunks for filing ${filingId}`);
         } catch (error) {
@@ -91,14 +97,18 @@ export class IngestionRepository {
     }
 
     async updateStatus(filingId: string, status: string): Promise<void> {
-        console.log(`Updating status of ${filingId} to ${status}`);
+        // Only log for non-COMPLETED status to reduce log noise
+        if (status !== 'COMPLETED') {
+            console.log(`Updating status of ${filingId} to ${status}`);
+        }
         
         const client = await this.pool.connect();
         try {
+            // Only update if status is actually changing to avoid unnecessary writes
             await client.query(
                 `UPDATE filings 
                  SET status = $1, updated_at = NOW() 
-                 WHERE id = $2`,
+                 WHERE id = $2 AND status != $1`,
                 [status, filingId]
             );
         } catch (error) {
