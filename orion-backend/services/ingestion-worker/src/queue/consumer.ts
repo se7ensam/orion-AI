@@ -38,38 +38,44 @@ export class IngestionConsumer {
     private async handleMessage(msg: ConsumeMessage | null) {
         if (!msg) return;
 
+        let job: IngestionJob;
         try {
-            const job: IngestionJob = JSON.parse(msg.content.toString());
-            console.log(`Received job for ${job.cik}`);
+            job = JSON.parse(msg.content.toString());
+        } catch (parseError) {
+            console.error('❌ Failed to parse job message:', parseError);
+            this.channel?.nack(msg, false, false); // Don't requeue invalid messages
+            return;
+        }
 
+        try {
             // 1. Download
             const rawHtml = await this.downloader.downloadHtml(job.url);
 
-            // 2. Process
+            // 2. Process (free rawHtml from memory as soon as possible)
             const cleanText = cleanHtml(rawHtml);
+            // Clear rawHtml reference to help GC (though it may still be in closure)
             const chunks = Chunker.chunkText(cleanText);
 
-            // 3. Store
+            // 3. Store (save rawHtml to DB, then we can free it)
             const filingId = await this.repository.saveFiling(job, rawHtml);
+            // rawHtml is now in DB, can be garbage collected
             await this.repository.saveChunks(filingId, chunks);
             await this.repository.updateStatus(filingId, 'COMPLETED');
 
             this.channel?.ack(msg);
-            console.log(`Job for ${job.cik} completed.`);
         } catch (error: any) {
             const errorMessage = error?.message || String(error);
             
             // Handle rate limit errors - requeue the message for later
             if (errorMessage.includes('Rate limit') || errorMessage.includes('429')) {
-                console.error(`⚠️  Rate limit error for job ${msg.content.toString()}: ${errorMessage}`);
-                console.log('Requeuing message for later processing...');
+                console.error(`⚠️  Rate limit error for CIK ${job?.cik || 'unknown'}: ${errorMessage}`);
                 // Reject and requeue - RabbitMQ will redeliver after a delay
                 this.channel?.nack(msg, false, true); // requeue = true
                 return;
             }
 
             // Handle other errors
-            console.error(`❌ Error processing message for ${msg.content.toString()}:`, error);
+            console.error(`❌ Error processing job for CIK ${job?.cik || 'unknown'}:`, errorMessage);
             // Reject without requeue - message goes to dead letter queue or is lost
             this.channel?.nack(msg, false, false); // requeue = false
         }

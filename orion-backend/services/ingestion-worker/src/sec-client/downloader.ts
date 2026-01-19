@@ -20,7 +20,10 @@ export class SecDownloader {
             throw new Error('Rate limit block is active. Please wait 10 minutes.');
         }
 
-        console.log(`Downloading: ${url}${retryCount > 0 ? ` (retry ${retryCount}/${this.maxRetries})` : ''}`);
+        // Only log retries to reduce log noise
+        if (retryCount > 0) {
+            console.log(`Downloading: ${url} (retry ${retryCount}/${this.maxRetries})`);
+        }
 
         try {
             const response = await axios.get(url, {

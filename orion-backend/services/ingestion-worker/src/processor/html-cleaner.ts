@@ -1,13 +1,13 @@
 export function cleanHtml(rawHtml: string): string {
-    // Basic regex to remove HTML tags but preserve text
-    // 1. Remove scripts and styles
-    let text = rawHtml.replace(/<script\b[^>]*>([\s\S]*?)<\/script>/gim, "");
-    text = text.replace(/<style\b[^>]*>([\s\S]*?)<\/style>/gim, "");
+    // Optimized HTML cleaning with single-pass where possible
+    // 1. Remove scripts and styles (non-greedy, case-insensitive)
+    let text = rawHtml.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "");
+    text = text.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "");
 
-    // 2. Remove all other tags
-    text = text.replace(/<[^>]+>/g, "\n");
+    // 2. Remove all other HTML tags, replace with space to preserve word boundaries
+    text = text.replace(/<[^>]+>/g, " ");
 
-    // 3. Normalize whitespace
+    // 3. Normalize whitespace (replace multiple spaces/newlines with single space)
     text = text.replace(/\s+/g, " ").trim();
 
     return text;

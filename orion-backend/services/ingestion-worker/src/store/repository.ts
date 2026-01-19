@@ -38,8 +38,7 @@ export class IngestionRepository {
                 [job.cik, job.accessionNumber, job.date, job.formType, job.url, rawText]
             );
             
-            const filingId = result.rows[0].id;
-            return filingId;
+            return result.rows[0].id;
         } catch (error) {
             console.error(`Error saving filing for ${job.cik} - ${job.accessionNumber}:`, error);
             throw error;
@@ -49,8 +48,6 @@ export class IngestionRepository {
     }
 
     async saveChunks(filingId: string, chunks: string[]): Promise<void> {
-        console.log(`Saving ${chunks.length} chunks for filing ${filingId}`);
-        
         if (chunks.length === 0) {
             return;
         }
@@ -63,20 +60,23 @@ export class IngestionRepository {
             // PostgreSQL has a limit of 65535 parameters per query
             // Process in batches of 10000 chunks to avoid hitting the limit
             const BATCH_SIZE = 10000;
+            const totalBatches = Math.ceil(chunks.length / BATCH_SIZE);
             
             for (let batchStart = 0; batchStart < chunks.length; batchStart += BATCH_SIZE) {
                 const batchEnd = Math.min(batchStart + BATCH_SIZE, chunks.length);
                 const batch = chunks.slice(batchStart, batchEnd);
                 
-                // Build values array for batch insert
-                const values: any[] = [];
-                const placeholders: string[] = [];
+                // Pre-allocate arrays with known size for better performance
+                const values: any[] = new Array(batch.length * 3);
+                const placeholders: string[] = new Array(batch.length);
                 
                 batch.forEach((chunk, batchIndex) => {
                     const globalIndex = batchStart + batchIndex;
-                    const baseIndex = batchIndex * 3;
-                    placeholders.push(`($${baseIndex + 1}, $${baseIndex + 2}, $${baseIndex + 3})`);
-                    values.push(filingId, globalIndex, chunk);
+                    const valueIndex = batchIndex * 3;
+                    placeholders[batchIndex] = `($${valueIndex + 1}, $${valueIndex + 2}, $${valueIndex + 3})`;
+                    values[valueIndex] = filingId;
+                    values[valueIndex + 1] = globalIndex;
+                    values[valueIndex + 2] = chunk;
                 });
                 
                 // Insert batch in a single query
@@ -86,10 +86,8 @@ export class IngestionRepository {
                     values
                 );
             }
-            
-            console.log(`Successfully saved ${chunks.length} chunks for filing ${filingId}`);
         } catch (error) {
-            console.error('Error saving chunks:', error);
+            console.error(`Error saving ${chunks.length} chunks for filing ${filingId}:`, error);
             throw error;
         } finally {
             client.release();
