@@ -55,29 +55,30 @@ export class IngestionRepository {
         const client = await this.pool.connect();
         try {
             // Delete existing chunks for this filing (in case of re-processing)
+            // Use TRUNCATE for better performance if we're replacing all chunks
             await client.query('DELETE FROM filing_chunks WHERE filing_id = $1', [filingId]);
             
             // PostgreSQL has a limit of 65535 parameters per query
             // Process in batches of 10000 chunks to avoid hitting the limit
             const BATCH_SIZE = 10000;
-            const totalBatches = Math.ceil(chunks.length / BATCH_SIZE);
             
             for (let batchStart = 0; batchStart < chunks.length; batchStart += BATCH_SIZE) {
                 const batchEnd = Math.min(batchStart + BATCH_SIZE, chunks.length);
-                const batch = chunks.slice(batchStart, batchEnd);
+                const batchLength = batchEnd - batchStart;
                 
                 // Pre-allocate arrays with known size for better performance
-                const values: any[] = new Array(batch.length * 3);
-                const placeholders: string[] = new Array(batch.length);
+                const values: any[] = new Array(batchLength * 3);
+                const placeholders: string[] = new Array(batchLength);
                 
-                batch.forEach((chunk, batchIndex) => {
+                // Use for loop instead of forEach for better performance
+                for (let batchIndex = 0; batchIndex < batchLength; batchIndex++) {
                     const globalIndex = batchStart + batchIndex;
                     const valueIndex = batchIndex * 3;
                     placeholders[batchIndex] = `($${valueIndex + 1}, $${valueIndex + 2}, $${valueIndex + 3})`;
                     values[valueIndex] = filingId;
                     values[valueIndex + 1] = globalIndex;
-                    values[valueIndex + 2] = chunk;
-                });
+                    values[valueIndex + 2] = chunks[batchStart + batchIndex];
+                }
                 
                 // Insert batch in a single query
                 await client.query(
@@ -95,22 +96,25 @@ export class IngestionRepository {
     }
 
     async updateStatus(filingId: string, status: string): Promise<void> {
-        // Only log for non-COMPLETED status to reduce log noise
-        if (status !== 'COMPLETED') {
-            console.log(`Updating status of ${filingId} to ${status}`);
-        }
-        
         const client = await this.pool.connect();
         try {
             // Only update if status is actually changing to avoid unnecessary writes
-            await client.query(
+            // Use RETURNING to check if update actually happened
+            const result = await client.query(
                 `UPDATE filings 
                  SET status = $1, updated_at = NOW() 
-                 WHERE id = $2 AND status != $1`,
+                 WHERE id = $2 AND status != $1
+                 RETURNING id`,
                 [status, filingId]
             );
+            
+            // Only log if update actually occurred (status changed)
+            if (result.rowCount === 0 && status !== 'COMPLETED') {
+                // Status didn't change, but log non-COMPLETED status updates for debugging
+                console.log(`Status for ${filingId} already ${status}, skipping update`);
+            }
         } catch (error) {
-            console.error('Error updating status:', error);
+            console.error(`Error updating status for ${filingId} to ${status}:`, error);
             throw error;
         } finally {
             client.release();

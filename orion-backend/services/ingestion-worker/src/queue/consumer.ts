@@ -19,20 +19,25 @@ export class IngestionConsumer {
 
     async start() {
         console.log('Connecting to RabbitMQ...');
-        this.connection = await connect(ENV.RABBITMQ_URL);
-        if (!this.connection) {
-            throw new Error('Failed to connect to RabbitMQ');
-        }
-        this.channel = await this.connection.createChannel();
-        if (!this.channel) {
-            throw new Error('Failed to create channel');
-        }
+        try {
+            this.connection = await connect(ENV.RABBITMQ_URL);
+            if (!this.connection) {
+                throw new Error('Failed to connect to RabbitMQ');
+            }
+            this.channel = await this.connection.createChannel();
+            if (!this.channel) {
+                throw new Error('Failed to create channel');
+            }
 
-        await this.channel.assertQueue(QUEUE_NAME, { durable: true });
-        await this.channel.prefetch(1); // Process 1 message at a time
+            await this.channel.assertQueue(QUEUE_NAME, { durable: true });
+            await this.channel.prefetch(1); // Process 1 message at a time
 
-        console.log(`Waiting for messages in ${QUEUE_NAME}...`);
-        this.channel.consume(QUEUE_NAME, this.handleMessage.bind(this));
+            console.log(`Waiting for messages in ${QUEUE_NAME}...`);
+            this.channel.consume(QUEUE_NAME, this.handleMessage.bind(this), { noAck: false });
+        } catch (error) {
+            console.error('Failed to start consumer:', error);
+            throw error;
+        }
     }
 
     private async handleMessage(msg: ConsumeMessage | null) {
@@ -47,22 +52,26 @@ export class IngestionConsumer {
             return;
         }
 
+        const startTime = Date.now();
         try {
             // 1. Download
             const rawHtml = await this.downloader.downloadHtml(job.url);
 
             // 2. Process (free rawHtml from memory as soon as possible)
             const cleanText = cleanHtml(rawHtml);
-            // Clear rawHtml reference to help GC (though it may still be in closure)
             const chunks = Chunker.chunkText(cleanText);
 
             // 3. Store (save rawHtml to DB, then we can free it)
             const filingId = await this.repository.saveFiling(job, rawHtml);
-            // rawHtml is now in DB, can be garbage collected
             await this.repository.saveChunks(filingId, chunks);
             await this.repository.updateStatus(filingId, 'COMPLETED');
 
             this.channel?.ack(msg);
+            
+            const duration = Date.now() - startTime;
+            if (duration > 5000) { // Only log slow jobs (>5s)
+                console.log(`Job for CIK ${job.cik} completed in ${duration}ms (${chunks.length} chunks)`);
+            }
         } catch (error: any) {
             const errorMessage = error?.message || String(error);
             
