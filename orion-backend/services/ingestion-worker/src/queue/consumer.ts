@@ -7,8 +7,8 @@ import { Chunker } from '../processor/chunker.js';
 import { IngestionRepository } from '../store/repository.js';
 
 export class IngestionConsumer {
-    private connection: any;
-    private channel: any;
+    private connection: any; // amqplib.Connection
+    private channel: any; // amqplib.Channel
     private downloader: SecDownloader;
     private repository: IngestionRepository;
 
@@ -72,8 +72,8 @@ export class IngestionConsumer {
             if (duration > 5000) { // Only log slow jobs (>5s)
                 console.log(`Job for CIK ${job.cik} completed in ${duration}ms (${chunks.length} chunks)`);
             }
-        } catch (error: any) {
-            const errorMessage = error?.message || String(error);
+        } catch (error: unknown) {
+            const errorMessage = error instanceof Error ? error.message : String(error);
             
             // Handle rate limit errors - requeue the message for later
             if (errorMessage.includes('Rate limit') || errorMessage.includes('429')) {

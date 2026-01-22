@@ -47,18 +47,18 @@ export class SecDownloader {
             }
 
             return response.data;
-        } catch (error) {
-            const axiosError = error as AxiosError;
+        } catch (error: unknown) {
+            const axiosError = error instanceof AxiosError ? error : null;
             
             // Handle 429 from axios error response
-            if (axiosError.response?.status === 429) {
+            if (axiosError?.response?.status === 429) {
                 this.throttler.handleRateLimitError();
                 throw new Error(`Rate limit exceeded (429). Blocked for 10 minutes.`);
             }
 
             // Handle network errors and timeouts with retry
-            if (axiosError.code === 'ECONNABORTED' || axiosError.code === 'ETIMEDOUT' || 
-                axiosError.code === 'ENOTFOUND' || axiosError.code === 'ECONNRESET') {
+            if (axiosError && (axiosError.code === 'ECONNABORTED' || axiosError.code === 'ETIMEDOUT' || 
+                axiosError.code === 'ENOTFOUND' || axiosError.code === 'ECONNRESET')) {
                 
                 if (retryCount < this.maxRetries) {
                     const delay = this.baseRetryDelay * Math.pow(2, retryCount); // Exponential backoff
@@ -69,7 +69,7 @@ export class SecDownloader {
             }
 
             // Handle 503 Service Unavailable with retry
-            if (axiosError.response?.status === 503) {
+            if (axiosError?.response?.status === 503) {
                 if (retryCount < this.maxRetries) {
                     const delay = this.baseRetryDelay * Math.pow(2, retryCount);
                     console.log(`⚠️  Service unavailable (503). Retrying in ${delay/1000}s...`);

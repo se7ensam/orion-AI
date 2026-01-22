@@ -20,7 +20,7 @@ export class IngestionRepository {
         try {
             // Insert or update filing (using ON CONFLICT for upsert)
             // Only update raw_text and status if they've changed to avoid unnecessary writes
-            const result = await client.query(
+            const result = await client.query<{ id: string }>(
                 `INSERT INTO filings (cik, accession_number, filing_date, form_type, source_url, raw_text, status)
                  VALUES ($1, $2, $3, $4, $5, $6, 'PROCESSING')
                  ON CONFLICT (cik, accession_number) 
@@ -37,6 +37,10 @@ export class IngestionRepository {
                  RETURNING id`,
                 [job.cik, job.accessionNumber, job.date, job.formType, job.url, rawText]
             );
+            
+            if (!result.rows[0]?.id) {
+                throw new Error('Failed to get filing ID from database');
+            }
             
             return result.rows[0].id;
         } catch (error) {
@@ -67,7 +71,7 @@ export class IngestionRepository {
                 const batchLength = batchEnd - batchStart;
                 
                 // Pre-allocate arrays with known size for better performance
-                const values: any[] = new Array(batchLength * 3);
+                const values: (string | number)[] = new Array(batchLength * 3);
                 const placeholders: string[] = new Array(batchLength);
                 
                 // Use for loop instead of forEach for better performance
@@ -81,6 +85,7 @@ export class IngestionRepository {
                 }
                 
                 // Insert batch in a single query
+                // Use parameterized query to prevent SQL injection and improve performance
                 await client.query(
                     `INSERT INTO filing_chunks (filing_id, chunk_index, content)
                      VALUES ${placeholders.join(', ')}`,
@@ -100,7 +105,7 @@ export class IngestionRepository {
         try {
             // Only update if status is actually changing to avoid unnecessary writes
             // Use RETURNING to check if update actually happened
-            const result = await client.query(
+            const result = await client.query<{ id: string }>(
                 `UPDATE filings 
                  SET status = $1, updated_at = NOW() 
                  WHERE id = $2 AND status != $1
