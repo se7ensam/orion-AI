@@ -29,10 +29,14 @@ export class SecDownloader {
             const response = await axios.get(url, {
                 headers: { 
                     'User-Agent': ENV.USER_AGENT,
-                    'Accept-Encoding': 'gzip, compress, deflate, br'
+                    'Accept-Encoding': 'gzip, deflate',
+                    'Accept': 'text/html,application/xhtml+xml',
                 },
                 timeout: 30000, // 30 second timeout
                 validateStatus: (status) => status < 500, // Don't throw on 4xx errors
+                decompress: true, // Automatically decompress responses
+                maxContentLength: 50 * 1024 * 1024, // 50MB max (SEC filings can be large)
+                maxBodyLength: 50 * 1024 * 1024,
             });
 
             // Handle 429 rate limit error

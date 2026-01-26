@@ -1,13 +1,31 @@
+/**
+ * Clean HTML by removing scripts, styles, and tags, then normalizing whitespace.
+ * Optimized to minimize regex passes and memory allocations.
+ */
 export function cleanHtml(rawHtml: string): string {
-    // Optimized HTML cleaning with single-pass where possible
-    // 1. Remove scripts and styles (non-greedy, case-insensitive)
-    let text = rawHtml.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "");
-    text = text.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "");
+    // Early return for empty input
+    if (!rawHtml || rawHtml.length === 0) {
+        return '';
+    }
 
-    // 2. Remove all other HTML tags, replace with space to preserve word boundaries
+    // Combined single-pass regex for scripts and styles
+    // Using combined pattern reduces regex engine overhead
+    let text = rawHtml.replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi, " ");
+
+    // Remove all other HTML tags, replace with space to preserve word boundaries
     text = text.replace(/<[^>]+>/g, " ");
 
-    // 3. Normalize whitespace (replace multiple spaces/newlines with single space)
+    // Decode common HTML entities for better text quality
+    text = text
+        .replace(/&nbsp;/g, " ")
+        .replace(/&amp;/g, "&")
+        .replace(/&lt;/g, "<")
+        .replace(/&gt;/g, ">")
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'")
+        .replace(/&apos;/g, "'");
+
+    // Normalize whitespace in single pass (multiple spaces/newlines/tabs -> single space)
     text = text.replace(/\s+/g, " ").trim();
 
     return text;

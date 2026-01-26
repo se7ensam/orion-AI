@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "private": true,
     "scripts": {
-        "build": "tsc"
+        "build": "tsc",
+        "check-status": "node check-status.js",
+        "verify-optimizations": "tsx verify-optimizations.ts"
     },
     "dependencies": {
         "@orion/shared": "*",
