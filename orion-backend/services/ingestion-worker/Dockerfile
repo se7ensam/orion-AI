@@ -1,31 +1,57 @@
+# Multi-stage build for optimized production image
+
+# Stage 1: Build
 FROM node:20-alpine AS builder
 
 WORKDIR /app
 
-COPY package.json ./
-COPY tsconfig.base.json ./
-COPY services/ingestion-worker ./services/ingestion-worker
-COPY shared ./shared
+# Copy package files
+COPY package*.json ./
+COPY ../../shared/package*.json ../../shared/
+COPY ../../tsconfig.base.json ../../
 
-# Clean install including workspaces
-RUN npm install
+# Install dependencies (including dev dependencies for build)
+RUN npm ci
 
-# Build
-WORKDIR /app/services/ingestion-worker
+# Copy source code
+COPY . .
+COPY ../../shared/ ../../shared/
+
+# Build TypeScript
 RUN npm run build
 
+# Stage 2: Production
 FROM node:20-alpine
+
+# Add metadata
+LABEL maintainer="Orion Team"
+LABEL description="SEC Filings Ingestion Worker"
+LABEL version="2.0"
+
+# Create non-root user for security
+RUN addgroup -g 1001 -S nodejs && \
+    adduser -S nodejs -u 1001
 
 WORKDIR /app
 
-COPY --from=builder /app/package.json ./
-COPY --from=builder /app/node_modules ./node_modules
-COPY --from=builder /app/services/ingestion-worker/dist ./services/ingestion-worker/dist
-COPY --from=builder /app/services/ingestion-worker/package.json ./services/ingestion-worker/
-# Also need shared dist
-COPY --from=builder /app/shared/dist ./shared/dist
-COPY --from=builder /app/shared/package.json ./shared/
+# Copy package files and install production dependencies only
+COPY package*.json ./
+RUN npm ci --only=production && \
+    npm cache clean --force
 
-WORKDIR /app/services/ingestion-worker
+# Copy built artifacts from builder
+COPY --from=builder --chown=nodejs:nodejs /app/dist ./dist
+COPY --from=builder --chown=nodejs:nodejs /app/../../shared/dist ../../shared/dist
 
-CMD ["npm", "start"]
+# Switch to non-root user
+USER nodejs
+
+# Health check
+HEALTHCHECK --interval=30s --timeout=3s --start-period=10s --retries=3 \
+  CMD node -e "process.exit(0)" || exit 1
+
+# Graceful shutdown support
+STOPSIGNAL SIGTERM
+
+# Start the worker
+CMD ["node", "dist/index.js"]

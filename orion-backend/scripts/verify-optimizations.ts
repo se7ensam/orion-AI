@@ -202,7 +202,6 @@ async function main() {
 
     for (const result of results) {
         const icon = result.status === 'PASS' ? '✓' : result.status === 'FAIL' ? '✗' : '⚠';
-        const color = result.status === 'PASS' ? '' : result.status === 'FAIL' ? '' : '';
         
         console.log(`${icon} ${result.check}`);
         console.log(`  ${result.message}\n`);

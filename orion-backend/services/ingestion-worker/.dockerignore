@@ -1,0 +1,47 @@
+# Node modules
+node_modules
+npm-debug.log*
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Test files
+**/*.test.ts
+**/*.spec.ts
+coverage/
+
+# Data files
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Build artifacts
+dist/
+build/
+
+# Logs
+logs/
+*.log

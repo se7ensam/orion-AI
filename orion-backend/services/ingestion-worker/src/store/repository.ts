@@ -97,7 +97,10 @@ export class IngestionRepository {
                 placeholders[batchIndex] = `($${valueIndex + 1}, $${valueIndex + 2}, $${valueIndex + 3})`;
                 values[valueIndex] = filingId;
                 values[valueIndex + 1] = globalIndex;
-                values[valueIndex + 2] = chunks[globalIndex];
+                const chunk = chunks[globalIndex];
+                if (chunk !== undefined) {
+                    values[valueIndex + 2] = chunk;
+                }
             }
             
             // Insert batch in a single query

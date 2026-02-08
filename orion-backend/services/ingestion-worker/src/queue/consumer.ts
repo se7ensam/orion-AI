@@ -1,5 +1,4 @@
 import { connect, ConsumeMessage } from 'amqplib';
-import type { Connection, Channel } from 'amqplib';
 import { Pool } from 'pg';
 import { ENV } from '../config/env.js';
 import { QUEUE_NAME, IngestionJob } from '@orion/shared';

@@ -3,13 +3,49 @@
         "target": "ES2022",
         "module": "NodeNext",
         "moduleResolution": "NodeNext",
+        "lib": ["ES2022"],
+        
+        // Strict type checking
         "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "strictBindCallApply": true,
+        "strictPropertyInitialization": true,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        
+        // Additional checks
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "noImplicitOverride": true,
+        "noPropertyAccessFromIndexSignature": false,
+        
+        // Module resolution
         "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        
+        // Performance optimizations
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
+        "incremental": true,
+        
+        // Output
         "composite": true,
         "declaration": true,
         "declarationMap": true,
-        "sourceMap": true
+        "sourceMap": true,
+        "removeComments": false,
+        "importHelpers": false,
+        "downlevelIteration": true,
+        
+        // Emit
+        "noEmitOnError": true,
+        "preserveConstEnums": true
     }
 }

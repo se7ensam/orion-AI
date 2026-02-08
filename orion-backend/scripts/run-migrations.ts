@@ -26,11 +26,14 @@ async function getMigrations(): Promise<Migration[]> {
     
     const migrations = files
         .filter(f => f.endsWith('.sql'))
-        .map(f => ({
-            filename: f,
-            filepath: path.join(MIGRATIONS_DIR, f),
-            version: parseInt(f.split('_')[0])
-        }))
+        .map(f => {
+            const versionStr = f.split('_')[0];
+            return {
+                filename: f,
+                filepath: path.join(MIGRATIONS_DIR, f),
+                version: versionStr ? parseInt(versionStr, 10) : 0
+            };
+        })
         .sort((a, b) => a.version - b.version);
 
     return migrations;

@@ -10,14 +10,6 @@ const START_DATE = '2023-11-01';
 const END_DATE = '2023-11-05';
 const MAX_FILINGS = 500; // Limit to prevent memory issues
 
-interface RawFiling {
-    cik: string;
-    name: string;
-    formType: string;
-    date: string;
-    filename: string;
-}
-
 interface IngestionJob {
     cik: string;
     accessionNumber: string;
@@ -68,7 +60,13 @@ async function main() {
         const parts = line.split('|');
         if (parts.length < 5) continue;
 
-        const [cik, name, formType, date, filename] = parts;
+        const cik = parts[0];
+        const formType = parts[2];
+        const date = parts[3];
+        const filename = parts[4];
+
+        // Validate required fields
+        if (!cik || !formType || !date || !filename) continue;
 
         // Filter for 6-K filings in date range
         if (formType === '6-K' && date >= START_DATE && date <= END_DATE) {
