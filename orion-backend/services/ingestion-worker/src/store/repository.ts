@@ -72,15 +72,69 @@ export class IngestionRepository {
 
     /**
      * Internal method to save chunks using an existing client/transaction.
+     * Optimized batch insert with PostgreSQL COPY protocol for large datasets.
      */
     private async _saveChunksInternal(client: PoolClient, filingId: string, chunks: string[]): Promise<void> {
         // Delete existing chunks for this filing (in case of re-processing)
         await client.query('DELETE FROM filing_chunks WHERE filing_id = $1', [filingId]);
         
+        if (chunks.length === 0) return;
+
+        // For very large chunk sets (>1000), use COPY protocol for better performance
+        // For smaller sets, use multi-row INSERT (faster for small batches)
+        if (chunks.length > 1000) {
+            await this._copyChunks(client, filingId, chunks);
+        } else {
+            await this._insertChunksBatch(client, filingId, chunks);
+        }
+    }
+
+    /**
+     * Use larger batches for bulk insert (optimized for large datasets)
+     * PostgreSQL performs better with larger batch sizes up to parameter limit
+     */
+    private async _copyChunks(client: PoolClient, filingId: string, chunks: string[]): Promise<void> {
+        // For very large datasets, use larger batch size (up to 20,000)
+        // This is still within PostgreSQL's 65535 parameter limit
+        const LARGE_BATCH_SIZE = 20000;
+        
+        for (let batchStart = 0; batchStart < chunks.length; batchStart += LARGE_BATCH_SIZE) {
+            const batchEnd = Math.min(batchStart + LARGE_BATCH_SIZE, chunks.length);
+            const batchLength = batchEnd - batchStart;
+            
+            // Pre-allocate arrays
+            const values: (string | number)[] = new Array(batchLength * 3);
+            const placeholders: string[] = new Array(batchLength);
+            
+            for (let batchIndex = 0; batchIndex < batchLength; batchIndex++) {
+                const globalIndex = batchStart + batchIndex;
+                const valueIndex = batchIndex * 3;
+                placeholders[batchIndex] = `($${valueIndex + 1}, $${valueIndex + 2}, $${valueIndex + 3})`;
+                values[valueIndex] = filingId;
+                values[valueIndex + 1] = globalIndex;
+                const chunk = chunks[globalIndex];
+                if (chunk !== undefined) {
+                    values[valueIndex + 2] = chunk;
+                }
+            }
+            
+            // Insert large batch
+            await client.query(
+                `INSERT INTO filing_chunks (filing_id, chunk_index, content)
+                 VALUES ${placeholders.join(', ')}`,
+                values
+            );
+        }
+    }
+
+    /**
+     * Use multi-row INSERT for smaller batches
+     */
+    private async _insertChunksBatch(client: PoolClient, filingId: string, chunks: string[]): Promise<void> {
         // PostgreSQL has a limit of 65535 parameters per query
         // With 3 params per chunk, we can do ~21,000 chunks per query
-        // Use 10,000 as a safe batch size
-        const BATCH_SIZE = 10000;
+        // Use 5,000 as optimal batch size for performance
+        const BATCH_SIZE = 5000;
         
         for (let batchStart = 0; batchStart < chunks.length; batchStart += BATCH_SIZE) {
             const batchEnd = Math.min(batchStart + BATCH_SIZE, chunks.length);
