@@ -30,9 +30,10 @@ export class IngestionRepository {
             await client.query('BEGIN');
             
             // Insert or update filing (using ON CONFLICT for upsert)
+            // Query is optimized to use the UNIQUE index on (cik, accession_number)
             const result = await client.query<{ id: string }>(
                 `INSERT INTO filings (cik, accession_number, filing_date, form_type, source_url, raw_text, status)
-                 VALUES ($1, $2, $3, $4, $5, $6, 'PROCESSING')
+                 VALUES ($1, $2, $3::date, $4, $5, $6, 'PROCESSING')
                  ON CONFLICT (cik, accession_number) 
                  DO UPDATE SET 
                      raw_text = EXCLUDED.raw_text,
@@ -76,6 +77,7 @@ export class IngestionRepository {
      */
     private async _saveChunksInternal(client: PoolClient, filingId: string, chunks: string[]): Promise<void> {
         // Delete existing chunks for this filing (in case of re-processing)
+        // Uses index idx_filing_chunks_filing_id for fast deletion
         await client.query('DELETE FROM filing_chunks WHERE filing_id = $1', [filingId]);
         
         if (chunks.length === 0) return;

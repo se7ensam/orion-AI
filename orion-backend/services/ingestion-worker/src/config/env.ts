@@ -12,6 +12,9 @@ interface EnvConfig {
     SEC_API_BASE: string;
     USER_AGENT: string;
     NODE_ENV: string;
+    WORKER_CONCURRENCY: number;
+    DB_POOL_SIZE: number;
+    METRICS_INTERVAL_MS: number;
 }
 
 /**
@@ -70,6 +73,10 @@ function loadEnv(): EnvConfig {
         SEC_API_BASE: process.env.SEC_API_BASE || 'https://www.sec.gov/Archives',
         USER_AGENT: process.env.USER_AGENT || 'OrionData/1.0 (contact@example.com)',
         NODE_ENV: process.env.NODE_ENV || 'development',
+        // Performance tuning options
+        WORKER_CONCURRENCY: parseInt(process.env.WORKER_CONCURRENCY || '1', 10),
+        DB_POOL_SIZE: parseInt(process.env.DB_POOL_SIZE || '20', 10),
+        METRICS_INTERVAL_MS: parseInt(process.env.METRICS_INTERVAL_MS || '300000', 10), // 5 minutes
     };
 
     // Validate configuration

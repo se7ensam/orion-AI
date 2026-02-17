@@ -20,9 +20,10 @@ export class IngestionConsumer {
 
     constructor() {
         // Create shared connection pool for better resource management
+        // Pool size is configurable via environment variable
         this.pool = new Pool({ 
             connectionString: ENV.DATABASE_URL,
-            max: 20,
+            max: ENV.DB_POOL_SIZE,
             idleTimeoutMillis: 30000,
             connectionTimeoutMillis: 2000,
         });
@@ -33,7 +34,7 @@ export class IngestionConsumer {
         // Setup graceful shutdown handlers
         this.setupShutdownHandlers();
 
-        // Start periodic metrics reporting (every 5 minutes)
+        // Start periodic metrics reporting (configurable interval)
         this.startMetricsReporting();
     }
 
@@ -60,14 +61,14 @@ export class IngestionConsumer {
     }
 
     private startMetricsReporting() {
-        // Report metrics every 5 minutes
+        // Report metrics at configurable interval (default: 5 minutes)
         this.metricsInterval = setInterval(() => {
             metricsCollector.printSummary();
             
             // Log pool stats
             const poolStats = this.repository.getPoolStats();
             console.log(`📊 DB Pool: ${poolStats.idleCount}/${poolStats.totalCount} idle, ${poolStats.waitingCount} waiting\n`);
-        }, 5 * 60 * 1000);
+        }, ENV.METRICS_INTERVAL_MS);
     }
 
     async start() {
@@ -99,9 +100,14 @@ export class IngestionConsumer {
             }
 
             await this.channel.assertQueue(QUEUE_NAME, { durable: true });
-            await this.channel.prefetch(1); // Process 1 message at a time
+            // Configurable concurrency (default: 1 for rate limit safety)
+            await this.channel.prefetch(ENV.WORKER_CONCURRENCY);
 
             console.log(`Waiting for messages in ${QUEUE_NAME}...`);
+            console.log(`Worker concurrency: ${ENV.WORKER_CONCURRENCY} message(s) at a time`);
+            console.log(`DB pool size: ${ENV.DB_POOL_SIZE} connections`);
+            console.log(`Metrics interval: ${ENV.METRICS_INTERVAL_MS / 1000}s\n`);
+            
             const consumeResult = await this.channel.consume(
                 QUEUE_NAME, 
                 this.handleMessage.bind(this), 

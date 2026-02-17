@@ -1,6 +1,30 @@
 /**
+ * HTML entity lookup table for faster decoding.
+ * Pre-compiled regex for single-pass entity replacement.
+ */
+const HTML_ENTITIES: Record<string, string> = {
+    'nbsp': ' ',
+    'amp': '&',
+    'lt': '<',
+    'gt': '>',
+    'quot': '"',
+    '#39': "'",
+    'apos': "'",
+    'ldquo': '"',
+    'rdquo': '"',
+    'lsquo': "'",
+    'rsquo': "'",
+    'mdash': '—',
+    'ndash': '–',
+    'hellip': '...',
+};
+
+// Pre-compile regex for entity matching (compiled once, reused)
+const ENTITY_REGEX = /&(nbsp|amp|lt|gt|quot|#39|apos|ldquo|rdquo|lsquo|rsquo|mdash|ndash|hellip);/g;
+
+/**
  * Clean HTML by removing scripts, styles, and tags, then normalizing whitespace.
- * Optimized to minimize regex passes and memory allocations.
+ * Optimized with pre-compiled regex and lookup table for entity decoding.
  */
 export function cleanHtml(rawHtml: string): string {
     // Early return for empty input
@@ -15,18 +39,23 @@ export function cleanHtml(rawHtml: string): string {
     // Remove all other HTML tags, replace with space to preserve word boundaries
     text = text.replace(/<[^>]+>/g, " ");
 
-    // Decode common HTML entities for better text quality
-    text = text
-        .replace(/&nbsp;/g, " ")
-        .replace(/&amp;/g, "&")
-        .replace(/&lt;/g, "<")
-        .replace(/&gt;/g, ">")
-        .replace(/&quot;/g, '"')
-        .replace(/&#39;/g, "'")
-        .replace(/&apos;/g, "'");
+    // Decode HTML entities using lookup table (single pass, faster than multiple replace calls)
+    text = text.replace(ENTITY_REGEX, (match, entity) => HTML_ENTITIES[entity] || match);
 
     // Normalize whitespace in single pass (multiple spaces/newlines/tabs -> single space)
     text = text.replace(/\s+/g, " ").trim();
 
     return text;
+}
+
+/**
+ * Get statistics about HTML cleaning (for monitoring)
+ */
+export function getCleaningStats(rawHtml: string, cleanText: string) {
+    return {
+        originalSize: rawHtml.length,
+        cleanedSize: cleanText.length,
+        compressionRatio: (1 - cleanText.length / rawHtml.length) * 100,
+        removedBytes: rawHtml.length - cleanText.length,
+    };
 }
